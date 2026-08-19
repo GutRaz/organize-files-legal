@@ -19,7 +19,7 @@ We aim to reply within **2–3 business days**.
 ## Before contacting support
 
 - Most actions run in **dry-run** (preview) mode first — no files are moved or deleted until you turn dry-run off and confirm.
-- Always keep a **verified backup** before any execute run that moves or deletes files.
+- Always keep a **verified backup** before any real run that moves or deletes files.
 - The in-app documentation and assistant answer many common questions offline.
 
 ## Billing and refunds

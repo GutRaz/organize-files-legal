@@ -28,7 +28,7 @@ You may not:
 
 ## 3. Backups and destructive operations
 
-The app can **move or delete files** when you disable dry-run and confirm destructive options. **You** are responsible for verified backups before any execute run.
+The app can **move or delete files** when you disable dry-run and confirm destructive options. **You** are responsible for verified backups before any real run.
 
 ## 4. Disclaimer of warranties
 
