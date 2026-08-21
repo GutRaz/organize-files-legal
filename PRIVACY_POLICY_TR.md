@@ -89,7 +89,7 @@ Yayıncının tuttuğu veriler için:
 
 ## Haklarınız
 
-Yayıncının elinde bulunan veriler için (ör. destek e-posta yazışmaları) **razvan.gutulov@outlook.com** ile iletişime geçin. Yalnızca cihazınızda depolanan veriler için, uygulama verilerinin çoğunu **Uygulama verilerini temizle**, yüklemeyi kaldır veya manuel dosya silme yoluyla silebilirsiniz. **Uygulama verilerini temizle** oturumları, günlükleri ve otomasyon taslaklarını kaldırır ancak lisans deneme bağlantılarını, ücretli yükleme işaretlerini ve isteğe bağlı lisans kontrolleri için kullanılan anonim bir kurulum tanımlayıcıyı koruyabilir; devam etmeden önce uygulama içi onay metnine bakın.
+Yayıncının elinde bulunan veriler için (ör. destek e-posta yazışmaları) **razvan.gutulov@outlook.com** ile iletişime geçin. Yalnızca cihazınızda depolanan veriler için, uygulama verilerinin çoğunu **Uygulama verilerini temizle**, yüklemeyi kaldır veya manuel dosya silme yoluyla silebilirsiniz. **Uygulama verilerini temizle** oturumları, günlükleri ve otomasyon taslaklarını kaldırır ancak lisans deneme bağlantılarını, ücretli yükleme işaretlerini ve isteğe bağlı lisans kontrolleri için kullanılan bir kurulum tanımlayıcıyı koruyabilir; devam etmeden önce uygulama içi onay metnine bakın.
 
 ## Çocuklar
 

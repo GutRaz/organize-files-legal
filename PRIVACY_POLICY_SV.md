@@ -89,7 +89,7 @@ För data som utgivaren innehar:
 
 ## Dina rättigheter
 
-Kontakta **razvan.gutulov@outlook.com** för data som utgivaren har (t.ex. support via e-postkorrespondens). För data som endast lagras på din enhet kan du radera de flesta appdata via **Rensa appdata**, avinstallera eller manuell radering av filer. **Rensa appdata** tar bort sessioner, loggar och automatiseringsutkast, men kan behålla licensankare, betalda installationsmarkörer och en anonym installationsidentifierare som används för valfria licenskontroller – se bekräftelsetexten i appen innan du fortsätter.
+Kontakta **razvan.gutulov@outlook.com** för data som utgivaren har (t.ex. support via e-postkorrespondens). För data som endast lagras på din enhet kan du radera de flesta appdata via **Rensa appdata**, avinstallera eller manuell radering av filer. **Rensa appdata** tar bort sessioner, loggar och automatiseringsutkast, men kan behålla licensankare, betalda installationsmarkörer och en installationsidentifierare som används för valfria licenskontroller – se bekräftelsetexten i appen innan du fortsätter.
 
 ## Barn
 

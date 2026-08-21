@@ -23,7 +23,7 @@ passe SMTP chiffré. Vous pouvez les supprimer à tout moment :
 1. **Effacer les données de l'application** — ouvrez l'application et utilisez
    **Effacer les données de l'application**. Cela supprime les sessions, les
    journaux et les brouillons d'automatisation. L'état local de la licence et un
-   identifiant d'installation anonyme utilisé pour les vérifications de licence
+   identifiant d'installation utilisé pour les vérifications de licence
    facultatives peuvent être conservés ; la confirmation dans l'application
    explique exactement ce qui est conservé.
 2. **Désinstaller l'application** — la suppression de l'application efface son

@@ -21,7 +21,7 @@ email — kata sandi SMTP terenkripsi. Anda dapat menghapusnya kapan saja:
 
 1. **Hapus data aplikasi** — buka aplikasi dan gunakan **Hapus data aplikasi**.
    Ini menghapus sesi, log, dan draf otomatisasi. Ini mungkin mempertahankan
-   status lisensi lokal dan pengenal instalasi anonim yang digunakan untuk
+   status lisensi lokal dan pengenal instalasi yang digunakan untuk
    pemeriksaan lisensi opsional; konfirmasi di dalam aplikasi menjelaskan dengan
    tepat apa yang dipertahankan.
 2. **Copot pemasangan aplikasi** — menghapus aplikasi akan menghapus penyimpanan

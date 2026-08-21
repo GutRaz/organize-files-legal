@@ -89,7 +89,7 @@ Für Daten, die der Herausgeber hält:
 
 ## Ihre Rechte
 
-Für Daten, die der Herausgeber hält (z. B. Support-E-Mail), kontaktieren Sie **razvan.gutulov@outlook.com**. Soweit anwendbar, können Sie Auskunft, Berichtigung, Löschung, Einschränkung, Widerspruch, Datenübertragbarkeit oder Widerruf einer Einwilligung verlangen. Der Herausgeber strebt an, verifizierte Betroffenenanfragen innerhalb von **30 Tagen** zu beantworten (eine Identitätsprüfung kann verlangt werden, wenn dies vernünftigerweise erforderlich ist). Für nur lokal gespeicherte Daten: **App-Daten löschen**, Deinstallation oder manuelles Löschen. **App-Daten löschen** entfernt Sitzungen, Logs und Automatisierungsentwürfe, kann aber lokalen Lizenzstatus und eine anonyme Installationskennung für optionale Lizenzchecks behalten — siehe den In-App-Bestätigungstext vor dem Fortfahren.
+Für Daten, die der Herausgeber hält (z. B. Support-E-Mail), kontaktieren Sie **razvan.gutulov@outlook.com**. Soweit anwendbar, können Sie Auskunft, Berichtigung, Löschung, Einschränkung, Widerspruch, Datenübertragbarkeit oder Widerruf einer Einwilligung verlangen. Der Herausgeber strebt an, verifizierte Betroffenenanfragen innerhalb von **30 Tagen** zu beantworten (eine Identitätsprüfung kann verlangt werden, wenn dies vernünftigerweise erforderlich ist). Für nur lokal gespeicherte Daten: **App-Daten löschen**, Deinstallation oder manuelles Löschen. **App-Daten löschen** entfernt Sitzungen, Logs und Automatisierungsentwürfe, kann aber lokalen Lizenzstatus und eine Installationskennung für optionale Lizenzchecks behalten — siehe den In-App-Bestätigungstext vor dem Fortfahren.
 
 ## Kinder
 

@@ -89,7 +89,7 @@ Untuk data yang dipegang penerbit:
 
 ## Hak Anda
 
-Untuk data yang dimiliki penerbit (misalnya korespondensi email dukungan), hubungi **razvan.gutulov@outlook.com**. Untuk data yang hanya disimpan di perangkat, Anda dapat menghapus sebagian besar data aplikasi melalui **Hapus data aplikasi**, mencopot pemasangan, atau menghapus file secara manual. **Hapus data aplikasi** menghapus sesi, log, dan draf otomatisasi, namun dapat mempertahankan jangkar uji coba lisensi, penanda pemasangan berbayar, dan pengidentifikasi pemasangan anonim yang digunakan untuk pemeriksaan lisensi opsional — lihat teks konfirmasi dalam aplikasi sebelum Anda melanjutkan.
+Untuk data yang dimiliki penerbit (misalnya korespondensi email dukungan), hubungi **razvan.gutulov@outlook.com**. Untuk data yang hanya disimpan di perangkat, Anda dapat menghapus sebagian besar data aplikasi melalui **Hapus data aplikasi**, mencopot pemasangan, atau menghapus file secara manual. **Hapus data aplikasi** menghapus sesi, log, dan draf otomatisasi, namun dapat mempertahankan jangkar uji coba lisensi, penanda pemasangan berbayar, dan pengidentifikasi pemasangan yang digunakan untuk pemeriksaan lisensi opsional — lihat teks konfirmasi dalam aplikasi sebelum Anda melanjutkan.
 
 ## Anak-anak
 

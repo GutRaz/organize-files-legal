@@ -21,7 +21,7 @@ e-mailová oznámení – šifrované heslo SMTP. Můžete je kdykoli odstranit:
 
 1. **Vymazat data aplikace** — otevřete aplikaci a použijte **Vymazat data
    aplikace**. Tím se odstraní relace, protokoly a koncepty automatizace. Může
-   zachovat místní stav licence a anonymní identifikátor instalace používaný pro
+   zachovat místní stav licence aí identifikátor instalace používaný pro
    volitelné kontroly licence; potvrzení v aplikaci přesně vysvětluje, co je
    zachováno.
 2. **Odinstalovat aplikaci** — odebrání aplikace vymaže její soukromé úložiště v

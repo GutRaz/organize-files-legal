@@ -23,7 +23,7 @@ istediğiniz zaman kaldırabilirsiniz:
 1. **Uygulama verilerini temizle** — uygulamayı açın ve **Uygulama verilerini
    temizle** seçeneğini kullanın. Bu; oturumları, günlükleri ve otomasyon
    taslaklarını kaldırır. Yerel lisans durumunu ve isteğe bağlı lisans kontrolleri
-   için kullanılan anonim bir kurulum tanımlayıcısını koruyabilir; uygulama
+   için kullanılan bir kurulum tanımlayıcısını koruyabilir; uygulama
    içindeki onay, tam olarak neyin korunduğunu açıklar.
 2. **Uygulamayı kaldır** — uygulamayı kaldırmak, mobilde özel depolamasını siler.
    Masaüstünde profil klasörünü de manuel olarak silebilirsiniz:

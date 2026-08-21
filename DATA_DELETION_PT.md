@@ -23,7 +23,7 @@ removê-los a qualquer momento:
 
 1. **Limpar dados da aplicação** — abra a aplicação e utilize **Limpar dados da
    aplicação**. Isto remove sessões, registos e rascunhos de automação. Pode
-   manter o estado local da licença e um identificador de instalação anónimo
+   manter o estado local da licença e um identificador de instalação
    utilizado para verificações de licença opcionais; a confirmação na aplicação
    explica exatamente o que é mantido.
 2. **Desinstalar a aplicação** — remover a aplicação apaga o seu armazenamento

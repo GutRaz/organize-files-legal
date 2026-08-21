@@ -88,7 +88,7 @@ For data held by the publisher:
 
 ## Your rights
 
-For data the publisher holds (e.g. support email correspondence), contact **razvan.gutulov@outlook.com**. Where applicable, you may request access, correction, deletion, restriction, objection, portability, or withdrawal of consent. The publisher aims to respond to data-subject requests within **30 days** of a verified request (identity may be requested when reasonably necessary). For data stored only on your device, you can delete most app data via **Clear app data**, uninstall, or manual file deletion. **Clear app data** removes sessions, logs, and automation drafts, but may retain local license entitlement state and an anonymous installation identifier used for optional license checks — see the in-app confirmation text before you proceed.
+For data the publisher holds (e.g. support email correspondence), contact **razvan.gutulov@outlook.com**. Where applicable, you may request access, correction, deletion, restriction, objection, portability, or withdrawal of consent. The publisher aims to respond to data-subject requests within **30 days** of a verified request (identity may be requested when reasonably necessary). For data stored only on your device, you can delete most app data via **Clear app data**, uninstall, or manual file deletion. **Clear app data** removes sessions, logs, and automation drafts, but may retain local license entitlement state and an installation identifier used for optional license checks — see the in-app confirmation text before you proceed.
 
 ## Children
 

@@ -81,7 +81,7 @@ Lokale filer forbliver, indtil du sletter dem, rydder appdata, afinstallerer app
 
 ## Dine rettigheder
 
-Kontakt **razvan.gutulov@outlook.com** for data, som udgiveren har (f.eks. support-e-mail-korrespondance). For data, der kun er gemt på din enhed, kan du slette de fleste appdata via **Ryd appdata**, afinstallation eller manuel filsletning. **Ryd appdata** fjerner sessioner, logfiler og automatiseringsudkast, men kan beholde licensprøveankre, betalte installationsmarkører og en anonym installationsidentifikator, der bruges til valgfri licenskontrol – se bekræftelsesteksten i appen, før du fortsætter.
+Kontakt **razvan.gutulov@outlook.com** for data, som udgiveren har (f.eks. support-e-mail-korrespondance). For data, der kun er gemt på din enhed, kan du slette de fleste appdata via **Ryd appdata**, afinstallation eller manuel filsletning. **Ryd appdata** fjerner sessioner, logfiler og automatiseringsudkast, men kan beholde licensprøveankre, betalte installationsmarkører og en installationsidentifikator, der bruges til valgfri licenskontrol – se bekræftelsesteksten i appen, før du fortsætter.
 
 ## Børn
 

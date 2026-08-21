@@ -88,7 +88,7 @@ W przypadku danych przechowywanych przez wydawcę:
 
 ## Twoje prawa
 
-W sprawie danych posiadanych przez wydawcę (np. korespondencji e-mailowej) prosimy o kontakt pod adresem **razvan.gutulov@outlook.com**. W przypadku danych przechowywanych tylko na Twoim urządzeniu możesz usunąć większość danych aplikacji, korzystając z opcji **Wyczyść dane aplikacji**, odinstalowania lub ręcznego usunięcia plików. **Wyczyść dane aplikacji** usuwa sesje, dzienniki i wersje robocze automatyzacji, ale może zachować kotwice wersji próbnej licencji, znaczniki płatnej instalacji i anonimowy identyfikator instalacji używany do opcjonalnego sprawdzania licencji — zanim przejdziesz dalej, zobacz tekst potwierdzenia w aplikacji.
+W sprawie danych posiadanych przez wydawcę (np. korespondencji e-mailowej) prosimy o kontakt pod adresem **razvan.gutulov@outlook.com**. W przypadku danych przechowywanych tylko na Twoim urządzeniu możesz usunąć większość danych aplikacji, korzystając z opcji **Wyczyść dane aplikacji**, odinstalowania lub ręcznego usunięcia plików. **Wyczyść dane aplikacji** usuwa sesje, dzienniki i wersje robocze automatyzacji, ale może zachować kotwice wersji próbnej licencji, znaczniki płatnej instalacji i identyfikator instalacji używany do opcjonalnego sprawdzania licencji — zanim przejdziesz dalej, zobacz tekst potwierdzenia w aplikacji.
 
 ## Dzieci
 

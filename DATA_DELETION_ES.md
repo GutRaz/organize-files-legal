@@ -23,7 +23,7 @@ cifrada. Puedes eliminarlos en cualquier momento:
 1. **Borrar datos de la aplicación** — abre la aplicación y usa **Borrar datos de
    la aplicación**. Esto elimina sesiones, registros y borradores de
    automatización. Puede conservar el estado local de la licencia y un
-   identificador de instalación anónimo usado para comprobaciones de licencia
+   identificador de instalación usado para comprobaciones de licencia
    opcionales; la confirmación dentro de la aplicación explica exactamente qué se
    conserva.
 2. **Desinstalar la aplicación** — eliminar la aplicación borra su almacenamiento

@@ -17,7 +17,7 @@ notifications — an encrypted SMTP password. You can remove it at any time:
 
 1. **Clear app data** — open the app and use **Clear app data**. This removes
    sessions, logs, and automation drafts. It may keep local license entitlement
-   state and an anonymous installation identifier used for optional license
+   state and an installation identifier used for optional license
    checks; the in-app confirmation explains exactly what is kept.
 2. **Uninstall the app** — removing the app deletes its private storage on
    mobile. On desktop you can also delete the profile folder manually:

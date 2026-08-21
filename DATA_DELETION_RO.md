@@ -22,7 +22,7 @@ oricând:
 
 1. **Șterge datele aplicației** — deschide aplicația și folosește **Șterge datele
    aplicației**. Aceasta elimină sesiunile, jurnalele și schițele de automatizare.
-   Poate păstra starea locală a licenței și un identificator anonim de instalare
+   Poate păstra starea locală a licenței și un identificator de instalare
    folosit pentru verificările opționale de licență; confirmarea din aplicație
    explică exact ce se păstrează.
 2. **Dezinstalează aplicația** — eliminarea aplicației șterge stocarea sa privată

@@ -89,7 +89,7 @@ Pour les données détenues par l'éditeur :
 
 ## Vos droits
 
-Pour les données détenues par l'éditeur (ex. e-mail support) : **razvan.gutulov@outlook.com**. Le cas échéant, vous pouvez demander l'accès, la rectification, l'effacement, la limitation, l'opposition, la portabilité ou le retrait du consentement. L'éditeur vise à répondre aux demandes des personnes concernées dans un délai de **30 jours** après une demande vérifiée (une vérification d'identité peut être demandée si cela est raisonnablement nécessaire). Pour les données uniquement locales : **Effacer les données**, désinstallation ou suppression manuelle. **Effacer les données** supprime sessions, journaux et brouillons d'automatisation, mais peut conserver l'état local d'entitlement et un identifiant d'installation anonyme utilisé pour les contrôles de licence optionnels — voir le texte de confirmation in-app avant de continuer.
+Pour les données détenues par l'éditeur (ex. e-mail support) : **razvan.gutulov@outlook.com**. Le cas échéant, vous pouvez demander l'accès, la rectification, l'effacement, la limitation, l'opposition, la portabilité ou le retrait du consentement. L'éditeur vise à répondre aux demandes des personnes concernées dans un délai de **30 jours** après une demande vérifiée (une vérification d'identité peut être demandée si cela est raisonnablement nécessaire). Pour les données uniquement locales : **Effacer les données**, désinstallation ou suppression manuelle. **Effacer les données** supprime sessions, journaux et brouillons d'automatisation, mais peut conserver l'état local d'entitlement et un identifiant d'installation utilisé pour les contrôles de licence optionnels — voir le texte de confirmation in-app avant de continuer.
 
 ## Enfants
 

@@ -98,7 +98,7 @@ Pentru datele deținute de editor:
 
 ## Drepturile dumneavoastră
 
-Pentru datele pe care editorul le deține (ex. corespondență suport e-mail), contactați **razvan.gutulov@outlook.com**. Unde este cazul, puteți solicita acces, rectificare, ștergere, restricționare, opoziție, portabilitate sau retragerea consimțământului. Editorul urmărește să răspundă cererilor persoanelor vizate în maxim **30 de zile** de la o cerere verificată (poate fi solicitată verificarea identității când este rezonabil necesar). Pentru date stocate doar pe dispozitiv, le puteți șterge prin **Șterge date salvate**, dezinstalare sau ștergere manuală. **Șterge date salvate** elimină sesiuni, jurnale și ciorne de automatizare, dar poate păstra starea locală de entitlement și un identificator anonim de instalare folosit pentru verificări opționale de licență — vedeți textul de confirmare din aplicație înainte de a continua.
+Pentru datele pe care editorul le deține (ex. corespondență suport e-mail), contactați **razvan.gutulov@outlook.com**. Unde este cazul, puteți solicita acces, rectificare, ștergere, restricționare, opoziție, portabilitate sau retragerea consimțământului. Editorul urmărește să răspundă cererilor persoanelor vizate în maxim **30 de zile** de la o cerere verificată (poate fi solicitată verificarea identității când este rezonabil necesar). Pentru date stocate doar pe dispozitiv, le puteți șterge prin **Șterge date salvate**, dezinstalare sau ștergere manuală. **Șterge date salvate** elimină sesiuni, jurnale și ciorne de automatizare, dar poate păstra starea locală de entitlement și un identificator de instalare folosit pentru verificări opționale de licență — vedeți textul de confirmare din aplicație înainte de a continua.
 
 ## Copii
 

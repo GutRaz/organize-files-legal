@@ -22,7 +22,7 @@ dowolnym momencie:
 
 1. **Wyczyść dane aplikacji** — otwórz aplikację i użyj opcji **Wyczyść dane
    aplikacji**. Spowoduje to usunięcie sesji, dzienników i szkiców automatyzacji.
-   Może zachować lokalny stan licencji oraz anonimowy identyfikator instalacji
+   Może zachować lokalny stan licencji oraz identyfikator instalacji
    używany do opcjonalnych sprawdzeń licencji; potwierdzenie w aplikacji dokładnie
    wyjaśnia, co jest zachowywane.
 2. **Odinstaluj aplikację** — usunięcie aplikacji kasuje jej prywatną pamięć na

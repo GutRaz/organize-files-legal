@@ -22,7 +22,7 @@ entfernen:
 
 1. **App-Daten löschen** — öffnen Sie die App und verwenden Sie **App-Daten
    löschen**. Dadurch werden Sitzungen, Protokolle und Automatisierungsentwürfe
-   entfernt. Der lokale Lizenzstatus und eine anonyme Installationskennung, die
+   entfernt. Der lokale Lizenzstatus und eine Installationskennung, die
    für optionale Lizenzprüfungen verwendet wird, können erhalten bleiben; die
    Bestätigung in der App erklärt genau, was aufbewahrt wird.
 2. **App deinstallieren** — durch das Entfernen der App wird ihr privater

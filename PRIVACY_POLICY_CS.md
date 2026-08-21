@@ -89,7 +89,7 @@ Pro údaje držené vydavatelem:
 
 ## Vaše práva
 
-Údaje, které má vydavatel k dispozici (např. e-mailová korespondence podpory), získáte na **razvan.gutulov@outlook.com**. U dat uložených pouze ve vašem zařízení můžete většinu dat aplikací smazat pomocí **Vymazat data aplikace**, odinstalovat nebo ručně odstranit soubor. **Vymazat data aplikace** odstraní relace, protokoly a koncepty automatizace, ale může si ponechat kotvy zkušebních licencí, značky placených instalací a anonymní identifikátor instalace používaný pro volitelné kontroly licencí – než budete pokračovat, přečtěte si text potvrzení v aplikaci.
+Údaje, které má vydavatel k dispozici (např. e-mailová korespondence podpory), získáte na **razvan.gutulov@outlook.com**. U dat uložených pouze ve vašem zařízení můžete většinu dat aplikací smazat pomocí **Vymazat data aplikace**, odinstalovat nebo ručně odstranit soubor. **Vymazat data aplikace** odstraní relace, protokoly a koncepty automatizace, ale může si ponechat kotvy zkušebních licencí, značky placených instalací aí identifikátor instalace používaný pro volitelné kontroly licencí – než budete pokračovat, přečtěte si text potvrzení v aplikaci.
 
 ## Děti
 

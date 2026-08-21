@@ -22,7 +22,7 @@ qualsiasi momento:
 
 1. **Cancella dati app** — apri l'applicazione e usa **Cancella dati app**. Questo
    rimuove sessioni, log e bozze di automazione. Può conservare lo stato locale
-   della licenza e un identificatore di installazione anonimo usato per i
+   della licenza e un identificatore di installazione usato per i
    controlli di licenza facoltativi; la conferma nell'app spiega esattamente cosa
    viene conservato.
 2. **Disinstalla l'applicazione** — la rimozione dell'app elimina la sua memoria

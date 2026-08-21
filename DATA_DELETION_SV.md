@@ -21,7 +21,7 @@ valfria loggar, prov-/licensstatus och – endast om du aktiverar e-postaviserin
 
 1. **Rensa appdata** — öppna appen och använd **Rensa appdata**. Detta tar bort
    sessioner, loggar och automatiseringsutkast. Det kan behålla lokal licensstatus
-   och en anonym installationsidentifierare som används för valfria
+   och en installationsidentifierare som används för valfria
    licenskontroller; bekräftelsen i appen förklarar exakt vad som behålls.
 2. **Avinstallera appen** — att ta bort appen raderar dess privata lagring på
    mobilen. På skrivbordet kan du även ta bort profilmappen manuellt:

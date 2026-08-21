@@ -22,7 +22,7 @@ helst:
 
 1. **Ryd app-data** — åbn appen, og brug **Ryd app-data**. Dette fjerner
    sessioner, logfiler og automatiseringsudkast. Det kan bevare lokal licensstatus
-   og et anonymt installations-id, der bruges til valgfrie licenskontroller;
+   og et installations-id, der bruges til valgfrie licenskontroller;
    bekræftelsen i appen forklarer præcist, hvad der bevares.
 2. **Afinstaller appen** — fjernelse af appen sletter dens private lagring på
    mobilen. På computeren kan du også slette profilmappen manuelt:
