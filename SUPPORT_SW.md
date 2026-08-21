@@ -9,7 +9,10 @@ Unahitaji msaada na **Organize Files**? Tunafurahi kukusaidia.
 ## Mawasiliano
 
 - **Barua pepe:** razvan.gutulov@outlook.com
-- **Mchapishaji:** Razvan Constantin Gutulov
+- **Mchapishaji:** Guțulov Răzvan Constantin PFA
+- **Anwani iliyosajiliwa:** Str. Republicii nr. 33B, bl. N3, sc. A, et. 1, ap. 3, Breaza de Sus, 105400 Breaza, jud. Prahova, România
+- **Rejista ya biashara:** F2026004513003 (EUID ROONRC.F2026004513003)
+- **Nambari ya utambulisho wa kodi:** 53610310
 
 Unapotuandikia, tafadhali jumuisha:
 
@@ -28,7 +31,7 @@ Tunajitahidi kujibu ndani ya **siku 2–3 za kazi**.
 
 ## Malipo na marejesho
 
-Ununuzi na marejesho hushughulikiwa na duka ulikonunua (Microsoft Store, Google Play au Apple App Store). Kwa ununuzi uliofanywa moja kwa moja kutoka kwa mchapishaji, angalia [EULA](./EULA_SW.md).
+Ununuzi na marejesho hushughulikiwa na duka ulikonunua (Microsoft Store, Google Play au Apple App Store)./EULA_SW.md).
 
 ## Faragha
 

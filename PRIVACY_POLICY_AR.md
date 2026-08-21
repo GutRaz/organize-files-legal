@@ -4,7 +4,10 @@
 
 # سياسة الخصوصية — تنظيم الملفات
 
-**الناشر:** رازفان كونستانتين جوتولوف  
+**الناشر:** Guțulov Răzvan Constantin PFA  
+**العنوان المسجل:** Str. Republicii nr. 33B, bl. N3, sc. A, et. 1, ap. 3, Breaza de Sus, 105400 Breaza, jud. Prahova, România  
+**السجل التجاري:** F2026004513003 (EUID ROONRC.F2026004513003)  
+**رقم التعريف الضريبي:** 53610310  
 ** جهة الاتصال: ** razvan.gutulov@outlook.com  
 **تاريخ السريان:** 2026-05-28  
 **عنوان URL العام:** `https://github.com/GutRaz/organize-files-legal/blob/main/PRIVACY_POLICY_AR.md`
@@ -110,7 +113,7 @@
 
 ## المتحكم وجهة الاتصال
 
-بالنسبة للبيانات الشخصية التي يعالجها الناشر، يكون المتحكم هو **Razvan Constantin Gutulov**. جهة الاتصال: **razvan.gutulov@outlook.com**.
+بالنسبة للبيانات الشخصية التي يعالجها الناشر، يكون المتحكم هو **Guțulov Răzvan Constantin PFA**. جهة الاتصال: **razvan.gutulov@outlook.com**.
 
 ## الاحتفاظ (سجلات الناشر)
 

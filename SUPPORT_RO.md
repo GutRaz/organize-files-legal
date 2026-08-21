@@ -9,7 +9,10 @@ Ai nevoie de ajutor cu **Organize Files**? Suntem bucuroși să te ajutăm.
 ## Contact
 
 - **E-mail:** razvan.gutulov@outlook.com
-- **Editor:** Razvan Constantin Gutulov
+- **Editor:** Guțulov Răzvan Constantin PFA
+- **Sediu profesional:** Str. Republicii nr. 33B, bl. N3, sc. A, et. 1, ap. 3, Breaza de Sus, 105400 Breaza, jud. Prahova, România
+- **Registrul comerțului:** F2026004513003 (EUID ROONRC.F2026004513003)
+- **Cod unic de înregistrare:** 53610310
 
 Când ne scrii, te rugăm să incluzi:
 

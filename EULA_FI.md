@@ -4,7 +4,10 @@
 
 # Loppukäyttäjän lisenssisopimus (EULA) — Järjestä tiedostot
 
-**Julkaisija:** Razvan Constantin Gutulov  
+**Julkaisija:** Guțulov Răzvan Constantin PFA  
+**Rekisteröity osoite:** Str. Republicii nr. 33B, bl. N3, sc. A, et. 1, ap. 3, Breaza de Sus, 105400 Breaza, jud. Prahova, România  
+**Kaupparekisteri:** F2026004513003 (EUID ROONRC.F2026004513003)  
+**Verotunniste:** 53610310  
 **Ota yhteyttä:** razvan.gutulov@outlook.com  
 **Voimaan:** 28.5.2026  
 **Julkinen URL-osoite (kauppojen tiedot):** `https://github.com/GutRaz/organize-files-legal/blob/main/EULA_FI.md`
@@ -58,7 +61,7 @@ Jos olet kuluttaja, joka asuu **Euroopan unionissa tai Euroopan talousalueella**
 
 **Digitaalisesta sisällöstä luopuminen:** Jos pyydät suoritusten alkamista välittömästi – esimerkiksi lataamalla tai aktivoimalla sovelluksen ennen 14 päivän ajanjakson umpeutumista – tunnustat ja hyväksyt nimenomaisesti, että menetät peruuttamisoikeutesi, kun suoritus on alkanut direktiivin 2011/83/EU artiklan 16(m) mukaisesti.
 
-Käytä Microsoft Store:n, Google Play:n, Mac App Store:n tai Apple App Store (iOS):n kautta tehdyissä ostoksissa kyseisen alustan hyvitys- tai nostotyökaluja. Jos kauppa pyytää julkaisijaa tarkistamaan tai käsittelemään pyynnön, julkaisija käsittelee sen kyseisen kaupan konsolin kautta alustakäytännön ja sovellettavan lain mukaisesti. Jos ostat suoraan julkaisijalta, ilmoita **razvan.gutulov@outlook.com** 14 päivän kuluessa ostosta ja selkeä kirjallinen ilmoitus peruuttamispäätöksestäsi.
+Käytä Microsoft Store:n, Google Play:n, Mac App Store:n tai Apple App Store (iOS):n kautta tehdyissä ostoksissa kyseisen alustan hyvitys- tai nostotyökaluja. Jos kauppa pyytää julkaisijaa tarkistamaan tai käsittelemään pyynnön, julkaisija käsittelee sen kyseisen kaupan konsolin kautta alustakäytännön ja sovellettavan lain mukaisesti.
 
 ## 9. Termination
 
@@ -70,12 +73,7 @@ Ellei maasi pakottava kuluttajalaki toisin edellytä, riita-asioissa sovelletaan
 
 Romanialaiset kuluttajat voivat ottaa yhteyttä kansalliseen kuluttajansuojaviranomaiseen (ANPC – Autoritatea Națională pentru Protecția Consumatorilor, www.anpc.ro) riita-asioissa. EU/ETA-kuluttajat voivat käyttää oman maansa toimivaltaista kuluttajaviranomaista tai vaihtoehtoista riidanratkaisuelintä; entinen EU:n ODR-alusta on lopetettu 20. heinäkuuta 2025.
 
-## 10a. Muiden kuin kaupan kanavien hyvityskäytäntö
-
-Jos ostit lisenssin tai käyttöoikeuden suoraan julkaisijalta (et Microsoft Storen, Google Playn tai Apple App Storen kautta), voit pyytää hyvitystä tai peruutusta 14 päivän kuluessa ostosta ottamalla yhteyttä osoitteeseen razvan.gutulov@outlook.com, liittämällä mukaan tilausviitteen ja selkeän kirjallisen ilmoituksen. Suoran kanavan hyvitykset käsitellään käytännössä alkuperäisen maksukanavan kautta. Jos maksutapahtuma tai aktivointi pyysi välitöntä digitaalista suoritusta ja tallensi nimenomaisen hyväksyntäsi siitä, että peruuttamisoikeus menetetään suorituksen alettua, julkaisija voi kieltäytyä hyvityksestä aktivoinnin tai dry-run/Preview-toimintoa pidemmälle menneen käytön jälkeen, ellei pakottava kuluttajalaki tai maksunkäsittelijän säännöt muuta edellytä.
-
-Pakottavat kuluttajaoikeudet ja maksunkäsittelijän säännöt pysyvät ennallaan.
 
 ## 11. Ota yhteyttä
 
-**Razvan Constantin Gutulov** — razvan.gutulov@outlook.com
+**Guțulov Răzvan Constantin PFA** — razvan.gutulov@outlook.com

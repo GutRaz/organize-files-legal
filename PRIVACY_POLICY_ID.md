@@ -4,7 +4,10 @@
 
 # Kebijakan Privasi — Mengatur File
 
-**Penerbit:** Razvan Constantin Gutulov  
+**Penerbit:** Guțulov Răzvan Constantin PFA  
+**Alamat terdaftar:** Str. Republicii nr. 33B, bl. N3, sc. A, et. 1, ap. 3, Breaza de Sus, 105400 Breaza, jud. Prahova, România  
+**Daftar perdagangan:** F2026004513003 (EUID ROONRC.F2026004513003)  
+**Nomor identifikasi pajak:** 53610310  
 **Hubungi:** razvan.gutulov@outlook.com  
 **Tanggal efektif:** 28-05-2026  
 **URL Publik:** `https://github.com/GutRaz/organize-files-legal/blob/main/PRIVACY_POLICY_ID.md`
@@ -112,7 +115,7 @@ Jika terjemahan ini tidak lengkap, Kebijakan Privasi bahasa Inggris yang berlaku
 
 ## Pengendali dan kontak
 
-Untuk data pribadi yang diproses oleh penerbit, pengendalinya adalah **Razvan Constantin Gutulov**. Kontak: **razvan.gutulov@outlook.com**.
+Untuk data pribadi yang diproses oleh penerbit, pengendalinya adalah **Guțulov Răzvan Constantin PFA**. Kontak: **razvan.gutulov@outlook.com**.
 
 ## Retensi (catatan penerbit)
 

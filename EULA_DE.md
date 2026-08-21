@@ -4,7 +4,10 @@
 
 # Endbenutzer-Lizenzvertrag (EULA) — Organize Files
 
-**Herausgeber:** Razvan Constantin Gutulov  
+**Herausgeber:** Guțulov Răzvan Constantin PFA  
+**Eingetragene Anschrift:** Str. Republicii nr. 33B, bl. N3, sc. A, et. 1, ap. 3, Breaza de Sus, 105400 Breaza, jud. Prahova, România  
+**Handelsregister:** F2026004513003 (EUID ROONRC.F2026004513003)  
+**Steuernummer:** 53610310  
 **Kontakt:** razvan.gutulov@outlook.com  
 **Gültig ab:** 2026-05-28  
 **Öffentliche URL (Store-Einträge):** `https://github.com/GutRaz/organize-files-legal/blob/main/EULA_DE.md`
@@ -58,7 +61,7 @@ Wenn Sie Verbraucher mit Wohnsitz in der **Europäischen Union oder dem Europäi
 
 **Erlöschen des Widerrufsrechts bei digitalen Inhalten:** Wenn Sie die sofortige Ausführung verlangen — zum Beispiel durch Herunterladen oder Aktivieren der App vor Ablauf der 14-Tage-Frist — erkennen Sie ausdrücklich an und stimmen zu, dass Sie Ihr Widerrufsrecht mit Beginn der Vertragserfüllung verlieren, gemäß Art. 16 Buchst. m) der Richtlinie 2011/83/EU.
 
-Für Käufe über Microsoft Store, Google Play, Mac App Store oder Apple App Store (iOS) nutzen Sie die Rückerstattungs- oder Widerrufswerkzeuge dieser Plattform. Wenn ein Store den Herausgeber bittet, eine Anfrage zu prüfen oder zu bearbeiten, erledigt der Herausgeber dies über die Konsole dieses Stores gemäß Plattformrichtlinie und anwendbarem Recht. Für einen Direktkauf beim Herausgeber benachrichtigen Sie **razvan.gutulov@outlook.com** innerhalb von 14 Tagen nach dem Kauf mit einer klaren schriftlichen Widerrufserklärung.
+Für Käufe über Microsoft Store, Google Play, Mac App Store oder Apple App Store (iOS) nutzen Sie die Rückerstattungs- oder Widerrufswerkzeuge dieser Plattform. Wenn ein Store den Herausgeber bittet, eine Anfrage zu prüfen oder zu bearbeiten, erledigt der Herausgeber dies über die Konsole dieses Stores gemäß Plattformrichtlinie und anwendbarem Recht.
 
 ## 9. Beendigung
 
@@ -68,13 +71,10 @@ Diese Lizenz endet bei Verstoß gegen diese Bedingungen oder wenn der Store den 
 
 Sofern zwingendes Verbraucherrecht in Ihrem Land nichts anderes verlangt, unterliegen Streitigkeiten dem Recht Rumäniens ohne Berücksichtigung kollisionsrechtlicher Regeln.
 
-## 10a. Rückerstattungsrichtlinie für Nicht-Store-Kanäle
-
-Wenn Sie eine Lizenz oder ein Entitlement direkt beim Herausgeber erworben haben (nicht über Microsoft Store, Google Play oder Apple App Store), können Sie innerhalb von 14 Tagen nach dem Kauf eine Rückerstattung oder einen Widerruf verlangen, indem Sie razvan.gutulov@outlook.com mit Bestellreferenz und klarer schriftlicher Erklärung kontaktieren. Direktkanal-Rückerstattungen werden nach Möglichkeit über den ursprünglichen Zahlungsweg abgewickelt. Wenn bei Checkout oder Aktivierung die sofortige digitale Leistung verlangt und Ihre ausdrückliche Bestätigung erfasst wurde, dass das Widerrufsrecht mit Leistungsbeginn erlischt, kann der Herausgeber eine Rückerstattung nach Aktivierung oder Nutzung über Dry-Run/Vorschau hinaus ablehnen, außer wo zwingendes Verbraucherschutzrecht oder Regeln des Zahlungsdienstleisters etwas anderes verlangen.
 
 ## 11. Kontakt
 
-**Razvan Constantin Gutulov** — razvan.gutulov@outlook.com
+**Guțulov Răzvan Constantin PFA** — razvan.gutulov@outlook.com
 
 ## Verwandte Dokumente
 

@@ -9,7 +9,10 @@ Butuh bantuan dengan **Organize Files**? Kami dengan senang hati membantu.
 ## Kontak
 
 - **Email:** razvan.gutulov@outlook.com
-- **Penerbit:** Razvan Constantin Gutulov
+- **Penerbit:** Guțulov Răzvan Constantin PFA
+- **Alamat terdaftar:** Str. Republicii nr. 33B, bl. N3, sc. A, et. 1, ap. 3, Breaza de Sus, 105400 Breaza, jud. Prahova, România
+- **Daftar perdagangan:** F2026004513003 (EUID ROONRC.F2026004513003)
+- **Nomor identifikasi pajak:** 53610310
 
 Saat menghubungi kami, harap sertakan:
 
@@ -28,7 +31,7 @@ Kami berupaya menanggapi dalam **2–3 hari kerja**.
 
 ## Penagihan dan pengembalian dana
 
-Pembelian dan pengembalian dana ditangani oleh toko tempat Anda membeli (Microsoft Store, Google Play, atau Apple App Store). Untuk pembelian yang dilakukan langsung dari penerbit, lihat [EULA](./EULA_ID.md).
+Pembelian dan pengembalian dana ditangani oleh toko tempat Anda membeli (Microsoft Store, Google Play, atau Apple App Store)./EULA_ID.md).
 
 ## Privasi
 

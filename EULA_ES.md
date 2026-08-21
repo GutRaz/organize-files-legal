@@ -4,7 +4,10 @@
 
 # Acuerdo de licencia de usuario final (EULA): organizar archivos
 
-**Editor:** Razvan Constantin Gutulov  
+**Editor:** Guțulov Răzvan Constantin PFA  
+**Domicilio registrado:** Str. Republicii nr. 33B, bl. N3, sc. A, et. 1, ap. 3, Breaza de Sus, 105400 Breaza, jud. Prahova, România  
+**Registro mercantil:** F2026004513003 (EUID ROONRC.F2026004513003)  
+**Número de identificación fiscal:** 53610310  
 **Contacto:** razvan.gutulov@outlook.com  
 **Fecha de entrada en vigor:** 2026-05-28  
 **URL pública (listados de tiendas):** `https://github.com/GutRaz/organize-files-legal/blob/main/EULA_ES.md`
@@ -58,7 +61,7 @@ Si eres un consumidor residente en la **Unión Europea o Espacio Económico Euro
 
 **Renuncia para contenido digital:** Si solicita que la ejecución comience de inmediato (por ejemplo, descargando o activando la aplicación antes de que expire el período de 14 días), reconoce y acepta explícitamente que pierde su derecho de desistimiento una vez que la ejecución haya comenzado, según lo permite el artículo 16(m) de la Directiva 2011/83/UE.
 
-Para compras realizadas a través de Microsoft Store, Google Play, Mac App Store o Apple App Store (iOS), utilice las herramientas de reembolso o retiro de esa plataforma. Si una tienda le pide al editor que revise o procese una solicitud, el editor la maneja a través de la consola de esa tienda de acuerdo con la política de la plataforma y la ley aplicable. Para una compra realizada directamente al editor, notifique a **razvan.gutulov@outlook.com** dentro de los 14 días posteriores a la compra con una declaración clara por escrito de su decisión de retirarse.
+Para compras realizadas a través de Microsoft Store, Google Play, Mac App Store o Apple App Store (iOS), utilice las herramientas de reembolso o retiro de esa plataforma. Si una tienda le pide al editor que revise o procese una solicitud, el editor la maneja a través de la consola de esa tienda de acuerdo con la política de la plataforma y la ley aplicable.
 
 ## 9. Terminación
 
@@ -70,12 +73,7 @@ A menos que la ley obligatoria del consumidor de su país exija lo contrario, la
 
 Los consumidores rumanos pueden ponerse en contacto con la Autoridad Nacional de Protección del Consumidor (ANPC — Autoritatea Națională pentru Protecția Consumatorilor, www.anpc.ro) en caso de disputas. Los consumidores de la UE/EEE pueden usar la autoridad nacional de consumo competente o la entidad de resolución alternativa de litigios disponible en su país; la antigua plataforma ODR de la UE dejó de funcionar el 20 de julio de 2025.
 
-## 10a. Política de reembolso para canales fuera de la Tienda
-
-Si compró una licencia o un derecho directamente del editor (no a través de Microsoft Store, Google Play o Apple App Store), puede solicitar un reembolso o desistimiento dentro de los 14 días posteriores a la compra escribiendo a razvan.gutulov@outlook.com con la referencia del pedido y una declaración escrita clara. Los reembolsos de canal directo se gestionan mediante el canal de pago original cuando sea práctico. Si el pago o la activación solicitaron la ejecución digital inmediata y recogieron su reconocimiento expreso de que el derecho de desistimiento se pierde una vez que comienza la ejecución, el editor puede rechazar un reembolso después de la activación o del uso más allá de dry-run/Preview, salvo cuando la ley imperativa de consumo o las reglas del procesador de pagos exijan otra cosa.
-
-Los derechos obligatorios del consumidor y las reglas del procesador de pagos no se ven afectados.
 
 ## 11. Contacto
 
-**Razvan Constantin Gutulov** — razvan.gutulov@outlook.com
+**Guțulov Răzvan Constantin PFA** — razvan.gutulov@outlook.com

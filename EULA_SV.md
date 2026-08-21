@@ -4,7 +4,10 @@
 
 # Slutanvändarlicensavtal (EULA) — Organisera filer
 
-**Förlag:** Razvan Constantin Gutulov  
+**Förlag:** Guțulov Răzvan Constantin PFA  
+**Registrerad adress:** Str. Republicii nr. 33B, bl. N3, sc. A, et. 1, ap. 3, Breaza de Sus, 105400 Breaza, jud. Prahova, România  
+**Handelsregister:** F2026004513003 (EUID ROONRC.F2026004513003)  
+**Skatteregistreringsnummer:** 53610310  
 **Kontakta:** razvan.gutulov@outlook.com  
 **Ikraftträdandedatum:** 2026-05-28  
 **Offentlig webbadress (butiksuppgifter):** `https://github.com/GutRaz/organize-files-legal/blob/main/EULA_SV.md`
@@ -58,7 +61,7 @@ Om du är en konsument bosatt i **Europeiska unionen eller Europeiska ekonomiska
 
 **Avstående för digitalt innehåll:** Om du begär att prestanda ska börja omedelbart – till exempel genom att ladda ner eller aktivera appen innan 14-dagarsperioden löper ut – erkänner och samtycker du uttryckligen att du förlorar din ångerrätt när prestationen har påbörjats, vilket tillåts enligt artikel 16(m) i direktiv 2011/83/EU.
 
-För köp gjorda via Microsoft Store, Google Play, Mac App Store eller Apple App Store (iOS), använd den plattformens verktyg för återbetalning eller uttag. Om en butik ber utgivaren att granska eller behandla en begäran hanterar utgivaren den via den butikens konsol enligt plattformspolicy och tillämplig lag. För ett köp som görs direkt från utgivaren, meddela **razvan.gutulov@outlook.com** inom 14 dagar efter köpet med ett tydligt skriftligt meddelande om ditt beslut att ångra dig.
+För köp gjorda via Microsoft Store, Google Play, Mac App Store eller Apple App Store (iOS), använd den plattformens verktyg för återbetalning eller uttag. Om en butik ber utgivaren att granska eller behandla en begäran hanterar utgivaren den via den butikens konsol enligt plattformspolicy och tillämplig lag.
 
 ## 9. Uppsägning
 
@@ -70,12 +73,7 @@ Såvida inte tvingande konsumentlagstiftning i ditt land kräver annat, regleras
 
 Rumänska konsumenter kan kontakta den nationella konsumentskyddsmyndigheten (ANPC — Autoritatea Națională pentru Protecția Consumatorilor, www.anpc.ro) vid tvister. Konsumenter i EU/EES kan använda den behöriga nationella konsumentmyndigheten eller en alternativ tvistlösningsenhet i sitt land; den tidigare EU-ODR-plattformen har avvecklats sedan 20 juli 2025.
 
-## 10a. Återbetalningspolicy för kanaler utanför butik
-
-Om du köpte en licens eller rättighet direkt från utgivaren (inte via Microsoft Store, Google Play eller Apple App Store) kan du begära återbetalning eller ångerrätt inom 14 dagar efter köpet genom att kontakta razvan.gutulov@outlook.com med orderreferens och ett tydligt skriftligt uttalande. Återbetalningar via direktkanal hanteras genom den ursprungliga betalningskanalen där det är praktiskt. Om betalning eller aktivering krävde omedelbar digital leverans och registrerade ditt uttryckliga medgivande att ångerrätten förloras när leveransen påbörjas, kan utgivaren vägra återbetalning efter aktivering eller användning utöver dry-run/Preview, förutom där tvingande konsumentlagstiftning eller betalningsbehandlarens regler kräver annat.
-
-Tvingande konsumenträttigheter och betalningsbehandlarens regler påverkas inte.
 
 ## 11. Kontakt
 
-**Razvan Constantin Gutulov** — razvan.gutulov@outlook.com
+**Guțulov Răzvan Constantin PFA** — razvan.gutulov@outlook.com

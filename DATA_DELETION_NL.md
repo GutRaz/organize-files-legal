@@ -61,4 +61,4 @@ te verwijderen.
 
 ---
 
-© 2026 Razvan Constantin Gutulov. Alle rechten voorbehouden.
+© 2026 Guțulov Răzvan Constantin PFA. Alle rechten voorbehouden.

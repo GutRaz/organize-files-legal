@@ -4,7 +4,10 @@
 
 # Licenční smlouva s koncovým uživatelem (EULA) — Uspořádejte soubory
 
-**Vydavatel:** Razvan Constantin Gutulov  
+**Vydavatel:** Guțulov Răzvan Constantin PFA  
+**Sídlo:** Str. Republicii nr. 33B, bl. N3, sc. A, et. 1, ap. 3, Breaza de Sus, 105400 Breaza, jud. Prahova, România  
+**Obchodní rejstřík:** F2026004513003 (EUID ROONRC.F2026004513003)  
+**Daňové identifikační číslo:** 53610310  
 **Kontakt:** razvan.gutulov@outlook.com  
 **Datum účinnosti:** 28.05.2026  
 **Veřejná adresa URL (záznamy v obchodě):** `https://github.com/GutRaz/organize-files-legal/blob/main/EULA_CS.md`
@@ -58,7 +61,7 @@ Pokud jste spotřebitel s bydlištěm v **Evropské unii nebo Evropském hospod�
 
 **Výjimka pro digitální obsah:** Pokud požadujete, aby plnění začalo okamžitě – například stažením nebo aktivací aplikace před uplynutím 14denní lhůty – výslovně berete na vědomí a souhlasíte s tím, že po zahájení plnění ztrácíte právo na odstoupení od smlouvy, jak to umožňuje čl. 16 písm. m) směrnice 2011/83/EU.
 
-Pro nákupy uskutečněné prostřednictvím Microsoft Store, Google Play, Mac App Store nebo Apple App Store (iOS) použijte nástroje pro vrácení peněz nebo výběr z dané platformy. Pokud obchod požádá vydavatele, aby žádost zkontroloval nebo zpracoval, vydavatel ji vyřídí prostřednictvím konzole daného obchodu v souladu se zásadami platformy a platnými zákony. V případě nákupu provedeného přímo od vydavatele informujte **razvan.gutulov@outlook.com** do 14 dnů od nákupu s jasným písemným prohlášením o svém rozhodnutí odstoupit.
+Pro nákupy uskutečněné prostřednictvím Microsoft Store, Google Play, Mac App Store nebo Apple App Store (iOS) použijte nástroje pro vrácení peněz nebo výběr z dané platformy. Pokud obchod požádá vydavatele, aby žádost zkontroloval nebo zpracoval, vydavatel ji vyřídí prostřednictvím konzole daného obchodu v souladu se zásadami platformy a platnými zákony.
 
 ## 9. Ukončení
 
@@ -70,12 +73,7 @@ Pokud povinné spotřebitelské právo ve vaší zemi nevyžaduje jinak, řídí
 
 Rumunští spotřebitelé se mohou v případě sporů obrátit na Národní úřad pro ochranu spotřebitelů (ANPC – Autoritatea Națională pentru Protecția Consumatorilor, www.anpc.ro). Spotřebitelé z EU/EHP mohou využít příslušný národní spotřebitelský orgán nebo subjekt alternativního řešení sporů dostupný v jejich zemi; bývalá platforma EU ODR byla ukončena 20. července 2025.
 
-## 10a. Zásady vracení peněz pro kanály mimo obchod
-
-Pokud jste licenci nebo oprávnění zakoupili přímo od vydavatele (nikoli prostřednictvím Microsoft Store, Google Play nebo Apple App Store), můžete do 14 dnů od nákupu požádat o vrácení peněz nebo odstoupení kontaktováním razvan.gutulov@outlook.com s referencí objednávky a jasným písemným prohlášením. Vrácení peněz přes přímý kanál se zpracovává původním platebním kanálem, kde je to praktické. Pokud pokladna nebo aktivace vyžadovaly okamžité digitální plnění a zaznamenaly váš výslovný souhlas s tím, že právo na odstoupení zaniká zahájením plnění, může vydavatel odmítnout vrácení peněz po aktivaci nebo použití nad rámec dry-run/Preview, s výjimkou případů, kdy to vyžaduje kogentní spotřebitelské právo nebo pravidla platebního procesoru.
-
-Povinná práva spotřebitelů a pravidla zpracovatele plateb zůstávají nedotčena.
 
 ## 11. Kontakt
 
-**Razvan Constantin Gutulov** — razvan.gutulov@outlook.com
+**Guțulov Răzvan Constantin PFA** — razvan.gutulov@outlook.com

@@ -5,6 +5,9 @@
 # 隐私政策 — 组织文件
 
 **出版商：** 拉兹万·康斯坦丁·古图洛夫  
+**注册地址:** Str. Republicii nr. 33B, bl. N3, sc. A, et. 1, ap. 3, Breaza de Sus, 105400 Breaza, jud. Prahova, România  
+**商业登记:** F2026004513003 (EUID ROONRC.F2026004513003)  
+**纳税人识别号:** 53610310  
 **联系方式：** razvan.gutulov@outlook.com  
 **生效日期：** 2026-05-28  
 **公共网址：** `https://github.com/GutRaz/organize-files-legal/blob/main/PRIVACY_POLICY_ZH.md`
@@ -106,7 +109,7 @@
 
 ## 控制者和联系方式
 
-对于发布者处理的个人数据，控制者为 **Razvan Constantin Gutulov**。联系方式：**razvan.gutulov@outlook.com**。
+对于发布者处理的个人数据，控制者为 **Guțulov Răzvan Constantin PFA**。联系方式：**razvan.gutulov@outlook.com**。
 
 ## 保留期限（发布者记录）
 

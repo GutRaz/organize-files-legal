@@ -62,4 +62,4 @@ retidos pela loja, utilize as definições de conta dessa loja.
 
 ---
 
-© 2026 Razvan Constantin Gutulov. Todos os direitos reservados.
+© 2026 Guțulov Răzvan Constantin PFA. Todos os direitos reservados.

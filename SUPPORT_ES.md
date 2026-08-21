@@ -9,7 +9,10 @@
 ## Contacto
 
 - **Correo electrónico:** razvan.gutulov@outlook.com
-- **Editor:** Razvan Constantin Gutulov
+- **Editor:** Guțulov Răzvan Constantin PFA
+- **Domicilio registrado:** Str. Republicii nr. 33B, bl. N3, sc. A, et. 1, ap. 3, Breaza de Sus, 105400 Breaza, jud. Prahova, România
+- **Registro mercantil:** F2026004513003 (EUID ROONRC.F2026004513003)
+- **Número de identificación fiscal:** 53610310
 
 Cuando nos escribas, incluye por favor:
 
@@ -28,7 +31,7 @@ Procuramos responder en **2–3 días laborables**.
 
 ## Facturación y reembolsos
 
-Las compras y los reembolsos los gestiona la tienda donde compraste (Microsoft Store, Google Play o Apple App Store). Para compras realizadas directamente al editor, consulta el [EULA](./EULA_ES.md).
+Las compras y los reembolsos los gestiona la tienda donde compraste (Microsoft Store, Google Play o Apple App Store)./EULA_ES.md).
 
 ## Privacidad
 

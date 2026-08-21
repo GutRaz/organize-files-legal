@@ -4,7 +4,10 @@
 
 # गोपनीयता नीति - फ़ाइलें व्यवस्थित करें
 
-**प्रकाशक:** रज़वान कॉन्स्टेंटिन गुटुलोव  
+**प्रकाशक:** Guțulov Răzvan Constantin PFA  
+**पंजीकृत पता:** Str. Republicii nr. 33B, bl. N3, sc. A, et. 1, ap. 3, Breaza de Sus, 105400 Breaza, jud. Prahova, România  
+**व्यापार रजिस्टर:** F2026004513003 (EUID ROONRC.F2026004513003)  
+**कर पहचान संख्या:** 53610310  
 **संपर्क करें:** razvan.gutulov@outlook.com  
 **प्रभावी तिथि:** 2026-05-28  
 **सार्वजनिक यूआरएल:** `https://github.com/GutRaz/organize-files-legal/blob/main/PRIVACY_POLICY_HI.md`
@@ -112,7 +115,7 @@
 
 ## नियंत्रक और संपर्क
 
-प्रकाशक द्वारा संसाधित व्यक्तिगत डेटा के लिए नियंत्रक **Razvan Constantin Gutulov** है। संपर्क: **razvan.gutulov@outlook.com**.
+प्रकाशक द्वारा संसाधित व्यक्तिगत डेटा के लिए नियंत्रक **Guțulov Răzvan Constantin PFA** है। संपर्क: **razvan.gutulov@outlook.com**.
 
 ## प्रतिधारण (प्रकाशक अभिलेख)
 

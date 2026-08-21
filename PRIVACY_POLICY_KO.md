@@ -4,7 +4,10 @@
 
 # 개인 정보 보호 정책 - 파일 정리
 
-**출판사:** Razvan Constantin Gutulov  
+**출판사:** Guțulov Răzvan Constantin PFA  
+**등록 주소:** Str. Republicii nr. 33B, bl. N3, sc. A, et. 1, ap. 3, Breaza de Sus, 105400 Breaza, jud. Prahova, România  
+**상업 등기:** F2026004513003 (EUID ROONRC.F2026004513003)  
+**납세자 번호:** 53610310  
 **연락처:** razvan.gutulov@outlook.com  
 **유효일자:** 2026-05-28  
 **공개 URL:** `https://github.com/GutRaz/organize-files-legal/blob/main/PRIVACY_POLICY_KO.md`
@@ -106,7 +109,7 @@
 
 ## 관리자 및 연락처
 
-게시자가 처리하는 개인정보의 관리자는 **Razvan Constantin Gutulov**입니다. 연락처: **razvan.gutulov@outlook.com**.
+게시자가 처리하는 개인정보의 관리자는 **Guțulov Răzvan Constantin PFA**입니다. 연락처: **razvan.gutulov@outlook.com**.
 
 ## 보관(게시자 기록)
 

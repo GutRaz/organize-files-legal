@@ -4,7 +4,10 @@
 
 # Eindgebruikerslisensie-ooreenkoms (EULA) — Organiseer lêers
 
-**Uitgewer:** Razvan Constantin Gutulov  
+**Uitgewer:** Guțulov Răzvan Constantin PFA  
+**Geregistreerde adres:** Str. Republicii nr. 33B, bl. N3, sc. A, et. 1, ap. 3, Breaza de Sus, 105400 Breaza, jud. Prahova, România  
+**Handelsregister:** F2026004513003 (EUID ROONRC.F2026004513003)  
+**Belastingidentifikasienommer:** 53610310  
 **Kontak:** razvan.gutulov@outlook.com  
 **Inwerkingtredingsdatum:** 2026-05-28  
 **Publieke URL (winkellysinskrywings):** `https://github.com/GutRaz/organize-files-legal/blob/main/EULA_AF.md`
@@ -58,7 +61,7 @@ As jy 'n verbruiker is wat in die **Europese Unie of Europese Ekonomiese Gebied*
 
 **Kwytskelding vir digitale inhoud:** As jy versoek dat uitvoering onmiddellik begin - byvoorbeeld deur die toepassing af te laai of te aktiveer voordat die 14-dae-tydperk verstryk - erken en stem jy uitdruklik in dat jy jou reg op onttrekking verloor sodra prestasie begin het, soos toegelaat ingevolge Artikel 16(m) van Richtlijn 2011/83/EU.
 
-Vir aankope wat deur Microsoft Store, Google Play, Mac App Store of Apple App Store (iOS) gemaak word, gebruik daardie platform se terugbetaling- of onttrekkingnutsgoed. As 'n winkel die uitgewer vra om 'n versoek te hersien of te verwerk, hanteer die uitgewer dit deur daardie winkel se konsole volgens platformbeleid en toepaslike wetgewing. Vir 'n aankoop wat direk vanaf die uitgewer gedoen word, stel **razvan.gutulov@outlook.com** binne 14 dae na aankoop in kennis met 'n duidelike skriftelike verklaring van jou besluit om te onttrek.
+Vir aankope wat deur Microsoft Store, Google Play, Mac App Store of Apple App Store (iOS) gemaak word, gebruik daardie platform se terugbetaling- of onttrekkingnutsgoed. As 'n winkel die uitgewer vra om 'n versoek te hersien of te verwerk, hanteer die uitgewer dit deur daardie winkel se konsole volgens platformbeleid en toepaslike wetgewing.
 
 ## 9. Beëindiging
 
@@ -70,12 +73,7 @@ Tensy verpligte verbruikerswetgewing in jou land anders vereis, word dispute deu
 
 Roemeense verbruikers kan die Nasionale Verbruikersbeskermingsowerheid (ANPC — Autoritatea Națională pentru Protecția Consumatorilor, www.anpc.ro) kontak vir dispute. EU/EEA-verbruikers kan die bevoegde nasionale verbruikersowerheid of alternatiewe geskilbeslegtingsentiteit in hul land gebruik; die voormalige EU-ODR-platform is sedert 20 Julie 2025 gestaak.
 
-## 10a. Terugbetalingsbeleid vir nie-winkelkanale
-
-As jy 'n lisensie of reg direk van die uitgewer gekoop het (nie deur Microsoft Store, Google Play of Apple App Store nie), kan jy binne 14 dae ná aankoop 'n terugbetaling of terugtrekking versoek deur razvan.gutulov@outlook.com met jou bestellingverwysing en 'n duidelike skriftelike verklaring te kontak. Direkte-kanaal-terugbetalings word waar prakties deur die oorspronklike betaalkanaal hanteer. As die betaalvloei of aktivering onmiddellike digitale uitvoering versoek het en jou uitdruklike erkenning vasgelê het dat die terugtrekkingsreg verlore gaan sodra uitvoering begin, kan die uitgewer 'n terugbetaling ná aktivering of gebruik verder as dry-run/Preview weier, behalwe waar dwingende verbruikersreg of betaalverwerkerreëls anders vereis.
-
-Dwingende verbruikersregte en betaalverwerkerreëls word nie geraak nie.
 
 ## 11. Kontak
 
-**Razvan Constantin Gutulov** — razvan.gutulov@outlook.com
+**Guțulov Răzvan Constantin PFA** — razvan.gutulov@outlook.com

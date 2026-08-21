@@ -4,7 +4,10 @@
 
 # Sera ya Faragha - Panga Faili
 
-**Mchapishaji:** Razvan Constantin Gutulov  
+**Mchapishaji:** Guțulov Răzvan Constantin PFA  
+**Anwani iliyosajiliwa:** Str. Republicii nr. 33B, bl. N3, sc. A, et. 1, ap. 3, Breaza de Sus, 105400 Breaza, jud. Prahova, România  
+**Rejista ya biashara:** F2026004513003 (EUID ROONRC.F2026004513003)  
+**Nambari ya utambulisho wa kodi:** 53610310  
 **Mawasiliano:** razvan.gutulov@outlook.com  
 **Tarehe ya kuanza kutumika:** 2026-05-28  
 **URL ya Umma:** `https://github.com/GutRaz/organize-files-legal/blob/main/PRIVACY_POLICY_SW.md`
@@ -112,7 +115,7 @@ Ambapo tafsiri hii haijakamilika, Sera ya Faragha ya Kiingereza ndiyo itatumika.
 
 ## Mdhibiti na mawasiliano
 
-Kwa data binafsi inayochakatwa na mchapishaji, mdhibiti ni **Razvan Constantin Gutulov**. Mawasiliano: **razvan.gutulov@outlook.com**.
+Kwa data binafsi inayochakatwa na mchapishaji, mdhibiti ni **Guțulov Răzvan Constantin PFA**. Mawasiliano: **razvan.gutulov@outlook.com**.
 
 ## Uhifadhi (rekodi za mchapishaji)
 

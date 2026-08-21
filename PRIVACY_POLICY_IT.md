@@ -4,7 +4,10 @@
 
 # Informativa sulla privacy: organizza i file
 
-**Editore:** Razvan Constantin Gutulov  
+**Editore:** Guțulov Răzvan Constantin PFA  
+**Indirizzo registrato:** Str. Republicii nr. 33B, bl. N3, sc. A, et. 1, ap. 3, Breaza de Sus, 105400 Breaza, jud. Prahova, România  
+**Registro delle imprese:** F2026004513003 (EUID ROONRC.F2026004513003)  
+**Codice fiscale:** 53610310  
 **Contatto:** razvan.gutulov@outlook.com  
 **Data di entrata in vigore:** 28-05-2026  
 **URL pubblico:** `https://github.com/GutRaz/organize-files-legal/blob/main/PRIVACY_POLICY_IT.md`
@@ -17,7 +20,7 @@ Organizza file elabora i file **localmente sul dispositivo**. I contenuti dei fi
 
 ## Titolare del trattamento e contatto
 
-Per i dati personali trattati dall'editore, il titolare del trattamento è **Razvan Constantin Gutulov**. Contatto: **razvan.gutulov@outlook.com**.
+Per i dati personali trattati dall'editore, il titolare del trattamento è **Guțulov Răzvan Constantin PFA**. Contatto: **razvan.gutulov@outlook.com**.
 
 ## Dati elaborati localmente
 

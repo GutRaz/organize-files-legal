@@ -4,7 +4,10 @@
 
 # Perjanjian Lisensi Pengguna Akhir (EULA) — Atur File
 
-**Penerbit:** Razvan Constantin Gutulov  
+**Penerbit:** Guțulov Răzvan Constantin PFA  
+**Alamat terdaftar:** Str. Republicii nr. 33B, bl. N3, sc. A, et. 1, ap. 3, Breaza de Sus, 105400 Breaza, jud. Prahova, România  
+**Daftar perdagangan:** F2026004513003 (EUID ROONRC.F2026004513003)  
+**Nomor identifikasi pajak:** 53610310  
 **Hubungi:** razvan.gutulov@outlook.com  
 **Tanggal efektif:** 28-05-2026  
 **URL publik (daftar toko):** `https://github.com/GutRaz/organize-files-legal/blob/main/EULA_ID.md`
@@ -58,7 +61,7 @@ Jika Anda adalah konsumen yang tinggal di **Uni Eropa atau Wilayah Ekonomi Eropa
 
 **Pengabaian untuk konten digital:** Jika Anda meminta agar pertunjukan segera dimulai — misalnya, dengan mengunduh atau mengaktifkan aplikasi sebelum periode 14 hari berakhir — Anda secara eksplisit mengakui dan menyetujui bahwa Anda kehilangan hak untuk membatalkan setelah pertunjukan dimulai, sebagaimana diizinkan berdasarkan Pasal 16(m) Directive 2011/83/EU.
 
-Untuk pembelian yang dilakukan melalui Microsoft Store, Google Play, Mac App Store, atau Apple App Store (iOS), gunakan alat pengembalian dana atau penarikan platform tersebut. Jika toko meminta penerbit untuk meninjau atau memproses permintaan, penerbit akan menanganinya melalui konsol toko tersebut sesuai dengan kebijakan platform dan hukum yang berlaku. Untuk pembelian yang dilakukan langsung dari penerbit, beri tahu **razvan.gutulov@outlook.com** dalam waktu 14 hari setelah pembelian dengan pernyataan tertulis yang jelas tentang keputusan Anda untuk membatalkan.
+Untuk pembelian yang dilakukan melalui Microsoft Store, Google Play, Mac App Store, atau Apple App Store (iOS), gunakan alat pengembalian dana atau penarikan platform tersebut. Jika toko meminta penerbit untuk meninjau atau memproses permintaan, penerbit akan menanganinya melalui konsol toko tersebut sesuai dengan kebijakan platform dan hukum yang berlaku.
 
 ## 9. Penghentian
 
@@ -70,12 +73,7 @@ Kecuali undang-undang konsumen wajib di negara Anda mengharuskan sebaliknya, per
 
 Konsumen Rumania dapat menghubungi Otoritas Perlindungan Konsumen Nasional (ANPC — Autoritatea Națională pentru Protecția Consumatorilor, www.anpc.ro) untuk sengketa. Konsumen UE/EEA dapat menggunakan otoritas konsumen nasional yang kompeten atau entitas penyelesaian sengketa alternatif yang tersedia di negaranya; platform ODR UE lama dihentikan sejak 20 Juli 2025.
 
-## 10a. Kebijakan pengembalian dana untuk saluran non-Toko
-
-Jika Anda membeli lisensi atau hak langsung dari penerbit (bukan melalui Microsoft Store, Google Play, atau Apple App Store), Anda dapat meminta pengembalian dana atau penarikan dalam 14 hari setelah pembelian dengan menghubungi razvan.gutulov@outlook.com disertai referensi pesanan dan pernyataan tertulis yang jelas. Pengembalian dana saluran langsung ditangani melalui saluran pembayaran asli jika memungkinkan. Jika checkout atau aktivasi meminta kinerja digital segera dan mencatat pengakuan eksplisit Anda bahwa hak penarikan hilang setelah kinerja dimulai, penerbit dapat menolak pengembalian dana setelah aktivasi atau penggunaan di luar dry-run/Preview, kecuali jika hukum konsumen wajib atau aturan pemroses pembayaran mewajibkan sebaliknya.
-
-Hak konsumen wajib dan aturan pemroses pembayaran tetap tidak terpengaruh.
 
 ## 11. Kontak
 
-**Razvan Constantin Gutulov** — razvan.gutulov@outlook.com
+**Guțulov Răzvan Constantin PFA** — razvan.gutulov@outlook.com

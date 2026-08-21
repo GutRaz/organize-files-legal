@@ -9,7 +9,10 @@
 ## ติดต่อ
 
 - **อีเมล:** razvan.gutulov@outlook.com
-- **ผู้เผยแพร่:** Razvan Constantin Gutulov
+- **ผู้เผยแพร่:** Guțulov Răzvan Constantin PFA
+- **ที่อยู่จดทะเบียน:** Str. Republicii nr. 33B, bl. N3, sc. A, et. 1, ap. 3, Breaza de Sus, 105400 Breaza, jud. Prahova, România
+- **ทะเบียนพาณิชย์:** F2026004513003 (EUID ROONRC.F2026004513003)
+- **เลขประจำตัวผู้เสียภาษี:** 53610310
 
 เมื่อติดต่อเรา โปรดระบุ:
 
@@ -28,7 +31,7 @@
 
 ## การเรียกเก็บเงินและการคืนเงิน
 
-การซื้อและการคืนเงินจัดการโดยสโตร์ที่คุณซื้อ (Microsoft Store, Google Play หรือ Apple App Store) สำหรับการซื้อโดยตรงจากผู้เผยแพร่ โปรดดู [EULA](./EULA_TH.md)
+/EULA_TH.md)
 
 ## ความเป็นส่วนตัว
 

@@ -60,4 +60,4 @@ käytä kyseisen kaupan tiliasetuksia.
 
 ---
 
-© 2026 Razvan Constantin Gutulov. Kaikki oikeudet pidätetään.
+© 2026 Guțulov Răzvan Constantin PFA. Kaikki oikeudet pidätetään.

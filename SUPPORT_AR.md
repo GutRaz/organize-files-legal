@@ -9,7 +9,10 @@
 ## التواصل
 
 - **البريد الإلكتروني:** razvan.gutulov@outlook.com
-- **الناشر:** Razvan Constantin Gutulov
+- **الناشر:** Guțulov Răzvan Constantin PFA
+- **العنوان المسجل:** Str. Republicii nr. 33B, bl. N3, sc. A, et. 1, ap. 3, Breaza de Sus, 105400 Breaza, jud. Prahova, România
+- **السجل التجاري:** F2026004513003 (EUID ROONRC.F2026004513003)
+- **رقم التعريف الضريبي:** 53610310
 
 عند مراسلتنا، يُرجى تضمين:
 

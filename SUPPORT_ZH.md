@@ -10,6 +10,9 @@
 
 - **电子邮件：** razvan.gutulov@outlook.com
 - **发布者：** Razvan Constantin Gutulov
+- **注册地址:** Str. Republicii nr. 33B, bl. N3, sc. A, et. 1, ap. 3, Breaza de Sus, 105400 Breaza, jud. Prahova, România
+- **商业登记:** F2026004513003 (EUID ROONRC.F2026004513003)
+- **纳税人识别号:** 53610310
 
 联系我们时，请提供：
 
@@ -28,7 +31,7 @@
 
 ## 账单和退款
 
-购买和退款由您购买的商店（Microsoft Store、Google Play 或 Apple App Store）处理。对于直接从发布者处购买的情况，请参阅 [EULA](./EULA_ZH.md)。
+购买和退款由您购买的商店（Microsoft Store、Google Play 或 Apple App Store）处理。/EULA_ZH.md)。
 
 ## 隐私
 

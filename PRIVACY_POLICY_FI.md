@@ -4,7 +4,10 @@
 
 # Tietosuojakäytäntö — Järjestä tiedostot
 
-**Julkaisija:** Razvan Constantin Gutulov  
+**Julkaisija:** Guțulov Răzvan Constantin PFA  
+**Rekisteröity osoite:** Str. Republicii nr. 33B, bl. N3, sc. A, et. 1, ap. 3, Breaza de Sus, 105400 Breaza, jud. Prahova, România  
+**Kaupparekisteri:** F2026004513003 (EUID ROONRC.F2026004513003)  
+**Verotunniste:** 53610310  
 **Ota yhteyttä:** razvan.gutulov@outlook.com  
 **Voimaan:** 28.5.2026  
 **Julkinen URL-osoite:** `https://github.com/GutRaz/organize-files-legal/blob/main/PRIVACY_POLICY_FI.md`
@@ -104,7 +107,7 @@ Jos tämä käännös on puutteellinen, englanninkielinen tietosuojakäytäntö 
 
 ## Rekisterinpitäjä ja yhteystiedot
 
-Julkaisijan käsittelemien henkilötietojen rekisterinpitäjä on **Razvan Constantin Gutulov**. Yhteys: **razvan.gutulov@outlook.com**.
+Julkaisijan käsittelemien henkilötietojen rekisterinpitäjä on **Guțulov Răzvan Constantin PFA**. Yhteys: **razvan.gutulov@outlook.com**.
 
 ## Säilytys (julkaisijan tiedot)
 

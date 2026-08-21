@@ -4,7 +4,10 @@
 
 # นโยบายความเป็นส่วนตัว — จัดระเบียบไฟล์
 
-**ผู้จัดพิมพ์:** ราซวาน คอนสแตนติน กูตูลอฟ  
+**ผู้จัดพิมพ์:** Guțulov Răzvan Constantin PFA  
+**ที่อยู่จดทะเบียน:** Str. Republicii nr. 33B, bl. N3, sc. A, et. 1, ap. 3, Breaza de Sus, 105400 Breaza, jud. Prahova, România  
+**ทะเบียนพาณิชย์:** F2026004513003 (EUID ROONRC.F2026004513003)  
+**เลขประจำตัวผู้เสียภาษี:** 53610310  
 **ติดต่อ:** razvan.gutulov@outlook.com  
 **วันที่มีผลบังคับใช้:** 28-05-2026  
 **URL สาธารณะ:** `https://github.com/GutRaz/organize-files-legal/blob/main/PRIVACY_POLICY_TH.md`
@@ -112,7 +115,7 @@
 
 ## ผู้ควบคุมและช่องทางติดต่อ
 
-สำหรับข้อมูลส่วนบุคคลที่ผู้เผยแพร่ประมวลผล ผู้ควบคุมคือ **Razvan Constantin Gutulov** ติดต่อ: **razvan.gutulov@outlook.com**
+สำหรับข้อมูลส่วนบุคคลที่ผู้เผยแพร่ประมวลผล ผู้ควบคุมคือ **Guțulov Răzvan Constantin PFA** ติดต่อ: **razvan.gutulov@outlook.com**
 
 ## การเก็บรักษา (บันทึกของผู้เผยแพร่)
 

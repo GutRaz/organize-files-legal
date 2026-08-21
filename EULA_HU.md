@@ -4,7 +4,10 @@
 
 # Végfelhasználói licencszerződés (EULA) — Fájlok rendezése
 
-**Kiadó:** Razvan Constantin Gutulov  
+**Kiadó:** Guțulov Răzvan Constantin PFA  
+**Bejegyzett cím:** Str. Republicii nr. 33B, bl. N3, sc. A, et. 1, ap. 3, Breaza de Sus, 105400 Breaza, jud. Prahova, România  
+**Cégjegyzék:** F2026004513003 (EUID ROONRC.F2026004513003)  
+**Adóazonosító szám:** 53610310  
 **Kapcsolat:** razvan.gutulov@outlook.com  
 **Hatálybalépés dátuma:** 2026-05-28  
 **Nyilvános URL (üzleti adatok):** `https://github.com/GutRaz/organize-files-legal/blob/main/EULA_HU.md`
@@ -58,7 +61,7 @@ Ha Ön az **Európai Unióban vagy az Európai Gazdasági Térségben** lakóhel
 
 **Lemondás a digitális tartalomról:** Ha azt kéri, hogy a teljesítés azonnal megkezdődjön – például az alkalmazás letöltésével vagy aktiválásával a 14 napos időszak lejárta előtt –, Ön kifejezetten tudomásul veszi és elfogadja, hogy a 2011/83/EU irányelv 16. cikkének m) pontja értelmében elveszíti elállási jogát a teljesítés megkezdése után.
 
-A Microsoft Store, Google Play, Mac App Store vagy Apple App Store (iOS) használatával történő vásárlások esetén használja az adott platform visszatérítési vagy visszavonási eszközeit. Ha egy bolt egy kérés felülvizsgálatára vagy feldolgozására kéri a kiadót, a kiadó az adott áruház konzolján keresztül kezeli azt a platformszabályzatnak és a vonatkozó jogszabályoknak megfelelően. Közvetlenül a kiadótól történő vásárlás esetén a vásárlástól számított 14 napon belül értesítse a **razvan.gutulov@outlook.com** számot, és egyértelmű írásos nyilatkozatot adjon az elállási döntéséről.
+A Microsoft Store, Google Play, Mac App Store vagy Apple App Store (iOS) használatával történő vásárlások esetén használja az adott platform visszatérítési vagy visszavonási eszközeit. Ha egy bolt egy kérés felülvizsgálatára vagy feldolgozására kéri a kiadót, a kiadó az adott áruház konzolján keresztül kezeli azt a platformszabályzatnak és a vonatkozó jogszabályoknak megfelelően.
 
 ## 9. Felmondás
 
@@ -70,12 +73,7 @@ Hacsak az Ön országában a kötelező fogyasztóvédelmi jog másként nem ren
 
 A román fogyasztók vitáikkal az Országos Fogyasztóvédelmi Hatósághoz (ANPC – Autoritatea Națională pentru Protecția Consumatorilor, www.anpc.ro) fordulhatnak. Az EU/EGT fogyasztói használhatják az országukban elérhető illetékes nemzeti fogyasztóvédelmi hatóságot vagy alternatív vitarendezési szervezetet; a korábbi EU ODR platform 2025. július 20. óta megszűnt.
 
-## 10a. A nem bolti csatornákra vonatkozó visszatérítési szabályzat
-
-Ha közvetlenül a kiadótól vásárolt licencet vagy jogosultságot (nem a Microsoft Store-on, a Google Playen vagy az Apple App Store-on keresztül), a vásárlástól számított 14 napon belül visszatérítést vagy elállást kérhet a razvan.gutulov@outlook.com címen, megrendelés-hivatkozással és egyértelmű írásbeli nyilatkozattal. A közvetlen csatornán történő visszatérítéseket ahol gyakorlatias, az eredeti fizetési csatornán keresztül kezeljük. Ha a fizetés vagy az aktiválás azonnali digitális teljesítést kért, és rögzítette az Ön kifejezett nyilatkozatát arról, hogy az elállási jog a teljesítés megkezdésével elvész, a kiadó elutasíthatja a visszatérítést az aktiválás vagy a dry-run/Preview feletti használat után, kivéve, ha a kötelező fogyasztóvédelmi jog vagy a fizetési szolgáltató szabályai másként előírják.
-
-A kötelező fogyasztói jogok és a fizetési szolgáltató szabályai változatlanul érvényesek.
 
 ## 11. Kapcsolat
 
-**Razvan Constantin Gutulov** — razvan.gutulov@outlook.com
+**Guțulov Răzvan Constantin PFA** — razvan.gutulov@outlook.com

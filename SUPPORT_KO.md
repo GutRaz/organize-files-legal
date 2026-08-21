@@ -9,7 +9,10 @@
 ## 연락처
 
 - **이메일:** razvan.gutulov@outlook.com
-- **게시자:** Razvan Constantin Gutulov
+- **게시자:** Guțulov Răzvan Constantin PFA
+- **등록 주소:** Str. Republicii nr. 33B, bl. N3, sc. A, et. 1, ap. 3, Breaza de Sus, 105400 Breaza, jud. Prahova, România
+- **상업 등기:** F2026004513003 (EUID ROONRC.F2026004513003)
+- **납세자 번호:** 53610310
 
 문의하실 때 다음을 포함해 주십시오.
 
@@ -28,7 +31,7 @@
 
 ## 청구 및 환불
 
-구매 및 환불은 구매한 스토어(Microsoft Store, Google Play 또는 Apple App Store)에서 처리합니다. 게시자에게서 직접 구매한 경우 [EULA](./EULA_KO.md)를 참조하십시오.
+구매 및 환불은 구매한 스토어(Microsoft Store, Google Play 또는 Apple App Store)에서 처리합니다./EULA_KO.md)를 참조하십시오.
 
 ## 개인정보 보호
 

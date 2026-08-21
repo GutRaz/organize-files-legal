@@ -4,7 +4,10 @@
 
 # Zásady ochrany osobních údajů — Uspořádejte soubory
 
-**Vydavatel:** Razvan Constantin Gutulov  
+**Vydavatel:** Guțulov Răzvan Constantin PFA  
+**Sídlo:** Str. Republicii nr. 33B, bl. N3, sc. A, et. 1, ap. 3, Breaza de Sus, 105400 Breaza, jud. Prahova, România  
+**Obchodní rejstřík:** F2026004513003 (EUID ROONRC.F2026004513003)  
+**Daňové identifikační číslo:** 53610310  
 **Kontakt:** razvan.gutulov@outlook.com  
 **Datum účinnosti:** 28.05.2026  
 **Veřejná adresa URL:** `https://github.com/GutRaz/organize-files-legal/blob/main/PRIVACY_POLICY_CS.md`
@@ -112,7 +115,7 @@ Pokud je tento překlad neúplný, řídí se znění anglickými Zásadami ochr
 
 ## Správce a kontakt
 
-Pro osobní údaje zpracovávané vydavatelem je správcem **Razvan Constantin Gutulov**. Kontakt: **razvan.gutulov@outlook.com**.
+Pro osobní údaje zpracovávané vydavatelem je správcem **Guțulov Răzvan Constantin PFA**. Kontakt: **razvan.gutulov@outlook.com**.
 
 ## Uchovávání (záznamy vydavatele)
 

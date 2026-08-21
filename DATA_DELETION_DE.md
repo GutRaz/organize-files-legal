@@ -61,4 +61,4 @@ Kontoeinstellungen des jeweiligen Stores.
 
 ---
 
-© 2026 Razvan Constantin Gutulov. Alle Rechte vorbehalten.
+© 2026 Guțulov Răzvan Constantin PFA. Alle Rechte vorbehalten.

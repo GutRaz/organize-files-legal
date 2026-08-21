@@ -1,6 +1,9 @@
 # End User License Agreement (EULA) — Organize Files
 
-**Publisher:** Razvan Constantin Gutulov  
+**Publisher:** Guțulov Răzvan Constantin PFA  
+**Registered address:** Str. Republicii nr. 33B, bl. N3, sc. A, et. 1, ap. 3, Breaza de Sus, 105400 Breaza, jud. Prahova, România  
+**Trade register:** F2026004513003 (EUID ROONRC.F2026004513003)  
+**Tax identification number:** 53610310  
 **Contact:** razvan.gutulov@outlook.com  
 **Effective date:** 2026-05-28  
 **Public URL (store listings):** `https://github.com/GutRaz/organize-files-legal/blob/main/EULA_EN.md`
@@ -54,7 +57,7 @@ If you are a consumer resident in the **European Union or European Economic Area
 
 **Waiver for digital content:** If you request that performance begin immediately — for example, by downloading or activating the app before the 14-day period expires — you explicitly acknowledge and agree that you lose your right of withdrawal once performance has begun, as permitted under Article 16(m) of Directive 2011/83/EU.
 
-For purchases made through Microsoft Store, Google Play, Mac App Store, or Apple App Store (iOS), use that platform's refund or withdrawal tools. If a store asks the publisher to review or process a request, the publisher handles it through that store's console according to platform policy and applicable law. For a purchase made directly from the publisher, notify **razvan.gutulov@outlook.com** within 14 days of purchase with a clear written statement of your decision to withdraw.
+For purchases made through Microsoft Store, Google Play, Mac App Store, or Apple App Store (iOS), use that platform's refund or withdrawal tools. If a store asks the publisher to review or process a request, the publisher handles it through that store's console according to platform policy and applicable law.
 
 ## 9. Termination
 
@@ -66,10 +69,7 @@ Unless mandatory consumer law in your country requires otherwise, disputes are g
 
 Romanian consumers may contact the National Consumer Protection Authority (ANPC — Autoritatea Națională pentru Protecția Consumatorilor, www.anpc.ro) for disputes. EU/EEA consumers may use the competent national consumer authority or alternative dispute resolution entity available in their country; the former EU ODR platform has been discontinued since 20 July 2025.
 
-## 10a. Refund policy for non-Store channels
-
-If you purchased a license or entitlement directly from the publisher (not through Microsoft Store, Google Play, or Apple App Store), you may request a refund or withdrawal within 14 days of purchase by contacting razvan.gutulov@outlook.com with your order reference and a clear written statement. Direct-channel refunds are handled through the original payment channel where practical. If checkout or activation requested immediate digital performance and captured your explicit acknowledgement that the withdrawal right is lost once performance begins, the publisher may refuse a refund after activation or use beyond dry-run/Preview, except where mandatory consumer law or payment processor rules require otherwise.
 
 ## 11. Contact
 
-**Razvan Constantin Gutulov** — razvan.gutulov@outlook.com
+**Guțulov Răzvan Constantin PFA** — razvan.gutulov@outlook.com

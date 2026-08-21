@@ -4,7 +4,10 @@
 
 # Thỏa thuận cấp phép người dùng cuối (EULA) - Sắp xếp tệp
 
-**Nhà xuất bản:** Razvan Constantin Gutulov  
+**Nhà xuất bản:** Guțulov Răzvan Constantin PFA  
+**Địa chỉ đăng ký:** Str. Republicii nr. 33B, bl. N3, sc. A, et. 1, ap. 3, Breaza de Sus, 105400 Breaza, jud. Prahova, România  
+**Đăng ký kinh doanh:** F2026004513003 (EUID ROONRC.F2026004513003)  
+**Mã số thuế:** 53610310  
 **Liên hệ:** razvan.gutulov@outlook.com  
 **Ngày có hiệu lực:** 28-05-2026  
 **URL công khai (danh sách cửa hàng):** `https://github.com/GutRaz/organize-files-legal/blob/main/EULA_VI.md`
@@ -58,7 +61,7 @@ Nếu bạn là người tiêu dùng cư trú tại **Liên minh Châu Âu hoặ
 
 **Từ bỏ nội dung kỹ thuật số:** Nếu bạn yêu cầu buổi biểu diễn bắt đầu ngay lập tức — ví dụ: bằng cách tải xuống hoặc kích hoạt ứng dụng trước khi hết thời hạn 14 ngày — thì bạn xác nhận và đồng ý rõ ràng rằng bạn mất quyền rút lui sau khi buổi biểu diễn bắt đầu, như được cho phép theo Điều 16(m) của Chỉ thị 2011/83/EU.
 
-Đối với các giao dịch mua được thực hiện thông qua Microsoft Store, Google Play, Mac App Store hoặc Apple App Store (iOS), hãy sử dụng các công cụ hoàn tiền hoặc rút tiền của nền tảng đó. Nếu cửa hàng yêu cầu nhà xuất bản xem xét hoặc xử lý yêu cầu thì nhà xuất bản sẽ xử lý yêu cầu đó thông qua bảng điều khiển của cửa hàng đó theo chính sách nền tảng và luật hiện hành. Đối với giao dịch mua được thực hiện trực tiếp từ nhà xuất bản, hãy thông báo cho **razvan.gutulov@outlook.com** trong vòng 14 ngày kể từ ngày mua kèm theo văn bản tuyên bố rõ ràng về quyết định rút lui của bạn.
+Đối với các giao dịch mua được thực hiện thông qua Microsoft Store, Google Play, Mac App Store hoặc Apple App Store (iOS), hãy sử dụng các công cụ hoàn tiền hoặc rút tiền của nền tảng đó. Nếu cửa hàng yêu cầu nhà xuất bản xem xét hoặc xử lý yêu cầu thì nhà xuất bản sẽ xử lý yêu cầu đó thông qua bảng điều khiển của cửa hàng đó theo chính sách nền tảng và luật hiện hành.
 
 ## 9. Chấm dứt
 
@@ -70,12 +73,7 @@ Trừ khi luật tiêu dùng bắt buộc ở quốc gia của bạn có yêu c�
 
 Người tiêu dùng Romania có thể liên hệ với Cơ quan bảo vệ người tiêu dùng quốc gia (ANPC — Autoritatea Națională pentru Protecția Consumatorilor, www.anpc.ro) để giải quyết tranh chấp. Người tiêu dùng EU/EEA có thể sử dụng cơ quan tiêu dùng quốc gia có thẩm quyền hoặc tổ chức giải quyết tranh chấp thay thế có tại quốc gia của mình; nền tảng EU ODR cũ đã ngừng hoạt động từ ngày 20 tháng 7 năm 2025.
 
-## 10a. Chính sách hoàn tiền cho các kênh không phải của Cửa hàng
-
-Nếu bạn mua giấy phép hoặc quyền trực tiếp từ nhà xuất bản (không qua Microsoft Store, Google Play hoặc Apple App Store), bạn có thể yêu cầu hoàn tiền hoặc rút lui trong vòng 14 ngày kể từ ngày mua bằng cách liên hệ razvan.gutulov@outlook.com kèm mã tham chiếu đơn hàng và tuyên bố bằng văn bản rõ ràng. Hoàn tiền qua kênh trực tiếp được xử lý qua kênh thanh toán ban đầu khi khả thi. Nếu thanh toán hoặc kích hoạt yêu cầu thực hiện kỹ thuật số ngay lập tức và ghi nhận sự xác nhận rõ ràng của bạn rằng quyền rút lui mất khi thực hiện bắt đầu, nhà xuất bản có thể từ chối hoàn tiền sau kích hoạt hoặc sử dụng vượt quá dry-run/Preview, trừ khi luật bảo vệ người tiêu dùng bắt buộc hoặc quy tắc của bên xử lý thanh toán yêu cầu khác.
-
-Quyền bắt buộc của người tiêu dùng và quy tắc của bên xử lý thanh toán không bị ảnh hưởng.
 
 ## 11. Liên hệ
 
-**Razvan Constantin Gutulov** - razvan.gutulov@outlook.com
+**Guțulov Răzvan Constantin PFA** - razvan.gutulov@outlook.com

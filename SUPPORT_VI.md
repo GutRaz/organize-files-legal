@@ -9,7 +9,10 @@ Bạn cần trợ giúp với **Organize Files**? Chúng tôi rất sẵn lòng 
 ## Liên hệ
 
 - **Email:** razvan.gutulov@outlook.com
-- **Nhà phát hành:** Razvan Constantin Gutulov
+- **Nhà phát hành:** Guțulov Răzvan Constantin PFA
+- **Địa chỉ đăng ký:** Str. Republicii nr. 33B, bl. N3, sc. A, et. 1, ap. 3, Breaza de Sus, 105400 Breaza, jud. Prahova, România
+- **Đăng ký kinh doanh:** F2026004513003 (EUID ROONRC.F2026004513003)
+- **Mã số thuế:** 53610310
 
 Khi liên hệ với chúng tôi, vui lòng cung cấp:
 
@@ -28,7 +31,7 @@ Chúng tôi cố gắng phản hồi trong vòng **2–3 ngày làm việc**.
 
 ## Thanh toán và hoàn tiền
 
-Việc mua hàng và hoàn tiền do cửa hàng nơi bạn mua (Microsoft Store, Google Play hoặc Apple App Store) xử lý. Đối với các giao dịch mua trực tiếp từ nhà phát hành, hãy xem [EULA](./EULA_VI.md).
+Việc mua hàng và hoàn tiền do cửa hàng nơi bạn mua (Microsoft Store, Google Play hoặc Apple App Store) xử lý./EULA_VI.md).
 
 ## Quyền riêng tư
 

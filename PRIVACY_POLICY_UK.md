@@ -4,7 +4,10 @@
 
 # Політика конфіденційності — Упорядковуйте файли
 
-**Видавництво:** Разван Костянтин Гутулов  
+**Видавництво:** Guțulov Răzvan Constantin PFA  
+**Юридична адреса:** Str. Republicii nr. 33B, bl. N3, sc. A, et. 1, ap. 3, Breaza de Sus, 105400 Breaza, jud. Prahova, România  
+**Торговий реєстр:** F2026004513003 (EUID ROONRC.F2026004513003)  
+**Ідентифікаційний номер платника податків:** 53610310  
 **Контакт:** razvan.gutulov@outlook.com  
 **Дата набрання чинності:** 2026-05-28  
 **Загальнодоступна URL-адреса:** `https://github.com/GutRaz/organize-files-legal/blob/main/PRIVACY_POLICY_UK.md`
@@ -111,7 +114,7 @@ Organize Files обробляє файли **локально на пристр�
 
 ## Контролер і контакт
 
-Для персональних даних, які обробляє видавець, контролером є **Razvan Constantin Gutulov**. Контакт: **razvan.gutulov@outlook.com**.
+Для персональних даних, які обробляє видавець, контролером є **Guțulov Răzvan Constantin PFA**. Контакт: **razvan.gutulov@outlook.com**.
 
 ## Зберігання (записи видавця)
 

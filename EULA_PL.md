@@ -4,7 +4,10 @@
 
 # Umowa licencyjna użytkownika końcowego (EULA) — Organizuj pliki
 
-**Wydawca:** Razvan Constantin Gutulov  
+**Wydawca:** Guțulov Răzvan Constantin PFA  
+**Adres rejestrowy:** Str. Republicii nr. 33B, bl. N3, sc. A, et. 1, ap. 3, Breaza de Sus, 105400 Breaza, jud. Prahova, România  
+**Rejestr handlowy:** F2026004513003 (EUID ROONRC.F2026004513003)  
+**Numer identyfikacji podatkowej:** 53610310  
 **Kontakt:** razvan.gutulov@outlook.com  
 **Data wejścia w życie:** 28.05.2026 r  
 **Publiczny adres URL (informacje o sklepie):** `https://github.com/GutRaz/organize-files-legal/blob/main/EULA_PL.md`
@@ -58,7 +61,7 @@ Jeśli jesteś konsumentem zamieszkującym na terenie **Unii Europejskiej lub Eu
 
 **Zrzeczenie się prawa do treści cyfrowych:** Jeśli zażądasz natychmiastowego rozpoczęcia świadczenia – na przykład poprzez pobranie lub aktywację aplikacji przed upływem 14-dniowego okresu – wyraźnie potwierdzasz i zgadzasz się, że utracisz prawo do odstąpienia od umowy po rozpoczęciu świadczenia, zgodnie z art. 16 lit. m) dyrektywy 2011/83/UE.
 
-W przypadku zakupów dokonanych za pośrednictwem Microsoft Store, Google Play, Mac App Store lub Apple App Store (iOS) skorzystaj z narzędzi zwrotu lub wypłaty dostępnych na tej platformie. Jeśli sklep poprosi wydawcę o sprawdzenie lub przetworzenie żądania, wydawca obsługuje je za pośrednictwem konsoli tego sklepu zgodnie z polityką platformy i obowiązującym prawem. W przypadku zakupu dokonanego bezpośrednio od wydawcy powiadom **razvan.gutulov@outlook.com** w ciągu 14 dni od zakupu, dołączając jasne pisemne oświadczenie o swojej decyzji o odstąpieniu od umowy.
+W przypadku zakupów dokonanych za pośrednictwem Microsoft Store, Google Play, Mac App Store lub Apple App Store (iOS) skorzystaj z narzędzi zwrotu lub wypłaty dostępnych na tej platformie. Jeśli sklep poprosi wydawcę o sprawdzenie lub przetworzenie żądania, wydawca obsługuje je za pośrednictwem konsoli tego sklepu zgodnie z polityką platformy i obowiązującym prawem.
 
 ## 9. Zakończenie
 
@@ -70,12 +73,7 @@ O ile obowiązujące prawo konsumenckie w Twoim kraju nie stanowi inaczej, spory
 
 Rumuńscy konsumenci mogą w przypadku sporów kontaktować się z Krajowym Urzędem Ochrony Konsumentów (ANPC — Autoritatea Națională pentru Protecția Consumatorilor, www.anpc.ro). Konsumenci z UE/EOG mogą skorzystać z właściwego krajowego organu ochrony konsumentów lub podmiotu alternatywnego rozstrzygania sporów dostępnego w ich kraju; dawna platforma ODR UE została wyłączona 20 lipca 2025 r.
 
-## 10a. Polityka zwrotów dla kanałów poza sklepem
-
-Jeśli zakupiono licencję lub uprawnienie bezpośrednio od wydawcy (nie przez Microsoft Store, Google Play ani Apple App Store), można zażądać zwrotu lub odstąpienia w ciągu 14 dni od zakupu, kontaktując się z razvan.gutulov@outlook.com i podając numer zamówienia oraz jasne pisemne oświadczenie. Zwroty w kanale bezpośrednim są obsługiwane przez pierwotny kanał płatności, gdy jest to praktyczne. Jeśli płatność lub aktywacja wymagała natychmiastowego świadczenia cyfrowego i zawierała wyraźne potwierdzenie utraty prawa odstąpienia po rozpoczęciu świadczenia, wydawca może odmówić zwrotu po aktywacji lub użyciu poza dry-run/Preview, chyba że bezwzględnie obowiązujące prawo konsumenckie lub zasady operatora płatności wymagają inaczej.
-
-Obowiązkowe prawa konsumenta i zasady operatora płatności pozostają nienaruszone.
 
 ## 11. Kontakt
 
-**Razvan Constantin Gutulov** — razvan.gutulov@outlook.com
+**Guțulov Răzvan Constantin PFA** — razvan.gutulov@outlook.com

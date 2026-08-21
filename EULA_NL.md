@@ -4,7 +4,10 @@
 
 # Eindgebruikerslicentieovereenkomst (EULA) — Bestanden ordenen
 
-**Uitgever:** Razvan Constantin Gutulov  
+**Uitgever:** Guțulov Răzvan Constantin PFA  
+**Geregistreerd adres:** Str. Republicii nr. 33B, bl. N3, sc. A, et. 1, ap. 3, Breaza de Sus, 105400 Breaza, jud. Prahova, România  
+**Handelsregister:** F2026004513003 (EUID ROONRC.F2026004513003)  
+**Fiscaal identificatienummer:** 53610310  
 **Contact:** razvan.gutulov@outlook.com  
 **Ingangsdatum:** 28-05-2026  
 **Openbare URL (winkelvermeldingen):** `https://github.com/GutRaz/organize-files-legal/blob/main/EULA_NL.md`
@@ -58,7 +61,7 @@ Als u een consument bent die woonachtig is in de **Europese Unie of Europese Eco
 
 **Ontheffing voor digitale inhoud:** Als u verzoekt dat de uitvoering onmiddellijk begint (bijvoorbeeld door de app te downloaden of te activeren voordat de periode van 14 dagen is verstreken), erkent u uitdrukkelijk en gaat u ermee akkoord dat u uw herroepingsrecht verliest zodra de uitvoering is begonnen, zoals toegestaan ​​onder artikel 16(m) van Richtlijn 2011/83/EU.
 
-Voor aankopen gedaan via Microsoft Store, Google Play, Mac App Store of Apple App Store (iOS) gebruikt u de terugbetalings- of opnametools van dat platform. Als een winkel de uitgever vraagt ​​een verzoek te beoordelen of te verwerken, handelt de uitgever dit af via de console van die winkel, in overeenstemming met het platformbeleid en de toepasselijke wetgeving. Voor een aankoop die rechtstreeks bij de uitgever is gedaan, dient u **razvan.gutulov@outlook.com** binnen 14 dagen na aankoop met een duidelijke schriftelijke verklaring op de hoogte te stellen van uw besluit tot herroeping.
+Voor aankopen gedaan via Microsoft Store, Google Play, Mac App Store of Apple App Store (iOS) gebruikt u de terugbetalings- of opnametools van dat platform. Als een winkel de uitgever vraagt ​​een verzoek te beoordelen of te verwerken, handelt de uitgever dit af via de console van die winkel, in overeenstemming met het platformbeleid en de toepasselijke wetgeving.
 
 ## 9. Beëindiging
 
@@ -70,12 +73,7 @@ Tenzij het dwingende consumentenrecht in uw land anders vereist, zijn geschillen
 
 Roemeense consumenten kunnen voor geschillen contact opnemen met de Nationale Consumentenbeschermingsautoriteit (ANPC — Autoritatea Națională pentru Protecția Consumatorilor, www.anpc.ro). EU/EER-consumenten kunnen de bevoegde nationale consumentenautoriteit of een alternatieve geschilleninstantie in hun land gebruiken; het voormalige EU-ODR-platform is sinds 20 juli 2025 stopgezet.
 
-## 10a. Restitutiebeleid voor niet-Store-kanalen
-
-Als u rechtstreeks bij de uitgever een licentie of recht hebt gekocht (niet via Microsoft Store, Google Play of Apple App Store), kunt u binnen 14 dagen na aankoop een restitutie of herroeping aanvragen door contact op te nemen met razvan.gutulov@outlook.com met uw bestelreferentie en een duidelijke schriftelijke verklaring. Restituties via een direct kanaal worden waar praktisch via het oorspronkelijke betaalkanaal verwerkt. Als afrekenen of activeren onmiddellijke digitale uitvoering heeft gevraagd en uw uitdrukkelijke erkenning heeft vastgelegd dat het herroepingsrecht verloren gaat zodra de uitvoering begint, kan de uitgever een restitutie na activering of gebruik buiten dry-run/Preview weigeren, behalve waar dwingend consumentenrecht of regels van de betalingsverwerker anders vereisen.
-
-Dwingende consumentenrechten en regels van betalingsverwerkers blijven onaangetast.
 
 ## 11. Contactpersoon
 
-**Razvan Constantin Gutulov** — razvan.gutulov@outlook.com
+**Guțulov Răzvan Constantin PFA** — razvan.gutulov@outlook.com

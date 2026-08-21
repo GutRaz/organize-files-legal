@@ -4,7 +4,10 @@
 
 # Sekretesspolicy — Organisera filer
 
-**Förlag:** Razvan Constantin Gutulov  
+**Förlag:** Guțulov Răzvan Constantin PFA  
+**Registrerad adress:** Str. Republicii nr. 33B, bl. N3, sc. A, et. 1, ap. 3, Breaza de Sus, 105400 Breaza, jud. Prahova, România  
+**Handelsregister:** F2026004513003 (EUID ROONRC.F2026004513003)  
+**Skatteregistreringsnummer:** 53610310  
 **Kontakta:** razvan.gutulov@outlook.com  
 **Ikraftträdandedatum:** 2026-05-28  
 **Offentlig webbadress:** `https://github.com/GutRaz/organize-files-legal/blob/main/PRIVACY_POLICY_SV.md`
@@ -112,7 +115,7 @@ Om denna översättning är ofullständig gäller den engelska integritetspolicy
 
 ## Personuppgiftsansvarig och kontakt
 
-För personuppgifter som behandlas av utgivaren är personuppgiftsansvarig **Razvan Constantin Gutulov**. Kontakt: **razvan.gutulov@outlook.com**.
+För personuppgifter som behandlas av utgivaren är personuppgiftsansvarig **Guțulov Răzvan Constantin PFA**. Kontakt: **razvan.gutulov@outlook.com**.
 
 ## Lagring (utgivarens register)
 

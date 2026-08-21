@@ -63,4 +63,4 @@ compte de ce store.
 
 ---
 
-© 2026 Razvan Constantin Gutulov. Tous droits réservés.
+© 2026 Guțulov Răzvan Constantin PFA. Tous droits réservés.

@@ -4,7 +4,10 @@
 
 # プライバシー ポリシー — ファイルの整理
 
-**出版社:** ラズバン・コンスタンチン・グトゥロフ  
+**出版社:** Guțulov Răzvan Constantin PFA  
+**登録住所:** Str. Republicii nr. 33B, bl. N3, sc. A, et. 1, ap. 3, Breaza de Sus, 105400 Breaza, jud. Prahova, România  
+**商業登記:** F2026004513003 (EUID ROONRC.F2026004513003)  
+**納税者番号:** 53610310  
 **連絡先:** razvan.gutulov@outlook.com  
 **発効日:** 2026-05-28  
 **公開 URL:** `https://github.com/GutRaz/organize-files-legal/blob/main/PRIVACY_POLICY_JA.md`
@@ -106,7 +109,7 @@
 
 ## 管理者と連絡先
 
-発行者が処理する個人データについて、管理者は **Razvan Constantin Gutulov** です。連絡先: **razvan.gutulov@outlook.com**。
+発行者が処理する個人データについて、管理者は **Guțulov Răzvan Constantin PFA** です。連絡先: **razvan.gutulov@outlook.com**。
 
 ## 保持期間（発行者の記録）
 

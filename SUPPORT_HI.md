@@ -9,7 +9,10 @@
 ## संपर्क
 
 - **ईमेल:** razvan.gutulov@outlook.com
-- **प्रकाशक:** Razvan Constantin Gutulov
+- **प्रकाशक:** Guțulov Răzvan Constantin PFA
+- **पंजीकृत पता:** Str. Republicii nr. 33B, bl. N3, sc. A, et. 1, ap. 3, Breaza de Sus, 105400 Breaza, jud. Prahova, România
+- **व्यापार रजिस्टर:** F2026004513003 (EUID ROONRC.F2026004513003)
+- **कर पहचान संख्या:** 53610310
 
 हमें लिखते समय, कृपया शामिल करें:
 
@@ -28,7 +31,7 @@
 
 ## बिलिंग और धनवापसी
 
-खरीदारी और धनवापसी उस स्टोर द्वारा संभाली जाती है जहाँ से आपने खरीदा (Microsoft Store, Google Play, या Apple App Store)। सीधे प्रकाशक से की गई खरीदारी के लिए, [EULA](./EULA_HI.md) देखें।
+/EULA_HI.md) देखें।
 
 ## गोपनीयता
 

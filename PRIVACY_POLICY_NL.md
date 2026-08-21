@@ -4,7 +4,10 @@
 
 # Privacybeleid — Bestanden ordenen
 
-**Uitgever:** Razvan Constantin Gutulov  
+**Uitgever:** Guțulov Răzvan Constantin PFA  
+**Geregistreerd adres:** Str. Republicii nr. 33B, bl. N3, sc. A, et. 1, ap. 3, Breaza de Sus, 105400 Breaza, jud. Prahova, România  
+**Handelsregister:** F2026004513003 (EUID ROONRC.F2026004513003)  
+**Fiscaal identificatienummer:** 53610310  
 **Contact:** razvan.gutulov@outlook.com  
 **Ingangsdatum:** 28-05-2026  
 **Openbare URL:** `https://github.com/GutRaz/organize-files-legal/blob/main/PRIVACY_POLICY_NL.md`
@@ -17,7 +20,7 @@ Bestanden organiseren verwerkt bestanden **lokaal op het apparaat**. Bestandsinh
 
 ## Verwerkingsverantwoordelijke en contact
 
-Voor persoonsgegevens die de uitgever verwerkt, is de verwerkingsverantwoordelijke **Razvan Constantin Gutulov**. Contact: **razvan.gutulov@outlook.com**.
+Voor persoonsgegevens die de uitgever verwerkt, is de verwerkingsverantwoordelijke **Guțulov Răzvan Constantin PFA**. Contact: **razvan.gutulov@outlook.com**.
 
 ## Gegevens lokaal verwerkt
 

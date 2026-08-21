@@ -4,7 +4,10 @@
 
 # Son Kullanıcı Lisans Sözleşmesi (EULA) — Dosyaları Düzenleyin
 
-**Yayıncı:** Razvan Constantin Gutulov  
+**Yayıncı:** Guțulov Răzvan Constantin PFA  
+**Kayıtlı adres:** Str. Republicii nr. 33B, bl. N3, sc. A, et. 1, ap. 3, Breaza de Sus, 105400 Breaza, jud. Prahova, România  
+**Ticaret sicili:** F2026004513003 (EUID ROONRC.F2026004513003)  
+**Vergi kimlik numarası:** 53610310  
 **İletişim:** razvan.gutulov@outlook.com  
 **Geçerlilik tarihi:** 2026-05-28  
 **Genel URL (mağaza listeleri):** `https://github.com/GutRaz/organize-files-legal/blob/main/EULA_TR.md`
@@ -58,7 +61,7 @@ Bkz. [Gizlilik Politikası](./PRIVACY_POLICY_TR.md).
 
 **Dijital içerikten feragat:** Performansın hemen başlamasını talep ederseniz (örneğin, 14 günlük süre dolmadan önce uygulamayı indirerek veya etkinleştirerek), 2011/83/AB Direktifi'nin 16(m) Maddesi kapsamında izin verildiği üzere, performans başladıktan sonra cayma hakkınızı kaybettiğinizi açıkça kabul ve beyan edersiniz.
 
-Microsoft Store, Google Play, Mac App Store veya Apple App Store (iOS) aracılığıyla yapılan satın alma işlemleri için söz konusu platformun para iadesi veya para çekme araçlarını kullanın. Bir mağaza yayıncıdan bir isteği incelemesini veya işleme koymasını isterse yayıncı bunu platform politikasına ve geçerli yasalara uygun olarak o mağazanın konsolu aracılığıyla ele alır. Doğrudan yayıncıdan yapılan bir satın alma işlemi için, satın alma tarihinden itibaren 14 gün içinde, cayma kararınızı açıkça yazılı bir beyanla birlikte **razvan.gutulov@outlook.com**'e bildirin.
+Microsoft Store, Google Play, Mac App Store veya Apple App Store (iOS) aracılığıyla yapılan satın alma işlemleri için söz konusu platformun para iadesi veya para çekme araçlarını kullanın. Bir mağaza yayıncıdan bir isteği incelemesini veya işleme koymasını isterse yayıncı bunu platform politikasına ve geçerli yasalara uygun olarak o mağazanın konsolu aracılığıyla ele alır.
 
 ## 9. Fesih
 
@@ -70,12 +73,7 @@ Bu lisans, bu şartları ihlal etmeniz veya mağazanın erişimi iptal etmesi du
 
 Rumen tüketiciler anlaşmazlıklar için Ulusal Tüketiciyi Koruma Kurumu (ANPC — Autoritatea Națională pentru Protecția Consumatorilor, www.anpc.ro) ile iletişime geçebilir. AB/AEA tüketicileri, ülkelerinde mevcut yetkili ulusal tüketici makamını veya alternatif uyuşmazlık çözüm kuruluşunu kullanabilir; eski AB ODR platformu 20 Temmuz 2025’ten beri durdurulmuştur.
 
-## 10a. Mağaza dışı kanallar için geri ödeme politikası
-
-Doğrudan yayıncıdan (Microsoft Store, Google Play veya Apple App Store aracılığıyla değil) bir lisans veya yetki satın aldıysanız, satın alma tarihinden itibaren 14 gün içinde sipariş referansınız ve açık yazılı bir beyanla razvan.gutulov@outlook.com adresine başvurarak geri ödeme veya cayma talep edebilirsiniz. Doğrudan kanal geri ödemeleri, mümkün olduğunda orijinal ödeme kanalı üzerinden işlenir. Ödeme veya etkinleştirme anında dijital ifa talep etmiş ve ifa başladığında cayma hakkının kaybedildiğine dair açık onayınız kaydedilmişse, yayıncı dry-run/Preview ötesinde etkinleştirme veya kullanım sonrası geri ödemeyi reddedebilir; zorunlu tüketici hukukunun veya ödeme işleyicisinin kurallarının aksini gerektirdiği durumlar hariç.
-
-Zorunlu tüketici hakları ve ödeme işleyicisi kuralları etkilenmez.
 
 ## 11. İletişim
 
-**Razvan Constantin Gutulov** — razvan.gutulov@outlook.com
+**Guțulov Răzvan Constantin PFA** — razvan.gutulov@outlook.com

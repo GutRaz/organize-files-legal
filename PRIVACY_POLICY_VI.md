@@ -4,7 +4,10 @@
 
 # Chính sách quyền riêng tư - Sắp xếp tệp
 
-**Nhà xuất bản:** Razvan Constantin Gutulov  
+**Nhà xuất bản:** Guțulov Răzvan Constantin PFA  
+**Địa chỉ đăng ký:** Str. Republicii nr. 33B, bl. N3, sc. A, et. 1, ap. 3, Breaza de Sus, 105400 Breaza, jud. Prahova, România  
+**Đăng ký kinh doanh:** F2026004513003 (EUID ROONRC.F2026004513003)  
+**Mã số thuế:** 53610310  
 **Liên hệ:** razvan.gutulov@outlook.com  
 **Ngày có hiệu lực:** 28-05-2026  
 **URL công khai:** `https://github.com/GutRaz/organize-files-legal/blob/main/PRIVACY_POLICY_VI.md`
@@ -111,7 +114,7 @@ Khi bản dịch này chưa đầy đủ, Chính sách quyền riêng tư tiến
 
 ## Bên kiểm soát và liên hệ
 
-Đối với dữ liệu cá nhân do nhà phát hành xử lý, bên kiểm soát là **Razvan Constantin Gutulov**. Liên hệ: **razvan.gutulov@outlook.com**.
+Đối với dữ liệu cá nhân do nhà phát hành xử lý, bên kiểm soát là **Guțulov Răzvan Constantin PFA**. Liên hệ: **razvan.gutulov@outlook.com**.
 
 ## Lưu giữ (hồ sơ của nhà phát hành)
 

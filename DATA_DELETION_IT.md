@@ -62,4 +62,4 @@ store.
 
 ---
 
-© 2026 Razvan Constantin Gutulov. Tutti i diritti riservati.
+© 2026 Guțulov Răzvan Constantin PFA. Tutti i diritti riservati.

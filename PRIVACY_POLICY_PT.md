@@ -4,7 +4,10 @@
 
 # Política de Privacidade — Organizar Arquivos
 
-**Editor:** Razvan Constantin Gutulov  
+**Editor:** Guțulov Răzvan Constantin PFA  
+**Endereço registado:** Str. Republicii nr. 33B, bl. N3, sc. A, et. 1, ap. 3, Breaza de Sus, 105400 Breaza, jud. Prahova, România  
+**Registo comercial:** F2026004513003 (EUID ROONRC.F2026004513003)  
+**Número de identificação fiscal:** 53610310  
 **Contato:** razvan.gutulov@outlook.com  
 **Data de vigência:** 28/05/2026  
 **URL público:** `https://github.com/GutRaz/organize-files-legal/blob/main/PRIVACY_POLICY_PT.md`
@@ -106,7 +109,7 @@ Quando esta tradução estiver incompleta, prevalece a Política de Privacidade 
 
 ## Controlador e contato
 
-Para dados pessoais processados pelo editor, o controlador é **Razvan Constantin Gutulov**. Contato: **razvan.gutulov@outlook.com**.
+Para dados pessoais processados pelo editor, o controlador é **Guțulov Răzvan Constantin PFA**. Contato: **razvan.gutulov@outlook.com**.
 
 ## Retenção (registros do editor)
 

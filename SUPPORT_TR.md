@@ -9,7 +9,10 @@
 ## İletişim
 
 - **E-posta:** razvan.gutulov@outlook.com
-- **Yayıncı:** Razvan Constantin Gutulov
+- **Yayıncı:** Guțulov Răzvan Constantin PFA
+- **Kayıtlı adres:** Str. Republicii nr. 33B, bl. N3, sc. A, et. 1, ap. 3, Breaza de Sus, 105400 Breaza, jud. Prahova, România
+- **Ticaret sicili:** F2026004513003 (EUID ROONRC.F2026004513003)
+- **Vergi kimlik numarası:** 53610310
 
 Bize yazarken lütfen şunları ekleyin:
 
@@ -28,7 +31,7 @@ Bize yazarken lütfen şunları ekleyin:
 
 ## Faturalandırma ve geri ödemeler
 
-Satın alımlar ve geri ödemeler, satın aldığınız mağaza (Microsoft Store, Google Play veya Apple App Store) tarafından yönetilir. Doğrudan yayıncıdan yapılan satın alımlar için [EULA](./EULA_TR.md)'ya bakın.
+Satın alımlar ve geri ödemeler, satın aldığınız mağaza (Microsoft Store, Google Play veya Apple App Store) tarafından yönetilir./EULA_TR.md)'ya bakın.
 
 ## Gizlilik
 

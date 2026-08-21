@@ -5,6 +5,9 @@
 # 最终用户许可协议 (EULA) — 组织文件
 
 **出版商：** 拉兹万·康斯坦丁·古图洛夫  
+**注册地址:** Str. Republicii nr. 33B, bl. N3, sc. A, et. 1, ap. 3, Breaza de Sus, 105400 Breaza, jud. Prahova, România  
+**商业登记:** F2026004513003 (EUID ROONRC.F2026004513003)  
+**纳税人识别号:** 53610310  
 **联系方式：** razvan.gutulov@outlook.com  
 **生效日期：** 2026-05-28  
 **公共 URL（商店列表）：** `https://github.com/GutRaz/organize-files-legal/blob/main/EULA_ZH.md`
@@ -58,7 +61,7 @@
 
 **数字内容豁免：** 如果您请求立即开始履行（例如，在 14 天期限到期之前下载或激活应用程序），您明确承认并同意，根据 2011/83/EU 指令第 16(m) 条的规定，一旦履行开始，您将失去撤销权。
 
-对于通过 Microsoft Store、Google Play、Mac App Store 或 Apple App Store (iOS) 进行的购买，请使用该平台的退款或撤回工具。如果商店要求发布者审查或处理请求，发布者将通过该商店控制台按照平台政策和适用法律处理。对于直接从发布者购买的情况，请在购买后 14 天内通过 **razvan.gutulov@outlook.com** 通知发布者，并提供明确的书面撤回决定。
+对于通过 Microsoft Store、Google Play、Mac App Store 或 Apple App Store (iOS) 进行的购买，请使用该平台的退款或撤回工具。 如果商店要求发布者审查或处理请求，发布者将通过该商店控制台按照平台政策和适用法律处理。
 
 ## 9. 终止
 
@@ -70,11 +73,6 @@
 
 罗马尼亚消费者可联系国家消费者保护局（ANPC — Autoritatea Națională pentru Protecția Consumatorilor, www.anpc.ro）解决争议。EU/EEA 消费者可以使用所在国家/地区的主管消费者机构或替代性争议解决机构；原 EU ODR 平台已于 2025 年 7 月 20 日停止。
 
-## 10a. 非实体店渠道退款政策
-
-如果您直接从发行商处购买许可证或权利（而非通过 Microsoft Store、Google Play 或 Apple App Store），您可以在购买后 14 天内联系 razvan.gutulov@outlook.com，提供订单参考号和明确的书面声明，申请退款或撤销。在可行的情况下，直接渠道退款通过原始支付渠道处理。如果结账或激活要求立即进行数字交付，并记录了您明确确认交付开始后撤销权丧失，则发行商可在 dry-run/Preview 之外的激活或使用后拒绝退款，但强制性消费者保护法或支付处理方规则另有要求的除外。
-
-强制性消费者权利和支付处理方规则不受影响。
 
 ## 11. 联系方式
 

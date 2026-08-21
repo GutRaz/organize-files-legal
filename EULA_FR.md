@@ -4,7 +4,10 @@
 
 # Contrat de licence utilisateur final (CLUF) — Organize Files
 
-**Éditeur :** Razvan Constantin Gutulov  
+**Éditeur :** Guțulov Răzvan Constantin PFA  
+**Adresse enregistrée:** Str. Republicii nr. 33B, bl. N3, sc. A, et. 1, ap. 3, Breaza de Sus, 105400 Breaza, jud. Prahova, România  
+**Registre du commerce:** F2026004513003 (EUID ROONRC.F2026004513003)  
+**Numéro d'identification fiscale:** 53610310  
 **Contact :** razvan.gutulov@outlook.com  
 **Date d'effet :** 2026-05-28  
 **URL publique (fiches store) :** `https://github.com/GutRaz/organize-files-legal/blob/main/EULA_FR.md`
@@ -58,7 +61,7 @@ Si vous êtes un consommateur résidant dans l'**Union européenne ou l'Espace �
 
 **Renonciation au droit de rétractation pour les contenus numériques :** Si vous demandez l'exécution immédiate — par exemple en téléchargeant ou activant l'application avant l'expiration des 14 jours — vous reconnaissez expressément et acceptez de perdre votre droit de rétractation dès le début de l'exécution, conformément à l'article 16, point m), de la Directive 2011/83/UE.
 
-Pour les achats effectués via Microsoft Store, Google Play, Mac App Store ou Apple App Store (iOS), utilisez les outils de remboursement ou de rétractation de cette plateforme. Si un store demande à l'éditeur d'examiner ou de traiter une demande, l'éditeur la traite via la console de ce store selon la politique de la plateforme et le droit applicable. Pour un achat effectué directement auprès de l'éditeur, notifiez **razvan.gutulov@outlook.com** dans les 14 jours suivant l'achat par une déclaration écrite claire de votre décision de vous rétracter.
+Pour les achats effectués via Microsoft Store, Google Play, Mac App Store ou Apple App Store (iOS), utilisez les outils de remboursement ou de rétractation de cette plateforme. Si un store demande à l'éditeur d'examiner ou de traiter une demande, l'éditeur la traite via la console de ce store selon la politique de la plateforme et le droit applicable.
 
 ## 9. Résiliation
 
@@ -68,13 +71,10 @@ Cette licence prend fin en cas de violation des présentes conditions ou de rév
 
 Sauf règles impératives de protection des consommateurs dans votre pays, les litiges sont régis par le droit roumain, sans égard aux règles de conflit de lois.
 
-## 10a. Politique de remboursement pour les canaux hors Store
-
-Si vous avez acheté une licence ou un droit directement auprès de l'éditeur (et non via Microsoft Store, Google Play ou Apple App Store), vous pouvez demander un remboursement ou une rétractation dans les 14 jours suivant l'achat en contactant razvan.gutulov@outlook.com avec la référence de commande et une déclaration écrite claire. Les remboursements hors store sont traités via le canal de paiement d'origine lorsque cela est praticable. Si l'activation a demandé une exécution numérique immédiate et a recueilli votre reconnaissance explicite que le droit de rétractation est perdu dès le début de l'exécution, l'éditeur peut refuser un remboursement après activation ou utilisation au-delà du dry-run/aperçu, sauf lorsque la loi impérative de protection des consommateurs ou les règles du prestataire de paiement exigent autrement.
 
 ## 11. Contact
 
-**Razvan Constantin Gutulov** — razvan.gutulov@outlook.com
+**Guțulov Răzvan Constantin PFA** — razvan.gutulov@outlook.com
 
 ## Documents connexes
 

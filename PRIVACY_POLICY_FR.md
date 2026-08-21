@@ -4,7 +4,10 @@
 
 # Politique de confidentialité — Organize Files
 
-**Éditeur :** Razvan Constantin Gutulov  
+**Éditeur :** Guțulov Răzvan Constantin PFA  
+**Adresse enregistrée:** Str. Republicii nr. 33B, bl. N3, sc. A, et. 1, ap. 3, Breaza de Sus, 105400 Breaza, jud. Prahova, România  
+**Registre du commerce:** F2026004513003 (EUID ROONRC.F2026004513003)  
+**Numéro d'identification fiscale:** 53610310  
 **Contact :** razvan.gutulov@outlook.com  
 **Date d'effet :** 2026-05-28  
 **URL publique :** `https://github.com/GutRaz/organize-files-legal/blob/main/PRIVACY_POLICY_FR.md`
@@ -17,7 +20,7 @@ Organize Files traite les fichiers **localement sur votre appareil**. Le contenu
 
 ## Responsable du traitement et contact
 
-Pour les données personnelles traitées par l'éditeur, le responsable du traitement est **Razvan Constantin Gutulov**. Contact : **razvan.gutulov@outlook.com**.
+Pour les données personnelles traitées par l'éditeur, le responsable du traitement est **Guțulov Răzvan Constantin PFA**. Contact : **razvan.gutulov@outlook.com**.
 
 ## Données traitées localement
 

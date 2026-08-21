@@ -4,7 +4,10 @@
 
 # 최종 사용자 사용권 계약(EULA) - 파일 정리
 
-**출판사:** Razvan Constantin Gutulov  
+**출판사:** Guțulov Răzvan Constantin PFA  
+**등록 주소:** Str. Republicii nr. 33B, bl. N3, sc. A, et. 1, ap. 3, Breaza de Sus, 105400 Breaza, jud. Prahova, România  
+**상업 등기:** F2026004513003 (EUID ROONRC.F2026004513003)  
+**납세자 번호:** 53610310  
 **연락처:** razvan.gutulov@outlook.com  
 **유효일자:** 2026-05-28  
 **공개 URL(스토어 목록):** `https://github.com/GutRaz/organize-files-legal/blob/main/EULA_KO.md`
@@ -58,7 +61,7 @@
 
 **디지털 콘텐츠에 대한 권리 포기:** 이행이 즉시 시작되도록 요청하는 경우(예: 14일 기간이 만료되기 전에 앱을 다운로드하거나 활성화하여) Directive 2011/83/EU의 16(m)조에 따라 허용된 대로 이행이 시작된 후 철회 권리를 상실한다는 점을 명시적으로 인정하고 이에 동의합니다.
 
-Microsoft Store, Google Play, Mac App Store 또는 Apple App Store (iOS)를 통한 구매의 경우 해당 플랫폼의 환불 또는 철회 도구를 사용하십시오. 스토어가 게시자에게 요청 검토 또는 처리를 요청하면 게시자는 플랫폼 정책 및 적용 법령에 따라 해당 스토어 콘솔을 통해 처리합니다. 게시자로부터 직접 구매한 경우, 구매 후 14일 이내에 철회 결정에 대한 명확한 서면 진술과 함께 **razvan.gutulov@outlook.com**으로 알리십시오.
+Microsoft Store, Google Play, Mac App Store 또는 Apple App Store (iOS)를 통한 구매의 경우 해당 플랫폼의 환불 또는 철회 도구를 사용하십시오. 스토어가 게시자에게 요청 검토 또는 처리를 요청하면 게시자는 플랫폼 정책 및 적용 법령에 따라 해당 스토어 콘솔을 통해 처리합니다.
 
 ## 9. 해지
 
@@ -70,11 +73,6 @@ Microsoft Store, Google Play, Mac App Store 또는 Apple App Store (iOS)를 통�
 
 루마니아 소비자는 분쟁에 대해 국가 소비자 보호 당국(ANPC — Autoritatea Națională pentru Protecția Consumatorilor, www.anpc.ro)에 문의할 수 있습니다. EU/EEA 소비자는 거주 국가의 관할 소비자 기관 또는 대체 분쟁 해결 기관을 이용할 수 있습니다. 기존 EU ODR 플랫폼은 2025년 7월 20일부터 중단되었습니다.
 
-## 10a. 비매장 채널에 대한 환불 정책
-
-Microsoft Store, Google Play 또는 Apple App Store를 거치지 않고 게시자로부터 직접 라이선스나 권한을 구매한 경우, 구매 후 14일 이내에 razvan.gutulov@outlook.com으로 주문 참조와 명확한 서면 진술을 첨부하여 환불 또는 철회를 요청할 수 있습니다. 직접 채널 환불은 가능한 경우 원래 결제 채널을 통해 처리됩니다. 결제 또는 활성화 시 즉시 디지털 이행이 요구되고 이행 시작 후 철회권이 상실됨을 명시적으로 승인한 것이 기록된 경우, 게시자는 dry-run/Preview를 넘어선 활성화 또는 사용 후 환불을 거부할 수 있습니다. 다만 강행적 소비자보호법 또는 결제 처리업체 규칙이 달리 요구하는 경우는 예외입니다.
-
-강행 소비자 권리와 결제 처리업체 규칙은 영향을 받지 않습니다.
 
 ## 11. 연락처
 

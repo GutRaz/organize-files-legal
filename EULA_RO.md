@@ -4,7 +4,10 @@
 
 # Acord de licență pentru utilizatorul final (EULA) — Organize Files
 
-**Editor:** Razvan Constantin Gutulov  
+**Editor:** Guțulov Răzvan Constantin PFA  
+**Sediu profesional:** Str. Republicii nr. 33B, bl. N3, sc. A, et. 1, ap. 3, Breaza de Sus, 105400 Breaza, jud. Prahova, România  
+**Registrul comerțului:** F2026004513003 (EUID ROONRC.F2026004513003)  
+**Cod unic de înregistrare:** 53610310  
 **Contact:** razvan.gutulov@outlook.com  
 **Data efectivă:** 2026-05-28  
 
@@ -50,7 +53,7 @@ Dacă ești un consumator rezident în **Uniunea Europeană sau Spațiul Economi
 
 **Renunțarea la drept pentru conținut digital:** Dacă soliciți executarea imediată — de exemplu, prin descărcarea sau activarea aplicației înainte de expirarea celor 14 zile — recunoști și ești de acord că pierzi dreptul de retragere odată ce executarea a început, conform art. 16 lit. (m) din Directiva 2011/83/UE.
 
-Pentru achiziții făcute prin Microsoft Store, Google Play, Mac App Store sau Apple App Store (iOS), folosește instrumentele de rambursare sau retragere ale platformei. Dacă magazinul cere editorului să analizeze sau să proceseze o cerere, editorul o tratează în consola acelui magazin conform politicii platformei și legii aplicabile. Pentru o achiziție făcută direct de la editor, notifică **razvan.gutulov@outlook.com** în termen de 14 zile de la achiziție, printr-o declarație scrisă clară a deciziei de retragere.
+Pentru achiziții făcute prin Microsoft Store, Google Play, Mac App Store sau Apple App Store (iOS), folosește instrumentele de rambursare sau retragere ale platformei. Dacă magazinul cere editorului să analizeze sau să proceseze o cerere, editorul o tratează în consola acelui magazin conform politicii platformei și legii aplicabile.
 
 ## 9. Încetare
 
@@ -60,11 +63,6 @@ Licența încetează la încălcarea termenilor sau revocarea accesului de cătr
 
 Exceptând legea imperativă de protecție a consumatorilor, litigiile sunt guvernate de legile României.
 
-## 10a. Politica de rambursare pentru canale non-Store
-
-Dacă ai cumpărat o licență sau un drept direct de la editor (nu prin Microsoft Store, Google Play sau Apple App Store), poți solicita rambursare sau retragere în 14 zile de la achiziție contactând razvan.gutulov@outlook.com cu referința comenzii și o declarație scrisă clară. Rambursările pe canal direct sunt procesate prin canalul de plată original, acolo unde este practic. Dacă plata sau activarea au solicitat executarea digitală imediată și au înregistrat confirmarea explicită că dreptul de retragere se pierde odată cu începerea executării, editorul poate refuza rambursarea după activare sau utilizare dincolo de dry-run/Preview, exceptând cazurile în care legea imperativă de protecție a consumatorilor sau regulile procesatorului de plăți impun altfel.
-
-Drepturile obligatorii ale consumatorului și regulile procesatorului de plăți rămân neafectate.
 
 ## 11. Contact
 

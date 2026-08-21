@@ -9,7 +9,10 @@ Besoin d'aide avec **Organize Files** ? Nous sommes ravis de vous aider.
 ## Contact
 
 - **E-mail :** razvan.gutulov@outlook.com
-- **Éditeur :** Razvan Constantin Gutulov
+- **Éditeur :** Guțulov Răzvan Constantin PFA
+- **Adresse enregistrée:** Str. Republicii nr. 33B, bl. N3, sc. A, et. 1, ap. 3, Breaza de Sus, 105400 Breaza, jud. Prahova, România
+- **Registre du commerce:** F2026004513003 (EUID ROONRC.F2026004513003)
+- **Numéro d'identification fiscale:** 53610310
 
 Lorsque vous nous écrivez, veuillez indiquer :
 
@@ -28,7 +31,7 @@ Nous nous efforçons de répondre sous **2 à 3 jours ouvrés**.
 
 ## Facturation et remboursements
 
-Les achats et les remboursements sont gérés par le store où vous avez effectué l'achat (Microsoft Store, Google Play ou Apple App Store). Pour les achats effectués directement auprès de l'éditeur, consultez l'[EULA](./EULA_FR.md).
+Les achats et les remboursements sont gérés par le store où vous avez effectué l'achat (Microsoft Store, Google Play ou Apple App Store)./EULA_FR.md).
 
 ## Confidentialité
 

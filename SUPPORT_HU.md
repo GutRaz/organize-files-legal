@@ -9,7 +9,10 @@ Segítségre van szükséged az **Organize Files** használatához? Szívesen se
 ## Kapcsolat
 
 - **E-mail:** razvan.gutulov@outlook.com
-- **Kiadó:** Razvan Constantin Gutulov
+- **Kiadó:** Guțulov Răzvan Constantin PFA
+- **Bejegyzett cím:** Str. Republicii nr. 33B, bl. N3, sc. A, et. 1, ap. 3, Breaza de Sus, 105400 Breaza, jud. Prahova, România
+- **Cégjegyzék:** F2026004513003 (EUID ROONRC.F2026004513003)
+- **Adóazonosító szám:** 53610310
 
 Amikor írsz nekünk, kérjük, add meg:
 
@@ -28,7 +31,7 @@ Igyekszünk **2–3 munkanapon** belül válaszolni.
 
 ## Számlázás és visszatérítés
 
-A vásárlásokat és a visszatérítéseket az az áruház kezeli, ahol vásároltál (Microsoft Store, Google Play vagy Apple App Store). A közvetlenül a kiadótól történt vásárlásokért lásd az [EULA](./EULA_HU.md) dokumentumot.
+A vásárlásokat és a visszatérítéseket az az áruház kezeli, ahol vásároltál (Microsoft Store, Google Play vagy Apple App Store)./EULA_HU.md) dokumentumot.
 
 ## Adatvédelem
 

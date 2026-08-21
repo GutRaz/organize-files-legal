@@ -9,7 +9,10 @@ Tarvitsetko apua **Organize Files** -sovelluksen kanssa? Autamme mielellämme.
 ## Yhteystiedot
 
 - **Sähköposti:** razvan.gutulov@outlook.com
-- **Julkaisija:** Razvan Constantin Gutulov
+- **Julkaisija:** Guțulov Răzvan Constantin PFA
+- **Rekisteröity osoite:** Str. Republicii nr. 33B, bl. N3, sc. A, et. 1, ap. 3, Breaza de Sus, 105400 Breaza, jud. Prahova, România
+- **Kaupparekisteri:** F2026004513003 (EUID ROONRC.F2026004513003)
+- **Verotunniste:** 53610310
 
 Kun kirjoitat meille, liitä mukaan:
 
@@ -28,7 +31,7 @@ Pyrimme vastaamaan **2–3 arkipäivän** kuluessa.
 
 ## Laskutus ja hyvitykset
 
-Ostokset ja hyvitykset hoitaa kauppa, josta ostit (Microsoft Store, Google Play tai Apple App Store). Suoraan julkaisijalta tehtyjen ostosten osalta katso [EULA](./EULA_FI.md).
+Ostokset ja hyvitykset hoitaa kauppa, josta ostit (Microsoft Store, Google Play tai Apple App Store)./EULA_FI.md).
 
 ## Tietosuoja
 

@@ -4,7 +4,10 @@
 
 # Makubaliano ya Leseni ya Mtumiaji wa Hatima (EULA) - Panga Faili
 
-**Mchapishaji:** Razvan Constantin Gutulov  
+**Mchapishaji:** Guțulov Răzvan Constantin PFA  
+**Anwani iliyosajiliwa:** Str. Republicii nr. 33B, bl. N3, sc. A, et. 1, ap. 3, Breaza de Sus, 105400 Breaza, jud. Prahova, România  
+**Rejista ya biashara:** F2026004513003 (EUID ROONRC.F2026004513003)  
+**Nambari ya utambulisho wa kodi:** 53610310  
 **Mawasiliano:** razvan.gutulov@outlook.com  
 **Tarehe ya kuanza kutumika:** 2026-05-28  
 **URL ya Umma (orodha za maduka):** `https://github.com/GutRaz/organize-files-legal/blob/main/EULA_SW.md`
@@ -58,7 +61,7 @@ Iwapo wewe ni mkazi wa mtumiaji katika **Umoja wa Ulaya au Eneo la Kiuchumi la U
 
 **Ondo la maudhui dijitali:** Ukiomba utendakazi uanze mara moja - kwa mfano, kwa kupakua au kuwezesha programu kabla ya muda wa siku 14 kuisha - unakubali kwa uwazi na kukubali kwamba utapoteza haki yako ya kujiondoa mara tu utendakazi unapoanza, kama inavyoruhusiwa chini ya Kifungu cha 16(m) cha Maelekezo ya 2011/83/EU.
 
-Kwa ununuzi unaofanywa kupitia Microsoft Store, Google Play, Mac App Store, au Apple App Store (iOS), tumia zana za urejeshaji pesa za mfumo huo au za kutoa. Ikiwa duka litamwomba mchapishaji kukagua au kuchakata ombi, mchapishaji hulishughulikia kupitia dashibodi ya duka hilo kulingana na sera ya mfumo na sheria inayotumika. Kwa ununuzi uliofanywa moja kwa moja kutoka kwa mchapishaji, mjulishe **razvan.gutulov@outlook.com** ndani ya siku 14 za ununuzi ukitumia taarifa iliyo wazi iliyoandikwa ya uamuzi wako wa kujiondoa.
+Kwa ununuzi unaofanywa kupitia Microsoft Store, Google Play, Mac App Store, au Apple App Store (iOS), tumia zana za urejeshaji pesa za mfumo huo au za kutoa. Ikiwa duka litamwomba mchapishaji kukagua au kuchakata ombi, mchapishaji hulishughulikia kupitia dashibodi ya duka hilo kulingana na sera ya mfumo na sheria inayotumika.
 
 ## 9. Kukomesha
 
@@ -70,12 +73,7 @@ Isipokuwa sheria ya lazima ya watumiaji katika nchi yako inahitaji vinginevyo, m
 
 Wateja wa Kiromania wanaweza kuwasiliana na Mamlaka ya Kitaifa ya Ulinzi wa Wateja (ANPC — Autoritatea Națională pentru Protecția Consumatorilor, www.anpc.ro) kwa migogoro. Wateja wa EU/EEA wanaweza kutumia mamlaka husika ya kitaifa ya watumiaji au chombo mbadala cha kutatua migogoro kilichopo nchini mwao; jukwaa la zamani la EU ODR limesitishwa tangu 20 Julai 2025.
 
-## 10a. Sera ya kurejesha pesa kwa njia zisizo za Duka
-
-Ukinunua leseni au haki moja kwa moja kutoka kwa mchapishaji (si kupitia Microsoft Store, Google Play, au Apple App Store), unaweza kuomba kurejeshewa pesa au kuondoka ndani ya siku 14 za ununuzi kwa kuwasiliana na razvan.gutulov@outlook.com ukiambatanisha rejeleo la agizo na taarifa iliyoandikwa wazi. Marejesho ya njia ya moja kwa moja yanashughulikiwa kupitia njia ya malipo ya asili inapowezekana. Ikiwa malipo au uanzishaji uliomba utoaji wa kidijitali wa papo hapo na kurekodi uthibitisho wazi kwamba haki ya kuondoka inapotea utoaji ukianza, mchapishaji anaweza kukataa kurejesha pesa baada ya uanzishaji au matumizi zaidi ya dry-run/Preview, isipokuwa pale sheria ya lazima ya mtumiaji au sheria za mchakatashaji wa malipo zinahitaji vinginevyo.
-
-Haki za lazima za mtumiaji na sheria za mchakatashaji wa malipo hazibadiliki.
 
 ## 11. Wasiliana
 
-**Razvan Constantin Gutulov** - razvan.gutulov@outlook.com
+**Guțulov Răzvan Constantin PFA** - razvan.gutulov@outlook.com

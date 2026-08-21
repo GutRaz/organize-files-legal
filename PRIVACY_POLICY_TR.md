@@ -4,7 +4,10 @@
 
 # Gizlilik Politikası — Dosyaları Düzenleyin
 
-**Yayıncı:** Razvan Constantin Gutulov  
+**Yayıncı:** Guțulov Răzvan Constantin PFA  
+**Kayıtlı adres:** Str. Republicii nr. 33B, bl. N3, sc. A, et. 1, ap. 3, Breaza de Sus, 105400 Breaza, jud. Prahova, România  
+**Ticaret sicili:** F2026004513003 (EUID ROONRC.F2026004513003)  
+**Vergi kimlik numarası:** 53610310  
 **İletişim:** razvan.gutulov@outlook.com  
 **Geçerlilik tarihi:** 2026-05-28  
 **Genel URL:** `https://github.com/GutRaz/organize-files-legal/blob/main/PRIVACY_POLICY_TR.md`
@@ -112,7 +115,7 @@ Bu çeviri eksik olduğunda İngilizce Gizlilik Politikası geçerlidir.
 
 ## Veri sorumlusu ve iletişim
 
-Yayıncı tarafından işlenen kişisel veriler için veri sorumlusu **Razvan Constantin Gutulov**'dur. İletişim: **razvan.gutulov@outlook.com**.
+Yayıncı tarafından işlenen kişisel veriler için veri sorumlusu **Guțulov Răzvan Constantin PFA**'dur. İletişim: **razvan.gutulov@outlook.com**.
 
 ## Saklama (yayıncı kayıtları)
 

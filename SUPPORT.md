@@ -5,7 +5,10 @@ Need help with **Organize Files**? We are happy to assist.
 ## Contact
 
 - **Email:** razvan.gutulov@outlook.com
-- **Publisher:** Razvan Constantin Gutulov
+- **Publisher:** Guțulov Răzvan Constantin PFA
+- **Registered address:** Str. Republicii nr. 33B, bl. N3, sc. A, et. 1, ap. 3, Breaza de Sus, 105400 Breaza, jud. Prahova, România
+- **Trade register:** F2026004513003 (EUID ROONRC.F2026004513003)
+- **Tax identification number:** 53610310
 
 When you write, please include:
 

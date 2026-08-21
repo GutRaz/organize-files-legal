@@ -58,4 +58,4 @@ bestuur of uit te vee, gebruik daardie winkel se rekeninginstellings.
 
 ---
 
-© 2026 Razvan Constantin Gutulov. Alle regte voorbehou.
+© 2026 Guțulov Răzvan Constantin PFA. Alle regte voorbehou.

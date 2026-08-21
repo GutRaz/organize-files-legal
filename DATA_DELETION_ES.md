@@ -62,4 +62,4 @@ compra que conserva la tienda, usa los ajustes de la cuenta de esa tienda.
 
 ---
 
-© 2026 Razvan Constantin Gutulov. Todos los derechos reservados.
+© 2026 Guțulov Răzvan Constantin PFA. Todos los derechos reservados.

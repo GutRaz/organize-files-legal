@@ -4,7 +4,10 @@
 
 # Adatvédelmi szabályzat — Fájlok rendezése
 
-**Kiadó:** Razvan Constantin Gutulov  
+**Kiadó:** Guțulov Răzvan Constantin PFA  
+**Bejegyzett cím:** Str. Republicii nr. 33B, bl. N3, sc. A, et. 1, ap. 3, Breaza de Sus, 105400 Breaza, jud. Prahova, România  
+**Cégjegyzék:** F2026004513003 (EUID ROONRC.F2026004513003)  
+**Adóazonosító szám:** 53610310  
 **Kapcsolat:** razvan.gutulov@outlook.com  
 **Hatálybalépés dátuma:** 2026-05-28  
 **Nyilvános URL:** `https://github.com/GutRaz/organize-files-legal/blob/main/PRIVACY_POLICY_HU.md`
@@ -104,7 +107,7 @@ Ha ez a fordítás hiányos, az angol adatvédelmi szabályzat az irányadó.
 
 ## Adatkezelő és kapcsolat
 
-A kiadó által kezelt személyes adatok adatkezelője **Razvan Constantin Gutulov**. Kapcsolat: **razvan.gutulov@outlook.com**.
+A kiadó által kezelt személyes adatok adatkezelője **Guțulov Răzvan Constantin PFA**. Kapcsolat: **razvan.gutulov@outlook.com**.
 
 ## Megőrzés (kiadói nyilvántartások)
 

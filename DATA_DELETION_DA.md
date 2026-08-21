@@ -57,4 +57,4 @@ butikken opbevarer, skal du bruge kontoindstillingerne i den pågældende butik.
 
 ---
 
-© 2026 Razvan Constantin Gutulov. Alle rettigheder forbeholdes.
+© 2026 Guțulov Răzvan Constantin PFA. Alle rettigheder forbeholdes.

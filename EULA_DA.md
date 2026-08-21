@@ -4,7 +4,10 @@
 
 # Slutbrugerlicensaftale (EULA) — Organiser filer
 
-**Udgiver:** Razvan Constantin Gutulov  
+**Udgiver:** Guțulov Răzvan Constantin PFA  
+**Registreret adresse:** Str. Republicii nr. 33B, bl. N3, sc. A, et. 1, ap. 3, Breaza de Sus, 105400 Breaza, jud. Prahova, România  
+**Handelsregister:** F2026004513003 (EUID ROONRC.F2026004513003)  
+**Skatteregistreringsnummer:** 53610310  
 **Kontakt:** razvan.gutulov@outlook.com  
 **Ikrafttrædelsesdato:** 2026-05-28  
 **Offentlig webadresse (butiksfortegnelser):** `https://github.com/GutRaz/organize-files-legal/blob/main/EULA_DA.md`
@@ -58,7 +61,7 @@ Hvis du er en forbruger bosiddende i **Den Europæiske Union eller Det Europæis
 
 **Frafaldelse for digitalt indhold:** Hvis du anmoder om, at ydeevnen begynder med det samme - for eksempel ved at downloade eller aktivere appen inden 14-dagesperioden udløber - anerkender og accepterer du udtrykkeligt, at du mister din fortrydelsesret, når udførelsen er påbegyndt, som tilladt i henhold til artikel 16(m) i direktiv 2011/83/EU.
 
-For køb foretaget gennem Microsoft Store, Google Play, Mac App Store eller Apple App Store (iOS) skal du bruge den pågældende platforms refusions- eller tilbagetrækningsværktøjer. Hvis en butik beder udgiveren om at gennemgå eller behandle en anmodning, håndterer udgiveren den via den pågældende butiks konsol i henhold til platformspolitik og gældende lovgivning. For et køb foretaget direkte fra udgiveren skal du underrette **razvan.gutulov@outlook.com** inden for 14 dage efter købet med en klar skriftlig erklæring om din beslutning om at fortryde.
+For køb foretaget gennem Microsoft Store, Google Play, Mac App Store eller Apple App Store (iOS) skal du bruge den pågældende platforms refusions- eller tilbagetrækningsværktøjer. Hvis en butik beder udgiveren om at gennemgå eller behandle en anmodning, håndterer udgiveren den via den pågældende butiks konsol i henhold til platformspolitik og gældende lovgivning.
 
 ## 9. Opsigelse
 
@@ -70,12 +73,7 @@ Medmindre ufravigelig forbrugerlovgivning i dit land kræver andet, er tvister u
 
 Rumænske forbrugere kan kontakte den nationale forbrugerbeskyttelsesmyndighed (ANPC — Autoritatea Națională pentru Protecția Consumatorilor, www.anpc.ro) ved tvister. EU/EØS-forbrugere kan bruge den kompetente nationale forbrugermyndighed eller alternative tvistløsningsenhed i deres land; den tidligere EU-ODR-platform er ophørt fra 20. juli 2025.
 
-## 10a. Refusionspolitik for ikke-butikskanaler
-
-Hvis du har købt en licens eller rettighed direkte fra udgiveren (ikke via Microsoft Store, Google Play eller Apple App Store), kan du anmode om refusion eller fortrydelse inden for 14 dage efter købet ved at kontakte razvan.gutulov@outlook.com med din ordreference og en klar skriftlig erklæring. Refusioner via direkte kanal håndteres gennem den oprindelige betalingskanal, hvor det er praktisk. Hvis betaling eller aktivering krævede øjeblikkelig digital levering og registrerede dit udtrykkelige samtykke til, at fortrydelsesretten tabes, når leveringen begynder, kan udgiveren afvise refusion efter aktivering eller brug ud over dry-run/Preview, undtagen hvor ufravigelig forbrugerlovgivning eller betalingsbehandlerens regler kræver andet.
-
-Ufravigelige forbrugerrettigheder og betalingsbehandlerens regler berøres ikke.
 
 ## 11. Kontakt
 
-**Razvan Constantin Gutulov** — razvan.gutulov@outlook.com
+**Guțulov Răzvan Constantin PFA** — razvan.gutulov@outlook.com
