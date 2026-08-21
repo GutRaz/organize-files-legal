@@ -59,7 +59,7 @@ Voir [Politique de confidentialité](./PRIVACY_POLICY_FR.md).
 
 Si vous êtes un consommateur résidant dans l'**Union européenne ou l'Espace économique européen**, vous disposez d'un droit de rétractation dans un délai de **14 jours calendaires** à compter de la conclusion de la transaction, sans avoir à fournir de motif (droit de rétractation selon la Directive 2011/83/UE).
 
-**Renonciation au droit de rétractation pour les contenus numériques :** Si vous demandez l'exécution immédiate — par exemple en téléchargeant ou activant l'application avant l'expiration des 14 jours — vous reconnaissez expressément et acceptez de perdre votre droit de rétractation dès le début de l'exécution, conformément à l'article 16, point m), de la Directive 2011/83/UE.
+**Renonciation au droit de rétractation pour les contenus numériques :** Vous ne perdez le droit de rétractation que si vous avez donné votre accord préalable exprès pour que l'exécution commence pendant le délai de 14 jours, reconnu que cet accord met fin à ce droit, et reçu la confirmation du contrat sur un support durable, comme l'exige l'article 16, point m), de la directive 2011/83/UE. Le magasin par lequel vous achetez recueille cet accord et cette reconnaissance au moment du paiement.
 
 Pour les achats effectués via Microsoft Store, Google Play, Mac App Store ou Apple App Store (iOS), utilisez les outils de remboursement ou de rétractation de cette plateforme. Si un store demande à l'éditeur d'examiner ou de traiter une demande, l'éditeur la traite via la console de ce store selon la politique de la plateforme et le droit applicable.
 

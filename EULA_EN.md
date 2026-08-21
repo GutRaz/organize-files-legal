@@ -55,7 +55,7 @@ See [Privacy Policy](./PRIVACY_POLICY_EN.md).
 
 If you are a consumer resident in the **European Union or European Economic Area**, you have the right to withdraw from this purchase within **14 calendar days** of completing the transaction, without giving any reason (right of withdrawal under Directive 2011/83/EU).
 
-**Waiver for digital content:** If you request that performance begin immediately — for example, by downloading or activating the app before the 14-day period expires — you explicitly acknowledge and agree that you lose your right of withdrawal once performance has begun, as permitted under Article 16(m) of Directive 2011/83/EU.
+**Waiver for digital content:** You lose the right of withdrawal only where you gave prior express consent for performance to begin during the 14-day period, acknowledged that giving that consent ends the right, and received confirmation of the contract on a durable medium, as Article 16(m) of Directive 2011/83/EU requires. The store you purchase through captures that consent and that acknowledgement at checkout.
 
 For purchases made through Microsoft Store, Google Play, Mac App Store, or Apple App Store (iOS), use that platform's refund or withdrawal tools. If a store asks the publisher to review or process a request, the publisher handles it through that store's console according to platform policy and applicable law.
 

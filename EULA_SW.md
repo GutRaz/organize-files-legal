@@ -59,7 +59,7 @@ Tazama [Sera ya Faragha](./PRIVACY_POLICY_SW.md).
 
 Iwapo wewe ni mkazi wa mtumiaji katika **Umoja wa Ulaya au Eneo la Kiuchumi la Ulaya**, una haki ya kujiondoa kwenye ununuzi huu ndani ya **siku 14 za kalenda** baada ya kukamilisha muamala, bila kutoa sababu yoyote (haki ya kujiondoa chini ya Maelekezo ya 2011/83/EU).
 
-**Ondo la maudhui dijitali:** Ukiomba utendakazi uanze mara moja - kwa mfano, kwa kupakua au kuwezesha programu kabla ya muda wa siku 14 kuisha - unakubali kwa uwazi na kukubali kwamba utapoteza haki yako ya kujiondoa mara tu utendakazi unapoanza, kama inavyoruhusiwa chini ya Kifungu cha 16(m) cha Maelekezo ya 2011/83/EU.
+**Ondo la maudhui dijitali:** Unapoteza haki ya kujiondoa endapo tu ulitoa idhini ya wazi mapema ili utekelezaji uanze ndani ya siku 14, ulikubali kwamba idhini hiyo inakomesha haki hiyo, na ulipokea uthibitisho wa mkataba kwenye kifaa cha kudumu, kama Ibara ya 16(m) ya Maelekezo 2011/83/EU inavyotaka. Duka unalonunua kupitia hulirekodi idhini hiyo na ukubali huo wakati wa malipo.
 
 Kwa ununuzi unaofanywa kupitia Microsoft Store, Google Play, Mac App Store, au Apple App Store (iOS), tumia zana za urejeshaji pesa za mfumo huo au za kutoa. Ikiwa duka litamwomba mchapishaji kukagua au kuchakata ombi, mchapishaji hulishughulikia kupitia dashibodi ya duka hilo kulingana na sera ya mfumo na sheria inayotumika.
 

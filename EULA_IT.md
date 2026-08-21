@@ -59,7 +59,7 @@ Consulta l'[Informativa sulla privacy](./PRIVACY_POLICY_IT.md).
 
 Se sei un consumatore residente nell'**Unione Europea o nello Spazio Economico Europeo**, hai il diritto di recedere da questo acquisto entro **14 giorni di calendario** dal completamento della transazione, senza fornire alcuna motivazione (diritto di recesso ai sensi della Direttiva 2011/83/UE).
 
-**Rinuncia per contenuti digitali:** Se richiedi che la prestazione abbia inizio immediatamente, ad esempio scaricando o attivando l'app prima della scadenza del periodo di 14 giorni, riconosci e accetti esplicitamente di perdere il diritto di recesso una volta iniziata la prestazione, come consentito dall'Articolo 16(m) della Direttiva 2011/83/UE.
+**Rinuncia per contenuti digitali:** Il diritto di recesso si perde solo se è stato dato il consenso espresso preventivo all'inizio dell'esecuzione entro i 14 giorni, si è riconosciuto che tale consenso estingue il diritto e si è ricevuta conferma del contratto su un supporto durevole, come richiede l'articolo 16, lettera m), della direttiva 2011/83/UE. Lo store presso cui si acquista raccoglie quel consenso e quel riconoscimento al momento del pagamento.
 
 Per gli acquisti effettuati tramite Microsoft Store, Google Play, Mac App Store o Apple App Store (iOS), utilizza gli strumenti di rimborso o prelievo di tale piattaforma. Se un negozio chiede all'editore di esaminare o elaborare una richiesta, l'editore la gestirà tramite la console del negozio in base alla politica della piattaforma e alla legge applicabile.
 

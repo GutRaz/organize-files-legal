@@ -59,7 +59,7 @@ Zobacz [Politykę prywatności](./PRIVACY_POLICY_PL.md).
 
 Jeśli jesteś konsumentem zamieszkującym na terenie **Unii Europejskiej lub Europejskiego Obszaru Gospodarczego**, masz prawo odstąpić od tego zakupu w ciągu **14 dni kalendarzowych** od zakończenia transakcji, bez podania przyczyny (prawo odstąpienia na mocy Dyrektywy 2011/83/UE).
 
-**Zrzeczenie się prawa do treści cyfrowych:** Jeśli zażądasz natychmiastowego rozpoczęcia świadczenia – na przykład poprzez pobranie lub aktywację aplikacji przed upływem 14-dniowego okresu – wyraźnie potwierdzasz i zgadzasz się, że utracisz prawo do odstąpienia od umowy po rozpoczęciu świadczenia, zgodnie z art. 16 lit. m) dyrektywy 2011/83/UE.
+**Zrzeczenie się prawa do treści cyfrowych:** Prawo odstąpienia tracisz wyłącznie wtedy, gdy udzielono uprzedniej wyraźnej zgody na rozpoczęcie świadczenia w okresie 14 dni, potwierdzono, że zgoda ta wygasza to prawo, oraz otrzymano potwierdzenie umowy na trwałym nośniku, czego wymaga artykuł 16 lit. m) dyrektywy 2011/83/UE. Sklep, w którym dokonujesz zakupu, odbiera tę zgodę i to potwierdzenie przy finalizacji zamówienia.
 
 W przypadku zakupów dokonanych za pośrednictwem Microsoft Store, Google Play, Mac App Store lub Apple App Store (iOS) skorzystaj z narzędzi zwrotu lub wypłaty dostępnych na tej platformie. Jeśli sklep poprosi wydawcę o sprawdzenie lub przetworzenie żądania, wydawca obsługuje je za pośrednictwem konsoli tego sklepu zgodnie z polityką platformy i obowiązującym prawem.
 

@@ -51,7 +51,7 @@ Vezi [Politica de confidențialitate](./PRIVACY_POLICY_RO.md).
 
 Dacă ești un consumator rezident în **Uniunea Europeană sau Spațiul Economic European**, ai dreptul să te retragi din această achiziție în termen de **14 zile calendaristice** de la finalizarea tranzacției, fără a furniza niciun motiv (drept de retragere conform Directivei 2011/83/UE).
 
-**Renunțarea la drept pentru conținut digital:** Dacă soliciți executarea imediată — de exemplu, prin descărcarea sau activarea aplicației înainte de expirarea celor 14 zile — recunoști și ești de acord că pierzi dreptul de retragere odată ce executarea a început, conform art. 16 lit. (m) din Directiva 2011/83/UE.
+**Renunțarea la drept pentru conținut digital:** Pierzi dreptul de retragere doar dacă ai dat un acord prealabil expres pentru începerea executării în perioada de 14 zile, ai confirmat că acest acord stinge dreptul și ai primit confirmarea contractului pe un suport durabil, așa cum cere articolul 16(m) din Directiva 2011/83/UE. Magazinul prin care cumperi înregistrează acest acord și această confirmare la finalizarea comenzii.
 
 Pentru achiziții făcute prin Microsoft Store, Google Play, Mac App Store sau Apple App Store (iOS), folosește instrumentele de rambursare sau retragere ale platformei. Dacă magazinul cere editorului să analizeze sau să proceseze o cerere, editorul o tratează în consola acelui magazin conform politicii platformei și legii aplicabile.
 

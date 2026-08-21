@@ -59,7 +59,7 @@ Lásd: [Adatvédelmi szabályzat](./PRIVACY_POLICY_HU.md).
 
 Ha Ön az **Európai Unióban vagy az Európai Gazdasági Térségben** lakóhellyel rendelkező fogyasztó, jogában áll a tranzakció teljesítését követő **14 naptári napon** indoklás nélkül elállni ettől a vásárlástól (2011/83/EU irányelv szerinti elállási jog).
 
-**Lemondás a digitális tartalomról:** Ha azt kéri, hogy a teljesítés azonnal megkezdődjön – például az alkalmazás letöltésével vagy aktiválásával a 14 napos időszak lejárta előtt –, Ön kifejezetten tudomásul veszi és elfogadja, hogy a 2011/83/EU irányelv 16. cikkének m) pontja értelmében elveszíti elállási jogát a teljesítés megkezdése után.
+**Lemondás a digitális tartalomról:** Az elállási jogot csak akkor veszíti el, ha előzetesen kifejezetten hozzájárult ahhoz, hogy a teljesítés a 14 napos határidőn belül megkezdődjön, tudomásul vette, hogy e hozzájárulással a jog megszűnik, és tartós adathordozón megkapta a szerződés visszaigazolását, ahogyan azt a 2011/83/EU irányelv 16. cikk m) pontja megköveteli. Az áruház, amelyen keresztül vásárol, a fizetéskor rögzíti ezt a hozzájárulást és tudomásulvételt.
 
 A Microsoft Store, Google Play, Mac App Store vagy Apple App Store (iOS) használatával történő vásárlások esetén használja az adott platform visszatérítési vagy visszavonási eszközeit. Ha egy bolt egy kérés felülvizsgálatára vagy feldolgozására kéri a kiadót, a kiadó az adott áruház konzolján keresztül kezeli azt a platformszabályzatnak és a vonatkozó jogszabályoknak megfelelően.
 

@@ -59,7 +59,7 @@ Consulte [Política de privacidad](./PRIVACY_POLICY_ES.md).
 
 Si eres un consumidor residente en la **Unión Europea o Espacio Económico Europeo**, tienes derecho a desistir de esta compra dentro de los **14 días naturales** de completar la transacción, sin indicar ningún motivo (derecho de desistimiento según la Directiva 2011/83/UE).
 
-**Renuncia para contenido digital:** Si solicita que la ejecución comience de inmediato (por ejemplo, descargando o activando la aplicación antes de que expire el período de 14 días), reconoce y acepta explícitamente que pierde su derecho de desistimiento una vez que la ejecución haya comenzado, según lo permite el artículo 16(m) de la Directiva 2011/83/UE.
+**Renuncia para contenido digital:** Solo pierde el derecho de desistimiento si dio su consentimiento previo y expreso para que la ejecución comenzara durante el plazo de 14 días, reconoció que ese consentimiento extingue el derecho y recibió confirmación del contrato en un soporte duradero, tal como exige el artículo 16(m) de la Directiva 2011/83/UE. La tienda a través de la cual compra recoge ese consentimiento y ese reconocimiento al finalizar la compra.
 
 Para compras realizadas a través de Microsoft Store, Google Play, Mac App Store o Apple App Store (iOS), utilice las herramientas de reembolso o retiro de esa plataforma. Si una tienda le pide al editor que revise o procese una solicitud, el editor la maneja a través de la consola de esa tienda de acuerdo con la política de la plataforma y la ley aplicable.
 

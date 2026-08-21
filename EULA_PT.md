@@ -59,7 +59,7 @@ Consulte [Política de Privacidade](./PRIVACY_POLICY_PT.md).
 
 Se você for um consumidor residente na **União Europeia ou no Espaço Econômico Europeu**, você tem o direito de rescindir esta compra no prazo de **14 dias corridos** após a conclusão da transação, sem indicar qualquer motivo (direito de rescisão de acordo com a Diretiva 2011/83/UE).
 
-**Renúncia para conteúdo digital:** Se você solicitar que a execução comece imediatamente — por exemplo, baixando ou ativando o aplicativo antes do término do período de 14 dias — você reconhece e concorda explicitamente que perde seu direito de rescisão assim que a execução tiver começado, conforme permitido pelo Artigo 16(m) da Diretiva 2011/83/UE.
+**Renúncia para conteúdo digital:** Só perde o direito de retratação se tiver dado consentimento prévio expresso para que a execução começasse durante o prazo de 14 dias, tiver reconhecido que esse consentimento extingue o direito e tiver recebido confirmação do contrato num suporte duradouro, conforme exige o artigo 16.º, alínea m), da Diretiva 2011/83/UE. A loja através da qual compra recolhe esse consentimento e esse reconhecimento no momento do pagamento.
 
 Para compras feitas através de Microsoft Store, Google Play, Mac App Store ou Apple App Store (iOS), use as ferramentas de reembolso ou retirada dessa plataforma. Se uma loja solicitar que o editor analise ou processe uma solicitação, o editor tratará disso por meio do console da loja, de acordo com a política da plataforma e a lei aplicável.
 

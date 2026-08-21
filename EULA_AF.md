@@ -59,7 +59,7 @@ Sien [Privaatheidsbeleid](./PRIVACY_POLICY_AF.md).
 
 As jy 'n verbruiker is wat in die **Europese Unie of Europese Ekonomiese Gebied** woonagtig is, het jy die reg om binne **14 kalenderdae** van die voltooiing van die transaksie van hierdie aankoop te onttrek, sonder om enige rede te verskaf (onttrekkingsreg kragtens Richtlijn 2011/83/EU).
 
-**Kwytskelding vir digitale inhoud:** As jy versoek dat uitvoering onmiddellik begin - byvoorbeeld deur die toepassing af te laai of te aktiveer voordat die 14-dae-tydperk verstryk - erken en stem jy uitdruklik in dat jy jou reg op onttrekking verloor sodra prestasie begin het, soos toegelaat ingevolge Artikel 16(m) van Richtlijn 2011/83/EU.
+**Kwytskelding vir digitale inhoud:** Jy verloor die herroepingsreg slegs waar jy vooraf uitdruklik ingestem het dat die uitvoering binne die 14-dae-tydperk begin, erken het dat daardie toestemming die reg beëindig, en bevestiging van die kontrak op 'n duursame medium ontvang het, soos Artikel 16(m) van Riglyn 2011/83/EU vereis. Die winkel waardeur jy koop teken daardie toestemming en erkenning by betaling aan.
 
 Vir aankope wat deur Microsoft Store, Google Play, Mac App Store of Apple App Store (iOS) gemaak word, gebruik daardie platform se terugbetaling- of onttrekkingnutsgoed. As 'n winkel die uitgewer vra om 'n versoek te hersien of te verwerk, hanteer die uitgewer dit deur daardie winkel se konsole volgens platformbeleid en toepaslike wetgewing.
 

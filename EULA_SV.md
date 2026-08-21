@@ -59,7 +59,7 @@ Se [Sekretesspolicy](./PRIVACY_POLICY_SV.md).
 
 Om du är en konsument bosatt i **Europeiska unionen eller Europeiska ekonomiska samarbetsområdet**, har du rätt att ångra detta köp inom **14 kalenderdagar** efter det att transaktionen genomförts, utan att ange någon anledning (ångerrätt enligt direktiv 2011/83/EU).
 
-**Avstående för digitalt innehåll:** Om du begär att prestanda ska börja omedelbart – till exempel genom att ladda ner eller aktivera appen innan 14-dagarsperioden löper ut – erkänner och samtycker du uttryckligen att du förlorar din ångerrätt när prestationen har påbörjats, vilket tillåts enligt artikel 16(m) i direktiv 2011/83/EU.
+**Avstående för digitalt innehåll:** Du förlorar ångerrätten endast om du gav uttryckligt förhandssamtycke till att fullgörandet skulle inledas under 14-dagarsfristen, bekräftade att samtycket upphäver rätten och fick en bekräftelse av avtalet på ett varaktigt medium, så som artikel 16 m i direktiv 2011/83/EU kräver. Butiken du köper genom registrerar det samtycket och den bekräftelsen vid köpet.
 
 För köp gjorda via Microsoft Store, Google Play, Mac App Store eller Apple App Store (iOS), använd den plattformens verktyg för återbetalning eller uttag. Om en butik ber utgivaren att granska eller behandla en begäran hanterar utgivaren den via den butikens konsol enligt plattformspolicy och tillämplig lag.
 

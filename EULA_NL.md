@@ -59,7 +59,7 @@ Zie [Privacybeleid](./PRIVACY_POLICY_NL.md).
 
 Als u een consument bent die woonachtig is in de **Europese Unie of Europese Economische Ruimte**, heeft u het recht om binnen **14 kalenderdagen** na het voltooien van de transactie, zonder opgave van reden de aankoop te herroepen (herroepingsrecht onder Richtlijn 2011/83/EU).
 
-**Ontheffing voor digitale inhoud:** Als u verzoekt dat de uitvoering onmiddellijk begint (bijvoorbeeld door de app te downloaden of te activeren voordat de periode van 14 dagen is verstreken), erkent u uitdrukkelijk en gaat u ermee akkoord dat u uw herroepingsrecht verliest zodra de uitvoering is begonnen, zoals toegestaan ​​onder artikel 16(m) van Richtlijn 2011/83/EU.
+**Ontheffing voor digitale inhoud:** U verliest het herroepingsrecht alleen als u vooraf uitdrukkelijk hebt ingestemd met het beginnen van de uitvoering binnen de termijn van 14 dagen, hebt erkend dat die instemming het recht doet vervallen, en een bevestiging van de overeenkomst op een duurzame gegevensdrager hebt ontvangen, zoals artikel 16, onder m), van Richtlijn 2011/83/EU vereist. De winkel waar u koopt legt die instemming en die erkenning vast bij het afrekenen.
 
 Voor aankopen gedaan via Microsoft Store, Google Play, Mac App Store of Apple App Store (iOS) gebruikt u de terugbetalings- of opnametools van dat platform. Als een winkel de uitgever vraagt ​​een verzoek te beoordelen of te verwerken, handelt de uitgever dit af via de console van die winkel, in overeenstemming met het platformbeleid en de toepasselijke wetgeving.
 

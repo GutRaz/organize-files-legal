@@ -59,7 +59,7 @@ Se [Privatlivspolitik](./PRIVACY_POLICY_DA.md).
 
 Hvis du er en forbruger bosiddende i **Den Europæiske Union eller Det Europæiske Økonomiske Samarbejdsområde**, har du ret til at fortryde dette køb inden for **14 kalenderdage** efter gennemførelse af transaktionen uden at angive nogen grund (fortrydelsesret i henhold til direktiv 2011/83/EU).
 
-**Frafaldelse for digitalt indhold:** Hvis du anmoder om, at ydeevnen begynder med det samme - for eksempel ved at downloade eller aktivere appen inden 14-dagesperioden udløber - anerkender og accepterer du udtrykkeligt, at du mister din fortrydelsesret, når udførelsen er påbegyndt, som tilladt i henhold til artikel 16(m) i direktiv 2011/83/EU.
+**Frafaldelse for digitalt indhold:** Du mister kun fortrydelsesretten, hvis du gav forudgående udtrykkeligt samtykke til, at leveringen begyndte inden for fortrydelsesfristen på 14 dage, anerkendte, at samtykket ophæver retten, og modtog bekræftelse af aftalen på et varigt medium, sådan som artikel 16, litra m), i direktiv 2011/83/EU kræver. Butikken, du køber igennem, registrerer dette samtykke og denne anerkendelse ved betalingen.
 
 For køb foretaget gennem Microsoft Store, Google Play, Mac App Store eller Apple App Store (iOS) skal du bruge den pågældende platforms refusions- eller tilbagetrækningsværktøjer. Hvis en butik beder udgiveren om at gennemgå eller behandle en anmodning, håndterer udgiveren den via den pågældende butiks konsol i henhold til platformspolitik og gældende lovgivning.
 

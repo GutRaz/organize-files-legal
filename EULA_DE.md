@@ -59,7 +59,7 @@ Siehe [Datenschutzerklärung](./PRIVACY_POLICY_DE.md).
 
 Wenn Sie Verbraucher mit Wohnsitz in der **Europäischen Union oder dem Europäischen Wirtschaftsraum** sind, haben Sie das Recht, diesen Kauf innerhalb von **14 Kalendertagen** nach Abschluss der Transaktion ohne Angabe von Gründen zu widerrufen (Widerrufsrecht gemäß Richtlinie 2011/83/EU).
 
-**Erlöschen des Widerrufsrechts bei digitalen Inhalten:** Wenn Sie die sofortige Ausführung verlangen — zum Beispiel durch Herunterladen oder Aktivieren der App vor Ablauf der 14-Tage-Frist — erkennen Sie ausdrücklich an und stimmen zu, dass Sie Ihr Widerrufsrecht mit Beginn der Vertragserfüllung verlieren, gemäß Art. 16 Buchst. m) der Richtlinie 2011/83/EU.
+**Erlöschen des Widerrufsrechts bei digitalen Inhalten:** Sie verlieren das Widerrufsrecht nur dann, wenn Sie vorher ausdrücklich zugestimmt haben, dass die Leistung innerhalb der 14-Tage-Frist beginnt, bestätigt haben, dass diese Zustimmung das Recht erlöschen lässt, und eine Bestätigung des Vertrags auf einem dauerhaften Datenträger erhalten haben, wie es Artikel 16 Buchstabe m der Richtlinie 2011/83/EU verlangt. Der Store, über den Sie kaufen, erfasst diese Zustimmung und diese Bestätigung beim Kauf.
 
 Für Käufe über Microsoft Store, Google Play, Mac App Store oder Apple App Store (iOS) nutzen Sie die Rückerstattungs- oder Widerrufswerkzeuge dieser Plattform. Wenn ein Store den Herausgeber bittet, eine Anfrage zu prüfen oder zu bearbeiten, erledigt der Herausgeber dies über die Konsole dieses Stores gemäß Plattformrichtlinie und anwendbarem Recht.
 

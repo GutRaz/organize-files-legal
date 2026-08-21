@@ -59,7 +59,7 @@ Viz [Zásady ochrany osobních údajů](./PRIVACY_POLICY_CS.md).
 
 Pokud jste spotřebitel s bydlištěm v **Evropské unii nebo Evropském hospodářském prostoru**, máte právo odstoupit od tohoto nákupu do **14 kalendářních dnů** od dokončení transakce, a to bez udání důvodu (právo na odstoupení podle směrnice 2011/83/EU).
 
-**Výjimka pro digitální obsah:** Pokud požadujete, aby plnění začalo okamžitě – například stažením nebo aktivací aplikace před uplynutím 14denní lhůty – výslovně berete na vědomí a souhlasíte s tím, že po zahájení plnění ztrácíte právo na odstoupení od smlouvy, jak to umožňuje čl. 16 písm. m) směrnice 2011/83/EU.
+**Výjimka pro digitální obsah:** Právo na odstoupení ztrácíte pouze tehdy, pokud jste dali předchozí výslovný souhlas se zahájením plnění ve lhůtě 14 dnů, potvrdili, že tímto souhlasem právo zaniká, a obdrželi potvrzení smlouvy na trvalém nosiči, jak vyžaduje článek 16 písm. m) směrnice 2011/83/EU. Obchod, u kterého nakupujete, tento souhlas i toto potvrzení zaznamenává při dokončení objednávky.
 
 Pro nákupy uskutečněné prostřednictvím Microsoft Store, Google Play, Mac App Store nebo Apple App Store (iOS) použijte nástroje pro vrácení peněz nebo výběr z dané platformy. Pokud obchod požádá vydavatele, aby žádost zkontroloval nebo zpracoval, vydavatel ji vyřídí prostřednictvím konzole daného obchodu v souladu se zásadami platformy a platnými zákony.
 

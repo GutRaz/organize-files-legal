@@ -59,7 +59,7 @@ Katso [tietosuojakäytäntö](./PRIVACY_POLICY_FI.md).
 
 Jos olet kuluttaja, joka asuu **Euroopan unionissa tai Euroopan talousalueella**, sinulla on oikeus peruuttaa tämä ostos **14 kalenteripäivän** kuluessa tapahtuman suorittamisesta ilmoittamatta syytä (peruuttamisoikeus direktiivin 2011/83/EU mukaisesti).
 
-**Digitaalisesta sisällöstä luopuminen:** Jos pyydät suoritusten alkamista välittömästi – esimerkiksi lataamalla tai aktivoimalla sovelluksen ennen 14 päivän ajanjakson umpeutumista – tunnustat ja hyväksyt nimenomaisesti, että menetät peruuttamisoikeutesi, kun suoritus on alkanut direktiivin 2011/83/EU artiklan 16(m) mukaisesti.
+**Digitaalisesta sisällöstä luopuminen:** Menetät peruuttamisoikeuden vain, jos annoit ennalta nimenomaisen suostumuksen suorituksen aloittamiseen 14 päivän määräajan kuluessa, vahvistit suostumuksen päättävän oikeuden ja sait sopimuksen vahvistuksen pysyvällä tavalla, kuten direktiivin 2011/83/EU 16 artiklan m alakohta edellyttää. Kauppa, jonka kautta ostat, tallentaa tämän suostumuksen ja vahvistuksen maksun yhteydessä.
 
 Käytä Microsoft Store:n, Google Play:n, Mac App Store:n tai Apple App Store (iOS):n kautta tehdyissä ostoksissa kyseisen alustan hyvitys- tai nostotyökaluja. Jos kauppa pyytää julkaisijaa tarkistamaan tai käsittelemään pyynnön, julkaisija käsittelee sen kyseisen kaupan konsolin kautta alustakäytännön ja sovellettavan lain mukaisesti.
 

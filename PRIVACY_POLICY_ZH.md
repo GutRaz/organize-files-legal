@@ -46,6 +46,7 @@
 |可选许可证服务器（运营商配置）|随机持久安装 ID（存储在“license_installation_id.txt”中的 GUID）将发送到位于“ORGANIZE_FILES_LICENSE_SERVER_URL”处的发布者操作或操作员配置的许可证服务器。安装 ID 是 GDPR Recital 30 下的设备标识符。合法依据：合同的履行。发布者运营的保留：权利记录在有效期间以及到期/撤销后最多 24 个月（防止滥用和争议处理）；会计记录在法律要求时可保留最多 7 年。运营商运行的服务器遵循运营商记录的保留时间表。除非设置了“ORGANIZE_FILES_LICENSE_SERVER_URL”，否则此功能处于非活动状态。 |发行商或运营商许可证服务器|
 |可选的 OpenTelemetry 跟踪（操作员配置）|设置“ORGANIZE_FILES_OTEL_EXPORTER_OTLP_ENDPOINT”时，自动化作业元数据（作业 ID、相关 ID、目标类型标签、W3C 跟踪上下文）将导出到配置的 OTLP 收集器。不包含文件路径或文件内容。该功能默认处于非活动状态，需要明确的操作员配置。 |操作员配置的 OTLP 收集器 |
 | 可选电子邮件通知（启用时） | 运行状态和日志摘录（可能包含文件路径）通过运营商配置的 SMTP 服务器发送 | 运营商 SMTP / 邮件提供商 |
+| 可选的自动化 Webhook（由运维方配置） | 设置 `ORGANIZE_FILES_AUTOMATION_WEBHOOK_URL` 后，作业生命周期事件，其中包含关联 ID 和自动化状态文件的文件路径 | 由运维方配置的 Webhook 端点 |
 |引擎 NAS 重试助手 |没有超出配置的网络路径 | NAS/SMB主机|
 
 更新检查仅比较**版本元数据**。除非禁用，否则桌面应用程序可以在接受 EULA 后每天运行一次此检查。

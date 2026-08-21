@@ -59,7 +59,7 @@ Bkz. [Gizlilik Politikası](./PRIVACY_POLICY_TR.md).
 
 **Avrupa Birliği veya Avrupa Ekonomik Alanı**'nda ikamet eden bir tüketiciyseniz, işlemi tamamladıktan sonra **14 takvim günü** içinde herhangi bir gerekçe göstermeksizin bu satın alma işleminden cayma hakkına sahipsiniz (2011/83/AB Direktifi kapsamında cayma hakkı).
 
-**Dijital içerikten feragat:** Performansın hemen başlamasını talep ederseniz (örneğin, 14 günlük süre dolmadan önce uygulamayı indirerek veya etkinleştirerek), 2011/83/AB Direktifi'nin 16(m) Maddesi kapsamında izin verildiği üzere, performans başladıktan sonra cayma hakkınızı kaybettiğinizi açıkça kabul ve beyan edersiniz.
+**Dijital içerikten feragat:** Cayma hakkını yalnızca 14 günlük süre içinde ifanın başlaması için önceden açık onay verdiyseniz, bu onayın hakkı sona erdirdiğini kabul ettiyseniz ve sözleşmenin kalıcı bir veri taşıyıcısındaki teyidini aldıysanız kaybedersiniz; 2011/83/AB sayılı Direktifin 16(m) maddesi bunları birlikte arar. Satın aldığınız mağaza bu onayı ve bu kabulü ödeme sırasında kaydeder.
 
 Microsoft Store, Google Play, Mac App Store veya Apple App Store (iOS) aracılığıyla yapılan satın alma işlemleri için söz konusu platformun para iadesi veya para çekme araçlarını kullanın. Bir mağaza yayıncıdan bir isteği incelemesini veya işleme koymasını isterse yayıncı bunu platform politikasına ve geçerli yasalara uygun olarak o mağazanın konsolu aracılığıyla ele alır.
 

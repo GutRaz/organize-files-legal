@@ -59,7 +59,7 @@ Lihat [Kebijakan Privasi](./PRIVACY_POLICY_ID.md).
 
 Jika Anda adalah konsumen yang tinggal di **Uni Eropa atau Wilayah Ekonomi Eropa**, Anda berhak membatalkan pembelian ini dalam waktu **14 hari kalender** setelah menyelesaikan transaksi, tanpa memberikan alasan apa pun (hak penarikan berdasarkan Petunjuk 2011/83/EU).
 
-**Pengabaian untuk konten digital:** Jika Anda meminta agar pertunjukan segera dimulai — misalnya, dengan mengunduh atau mengaktifkan aplikasi sebelum periode 14 hari berakhir — Anda secara eksplisit mengakui dan menyetujui bahwa Anda kehilangan hak untuk membatalkan setelah pertunjukan dimulai, sebagaimana diizinkan berdasarkan Pasal 16(m) Directive 2011/83/EU.
+**Pengabaian untuk konten digital:** Hak pembatalan hanya hilang apabila Anda telah memberikan persetujuan tegas sebelumnya agar pelaksanaan dimulai dalam tenggang 14 hari, mengakui bahwa persetujuan itu mengakhiri hak tersebut, dan menerima konfirmasi kontrak pada media yang tahan lama, sebagaimana disyaratkan Pasal 16(m) Direktif 2011/83/EU. Toko tempat Anda membeli mencatat persetujuan dan pengakuan itu saat pembayaran.
 
 Untuk pembelian yang dilakukan melalui Microsoft Store, Google Play, Mac App Store, atau Apple App Store (iOS), gunakan alat pengembalian dana atau penarikan platform tersebut. Jika toko meminta penerbit untuk meninjau atau memproses permintaan, penerbit akan menanganinya melalui konsol toko tersebut sesuai dengan kebijakan platform dan hukum yang berlaku.
 

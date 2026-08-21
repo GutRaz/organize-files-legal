@@ -59,7 +59,7 @@ Xem [Chính sách quyền riêng tư](./PRIVACY_POLICY_VI.md).
 
 Nếu bạn là người tiêu dùng cư trú tại **Liên minh Châu Âu hoặc Khu vực Kinh tế Châu Âu**, bạn có quyền rút lui khỏi giao dịch mua này trong vòng **14 ngày theo lịch** kể từ khi hoàn tất giao dịch mà không cần đưa ra bất kỳ lý do nào (quyền rút lui theo Chỉ thị 2011/83/EU).
 
-**Từ bỏ nội dung kỹ thuật số:** Nếu bạn yêu cầu buổi biểu diễn bắt đầu ngay lập tức — ví dụ: bằng cách tải xuống hoặc kích hoạt ứng dụng trước khi hết thời hạn 14 ngày — thì bạn xác nhận và đồng ý rõ ràng rằng bạn mất quyền rút lui sau khi buổi biểu diễn bắt đầu, như được cho phép theo Điều 16(m) của Chỉ thị 2011/83/EU.
+**Từ bỏ nội dung kỹ thuật số:** Bạn chỉ mất quyền rút lui nếu đã đồng ý rõ ràng từ trước để việc thực hiện bắt đầu trong thời hạn 14 ngày, đã xác nhận rằng sự đồng ý đó chấm dứt quyền này, và đã nhận được xác nhận hợp đồng trên phương tiện lưu trữ bền vững, đúng như Điều 16(m) của Chỉ thị 2011/83/EU yêu cầu. Cửa hàng nơi bạn mua sẽ ghi nhận sự đồng ý và xác nhận đó khi thanh toán.
 
 Đối với các giao dịch mua được thực hiện thông qua Microsoft Store, Google Play, Mac App Store hoặc Apple App Store (iOS), hãy sử dụng các công cụ hoàn tiền hoặc rút tiền của nền tảng đó. Nếu cửa hàng yêu cầu nhà xuất bản xem xét hoặc xử lý yêu cầu thì nhà xuất bản sẽ xử lý yêu cầu đó thông qua bảng điều khiển của cửa hàng đó theo chính sách nền tảng và luật hiện hành.
 
