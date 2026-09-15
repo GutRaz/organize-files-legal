@@ -1,0 +1,42 @@
+> **Afrikaanse weergawe.** In geval van konflik geld die [Engelse](./SUPPORT.md) weergawe.
+
+---
+
+# Ondersteuning — Organize Files
+
+Het jy hulp nodig met **Organize Files**? Ons help jou graag.
+
+## Kontak
+
+- **E-pos:** razvan.gutulov@outlook.com
+- **Uitgewer:** Guțulov Răzvan Constantin PFA
+- **Geregistreerde adres:** Str. Republicii nr. 33B, bl. N3, sc. A, et. 1, ap. 3, Breaza de Sus, 105400 Breaza, jud. Prahova, România
+- **Handelsregister:** F2026004513003 (EUID ROONRC.F2026004513003)
+- **Belastingidentifikasienommer:** 53610310
+
+Wanneer jy vir ons skryf, sluit asseblief in:
+
+- Jou bedryfstelsel (Windows, Linux, macOS, Android of iOS) en die weergawe daarvan
+- Die toepassingsweergawe. Die Gids assistent in die toepassing wys dit wanneer daar na die weergawe gevra word.
+- Die winkel waaruit jy geïnstalleer het (Microsoft Store, Google Play, Apple App Store of 'n handmatig geïnstalleerde bou)
+- 'n Duidelike beskrywing van die probleem en die stappe om dit te herskep
+
+Ons streef daarna om binne **2–3 werksdae** te reageer. Terugbetalingsvrae kan tot **14 dae** neem.
+
+## Voordat jy ondersteuning kontak
+
+- Voordat 'n lopie in die hoofvenster lêers skuif of uitvee, vra die toepassing vir bevestiging. **Toetslopie** wys wat sou gebeur sonder om enige lêer te verander.
+- Hou altyd 'n **geverifieerde rugsteun** voordat jy enige uitvoering doen wat lêers skuif of uitvee.
+- Die dokumentasie en assistent in die toepassing beantwoord baie algemene vrae vanlyn.
+
+## Fakturering en terugbetalings
+
+Aankope en terugbetalings word hanteer deur die winkel waar jy gekoop het (Microsoft Store, Google Play of Apple App Store).
+
+## Privaatheid
+
+Sien die [Privaatheidsbeleid](./PRIVACY_POLICY_AF.md).
+
+---
+
+© 2026 Guțulov Răzvan Constantin PFA. Alle regte voorbehou.

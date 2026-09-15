@@ -1,0 +1,122 @@
+> **Översättning tillhandahålls för bekvämlighets skull.** Referensversionerna är [den engelska EULA](./EULA_EN.md) och [den engelska integritetspolicyn](./PRIVACY_POLICY_EN.md). Där tvingande konsumenträtt i ditt land ger företräde åt versionen på ditt eget språk gäller den versionen. Inte juridisk rådgivning — kontakta en kvalificerad jurist i din jurisdiktion.
+
+---
+
+# Sekretesspolicy — Organize Files
+
+**Förlag:** Guțulov Răzvan Constantin PFA  
+**Registrerad adress:** Str. Republicii nr. 33B, bl. N3, sc. A, et. 1, ap. 3, Breaza de Sus, 105400 Breaza, jud. Prahova, România  
+**Handelsregister:** F2026004513003 (EUID ROONRC.F2026004513003)  
+**Skatteregistreringsnummer:** 53610310  
+**Kontakta:** razvan.gutulov@outlook.com  
+**Ikraftträdandedatum:** 2026-05-28  
+**Offentlig webbadress:** `https://github.com/GutRaz/organize-files-legal/blob/main/PRIVACY_POLICY_SV.md`
+
+---
+
+## Sammanfattning
+
+Organize Files behandlar filer **lokalt på enheten**. Filinnehåll laddas **inte upp till utgivarens egna servrar** för normal organisering eller reparation. Appen **skriver lokala filer** på enheten (sessionsögonblicksbilder, återuppta status, valfria loggar) enligt beskrivningen nedan.
+
+## Personuppgiftsansvarig och kontakt
+
+För personuppgifter som behandlas av utgivaren är personuppgiftsansvarig **Guțulov Răzvan Constantin PFA**. Kontakt: **razvan.gutulov@outlook.com**.
+
+## Data bearbetas lokalt
+
+| Data | Var lagrad | Syfte |
+|------|----------------|--------|
+| Filer och mappar du väljer | Endast på din enhet | Organisera, hitta dubbletter, reparera och ta bort när det är valt |
+| Ögonblicksbild av UI-session (`last-ui-session.json`) | Mappen `sessions\<id>\` i appens profilmapp: `%LocalAppData%\OrganizeFilesCrossPlatform` i Windows, `~/Library/Application Support/OrganizeFilesCrossPlatform` i macOS, `~/.local/share/OrganizeFilesCrossPlatform` i Linux, eller appens privata lagring i Android och iOS | Återställ arbetsyta: sökvägar, tillägg, alternativ |
+| Återupptagningsläge för en organisering + valfri flyttlogg | `_OrganizeMediaLogs` i utdatamappen, eller sessionsmappen | Hoppa över flyttar som redan är gjorda, återställningsdata med kodade sökvägar |
+| Valfri förloppsfil för en körning, JSON | `_OrganizeMediaLogs` i utdatamappen | Förloppsräknare för andra program |
+| Prov- och licensstatus | Appens profilmapp | Tillämpa provperioden eller köpet i butiken |
+| Status för uppdateringskontroll | Appens profilmapp | Begränsa hur ofta den valfria versionskontrollen körs |
+| Android: kopior av mappar valda via systemväljaren SAF | Sessionsmapp i appens lagring | Kopierar `content://`-mappträd så att motorn kan läsa dem |
+| Valfritt SMTP-lösenord för e-postaviseringar | Lagras krypterat i sessionsinställningar på enheten (AES-GCM med en nyckelfil per profil). Vid uppgradering skrivs ett äldre SMTP-lösenord utan AES-GCM om en gång till AES-GCM när fältet finns. AES-GCM-nyckelfilen ligger kvar i appens profilmapp och kan läsas av det inloggade OS-användarkontot; den skyddar mot tillfällig läsning av inställnings-JSON, inte ett hårdvaruvalv. | Endast om e-postaviseringar aktiveras och SMTP-uppgifter anges |
+
+## Vad utgivaren inte tar emot som standard
+
+- Filinnehåll från organiserings-/reparationskörningar  
+- Kontakter, plats, mikrofon eller kamera (används ej)  
+- Analys- eller annonsdata (ingen sådan SDK ingår i appen)  
+- SMTP-lösenord som du sparar lokalt (de stannar på din enhet om du inte skickar post via din SMTP-server)
+
+## Valfri nätverksanvändning
+
+| Aktivitet | Data skickade | Mottagare |
+|--------|--------|--------|
+| Valfri uppdateringskontroll | HTTPS GET till ett versionsmanifest. Värden (till exempel GitHub) tar emot förfrågans IP-adress, User-Agent `OrganizeFiles-UpdateCheck/1.0` och TLS-metadata. Inga filsökvägar eller filinnehåll skickas. Inaktivera med `ORGANIZE_FILES_DISABLE_UPDATE_CHECK=1`. | Värd som betjänar JSON-manifestet |
+| Butiksköp/licens | Plattformsfakturerings-API:er | Microsoft, Google eller Apple (per kanal) |
+| Valfri licensserver (operatörskonfigurerad) | Ett slumpmässigt beständigt installations-ID (GUID lagrat i `license_installation_id.txt`) skickas till en utgivarstyrd eller operatörskonfigurerad licensserver på `ORGANIZE_FILES_LICENSE_SERVER_URL`. Installations-ID:t är en enhetsidentifierare enligt GDPR skäl 30. Laglig grund: fullgörande av kontrakt. Utgivardriven lagring: rättighetsregister medan aktiva plus upp till 24 månader efter utgång/återkallelse för missbruksförebyggande och tvister; bokföringsuppgifter kan lagras upp till 7 år där lag kräver det. Operatörsdrivna servrar följer operatörens dokumenterade lagringsschema. Den här funktionen är inaktiv om inte `ORGANIZE_FILES_LICENSE_SERVER_URL` är inställd. | Utgivar- eller operatörslicensserver |
+| Valfri OpenTelemetry-spårning (operatörskonfigurerad) | När `ORGANIZE_FILES_OTEL_EXPORTER_OTLP_ENDPOINT` är inställt, exporteras automatiseringsjobbmetadata (jobb-ID, korrelations-ID, måltypstaggar, W3C-spårningskontext) till den konfigurerade OTLP-samlaren. Inga filsökvägar eller filinnehåll ingår. Den här funktionen är inaktiv som standard och kräver explicit operatörskonfiguration. | Operatörskonfigurerad OTLP-samlare |
+| Valfria e-postaviseringar (när aktiverade) | Körstatus och loggutdrag (kan inkludera filsökvägar) som skickas via den operatörskonfigurerade SMTP-servern | Operatörens SMTP / e-postleverantör |
+| Valfria automatiseringswebhookar (konfigurerade av operatören) | När `ORGANIZE_FILES_AUTOMATION_WEBHOOK_URL` är angiven, händelser i jobbets livscykel med korrelations-id:n och filsökvägar till automatiseringens tillståndsfiler | Webhook-slutpunkt konfigurerad av operatören |
+| Valfri identitetskontroll vid körningsgodkännande (konfigurerad av operatören) | Med `ORGANIZE_FILES_APPROVE_OAUTH_JWKS_URL` satt hämtar en HTTPS GET signeringsnycklarna och cachar dem en timme; ingen token lämnar enheten. Med `ORGANIZE_FILES_APPROVE_OAUTH_INTROSPECTION_URL` satt skickas operatörens bärartoken själv till den slutpunkten för validering (RFC 7662), med HTTP Basic-klientuppgifter när sådana är konfigurerade. Inaktiv om ingen av dessa URL:er är satt. | Identitetsleverantör konfigurerad av operatören |
+| Försök med hjälp av motor NAS igen | Inga utöver konfigurerade nätverksvägar | NAS / SMB-värd |
+
+Uppdateringskontroller jämför **endast versionsmetadata**. Desktopappen kan köra den här kontrollen en gång om dagen efter godkännande av EULA om den inte är inaktiverad.
+
+## Rättslig grund (inramning i GDPR-stil, inte juridisk rådgivning)
+
+| Bearbetar | Typisk grund |
+|------------|----------------|
+| Lokal organisering/reparation på redan valda mappar | Fullgörande av kontrakt/operatörens berättigade intresse |
+| Lokala sessions-, återupptagnings- och förloppsfiler | Samma, nödvändigt för att tillhandahålla verktyget |
+| Butiksfakturering och berättigande | Kontrakt med plattformsbutiken |
+| Valfri uppdateringsmanifestkontroll | Berättigat intresse för säkerhetsuppdateringar; kan inaktiveras via miljövariabel |
+| Support e-post | Berättigat intresse / steg före avtalet på din begäran |
+
+## Internationella överföringar
+
+Valfria uppdateringskontroller kan nå servrar utanför Europeiska ekonomiska samarbetsområdet (till exempel GitHub i USA). Butiksfakturering hanteras under varje plattforms villkor.
+
+## Tillsynsmyndighet och klagomål
+
+Om tillämplig lag ger registrerade rättigheter eller ett klagomål till en tillsynsmyndighet, kontakta först utgivaren på **razvan.gutulov@outlook.com**. Invånare i EU/EES kan också lämna in ett klagomål till sin lokala dataskyddsmyndighet (för Rumänien: ANSPDCP, https://www.dataprotection.ro).
+
+## Tredjepartsprocessorer (när dessa funktioner används)
+
+- **Microsoft Store / Google Play / Mac App Store** — fakturering och berättigande. Google Play validerar köp på enheten.
+- **GitHub (eller manifestvärden)** — valfri version JSON över HTTPS (kan inkludera klient-IP i serverloggar)
+- **E-postklient** — när du kontaktar support via mailto-länk
+
+## Operatörsansvar (GDPR-stil inramning)
+
+Personuppgifter kan finnas **inuti** dina filer. Om du behandlar sådana uppgifter kan du (eller din organisation) vara en **uppgiftsansvarig** och måste välja en laglig grund, minimera lagring och svara på förfrågningar från registrerade.
+
+## Retention
+
+Lokala filer finns kvar tills du tar bort dem, rensar appdata, avinstallerar appen eller skriver över utdatamappar. Utgivaren har inget centralt lagringsschema för endast lokal data.
+
+För data som utgivaren innehar:
+
+- Support-e-post och korrespondens: upp till 24 månader efter den senaste meningsfulla kontakten, om inte en tvist eller rättslig skyldighet kräver längre lagring.
+- Direkta köp, återbetalningar, skatte- och bokföringsregister: upp till 7 år där skatte- eller bokföringslag kräver det.
+- Rättighetsregister på en licensserver som drivs av utgivaren: medan rättigheten är aktiv plus upp till 24 månader efter utgång eller återkallelse.
+- Åtkomst- och säkerhetsloggar på en server som drivs av utgivaren: upp till 90 dagar, om inte längre tid behövs för säkerhetsutredning, bedrägeriförebyggande eller rättsliga anspråk.
+
+## Dina rättigheter
+
+Kontakta **razvan.gutulov@outlook.com** för data som utgivaren har (t.ex. support via e-postkorrespondens). För data som endast lagras på din enhet kan du radera de flesta appdata via **Rensa appdata**, avinstallera eller manuell radering av filer. **Rensa appdata** tar bort sessioner, loggar och automatiseringsutkast, men kan behålla licensankare, betalda installationsmarkörer och en installationsidentifierare som används för valfria licenskontroller – se bekräftelsetexten i appen innan du fortsätter. I tillämpliga fall kan du begära tillgång, rättelse, radering, begränsning av behandlingen, invända mot behandlingen, dataportabilitet eller återkalla ditt samtycke.
+
+Utgivaren strävar efter att svara på registrerades begäranden inom **30 dagar** efter en verifierad begäran (identitetsverifiering kan begäras när det är rimligen nödvändigt).
+
+## Barn
+
+Allmänt produktivitetsverktyg som inte är riktat till barn under 13 år (eller den ålder som krävs i din jurisdiktion).
+
+## Ändringar
+
+Materialändringar bör visas i butiksuppgifterna och i dokumentationen i appen innan de släpps.
+
+## Relaterade dokument
+
+- [EULA (engelska)](./EULA_EN.md)  
+- [Sekretesspolicy (rumänska)](./PRIVACY_POLICY_RO.md)  
+- [Sekretesspolicy (tyska)](./PRIVACY_POLICY_DE.md)  
+- [Sekretesspolicy (franska)](./PRIVACY_POLICY_FR.md)
+
+---
+
+Om denna översättning är ofullständig gäller den engelska integritetspolicyn.
