@@ -6,43 +6,43 @@ These documents exist so the app stores (Microsoft Store, Google Play, Apple App
 
 ## Key documents (English)
 
-- **Privacy Policy** — [PRIVACY_POLICY_EN.md](./PRIVACY_POLICY_EN.md)
-- **End User License Agreement (EULA)** — [EULA_EN.md](./EULA_EN.md)
-- **Support / Contact** — [SUPPORT.md](./SUPPORT.md)
-- **Data Deletion** — [DATA_DELETION.md](./DATA_DELETION.md)
+- **Privacy Policy** — [en/privacy-policy.md](./en/privacy-policy.md)
+- **End User License Agreement (EULA)** — [en/eula.md](./en/eula.md)
+- **Support / Contact** — [en/support.md](./en/support.md)
+- **Data Deletion** — [en/data-deletion.md](./en/data-deletion.md)
 - **Third-party notices** — [THIRD_PARTY_NOTICES.md](./THIRD_PARTY_NOTICES.md). They stay in English, the language of the licences they quote.
 
 ## All languages
 
 | Language | Privacy Policy | EULA | Data Deletion | Support |
 |---|---|---|---|---|
-| English | [link](./PRIVACY_POLICY_EN.md) | [link](./EULA_EN.md) | [link](./DATA_DELETION.md) | [link](./SUPPORT.md) |
-| Română | [link](./PRIVACY_POLICY_RO.md) | [link](./EULA_RO.md) | [link](./DATA_DELETION_RO.md) | [link](./SUPPORT_RO.md) |
-| Deutsch | [link](./PRIVACY_POLICY_DE.md) | [link](./EULA_DE.md) | [link](./DATA_DELETION_DE.md) | [link](./SUPPORT_DE.md) |
-| Français | [link](./PRIVACY_POLICY_FR.md) | [link](./EULA_FR.md) | [link](./DATA_DELETION_FR.md) | [link](./SUPPORT_FR.md) |
-| Español | [link](./PRIVACY_POLICY_ES.md) | [link](./EULA_ES.md) | [link](./DATA_DELETION_ES.md) | [link](./SUPPORT_ES.md) |
-| Italiano | [link](./PRIVACY_POLICY_IT.md) | [link](./EULA_IT.md) | [link](./DATA_DELETION_IT.md) | [link](./SUPPORT_IT.md) |
-| Polski | [link](./PRIVACY_POLICY_PL.md) | [link](./EULA_PL.md) | [link](./DATA_DELETION_PL.md) | [link](./SUPPORT_PL.md) |
-| Português | [link](./PRIVACY_POLICY_PT.md) | [link](./EULA_PT.md) | [link](./DATA_DELETION_PT.md) | [link](./SUPPORT_PT.md) |
-| Nederlands | [link](./PRIVACY_POLICY_NL.md) | [link](./EULA_NL.md) | [link](./DATA_DELETION_NL.md) | [link](./SUPPORT_NL.md) |
-| Svenska | [link](./PRIVACY_POLICY_SV.md) | [link](./EULA_SV.md) | [link](./DATA_DELETION_SV.md) | [link](./SUPPORT_SV.md) |
-| 日本語 | [link](./PRIVACY_POLICY_JA.md) | [link](./EULA_JA.md) | [link](./DATA_DELETION_JA.md) | [link](./SUPPORT_JA.md) |
-| 한국어 | [link](./PRIVACY_POLICY_KO.md) | [link](./EULA_KO.md) | [link](./DATA_DELETION_KO.md) | [link](./SUPPORT_KO.md) |
-| 中文 | [link](./PRIVACY_POLICY_ZH.md) | [link](./EULA_ZH.md) | [link](./DATA_DELETION_ZH.md) | [link](./SUPPORT_ZH.md) |
-| العربية | [link](./PRIVACY_POLICY_AR.md) | [link](./EULA_AR.md) | [link](./DATA_DELETION_AR.md) | [link](./SUPPORT_AR.md) |
-| Dansk | [link](./PRIVACY_POLICY_DA.md) | [link](./EULA_DA.md) | [link](./DATA_DELETION_DA.md) | [link](./SUPPORT_DA.md) |
-| Magyar | [link](./PRIVACY_POLICY_HU.md) | [link](./EULA_HU.md) | [link](./DATA_DELETION_HU.md) | [link](./SUPPORT_HU.md) |
-| ไทย | [link](./PRIVACY_POLICY_TH.md) | [link](./EULA_TH.md) | [link](./DATA_DELETION_TH.md) | [link](./SUPPORT_TH.md) |
-| Русский | [link](./PRIVACY_POLICY_RU.md) | [link](./EULA_RU.md) | [link](./DATA_DELETION_RU.md) | [link](./SUPPORT_RU.md) |
-| हिन्दी | [link](./PRIVACY_POLICY_HI.md) | [link](./EULA_HI.md) | [link](./DATA_DELETION_HI.md) | [link](./SUPPORT_HI.md) |
-| Türkçe | [link](./PRIVACY_POLICY_TR.md) | [link](./EULA_TR.md) | [link](./DATA_DELETION_TR.md) | [link](./SUPPORT_TR.md) |
-| Tiếng Việt | [link](./PRIVACY_POLICY_VI.md) | [link](./EULA_VI.md) | [link](./DATA_DELETION_VI.md) | [link](./SUPPORT_VI.md) |
-| Bahasa Indonesia | [link](./PRIVACY_POLICY_ID.md) | [link](./EULA_ID.md) | [link](./DATA_DELETION_ID.md) | [link](./SUPPORT_ID.md) |
-| Українська | [link](./PRIVACY_POLICY_UK.md) | [link](./EULA_UK.md) | [link](./DATA_DELETION_UK.md) | [link](./SUPPORT_UK.md) |
-| Suomi | [link](./PRIVACY_POLICY_FI.md) | [link](./EULA_FI.md) | [link](./DATA_DELETION_FI.md) | [link](./SUPPORT_FI.md) |
-| Čeština | [link](./PRIVACY_POLICY_CS.md) | [link](./EULA_CS.md) | [link](./DATA_DELETION_CS.md) | [link](./SUPPORT_CS.md) |
-| Afrikaans | [link](./PRIVACY_POLICY_AF.md) | [link](./EULA_AF.md) | [link](./DATA_DELETION_AF.md) | [link](./SUPPORT_AF.md) |
-| Kiswahili | [link](./PRIVACY_POLICY_SW.md) | [link](./EULA_SW.md) | [link](./DATA_DELETION_SW.md) | [link](./SUPPORT_SW.md) |
+| English | [link](./en/privacy-policy.md) | [link](./en/eula.md) | [link](./en/data-deletion.md) | [link](./en/support.md) |
+| Română | [link](./ro/privacy-policy.md) | [link](./ro/eula.md) | [link](./ro/data-deletion.md) | [link](./ro/support.md) |
+| Deutsch | [link](./de/privacy-policy.md) | [link](./de/eula.md) | [link](./de/data-deletion.md) | [link](./de/support.md) |
+| Français | [link](./fr/privacy-policy.md) | [link](./fr/eula.md) | [link](./fr/data-deletion.md) | [link](./fr/support.md) |
+| Español | [link](./es/privacy-policy.md) | [link](./es/eula.md) | [link](./es/data-deletion.md) | [link](./es/support.md) |
+| Italiano | [link](./it/privacy-policy.md) | [link](./it/eula.md) | [link](./it/data-deletion.md) | [link](./it/support.md) |
+| Polski | [link](./pl/privacy-policy.md) | [link](./pl/eula.md) | [link](./pl/data-deletion.md) | [link](./pl/support.md) |
+| Português | [link](./pt/privacy-policy.md) | [link](./pt/eula.md) | [link](./pt/data-deletion.md) | [link](./pt/support.md) |
+| Nederlands | [link](./nl/privacy-policy.md) | [link](./nl/eula.md) | [link](./nl/data-deletion.md) | [link](./nl/support.md) |
+| Svenska | [link](./sv/privacy-policy.md) | [link](./sv/eula.md) | [link](./sv/data-deletion.md) | [link](./sv/support.md) |
+| 日本語 | [link](./ja/privacy-policy.md) | [link](./ja/eula.md) | [link](./ja/data-deletion.md) | [link](./ja/support.md) |
+| 한국어 | [link](./ko/privacy-policy.md) | [link](./ko/eula.md) | [link](./ko/data-deletion.md) | [link](./ko/support.md) |
+| 中文 | [link](./zh/privacy-policy.md) | [link](./zh/eula.md) | [link](./zh/data-deletion.md) | [link](./zh/support.md) |
+| العربية | [link](./ar/privacy-policy.md) | [link](./ar/eula.md) | [link](./ar/data-deletion.md) | [link](./ar/support.md) |
+| Dansk | [link](./da/privacy-policy.md) | [link](./da/eula.md) | [link](./da/data-deletion.md) | [link](./da/support.md) |
+| Magyar | [link](./hu/privacy-policy.md) | [link](./hu/eula.md) | [link](./hu/data-deletion.md) | [link](./hu/support.md) |
+| ไทย | [link](./th/privacy-policy.md) | [link](./th/eula.md) | [link](./th/data-deletion.md) | [link](./th/support.md) |
+| Русский | [link](./ru/privacy-policy.md) | [link](./ru/eula.md) | [link](./ru/data-deletion.md) | [link](./ru/support.md) |
+| हिन्दी | [link](./hi/privacy-policy.md) | [link](./hi/eula.md) | [link](./hi/data-deletion.md) | [link](./hi/support.md) |
+| Türkçe | [link](./tr/privacy-policy.md) | [link](./tr/eula.md) | [link](./tr/data-deletion.md) | [link](./tr/support.md) |
+| Tiếng Việt | [link](./vi/privacy-policy.md) | [link](./vi/eula.md) | [link](./vi/data-deletion.md) | [link](./vi/support.md) |
+| Bahasa Indonesia | [link](./id/privacy-policy.md) | [link](./id/eula.md) | [link](./id/data-deletion.md) | [link](./id/support.md) |
+| Українська | [link](./uk/privacy-policy.md) | [link](./uk/eula.md) | [link](./uk/data-deletion.md) | [link](./uk/support.md) |
+| Suomi | [link](./fi/privacy-policy.md) | [link](./fi/eula.md) | [link](./fi/data-deletion.md) | [link](./fi/support.md) |
+| Čeština | [link](./cs/privacy-policy.md) | [link](./cs/eula.md) | [link](./cs/data-deletion.md) | [link](./cs/support.md) |
+| Afrikaans | [link](./af/privacy-policy.md) | [link](./af/eula.md) | [link](./af/data-deletion.md) | [link](./af/support.md) |
+| Kiswahili | [link](./sw/privacy-policy.md) | [link](./sw/eula.md) | [link](./sw/data-deletion.md) | [link](./sw/support.md) |
 
 ## Contact
 

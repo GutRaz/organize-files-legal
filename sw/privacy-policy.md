@@ -1,0 +1,128 @@
+> **Tafsiri imetolewa kwa urahisi wa kusoma.** Matoleo ya rejea ni [EULA ya Kiingereza](../en/eula.md) na [Sera ya Faragha ya Kiingereza](../en/privacy-policy.md). Pale sheria ya lazima ya kulinda watumiaji katika nchi yako inapotanguliza toleo la lugha yako, toleo hilo ndilo linalotumika. Si ushauri wa kisheria — wasiliana na wakili aliyehitimu katika mamlaka yako.
+
+---
+
+# Sera ya Faragha - Organize Files
+
+**Mchapishaji:** Guțulov Răzvan Constantin PFA  
+**Anwani iliyosajiliwa:** Str. Republicii nr. 33B, bl. N3, sc. A, et. 1, ap. 3, Breaza de Sus, 105400 Breaza, jud. Prahova, România  
+**Rejista ya biashara:** F2026004513003 (EUID ROONRC.F2026004513003)  
+**Nambari ya utambulisho wa kodi:** 53610310  
+**Mawasiliano:** razvan.gutulov@outlook.com  
+**Tarehe ya kuanza kutumika:** 2026-05-28  
+**URL ya Umma:** `https://github.com/GutRaz/organize-files-legal/blob/main/sw/privacy-policy.md`
+
+---
+
+## Muhtasari
+
+Organize Files huchakata faili **ndani kwenye kifaa**. Yaliyomo kwenye faili **hayajapakiwa kwa seva za mchapishaji mwenyewe** kwa shughuli za kawaida za kupanga au kurekebisha. Programu **huandika faili za ndani** kwenye kifaa (picha za kipindi, hali ya kuanza tena, kumbukumbu za hiari) kama ilivyoelezwa hapa chini.
+
+## Mdhibiti na mawasiliano
+
+Kwa data binafsi inayochakatwa na mchapishaji, mdhibiti ni **Guțulov Răzvan Constantin PFA**. Mawasiliano: **razvan.gutulov@outlook.com**.
+
+## Data imechakatwa ndani
+
+| Data | Mahali pa kuhifadhiwa | Kusudi |
+|---|---|---|
+| Faili na folda unazochagua | Kwenye kifaa chako pekee | Kupanga, kutafuta nakala rudufu, kurekebisha na kufuta inapochaguliwa |
+| Muhtasari wa kipindi cha UI (`last-ui-session.json`) | Folda `sessions\<id>\` ndani ya folda ya wasifu wa programu: `%LocalAppData%\OrganizeFilesCrossPlatform` kwenye Windows, `~/Library/Application Support/OrganizeFilesCrossPlatform` kwenye macOS, `~/.local/share/OrganizeFilesCrossPlatform` kwenye Linux, au hifadhi ya faragha ya programu kwenye Android na iOS | Rejesha nafasi ya kazi: njia, viendelezi, chaguo |
+| Hali ya kuendelea kwa upangaji + shajara ya hiari ya uhamishaji | `_OrganizeMediaLogs` kwenye folda ya pato, au folda ya kipindi | Kuruka uhamishaji uliokwisha fanyika, data ya urejeshaji yenye njia zilizosimbwa |
+| Faili ya hiari ya maendeleo ya uendeshaji, JSON | `_OrganizeMediaLogs` kwenye folda ya pato | Vihesabio vya maendeleo kwa programu nyingine |
+| Hali ya majaribio na leseni | Folda ya wasifu wa programu | Kutumia kipindi cha majaribio au ununuzi wa dukani |
+| Hali ya ukaguzi wa masasisho | Folda ya wasifu wa programu | Kupunguza mara ambazo ukaguzi wa hiari wa toleo huendeshwa |
+| Android: nakala za folda zilizochaguliwa kupitia kichaguzi cha mfumo, SAF | Folda ya kipindi katika hifadhi ya programu | Kunakili miti ya folda `content://` ili injini iweze kuisoma |
+| Nenosiri la hiari la SMTP kwa arifa za barua pepe | Huhifadhiwa kwa usimbaji fiche katika mapendeleo ya kipindi kwenye kifaa (AES-GCM kwa faili ya ufunguo kwa kila wasifu). Wakati wa kusasisha, ikiwa sehemu ipo, nenosiri la zamani la SMTP lililohifadhiwa bila AES-GCM huandikwa upya mara moja kwa AES-GCM. Faili ya ufunguo ya AES-GCM hubaki kwenye folda ya wasifu wa programu na inaweza kusomwa na akaunti ya mtumiaji wa OS aliyeingia; hulinda usomaji wa kawaida wa JSON ya mapendeleo, si hifadhi ya maunzi. | Iwapo tu arifa za barua pepe zimewashwa na vitambulisho vya SMTP vimeingizwa |
+
+## Kile ambacho mchapishaji hakipokei kwa chaguo-msingi
+
+- Yaliyomo kwenye faili kutoka kwa uendeshaji / urekebishaji  
+- Anwani, eneo, maikrofoni, au kamera (haitumiki)  
+- Data ya uchanganuzi au matangazo (hakuna SDK ya aina hiyo iliyojumuishwa katika programu)  
+- Manenosiri ya SMTP unayohifadhi kwenye kifaa (hubaki kwenye kifaa chako isipokuwa utume barua kupitia seva yako ya SMTP)
+
+## Utumiaji wa mtandao wa hiari
+
+| Shughuli | Data imetumwa | Mpokeaji |
+|----------|-----------|-----------|
+| Hundi ya hiari ya sasisho | HTTPS GET kwa faili ya maelezo ya toleo. Mpangishi (kwa mfano GitHub) hupokea ombi la anwani ya IP, Wakala wa Mtumiaji `OrganizeFiles-UpdateCheck/1.0`, na metadata ya TLS. Hakuna njia za faili au yaliyomo kwenye faili hutumwa. Zima kwa `ORGANIZE_FILES_DISABLE_UPDATE_CHECK=1`. | Mpangishi anayehudumia faili ya maelezo ya JSON |
+| Ununuzi wa duka / leseni | API za bili za jukwaa | Microsoft, Google, au Apple (kwa kila kituo) |
+| Seva ya leseni ya hiari (imesanidiwa na kiendeshaji) | Kitambulisho cha usakinishaji unaoendelea bila mpangilio (GUID iliyohifadhiwa katika `license_installation_id.txt`) hutumwa kwa seva ya leseni inayoendeshwa na mchapishaji au iliyosanidiwa na opereta katika `ORGANIZE_FILES_LICENSE_SERVER_URL`. Kitambulisho cha usakinishaji ni kitambulisho cha kifaa chini ya GDPR Recital 30. Msingi halali: utendaji wa mkataba. Uhifadhi unaoendeshwa na mchapishaji: rekodi za haki wakati zikiwa hai pamoja na hadi miezi 24 baada ya kuisha/kufutwa kwa kuzuia matumizi mabaya na utatuzi wa migogoro; rekodi za uhasibu zinaweza kuhifadhiwa hadi miaka 7 pale sheria inapohitaji. Seva zinazoendeshwa na opereta hufuata ratiba ya uhifadhi iliyoandikwa ya opereta. Kipengele hiki hakitumiki isipokuwa `ORGANIZE_FILES_LICENSE_SERVER_URL` kimewekwa. | Mchapishaji au seva ya leseni ya mwendeshaji |
+| Ufuatiliaji wa hiari wa OpenTelemetry (kiendeshaji kimesanidiwa) | `ORGANIZE_FILES_OTEL_EXPORTER_OTLP_ENDPOINT` inapowekwa, metadata ya kazi ya otomatiki (Vitambulisho vya kazi, vitambulisho vya uunganisho, lebo za aina inayolengwa, muktadha wa ufuatiliaji wa W3C) inatumwa kwa kikusanyaji kilichosanidiwa cha OTLP. Hakuna njia faili au yaliyomo faili ni pamoja. Kipengele hiki hakitumiki kwa chaguo-msingi na kinahitaji usanidi wazi wa opereta. | Kikusanyaji cha OTLP kilichosanidiwa na opereta |
+| Arifa za barua pepe za hiari (zinapowashwa) | Hali ya uendeshaji na sehemu za kumbukumbu (zinaweza kujumuisha njia za faili) zinazotumwa kupitia seva ya SMTP iliyosanidiwa na opereta | SMTP ya opereta / mtoa huduma wa barua pepe |
+| Webhooks za uendeshaji otomatiki za hiari (husanidiwa na mwendeshaji) | `ORGANIZE_FILES_AUTOMATION_WEBHOOK_URL` inapowekwa, matukio ya mzunguko wa maisha ya kazi yenye vitambulisho vya uhusiano na njia za faili za hali ya uendeshaji otomatiki | Mwisho wa webhook uliosanidiwa na mwendeshaji |
+| Ukaguzi wa hiari wa utambulisho kwa idhini ya utekelezaji (huwekwa na mwendeshaji) | `ORGANIZE_FILES_APPROVE_OAUTH_JWKS_URL` ikiwekwa, ombi la HTTPS GET huleta funguo za saini na kuzihifadhi kwa saa moja; hakuna tokeni inayoondoka kwenye kifaa. `ORGANIZE_FILES_APPROVE_OAUTH_INTROSPECTION_URL` ikiwekwa, tokeni ya mbeba ya mwendeshaji yenyewe hutumwa kwenye kiunganishi hicho ili kuthibitishwa (RFC 7662), pamoja na stakabadhi za mteja za HTTP Basic zikiwa zimewekwa. Haifanyi kazi isipokuwa mojawapo ya anwani hizo imewekwa. | Mtoa utambulisho aliyewekwa na mwendeshaji |
+| Injini NAS jaribu tena wasaidizi | Hakuna zaidi ya njia za mtandao zilizosanidiwa | Mwenyeji wa NAS / SMB |
+
+Ukaguzi wa sasisho unalinganisha **metadata ya toleo pekee**. Programu ya eneo-kazi inaweza kutekeleza ukaguzi huu mara moja kwa siku baada ya kukubalika kwa EULA isipokuwa kama imezimwa.
+
+## Misingi ya kisheria (mtindo wa GDPR, sio ushauri wa kisheria)
+
+| Inachakata | Msingi wa kawaida |
+|---|---|
+| Panga/rekebisha kwenye folda zilizochaguliwa tayari | Utendaji wa mkataba / maslahi halali ya operator |
+| Faili za ndani za kipindi, kuendelea na maendeleo | Vivyo hivyo, zinahitajika kutoa zana |
+| Malipo ya duka na haki | Mkataba na duka la jukwaa |
+| Ukaguzi wa hiari wa sasisho | Nia halali katika sasisho za usalama; inaweza kulemazwa kupitia kutofautisha kwa mazingira |
+| Barua pepe ya usaidizi | Maslahi halali / hatua za awali za mkataba kwa ombi lako |
+
+## Uhamisho wa kimataifa
+
+Ukaguzi wa hiari wa sasisho unaweza kufikia seva nje ya Eneo la Kiuchumi la Ulaya (kwa mfano GitHub nchini Marekani). Malipo ya duka yanashughulikiwa chini ya sheria na masharti ya kila jukwaa.
+
+## Mamlaka ya usimamizi na malalamiko
+
+Ikiwa sheria inayotumika inatoa haki za data au malalamiko kwa mamlaka ya usimamizi, wasiliana na mchapishaji kwanza kupitia **razvan.gutulov@outlook.com**. Wakazi wa EU/EEA wanaweza pia kuwasilisha malalamiko kwa mamlaka ya eneo lao ya ulinzi wa data (kwa Romania: ANSPDCP, https://www.dataprotection.ro).
+
+## Wachakataji wa wahusika wengine (vipengele hivi vinapotumika)
+
+- **Microsoft Store / Google Play / Mac App Store** - bili na haki. Google Play huthibitisha manunuzi kwenye kifaa.
+- **GitHub (au seva pangishi ya maelezo)** — toleo la hiari la JSON juu ya HTTPS (linaweza kujumuisha IP ya mteja kwenye kumbukumbu za seva)
+- **Mteja wa barua pepe** — unapowasiliana na usaidizi kupitia kiungo cha mailto
+
+## Majukumu ya waendeshaji (uundaji wa mtindo wa GDPR)
+
+Data ya kibinafsi inaweza kuwepo **ndani** ya faili zako. Ukichakata data kama hiyo, wewe (au shirika lako) unaweza kuwa **kidhibiti data** na lazima uchague msingi halali, upunguze uhifadhi, na ujibu maombi ya mada ya data.
+
+## Uhifadhi
+
+Faili za karibu nawe zitasalia hadi uzifute, ufute data ya programu, uondoe programu au ubatilishe folda za towe. Mchapishaji hafanyi kazi ratiba kuu ya uhifadhi kwa data ya ndani pekee.
+Kwa data inayoshikiliwa na mchapishaji:
+
+- Barua pepe za usaidizi na mawasiliano: hadi miezi 24 baada ya mawasiliano ya mwisho yenye maana, isipokuwa mgogoro au wajibu wa kisheria uhitaji uhifadhi mrefu zaidi.
+- Rekodi za ununuzi wa moja kwa moja, marejesho, kodi na uhasibu: hadi miaka 7 pale sheria ya kodi au uhasibu inapohitaji.
+- Rekodi za haki kwenye seva ya leseni inayoendeshwa na mchapishaji: wakati haki iko hai pamoja na hadi miezi 24 baada ya kuisha au kufutwa.
+- Logi za ufikiaji na usalama kwenye seva inayoendeshwa na mchapishaji: hadi siku 90, isipokuwa muda mrefu zaidi unahitajika kwa uchunguzi wa usalama, kuzuia udanganyifu au madai ya kisheria.
+
+## Haki zako
+
+Kwa data aliyonayo mchapishaji (k.m. mawasiliano ya barua pepe ya usaidizi), wasiliana na **razvan.gutulov@outlook.com**. Kwa data iliyohifadhiwa kwenye kifaa chako pekee, unaweza kufuta data nyingi za programu kupitia **Futa data ya programu**, sanidua au kufuta faili mwenyewe. **Futa data ya programu** huondoa vipindi, kumbukumbu na rasimu za otomatiki, lakini inaweza kubaki na viambajengo vya majaribio ya leseni, vialama vya usakinishaji unaolipishwa na kitambulisho cha usakinishaji kisichokutambulisha kinachotumika kwa ukaguzi wa hiari wa leseni - angalia maandishi ya uthibitishaji wa ndani ya programu kabla ya kuendelea. Inapotumika, unaweza kuomba ufikiaji, kusahihishwa, kufutwa, kuzuiwa kwa uchakataji, kupinga uchakataji, kuhamishwa kwa data, au kuondoa idhini.
+
+Mchapishaji analenga kujibu maombi ya wahusika wa data ndani ya **siku 30** baada ya ombi kuthibitishwa (uthibitisho wa utambulisho unaweza kuombwa inapohitajika kwa busara).
+
+## Watoto
+
+Zana ya jumla ya tija isiyoelekezwa kwa watoto walio na umri wa chini ya miaka 13 (au umri unaohitajika katika eneo lako la mamlaka).
+
+## Mabadiliko
+
+Mabadiliko muhimu yanapaswa kuonekana katika kurasa za programu katika Google Play na hati za ndani ya programu kabla ya kutolewa.
+
+Kwa data inayoshikiliwa na mchapishaji:
+
+- Barua pepe za usaidizi na mawasiliano: hadi miezi 24 baada ya mawasiliano ya mwisho yenye maana, isipokuwa mgogoro au wajibu wa kisheria uhitaji uhifadhi mrefu zaidi.
+- Rekodi za ununuzi wa moja kwa moja, marejesho, kodi na uhasibu: hadi miaka 7 pale sheria ya kodi au uhasibu inapohitaji.
+- Rekodi za haki kwenye seva ya leseni inayoendeshwa na mchapishaji: wakati haki iko hai pamoja na hadi miezi 24 baada ya kuisha au kufutwa.
+- Logi za ufikiaji na usalama kwenye seva inayoendeshwa na mchapishaji: hadi siku 90, isipokuwa muda mrefu zaidi unahitajika kwa uchunguzi wa usalama, kuzuia udanganyifu au madai ya kisheria.
+
+## Hati zinazohusiana
+
+- [EULA (Kiingereza)](../en/eula.md)  
+- [Sera ya Faragha (Kirumi)](../ro/privacy-policy.md)  
+- [Sera ya Faragha (Kijerumani)](../de/privacy-policy.md)  
+- [Sera ya Faragha (Kifaransa)](../fr/privacy-policy.md)
+
+---
+
+Ambapo tafsiri hii haijakamilika, Sera ya Faragha ya Kiingereza ndiyo itatumika.
