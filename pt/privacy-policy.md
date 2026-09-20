@@ -97,7 +97,7 @@ Para dados mantidos pelo editor:
 
 ## Seus direitos
 
-Para dados que o editor possui (por exemplo, correspondência por e-mail de suporte), entre em contato com **razvan.gutulov@outlook.com**. Para dados armazenados apenas no seu dispositivo, você pode excluir a maioria dos dados do aplicativo por meio de **Limpar dados do aplicativo**, desinstalar ou excluir manualmente o arquivo. **Limpar dados do aplicativo** remove sessões, registros e rascunhos de automação, mas pode reter âncoras de avaliação de licença, marcadores de instalação paga e um identificador de instalação anônimo usado para verificações de licença opcionais. Consulte o texto de confirmação no aplicativo antes de continuar. Quando aplicável, pode solicitar o acesso, a retificação, o apagamento, a limitação do tratamento, opor-se ao tratamento, a portabilidade dos dados ou retirar o consentimento.
+Para dados que o editor possui (por exemplo, correspondência por e-mail de suporte), entre em contato com **razvan.gutulov@outlook.com**. Para dados armazenados apenas no seu dispositivo, você pode excluir a maioria dos dados do aplicativo por meio de **Limpar dados do aplicativo**, desinstalar ou excluir manualmente o arquivo. **Limpar dados do aplicativo** remove sessões, registros e rascunhos de automação, mas pode reter âncoras de avaliação de licença, marcadores de instalação paga e um identificador de instalação usado para verificações de licença opcionais. Consulte o texto de confirmação no aplicativo antes de continuar. Quando aplicável, pode solicitar o acesso, a retificação, o apagamento, a limitação do tratamento, opor-se ao tratamento, a portabilidade dos dados ou retirar o consentimento.
 
 Para dados detidos pelo editor:
 

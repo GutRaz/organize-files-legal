@@ -53,6 +53,7 @@ Pour les données personnelles traitées par l'éditeur, le responsable du trait
 | Notifications par e-mail optionnelles (lorsqu'elles sont activées) | État d'exécution et extraits de journal (pouvant inclure des chemins de fichiers) envoyés via le serveur SMTP configuré par l'opérateur | SMTP / fournisseur de messagerie de l'opérateur |
 | Webhooks d'automatisation facultatifs (configurés par l'opérateur) | Lorsque `ORGANIZE_FILES_AUTOMATION_WEBHOOK_URL` est défini, des événements du cycle de vie des tâches avec des identifiants de corrélation et les chemins des fichiers d'état de l'automatisation | Point de terminaison webhook configuré par l'opérateur |
 | Vérification d'identité facultative pour l'approbation d'exécution (configurée par l'opérateur) | Si `ORGANIZE_FILES_APPROVE_OAUTH_JWKS_URL` est défini, un GET HTTPS récupère les clés de signature et les met en cache une heure ; aucun jeton ne quitte l'appareil. Si `ORGANIZE_FILES_APPROVE_OAUTH_INTROSPECTION_URL` est défini, le jeton porteur de l'opérateur lui-même est envoyé à ce point de terminaison pour validation (RFC 7662), avec des identifiants client HTTP Basic le cas échéant. Inactif tant qu'aucune de ces URL n'est définie. | Fournisseur d'identité configuré par l'opérateur |
+| Assistants de nouvelle tentative NAS du moteur | Rien en dehors des chemins réseau configurés | Hôte NAS / SMB |
 
 Les checks comparent **uniquement des métadonnées de version** — pas chemins ni contenus.
 

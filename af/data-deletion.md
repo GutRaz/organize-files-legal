@@ -21,7 +21,7 @@ aktiveer – 'n geënkripteerde SMTP-wagwoord. Jy kan dit enige tyd verwyder:
 
 1. **Vee toepassingsdata uit** — maak die toepassing oop en gebruik **Vee
    toepassingsdata uit**. Dit verwyder sessies, logboeke en outomatiseringskonsepte.
-   Dit kan die plaaslike lisensiestatus en 'n anonieme installasie-identifiseerder
+   Dit kan die plaaslike lisensiestatus en 'n installasie-identifiseerder
    wat vir opsionele lisensiekontroles gebruik word, behou; die bevestiging in die
    toepassing verduidelik presies wat behou word.
 2. **Deïnstalleer die toepassing** — om die toepassing te verwyder, vee sy private

@@ -53,7 +53,7 @@ Per i dati personali trattati dall'editore, il titolare del trattamento è **Gu�
 | Notifiche e-mail opzionali (se abilitate) | Stato dell'esecuzione ed estratti di log (possono includere percorsi di file) inviati tramite il server SMTP configurato dall'operatore | SMTP / provider di posta dell'operatore |
 | Webhook di automazione facoltativi (configurati dall'operatore) | Quando `ORGANIZE_FILES_AUTOMATION_WEBHOOK_URL` è impostato, eventi del ciclo di vita dei processi con ID di correlazione e i percorsi dei file di stato dell'automazione | Endpoint webhook configurato dall'operatore |
 | Verifica facoltativa dell'identità per l'approvazione dell'esecuzione (configurata dall'operatore) | Con `ORGANIZE_FILES_APPROVE_OAUTH_JWKS_URL` impostato, una GET HTTPS scarica le chiavi di firma e le mette in cache per un'ora; nessun token lascia il dispositivo. Con `ORGANIZE_FILES_APPROVE_OAUTH_INTROSPECTION_URL` impostato, viene inviato a quell'endpoint il token di tipo bearer dell'operatore stesso per la convalida (RFC 7662), con credenziali client HTTP Basic se configurate. Inattivo finché non è impostato uno di questi URL. | Provider di identità configurato dall'operatore |
-| Assistenti tentativi NAS motore | Nessuno oltre i percorsi di rete configurati | Host NAS/PMI |
+| Assistenti tentativi NAS motore | Nessuno oltre i percorsi di rete configurati | Host NAS / SMB |
 
 I controlli degli aggiornamenti confrontano **solo i metadati della versione**. L'app desktop può eseguire questo controllo una volta al giorno dopo l'accettazione dell'EULA, a meno che non sia disabilitato.
 
@@ -83,7 +83,7 @@ Se la legge applicabile garantisce i diritti dell'interessato o un reclamo a un'
 
 ## Responsabilità dell'operatore (inquadramento in stile GDPR)
 
-I dati personali potrebbero esistere **all'interno** dei tuoi file. Se tratti tali dati, tu (o la tua organizzazione) potreste essere un **responsabile del trattamento dei dati** e dovete scegliere una base legale, ridurre al minimo la conservazione e rispondere alle richieste dell'interessato.
+I dati personali potrebbero esistere **all'interno** dei tuoi file. Se tratti tali dati, tu (o la tua organizzazione) potreste essere un **titolare del trattamento dei dati** e dovete scegliere una base legale, ridurre al minimo la conservazione e rispondere alle richieste dell'interessato.
 
 ## Conservazione
 

@@ -24,7 +24,7 @@ bármikor eltávolíthatod:
 1. **Alkalmazásadatok törlése** — nyisd meg az alkalmazást, és használd az
    **Alkalmazásadatok törlése** lehetőséget. Ez eltávolítja a munkameneteket,
    naplókat és automatizálási vázlatokat. Megtarthatja a helyi licencállapotot és
-   egy névtelen telepítési azonosítót, amelyet opcionális licencellenőrzésekhez
+   egy telepítési azonosítót, amelyet opcionális licencellenőrzésekhez
    használ; az alkalmazáson belüli megerősítés pontosan elmagyarázza, mi marad
    meg.
 2. **Az alkalmazás eltávolítása** — az alkalmazás eltávolítása törli annak privát

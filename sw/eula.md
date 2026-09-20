@@ -47,7 +47,7 @@ KWA KIWANGO CHA JUU INAYORUHUSIWA NA SHERIA, MTANGAZAJI HATATAWAJIBIKA KWA UHARI
 
 ## 6. Jaribio na usajili
 
-Muda wa majaribio, SKU za duka, na masharti ya kusasisha yamefafanuliwa katika **orodha ya duka** na kadi ya leseni ya ndani ya programu. Miundo ya matoleo yanahitaji haki halali isipokuwa ubatilishaji wa jaribio/jaribio uliorekodiwa unatumika.
+Muda wa majaribio, SKU za duka, na masharti ya kusasisha yamefafanuliwa katika **orodha ya duka** na kadi ya leseni ya ndani ya programu. Miundo ya matoleo yanahitaji haki halali ya duka, jaribio linalotumika, au idhini kutoka kwa seva ya leseni inayoendeshwa na mchapishaji.
 
 **Baada ya kurejesha pesa kwenye duka, kubatilisha au kughairi usajili:** ikiwa usakinishaji huu ulirekodi ununuzi wa duka unaolipishwa hapo awali, programu inaweza kuanza **jaribio jipya la ndani la siku 14** (isizidi **majaribio** mawili kwa kila usakinishaji). Urejeshaji wa pesa unashughulikiwa na mfumo wa duka pekee - sio ndani ya programu. Tazama sura ya mwongozo wa ndani ya programu *Rejesha pesa na majaribio baada ya ununuzi* kwa mtiririko mzima.
 
@@ -65,7 +65,7 @@ Kwa ununuzi unaofanywa kupitia Microsoft Store, Google Play, Mac App Store, au A
 
 ## 9. Kukomesha
 
-Leseni hii itaisha ikiwa utakiuka sheria na masharti haya au ikiwa duka litabatilisha ufikiaji. Baada ya kusitisha, acha kutumia programu na uiondoe.
+Leseni hii itaisha ikiwa utakiuka masharti haya au ikiwa duka litabatilisha ufikiaji. Baada ya kusitisha, acha kutumia programu na uiondoe.
 
 ## 10. Sheria inayoongoza
 

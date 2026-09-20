@@ -21,7 +21,7 @@ email — một mật khẩu SMTP được mã hóa. Bạn có thể xóa chúng
 
 1. **Xóa dữ liệu ứng dụng** — mở ứng dụng và sử dụng **Xóa dữ liệu ứng dụng**.
    Thao tác này xóa các phiên, nhật ký và bản nháp tự động hóa. Nó có thể giữ lại
-   trạng thái giấy phép cục bộ và một mã nhận dạng cài đặt ẩn danh được dùng cho
+   trạng thái giấy phép cục bộ và một mã nhận dạng cài đặt được dùng cho
    việc kiểm tra giấy phép tùy chọn; xác nhận trong ứng dụng giải thích chính xác
    những gì được giữ lại.
 2. **Gỡ cài đặt ứng dụng** — việc gỡ ứng dụng sẽ xóa bộ nhớ riêng của nó trên

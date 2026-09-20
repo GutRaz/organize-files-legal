@@ -22,7 +22,7 @@ tahansa:
 
 1. **Tyhjennä sovelluksen tiedot** — avaa sovellus ja käytä toimintoa **Tyhjennä
    sovelluksen tiedot**. Tämä poistaa istunnot, lokit ja automaatioluonnokset. Se
-   voi säilyttää paikallisen lisenssitilan ja anonyymin asennustunnisteen, jota
+   voi säilyttää paikallisen lisenssitilan ja asennustunnisteen, jota
    käytetään valinnaisiin lisenssitarkistuksiin; sovelluksen vahvistus kertoo
    tarkalleen, mitä säilytetään.
 2. **Poista sovellus** — sovelluksen poistaminen tyhjentää sen yksityisen

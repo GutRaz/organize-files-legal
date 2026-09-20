@@ -23,11 +23,11 @@ Când editorul operează un server de licențe, o achiziție lifetime se leagă 
 
 ## 2. Restricții
 
-Nu este permis: inginerie inversă (exceptând unde legea o impune), eliminarea mențiunilor de copyright, redistribuirea neautorizată, utilizarea ilegală.
+Nu este permis: inginerie inversă, cu excepția cazurilor în care legea locală imperativă o permite, eliminarea mențiunilor de copyright, redistribuirea aplicației sau a motorului în afara cazurilor permise de canalul magazinului, utilizarea ilegală.
 
 ## 3. Copii de siguranță și operații distructive
 
-Aplicația poate **muta sau șterge fișiere** în orice rulare în care Simularea este oprită. **Utilizatorul** este responsabil pentru copii de siguranță verificate.
+Aplicația poate **muta sau șterge fișiere** în orice rulare în care Simularea este oprită. **Utilizatorul** este responsabil pentru copii de siguranță verificate înainte de orice rulare reală.
 
 ## 4. Exonerare de garanții
 
@@ -39,7 +39,7 @@ SOFTWARE-UL ESTE FURNIZAT **„CA ATARE”**, FĂRĂ NICIO GARANȚIE DE ORICE FE
 
 ## 6. Probă și abonamente
 
-Durata probei, SKU-urile și reînnoirea sunt definite în listarea magazinului și în cardul de licență din aplicație.
+Durata probei, SKU-urile și reînnoirea sunt definite în listarea magazinului și în cardul de licență din aplicație. Versiunile de lansare necesită un drept valid din magazin, o probă activă sau autorizare de la serverul de licențe al editorului.
 
 **După refund, revocare sau anularea abonamentului în magazin:** dacă această instalare a înregistrat anterior o achiziție plătită, aplicația poate porni o **probă locală nouă de 14 zile** (cel mult **două** astfel de probe per instalare). Rambursările în bani sunt gestionate doar de platforma magazinului — nu în aplicație. Vezi în ghidul din aplicație capitolul *Rambursare și trial după achiziție*.
 
@@ -57,11 +57,11 @@ Pentru achiziții făcute prin Microsoft Store, Google Play, Mac App Store sau A
 
 ## 9. Încetare
 
-Licența încetează la încălcarea termenilor sau revocarea accesului de către magazin.
+Licența încetează la încălcarea termenilor sau revocarea accesului de către magazin. La încetare, nu mai folosiți aplicația și dezinstalați-o.
 
 ## 10. Lege aplicabilă
 
-Exceptând legea imperativă de protecție a consumatorilor, litigiile sunt guvernate de legile României.
+Exceptând cazurile în care legea imperativă de protecție a consumatorilor din țara consumatorului prevede altfel, litigiile sunt guvernate de legile României, fără aplicarea normelor privind conflictul de legi.
 
 Consumatorii din România se pot adresa Autorității Naționale pentru Protecția Consumatorilor (ANPC, www.anpc.ro) pentru litigii. Consumatorii din UE/SEE pot apela la autoritatea națională competentă pentru protecția consumatorilor sau la o entitate de soluționare alternativă a litigiilor din țara lor. Fosta platformă SOL a UE nu mai funcționează din 20 iulie 2025.
 

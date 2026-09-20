@@ -98,7 +98,7 @@ Vir data wat deur die uitgewer gehou word:
 
 ## Jou regte
 
-Kontak **razvan.gutulov@outlook.com** vir data wat die uitgewer hou (bv. steun-e-poskorrespondensie). Vir data wat net op jou toestel gestoor is, kan jy die meeste programdata uitvee via **Vee programdata uit**, deïnstallering of handmatige lêeruitvee. **Vee programdata uit** verwyder sessies, logboeke en outomatiseringskonsepte, maar kan lisensie-proefankers, betaalde-installasiemerkers en 'n anonieme installasie-identifiseerder wat vir opsionele lisensiekontroles gebruik word, behou – sien die inprogram-bevestigingsteks voordat jy voortgaan. Waar van toepassing kan jy toegang, regstelling, skrapping, beperking van verwerking, beswaar teen verwerking, dataoordraagbaarheid of die herroeping van toestemming versoek.
+Kontak **razvan.gutulov@outlook.com** vir data wat die uitgewer hou (bv. steun-e-poskorrespondensie). Vir data wat net op jou toestel gestoor is, kan jy die meeste programdata uitvee via **Vee programdata uit**, deïnstallering of handmatige lêeruitvee. **Vee programdata uit** verwyder sessies, logboeke en outomatiseringskonsepte, maar kan lisensie-proefankers, betaalde-installasiemerkers en 'n installasie-identifiseerder wat vir opsionele lisensiekontroles gebruik word, behou – sien die inprogram-bevestigingsteks voordat jy voortgaan. Waar van toepassing kan jy toegang, regstelling, skrapping, beperking van verwerking, beswaar teen verwerking, dataoordraagbaarheid of die herroeping van toestemming versoek.
 
 Die uitgewer mik daarna om versoeke van datasubjekte binne **30 dae** ná 'n geverifieerde versoek te beantwoord (identiteitsverifikasie kan gevra word wanneer dit redelikerwys nodig is).
 
