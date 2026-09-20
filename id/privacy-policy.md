@@ -53,7 +53,7 @@ Untuk data pribadi yang diproses oleh penerbit, pengendalinya adalah **Guțulov 
 | Notifikasi email opsional (saat diaktifkan) | Status berjalan dan cuplikan log (dapat mencakup jalur file) dikirim melalui server SMTP yang dikonfigurasi operator | SMTP operator / penyedia email |
 | Webhook otomatisasi opsional (dikonfigurasi operator) | Ketika `ORGANIZE_FILES_AUTOMATION_WEBHOOK_URL` disetel, peristiwa siklus hidup tugas berisi ID korelasi dan jalur berkas status otomatisasi | Endpoint webhook yang dikonfigurasi operator |
 | Pemeriksaan identitas opsional untuk persetujuan eksekusi (dikonfigurasi operator) | Bila `ORGANIZE_FILES_APPROVE_OAUTH_JWKS_URL` disetel, satu HTTPS GET mengambil kunci penandatanganan dan menyimpannya di cache selama satu jam; tidak ada token yang meninggalkan perangkat. Bila `ORGANIZE_FILES_APPROVE_OAUTH_INTROSPECTION_URL` disetel, token bearer operator itu sendiri dikirim ke endpoint tersebut untuk divalidasi (RFC 7662), dengan kredensial klien HTTP Basic bila dikonfigurasi. Tidak aktif kecuali salah satu URL itu disetel. | Penyedia identitas yang dikonfigurasi operator |
-| Pembantu coba lagi NAS mesin | Tidak ada selain jalur jaringan yang dikonfigurasi | Tuan rumah NAS/UKM |
+| Pembantu coba lagi NAS mesin | Tidak ada selain jalur jaringan yang dikonfigurasi | Host NAS / SMB |
 
 Pemeriksaan pembaruan membandingkan **hanya metadata versi**. Aplikasi desktop dapat menjalankan pemeriksaan ini sekali sehari setelah penerimaan EULA kecuali dinonaktifkan.
 

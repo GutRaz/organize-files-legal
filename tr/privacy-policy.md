@@ -53,7 +53,7 @@ Yayıncı tarafından işlenen kişisel veriler için veri sorumlusu **Guțulov 
 | İsteğe bağlı e-posta bildirimleri (etkinleştirildiğinde) | Çalışma durumu ve günlük alıntıları (dosya yolları içerebilir) operatör tarafından yapılandırılmış SMTP sunucusu üzerinden gönderilir | Operatör SMTP / e-posta sağlayıcısı |
 | İsteğe bağlı otomasyon web kancaları (operatör tarafından yapılandırılır) | `ORGANIZE_FILES_AUTOMATION_WEBHOOK_URL` ayarlandığında, ilişkilendirme kimlikleri ve otomasyon durum dosyalarının dosya yollarını taşıyan iş yaşam döngüsü olayları | Operatör tarafından yapılandırılan web kancası uç noktası |
 | Yürütme onayı için isteğe bağlı kimlik denetimi (işletmen tarafından yapılandırılır) | `ORGANIZE_FILES_APPROVE_OAUTH_JWKS_URL` ayarlıysa bir HTTPS GET imzalama anahtarlarını alır ve bir saat önbelleğe koyar; cihazdan hiçbir belirteç çıkmaz. `ORGANIZE_FILES_APPROVE_OAUTH_INTROSPECTION_URL` ayarlıysa işletmenin taşıyıcı belirtecinin kendisi doğrulama için o uç noktaya gönderilir (RFC 7662), yapılandırılmışsa HTTP Basic istemci kimlik bilgileriyle birlikte. Bu adreslerden biri ayarlanmadıkça etkin değildir. | İşletmenin yapılandırdığı kimlik sağlayıcı |
-| Motor NAS yeniden deneme yardımcıları | Yapılandırılmış ağ yollarının ötesinde yok | NAS / KOBİ ana bilgisayarı |
+| Motor NAS yeniden deneme yardımcıları | Yapılandırılmış ağ yollarının ötesinde yok | NAS / SMB ana bilgisayarı |
 
 Güncelleme kontrolleri **yalnızca sürüm meta verilerini** karşılaştırır. Masaüstü uygulaması, devre dışı bırakılmadığı sürece EULA'nın kabul edilmesinden sonra bu kontrolü günde bir kez çalıştırabilir.
 

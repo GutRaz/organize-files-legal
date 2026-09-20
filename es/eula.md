@@ -47,7 +47,7 @@ EN LA MEDIDA MÁXIMA PERMITIDA POR LA LEY, EL EDITOR NO SERÁ RESPONSABLE DE NIN
 
 ## 6. Prueba y suscripciones
 
-La duración de la prueba, los SKU de la tienda y los términos de renovación se definen en la **lista de la tienda** y en la tarjeta de licencia en la aplicación. Las compilaciones de lanzamiento requieren un derecho válido a menos que esté activa una anulación de prueba/desarrollo documentada.
+La duración de la prueba, los SKU de la tienda y los términos de renovación se definen en la **lista de la tienda** y en la tarjeta de licencia en la aplicación. Las compilaciones de lanzamiento requieren un derecho válido de la tienda, una prueba activa o una autorización del servidor de licencias operado por el editor.
 
 **Después de un reembolso de la tienda, una revocación o una suscripción cancelada:** si esta instalación registró previamente una compra paga en la tienda, la aplicación puede iniciar una **nueva prueba local de 14 días** (como máximo **dos** pruebas de este tipo por instalación). Los reembolsos de dinero se manejan únicamente a través de la plataforma de la tienda, no dentro de la aplicación. Consulte el capítulo de la guía en la aplicación *Reembolsos y prueba después de la compra* para conocer el flujo completo.
 

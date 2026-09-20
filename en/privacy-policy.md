@@ -49,6 +49,7 @@ For personal data processed by the publisher, the controller is **Guțulov Răzv
 | Optional email notifications (when enabled) | Run status and log excerpts (may include file paths) sent through the operator-configured SMTP server | Operator SMTP / mail provider |
 | Optional automation webhooks (operator-configured) | When `ORGANIZE_FILES_AUTOMATION_WEBHOOK_URL` is set, job lifecycle events carrying correlation IDs and the file paths of automation state files | Operator-configured webhook endpoint |
 | Optional execute-approval identity check (operator-configured) | With `ORGANIZE_FILES_APPROVE_OAUTH_JWKS_URL` set, an HTTPS GET fetches the signing keys and caches them for one hour; no token leaves the device. With `ORGANIZE_FILES_APPROVE_OAUTH_INTROSPECTION_URL` set, the operator's bearer token itself is posted to that endpoint for validation (RFC 7662), with HTTP Basic client credentials when configured. Inactive unless one of those URLs is set. | Operator-configured identity provider |
+| Engine NAS retry helpers | None beyond configured network paths | NAS / SMB host |
 
 Update checks compare **version metadata only**. The desktop app may run this check once per day after EULA acceptance unless disabled.
 

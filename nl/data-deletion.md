@@ -22,7 +22,7 @@ verwijderen:
 
 1. **App-gegevens wissen** — open de app en gebruik **App-gegevens wissen**. Dit
    verwijdert sessies, logboeken en automatiseringsconcepten. Het kan de lokale
-   licentiestatus en een anonieme installatie-identificatie voor optionele
+   licentiestatus en een installatie-identificatie voor optionele
    licentiecontroles behouden; de bevestiging in de app legt precies uit wat
    wordt bewaard.
 2. **De app verwijderen** — het verwijderen van de app wist de privéopslag op

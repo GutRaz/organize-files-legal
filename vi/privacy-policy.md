@@ -98,7 +98,7 @@ Các tệp cục bộ vẫn còn cho đến khi bạn xóa chúng, xóa dữ li�
 
 ## Quyền của bạn
 
-Đối với dữ liệu mà nhà xuất bản lưu giữ (ví dụ: hỗ trợ thư từ qua email), hãy liên hệ **razvan.gutulov@outlook.com**. Đối với dữ liệu chỉ được lưu trữ trên thiết bị của bạn, bạn có thể xóa hầu hết dữ liệu ứng dụng thông qua **Xóa dữ liệu ứng dụng**, gỡ cài đặt hoặc xóa tệp thủ công. **Xóa dữ liệu ứng dụng** xóa phiên, nhật ký và bản nháp tự động hóa nhưng có thể giữ lại các neo dùng thử giấy phép, điểm đánh dấu cài đặt trả phí và mã nhận dạng cài đặt ẩn danh được sử dụng để kiểm tra giấy phép tùy chọn — hãy xem văn bản xác nhận trong ứng dụng trước khi bạn tiếp tục. Khi được áp dụng, bạn có thể yêu cầu quyền truy cập, chỉnh sửa, xóa, hạn chế xử lý, phản đối việc xử lý, chuyển dữ liệu hoặc rút lại sự đồng ý.
+Đối với dữ liệu mà nhà xuất bản lưu giữ (ví dụ: hỗ trợ thư từ qua email), hãy liên hệ **razvan.gutulov@outlook.com**. Đối với dữ liệu chỉ được lưu trữ trên thiết bị của bạn, bạn có thể xóa hầu hết dữ liệu ứng dụng thông qua **Xóa dữ liệu ứng dụng**, gỡ cài đặt hoặc xóa tệp thủ công. **Xóa dữ liệu ứng dụng** xóa phiên, nhật ký và bản nháp tự động hóa nhưng có thể giữ lại các neo dùng thử giấy phép, điểm đánh dấu cài đặt trả phí và mã nhận dạng cài đặt được sử dụng để kiểm tra giấy phép tùy chọn — hãy xem văn bản xác nhận trong ứng dụng trước khi bạn tiếp tục. Khi được áp dụng, bạn có thể yêu cầu quyền truy cập, chỉnh sửa, xóa, hạn chế xử lý, phản đối việc xử lý, chuyển dữ liệu hoặc rút lại sự đồng ý.
 
 Nhà phát hành đặt mục tiêu phản hồi yêu cầu của chủ thể dữ liệu trong vòng **30 ngày** sau khi yêu cầu được xác minh (có thể yêu cầu xác minh danh tính khi cần thiết hợp lý).
 

@@ -47,7 +47,7 @@ W MAKSYMALNYM ZAKRESIE DOZWOLONYM PRZEZ PRAWO WYDAWCA NIE PONOSI ODPOWIEDZIALNO�
 
 ## 6. Wersja próbna i subskrypcje
 
-Czas trwania wersji próbnej, kody SKU sklepu i warunki odnowienia są określone w **informacjach o sklepie** i karcie licencyjnej w aplikacji. Kompilacje wersji wymagają ważnego uprawnienia, chyba że aktywne jest udokumentowane zastąpienie wersji deweloperskiej/testowej.
+Czas trwania wersji próbnej, kody SKU sklepu i warunki odnowienia są określone w **informacjach o sklepie** i karcie licencyjnej w aplikacji. Kompilacje wersji wymagają ważnego uprawnienia ze sklepu, aktywnej wersji próbnej lub autoryzacji z serwera licencji prowadzonego przez wydawcę.
 
 **Po zwróceniu środków w sklepie, anulowaniu lub anulowaniu subskrypcji:** jeśli w tej instalacji zarejestrowano wcześniej zakup w płatnym sklepie, aplikacja może rozpocząć **nowy 14-dniowy lokalny okres próbny** (maksymalnie **dwa** takie okresy próbne na instalację). Zwroty pieniędzy są obsługiwane wyłącznie przez platformę sklepu, a nie w aplikacji. Pełny opis znajdziesz w rozdziale przewodnika w aplikacji *Zwroty środków i okres próbny po zakupie*.
 

@@ -43,11 +43,11 @@ A SZOFTVER **„AHOGY VAN”**, BÁRMILYEN KIFEJEZETT VAGY VÉLEMEZTETETT GARANC
 
 ## 5. A felelősség korlátozása
 
-A TÖRVÉNY ÁLTAL ENGEDÉLYEZETT MAXIMÁLIS MÉRTÉKÉBEN A KIADÓ NEM VÁLLAL FELELŐSSÉGET SEMMILYEN KÖZVETETT, VÉLETLENES, KÜLÖNLEGES, KÖVETKEZMÉNYES VAGY BÜNTETŐ KÁROKÉRT, VAGY ADATKEZÉSÉRT, AZ EREDMÉNY, VAGY ÜZLETI FELHASZNÁLÁSBÓL, VAGY VÁLLALKOZÁSBAN. SZOFTVER, kivéve, ahol a kötelező fogyasztóvédelmi jog ezt tiltja.
+A TÖRVÉNY ÁLTAL ENGEDÉLYEZETT MAXIMÁLIS MÉRTÉKBEN A KIADÓ NEM VÁLLAL FELELŐSSÉGET SEMMILYEN KÖZVETETT, VÉLETLEN, KÜLÖNLEGES, KÖVETKEZMÉNYES VAGY BÜNTETŐ KÁRÉRT, SEM ADATVESZTÉSÉRT, ELMARADT HASZONÉRT VAGY AZ ÜZLETMENET MEGSZAKADÁSÁÉRT, AMELY A SZOFTVER HASZNÁLATÁBÓL VAGY HELYTELEN HASZNÁLATÁBÓL ERED, kivéve, ahol a kötelező fogyasztóvédelmi jog ezt tiltja.
 
 ## 6. Próbaverzió és előfizetések
 
-A próbaidőszak, az áruházi cikkszámok és a megújítási feltételek az **áruház adatlapján** és az alkalmazáson belüli licenckártyán vannak meghatározva. A kiadási buildekhez érvényes jogosultság szükséges, kivéve, ha a dokumentált fejlesztői/tesztelési felülírás aktív.
+A próbaidőszak, az áruházi cikkszámok és a megújítási feltételek az **áruház adatlapján** és az alkalmazáson belüli licenckártyán vannak meghatározva. A kiadási buildekhez érvényes áruházi jogosultság, aktív próbaidőszak vagy a kiadó által üzemeltetett licencszerver engedélye szükséges.
 
 **Az üzletben történt visszatérítés, visszavonás vagy lemondott előfizetés után:** ha ez a telepítés korábban fizetős bolti vásárlást rögzített, az alkalmazás elindíthat egy **új 14 napos helyi próbaverziót** (telepítésenként legfeljebb **két** ilyen próba). A pénzvisszatérítést csak az áruház platformja kezeli – az alkalmazáson belül nem. Tekintse meg az alkalmazáson belüli útmutató *Visszatérítések és vásárlás utáni próbaverzió* című fejezetét a teljes folyamatért.
 

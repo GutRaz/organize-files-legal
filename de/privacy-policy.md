@@ -53,6 +53,7 @@ Für personenbezogene Daten, die der Herausgeber verarbeitet, ist der Verantwort
 | Optionale E-Mail-Benachrichtigungen (wenn aktiviert) | Laufstatus und Protokollauszüge (können Dateipfade enthalten) über den betreiberkonfigurierten SMTP-Server | Betreiber-SMTP / Mail-Anbieter |
 | Optionale Automatisierungs-Webhooks (vom Betreiber konfiguriert) | Wenn `ORGANIZE_FILES_AUTOMATION_WEBHOOK_URL` gesetzt ist, Ereignisse aus dem Auftragslebenszyklus mit Korrelations-IDs und den Dateipfaden der Automatisierungsstatusdateien | Vom Betreiber konfigurierter Webhook-Endpunkt |
 | Optionale Identitätsprüfung bei der Ausführungsgenehmigung (vom Betreiber eingerichtet) | Ist `ORGANIZE_FILES_APPROVE_OAUTH_JWKS_URL` gesetzt, holt ein HTTPS-GET die Signaturschlüssel und hält sie eine Stunde im Cache; kein Token verlässt das Gerät. Ist `ORGANIZE_FILES_APPROVE_OAUTH_INTROSPECTION_URL` gesetzt, wird das Bearer-Token des Betreibers selbst zur Validierung an diesen Endpunkt gesendet (RFC 7662), mit HTTP-Basic-Client-Anmeldedaten, sofern eingerichtet. Inaktiv, solange keine dieser URLs gesetzt ist. | Vom Betreiber eingerichteter Identitätsanbieter |
+| Engine-NAS-Wiederholungshelfer | Nichts außerhalb der konfigurierten Netzwerkpfade | NAS- / SMB-Host |
 
 Update-Checks vergleichen **nur Versionsmetadaten** — keine Dateipfade oder Inhalte.
 
