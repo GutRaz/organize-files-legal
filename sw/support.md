@@ -21,7 +21,7 @@ Unapotuandikia, tafadhali jumuisha:
 - Duka ulikosakinisha (Microsoft Store, Google Play, Apple App Store au toleo lililosakinishwa kwa mkono)
 - Maelezo wazi ya tatizo na hatua za kulirudia
 
-Tunajitahidi kujibu ndani ya **siku 2–3 za kazi**. Maswali ya kurejeshewa pesa yanaweza kuchukua hadi **siku 14**.
+Tunajitahidi kujibu ndani ya **siku 2–3 za kazi**.
 
 ## Kabla ya kuwasiliana na usaidizi
 
@@ -31,7 +31,7 @@ Tunajitahidi kujibu ndani ya **siku 2–3 za kazi**. Maswali ya kurejeshewa pesa
 
 ## Malipo na marejesho
 
-Ununuzi na marejesho hushughulikiwa na duka ulikonunua (Microsoft Store, Google Play au Apple App Store).
+Ununuzi na marejesho hushughulikiwa na duka ulikonunua (Microsoft Store, Google Play au Apple App Store). Haki ya kujiondoa kwa watumiaji katika Umoja wa Ulaya na Eneo la Kiuchumi la Ulaya hudumu kwa siku 14 za kalenda tangu ununuzi na hutekelezwa kupitia duka. Kuandika kwa barua pepe ya mawasiliano si kutekeleza haki hiyo, na hakusimamishi wala hakurefushi siku hizo 14.
 
 ## Faragha
 

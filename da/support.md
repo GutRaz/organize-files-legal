@@ -21,7 +21,7 @@ Når du skriver til os, bedes du oplyse:
 - Den butik, du installerede fra (Microsoft Store, Google Play, Apple App Store eller en manuelt installeret build)
 - En klar beskrivelse af problemet og trinnene til at genskabe det
 
-Vi bestræber os på at svare inden for **2-3 hverdage**. Spørgsmål om refusion kan tage op til **14 dage**.
+Vi bestræber os på at svare inden for **2-3 hverdage**.
 
 ## Før du kontakter supporten
 
@@ -31,7 +31,7 @@ Vi bestræber os på at svare inden for **2-3 hverdage**. Spørgsmål om refusio
 
 ## Fakturering og refusioner
 
-Køb og refusioner håndteres af den butik, hvor du købte (Microsoft Store, Google Play eller Apple App Store).
+Køb og refusioner håndteres af den butik, hvor du købte (Microsoft Store, Google Play eller Apple App Store). Fortrydelsesretten for forbrugere i Den Europæiske Union og Det Europæiske Økonomiske Samarbejdsområde gælder i 14 kalenderdage fra købet og udøves gennem butikken. En e-mail til kontaktadressen udøver ikke retten og hverken stopper eller forlænger de 14 dage.
 
 ## Privatliv
 

@@ -21,7 +21,7 @@ Lorsque vous nous écrivez, veuillez indiquer :
 - Le store depuis lequel vous avez installé (Microsoft Store, Google Play, Apple App Store ou un build installé manuellement)
 - Une description claire du problème et les étapes pour le reproduire
 
-Nous nous efforçons de répondre sous **2 à 3 jours ouvrés**. Les questions de remboursement peuvent prendre jusqu'à **14 jours**.
+Nous nous efforçons de répondre sous **2 à 3 jours ouvrés**.
 
 ## Avant de contacter l'assistance
 
@@ -31,7 +31,7 @@ Nous nous efforçons de répondre sous **2 à 3 jours ouvrés**. Les questions d
 
 ## Facturation et remboursements
 
-Les achats et les remboursements sont gérés par le store où vous avez effectué l'achat (Microsoft Store, Google Play ou Apple App Store).
+Les achats et les remboursements sont gérés par le store où vous avez effectué l'achat (Microsoft Store, Google Play ou Apple App Store). Le droit de rétractation des consommateurs dans l'Union européenne et l'Espace économique européen dure 14 jours calendaires à compter de l'achat et s'exerce via la boutique. Écrire à l'adresse de contact ne l'exerce pas et ne suspend ni ne prolonge ces 14 jours.
 
 ## Confidentialité
 

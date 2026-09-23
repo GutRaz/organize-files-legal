@@ -21,7 +21,7 @@
 - 您安装的商店（Microsoft Store、Google Play、Apple App Store 或手动安装的构建）
 - 对问题的清晰描述以及重现步骤
 
-我们力求在 **2–3 个工作日**内回复。 退款相关问题最长可能需要 **14 天**。
+我们力求在 **2–3 个工作日**内回复。
 
 ## 联系支持之前
 
@@ -31,7 +31,7 @@
 
 ## 账单和退款
 
-购买和退款由您购买的商店（Microsoft Store、Google Play 或 Apple App Store）处理。
+购买和退款由您购买的商店（Microsoft Store、Google Play 或 Apple App Store）处理。 欧盟和欧洲经济区消费者的撤回权自购买之日起14个日历日内有效，并通过商店行使。发送邮件至联系邮箱不构成行使该权利，也不会中止或延长这14天。
 
 ## 隐私
 

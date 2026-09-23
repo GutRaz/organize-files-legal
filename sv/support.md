@@ -21,7 +21,7 @@ Ange följande när du skriver till oss:
 - Butiken du installerade från (Microsoft Store, Google Play, Apple App Store eller en manuellt installerad build)
 - En tydlig beskrivning av problemet och stegen för att återskapa det
 
-Vi strävar efter att svara inom **2–3 arbetsdagar**. Frågor om återbetalning kan ta upp till **14 dagar**.
+Vi strävar efter att svara inom **2–3 arbetsdagar**.
 
 ## Innan du kontaktar supporten
 
@@ -31,7 +31,7 @@ Vi strävar efter att svara inom **2–3 arbetsdagar**. Frågor om återbetalnin
 
 ## Fakturering och återbetalningar
 
-Köp och återbetalningar hanteras av butiken där du köpte (Microsoft Store, Google Play eller Apple App Store).
+Köp och återbetalningar hanteras av butiken där du köpte (Microsoft Store, Google Play eller Apple App Store). Ångerrätten för konsumenter i Europeiska unionen och Europeiska ekonomiska samarbetsområdet gäller i 14 kalenderdagar från köpet och utövas genom butiken. Ett mejl till kontaktadressen utövar den inte och varken stoppar eller förlänger de 14 dagarna.
 
 ## Integritet
 

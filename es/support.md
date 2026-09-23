@@ -21,7 +21,7 @@ Cuando nos escribas, incluye por favor:
 - La tienda desde la que instalaste (Microsoft Store, Google Play, Apple App Store o una compilación instalada manualmente)
 - Una descripción clara del problema y los pasos para reproducirlo
 
-Procuramos responder en **2–3 días laborables**. Las consultas sobre reembolsos pueden tardar hasta **14 días**.
+Procuramos responder en **2–3 días laborables**.
 
 ## Antes de contactar con el soporte
 
@@ -31,7 +31,7 @@ Procuramos responder en **2–3 días laborables**. Las consultas sobre reembols
 
 ## Facturación y reembolsos
 
-Las compras y los reembolsos los gestiona la tienda donde compraste (Microsoft Store, Google Play o Apple App Store).
+Las compras y los reembolsos los gestiona la tienda donde compraste (Microsoft Store, Google Play o Apple App Store). El derecho de desistimiento de los consumidores en la Unión Europea y el Espacio Económico Europeo dura 14 días naturales desde la compra y se ejerce a través de la tienda. Escribir al correo de contacto no lo ejerce y no suspende ni amplía esos 14 días.
 
 ## Privacidad
 

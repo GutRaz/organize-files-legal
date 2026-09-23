@@ -21,7 +21,7 @@ Bize yazarken lütfen şunları ekleyin:
 - Yüklediğiniz mağaza (Microsoft Store, Google Play, Apple App Store veya manuel olarak yüklenen bir yapı)
 - Sorunun net bir açıklaması ve yeniden oluşturma adımları
 
-**2–3 iş günü** içinde yanıt vermeyi hedefliyoruz. Geri ödeme soruları **14 güne** kadar sürebilir.
+**2–3 iş günü** içinde yanıt vermeyi hedefliyoruz.
 
 ## Destekle iletişime geçmeden önce
 
@@ -31,7 +31,7 @@ Bize yazarken lütfen şunları ekleyin:
 
 ## Faturalandırma ve geri ödemeler
 
-Satın alımlar ve geri ödemeler, satın aldığınız mağaza (Microsoft Store, Google Play veya Apple App Store) tarafından yönetilir.
+Satın alımlar ve geri ödemeler, satın aldığınız mağaza (Microsoft Store, Google Play veya Apple App Store) tarafından yönetilir. Avrupa Birliği ve Avrupa Ekonomik Alanı'ndaki tüketicilerin cayma hakkı satın alma tarihinden itibaren 14 takvim günü sürer ve mağaza üzerinden kullanılır. İletişim e-posta adresine yazmak bu hakkın kullanılması sayılmaz ve bu 14 günü durdurmaz ya da uzatmaz.
 
 ## Gizlilik
 

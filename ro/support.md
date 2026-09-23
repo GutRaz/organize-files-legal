@@ -22,7 +22,7 @@ Când ne scrii, te rugăm să incluzi:
   sau o versiune instalată manual)
 - O descriere clară a problemei și pașii de reproducere
 
-Ne propunem să răspundem în **2–3 zile lucrătoare**. Întrebările despre rambursări pot dura până la **14 zile**.
+Ne propunem să răspundem în **2–3 zile lucrătoare**.
 
 ## Înainte de a contacta suportul
 
@@ -34,7 +34,7 @@ Ne propunem să răspundem în **2–3 zile lucrătoare**. Întrebările despre 
 
 ## Facturare și rambursări
 
-Achizițiile și rambursările sunt gestionate de magazinul din care ai cumpărat (Microsoft Store, Google Play sau Apple App Store).
+Achizițiile și rambursările sunt gestionate de magazinul din care ai cumpărat (Microsoft Store, Google Play sau Apple App Store). Dreptul de retragere al consumatorilor din Uniunea Europeană și Spațiul Economic European durează 14 zile calendaristice de la achiziție și se exercită prin magazin. Un email trimis la adresa de contact nu exercită acest drept și nici nu oprește sau prelungește cele 14 zile.
 
 ## Confidențialitate
 

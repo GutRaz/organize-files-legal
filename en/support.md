@@ -17,7 +17,7 @@ When you write, please include:
 - The store you installed from (Microsoft Store, Google Play, Apple App Store, or a side-loaded build)
 - A clear description of the problem and the steps to reproduce it
 
-We aim to reply within **2–3 business days**. Refund questions can take up to **14 days**.
+We aim to reply within **2–3 business days**.
 
 ## Before contacting support
 
@@ -27,7 +27,7 @@ We aim to reply within **2–3 business days**. Refund questions can take up to 
 
 ## Billing and refunds
 
-Purchases and refunds are handled by the store you bought from (Microsoft Store, Google Play, or Apple App Store).
+Purchases and refunds are handled by the store you bought from (Microsoft Store, Google Play, or Apple App Store). The right of withdrawal for consumers in the European Union and the European Economic Area runs for 14 calendar days from the purchase and is exercised through the store. Writing to the contact email does not exercise it, and neither pauses nor extends those 14 days.
 
 ## Privacy
 
