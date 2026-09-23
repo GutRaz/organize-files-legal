@@ -45,10 +45,7 @@ theo:
 - Địa chỉ email bạn đã dùng để liên hệ với bộ phận hỗ trợ, và/hoặc
 - Mã tham chiếu giấy phép hoặc đơn hàng của bạn, nếu có
 
-Nhà phát hành cố gắng phản hồi trong vòng **30 ngày** kể từ khi yêu cầu được xác
-minh. Một số bản ghi có thể được lưu giữ khi pháp luật yêu cầu (ví dụ: hồ sơ thuế
-và kế toán). Xem [Chính sách quyền riêng tư](./privacy-policy.md) để biết đầy
-đủ chi tiết về việc lưu giữ.
+Nhà phát hành cố gắng phản hồi trong khoảng thời gian mà pháp luật áp dụng yêu cầu. Một số bản ghi có thể được lưu giữ khi pháp luật yêu cầu (ví dụ: hồ sơ thuế và kế toán). Xem [Chính sách quyền riêng tư](./privacy-policy.md) để biết đầy đủ chi tiết về việc lưu giữ.
 
 ## Mua hàng trên cửa hàng
 

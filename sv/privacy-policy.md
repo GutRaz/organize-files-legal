@@ -100,7 +100,7 @@ För data som utgivaren innehar:
 
 Kontakta **razvan.gutulov@outlook.com** för data som utgivaren har (t.ex. support via e-postkorrespondens). För data som endast lagras på din enhet kan du radera de flesta appdata via **Rensa appdata**, avinstallera eller manuell radering av filer. **Rensa appdata** tar bort sessioner, loggar och automatiseringsutkast, men kan behålla licensankare, betalda installationsmarkörer och en installationsidentifierare som används för valfria licenskontroller – se bekräftelsetexten i appen innan du fortsätter. I tillämpliga fall kan du begära tillgång, rättelse, radering, begränsning av behandlingen, invända mot behandlingen, dataportabilitet eller återkalla ditt samtycke.
 
-Utgivaren strävar efter att svara på registrerades begäranden inom **30 dagar** efter en verifierad begäran (identitetsverifiering kan begäras när det är rimligen nödvändigt).
+Utgivaren strävar efter att svara på registrerades begäranden inom den tid som gällande lagstiftning kräver (identitetsverifiering kan begäras när det är rimligen nödvändigt).
 
 ## Barn
 

@@ -47,7 +47,7 @@ Pyytääksesi näiden tietojen poistamista, kirjoita osoitteeseen
 - Sähköpostiosoite, jolla otit yhteyttä tukeen, ja/tai
 - Lisenssi- tai tilausviitteesi, jos sellainen on
 
-Julkaisija pyrkii vastaamaan **30 päivän** kuluessa vahvistetusta pyynnöstä.
+Julkaisija pyrkii vastaamaan lain vaatimassa määräajassa vahvistetusta pyynnöstä.
 Joitakin tietueita voidaan säilyttää lain vaatiessa (esimerkiksi vero- ja
 kirjanpitoaineisto). Katso [Tietosuojakäytäntö](./privacy-policy.md) saadaksesi
 kaikki tiedot säilytyksestä.

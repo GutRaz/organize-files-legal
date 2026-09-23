@@ -99,7 +99,7 @@ A kiadó által tárolt adatokra:
 
 A kiadó birtokában lévő adatokkal kapcsolatban (pl. támogatási e-mailes levelezés) forduljon a **razvan.gutulov@outlook.com** címhez. A csak az eszközén tárolt adatok esetében törölheti a legtöbb alkalmazásadatot az **Alkalmazásadatok törlése**, az eltávolítás vagy a fájl manuális törlésével. Az **Alkalmazásadatok törlése** eltávolítja a munkameneteket, a naplókat és az automatizálási vázlatokat, de megtarthatja a licencpróba horgonyokat, a fizetett telepítési jelzőket és az opcionális licencellenőrzésekhez használt telepítési azonosítót – a folytatás előtt tekintse meg az alkalmazáson belüli megerősítő szöveget. Ahol alkalmazandó, kérheti az adataihoz való hozzáférést, azok helyesbítését vagy törlését, a kezelés korlátozását, tiltakozhat a kezelés ellen, kérheti az adathordozhatóságot, vagy visszavonhatja a hozzájárulását.
 
-A kiadó törekszik arra, hogy az érintetti kérelmekre az ellenőrzött kéréstől számított **30 napon** belül válaszoljon (személyazonosság igazolása kérhető, ha ez ésszerűen szükséges).
+A kiadó törekszik arra, hogy az érintetti kérelmekre az ellenőrzött kéréstől számított az alkalmazandó jog által előírt időszakon belül válaszoljon (személyazonosság igazolása kérhető, ha ez ésszerűen szükséges).
 
 ## Gyerekek
 

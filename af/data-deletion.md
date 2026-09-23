@@ -45,10 +45,7 @@ Om die verwydering van hierdie data te versoek, stuur 'n e-pos aan
 - Die e-posadres waarmee jy ondersteuning gekontak het, en/of
 - Jou lisensie- of bestelverwysing, indien enige
 
-Die uitgewer streef daarna om binne **30 dae** na 'n geverifieerde versoek te
-reageer. Sommige rekords kan behou word waar die wet dit vereis (byvoorbeeld
-belasting- en rekeningkundige rekords). Sien die
-[Privaatheidsbeleid](./privacy-policy.md) vir volledige besonderhede oor behoud.
+Die uitgewer streef daarna om binne die periode wat die toepaslike wet vereis na 'n geverifieerde versoek te reageer. Sommige rekords kan behou word waar die wet dit vereis (byvoorbeeld belasting- en rekeningkundige rekords). Sien die [Privaatheidsbeleid](./privacy-policy.md) vir volledige besonderhede oor behoud.
 
 ## Aankope in winkels
 

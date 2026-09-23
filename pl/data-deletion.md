@@ -47,9 +47,9 @@ podając:
 - Adres e-mail, którego użyłeś do kontaktu z pomocą, i/lub
 - Numer referencyjny licencji lub zamówienia, jeśli istnieje
 
-Wydawca stara się odpowiedzieć w ciągu **30 dni** od zweryfikowanego żądania.
-Niektóre rejestry mogą być przechowywane, gdy wymaga tego prawo (na przykład
-dokumentacja podatkowa i księgowa). Pełne informacje o przechowywaniu znajdziesz
+Wydawca stara się odpowiedzieć w ciągu okresu wymaganego przez stosowane prawo od zweryfikowanego żądania.  
+Niektóre rejestry mogą być przechowywane, gdy wymaga tego prawo (na przykład  
+dokumentacja podatkowa i księgowa). Pełne informacje o przechowywaniu znajdziesz  
 w [Polityce prywatności](./privacy-policy.md).
 
 ## Zakupy w sklepach

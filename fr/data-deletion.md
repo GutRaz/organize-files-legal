@@ -48,11 +48,7 @@ Pour demander la suppression de ces données, écrivez à
 - L'adresse e-mail que vous avez utilisée pour contacter l'assistance, et/ou
 - Votre référence de licence ou de commande, le cas échéant
 
-L'éditeur s'efforce de répondre dans un délai de **30 jours** après une demande
-vérifiée. Certains enregistrements peuvent être conservés lorsque la loi l'exige
-(par exemple, les documents fiscaux et comptables). Consultez la
-[Politique de confidentialité](./privacy-policy.md) pour les détails complets
-sur la conservation.
+L'éditeur s'efforce de répondre dans le délai que la loi applicable exige. Certains enregistrements peuvent être conservés lorsque la loi l'exige (par exemple, les documents fiscaux et comptables). Consultez la [Politique de confidentialité](./privacy-policy.md) pour les détails complets sur la conservation.
 
 ## Achats dans les stores
 

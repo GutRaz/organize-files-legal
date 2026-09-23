@@ -48,9 +48,9 @@ add meg:
 - Az e-mail-címet, amelyről az ügyfélszolgálattal kapcsolatba léptél, és/vagy
 - A licenc- vagy rendelési hivatkozásodat, ha van ilyen
 
-A kiadó igyekszik **30 napon** belül válaszolni egy ellenőrzött kérésre. Egyes
-bejegyzések megőrizhetők, ahol a törvény ezt megköveteli (például adó- és
-számviteli nyilvántartások). A megőrzés teljes részleteiért lásd az
+A kiadó igyekszik a alkalmazandó jog által előírt időn belül válaszolni egy ellenőrzött kérésre. Egyes  
+bejegyzések megőrizhetők, ahol a törvény ezt megköveteli (például adó- és  
+számviteli nyilvántartások). A megőrzés teljes részleteiért lásd az  
 [Adatvédelmi szabályzatot](./privacy-policy.md).
 
 ## Vásárlások az áruházakban

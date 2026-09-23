@@ -100,7 +100,7 @@ W przypadku danych przechowywanych przez wydawcę:
 
 W sprawie danych posiadanych przez wydawcę (np. korespondencji e-mailowej) prosimy o kontakt pod adresem **razvan.gutulov@outlook.com**. W przypadku danych przechowywanych tylko na Twoim urządzeniu możesz usunąć większość danych aplikacji, korzystając z opcji **Wyczyść dane aplikacji**, odinstalowania lub ręcznego usunięcia plików. **Wyczyść dane aplikacji** usuwa sesje, dzienniki i wersje robocze automatyzacji, ale może zachować kotwice wersji próbnej licencji, znaczniki płatnej instalacji i identyfikator instalacji używany do opcjonalnego sprawdzania licencji — zanim przejdziesz dalej, zobacz tekst potwierdzenia w aplikacji. W stosownych przypadkach możesz żądać dostępu, sprostowania, usunięcia, ograniczenia przetwarzania, wnieść sprzeciw wobec przetwarzania, żądać przenoszenia danych lub wycofać zgodę.
 
-Wydawca dąży do odpowiedzi na żądania osób, których dane dotyczą, w ciągu **30 dni** od zweryfikowanego żądania (weryfikacja tożsamości może być wymagana, gdy jest rozsądnie potrzebna).
+Wydawca dąży do odpowiedzi na żądania osób, których dane dotyczą, w ciągu okresu wymaganego przez stosowane prawo (weryfikacja tożsamości może być wymagana, gdy jest rozsądnie potrzebna).
 
 ## Dzieci
 

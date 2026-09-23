@@ -100,7 +100,7 @@ Untuk data yang dipegang penerbit:
 
 Untuk data yang dimiliki penerbit (misalnya korespondensi email dukungan), hubungi **razvan.gutulov@outlook.com**. Untuk data yang hanya disimpan di perangkat, Anda dapat menghapus sebagian besar data aplikasi melalui **Hapus data aplikasi**, mencopot pemasangan, atau menghapus file secara manual. **Hapus data aplikasi** menghapus sesi, log, dan draf otomatisasi, namun dapat mempertahankan jangkar uji coba lisensi, penanda pemasangan berbayar, dan pengidentifikasi pemasangan yang digunakan untuk pemeriksaan lisensi opsional — lihat teks konfirmasi dalam aplikasi sebelum Anda melanjutkan. Jika berlaku, Anda dapat meminta akses, koreksi, penghapusan, pembatasan pemrosesan, mengajukan keberatan atas pemrosesan, portabilitas data, atau menarik persetujuan.
 
-Penerbit berupaya menanggapi permintaan subjek data dalam **30 hari** setelah permintaan terverifikasi (verifikasi identitas dapat diminta bila wajar diperlukan).
+Penerbit berupaya menanggapi permintaan subjek data dalam periode yang ditentukan oleh hukum yang berlaku (verifikasi identitas dapat diminta bila wajar diperlukan).
 
 ## Anak-anak
 

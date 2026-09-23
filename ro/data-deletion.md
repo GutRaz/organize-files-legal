@@ -46,7 +46,7 @@ cu:
 - Adresa de e-mail de la care ai contactat suportul și/sau
 - Referința licenței sau a comenzii, dacă există
 
-Editorul își propune să răspundă în **30 de zile** de la o solicitare verificată.
+Editorul își propune să răspundă în perioada cerută de legea aplicabilă de la o solicitare verificată.
 Unele înregistrări pot fi păstrate acolo unde legea o cere (de exemplu, evidențe
 fiscale și contabile). Consultă [Politica de confidențialitate](./privacy-policy.md)
 pentru detalii complete privind retenția.

@@ -47,7 +47,7 @@ Per richiedere la cancellazione di questi dati, scrivi a
 - L'indirizzo e-mail con cui hai contattato l'assistenza e/o
 - Il riferimento della licenza o dell'ordine, se presente
 
-L'editore si impegna a rispondere entro **30 giorni** da una richiesta verificata.
+L'editore si impegna a rispondere entro il periodo richiesto dalla legge applicabile.
 Alcune registrazioni possono essere conservate quando la legge lo richiede (ad
 esempio documenti fiscali e contabili). Consulta l'
 [Informativa sulla privacy](./privacy-policy.md) per i dettagli completi sulla

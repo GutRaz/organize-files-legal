@@ -46,7 +46,7 @@ Bu verilerin silinmesini talep etmek için **razvan.gutulov@outlook.com** adresi
 - Destek ile iletişime geçmek için kullandığınız e-posta adresi ve/veya
 - Varsa lisans veya sipariş referansınız
 
-Yayıncı, doğrulanmış bir talepten sonra **30 gün** içinde yanıt vermeyi hedefler.
+Yayıncı, doğrulanmış bir talepten sonra applicable law tarafından gerekli olan süre içinde yanıt verir.
 Bazı kayıtlar, yasaların gerektirdiği durumlarda (örneğin vergi ve muhasebe
 kayıtları) saklanabilir. Saklamayla ilgili tüm ayrıntılar için
 [Gizlilik Politikası](./privacy-policy.md)'na bakın.

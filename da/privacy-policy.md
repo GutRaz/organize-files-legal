@@ -99,7 +99,7 @@ For data, som udgiveren opbevarer:
 
 Kontakt **razvan.gutulov@outlook.com** for data, som udgiveren har (f.eks. support-e-mail-korrespondance). For data, der kun er gemt på din enhed, kan du slette de fleste appdata via **Ryd appdata**, afinstallation eller manuel filsletning. **Ryd appdata** fjerner sessioner, logfiler og automatiseringsudkast, men kan beholde licensprøveankre, betalte installationsmarkører og en installationsidentifikator, der bruges til valgfri licenskontrol – se bekræftelsesteksten i appen, før du fortsætter. Hvor det er relevant, kan du anmode om indsigt, berigtigelse, sletning, begrænsning af behandlingen, indsigelse mod behandlingen, dataportabilitet eller tilbagekaldelse af samtykke.
 
-Udgiveren tilstræber at besvare anmodninger fra registrerede inden for **30 dage** efter en verificeret anmodning (identitetsbekræftelse kan kræves, når det med rimelighed er nødvendigt).
+Udgiveren tilstræber at besvare anmodninger fra registrerede inden for den periode, som gældende lovgivning kræver (identitetsbekræftelse kan kræves, når det med rimelighed er nødvendigt).
 
 ## Børn
 

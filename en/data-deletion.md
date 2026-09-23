@@ -38,9 +38,9 @@ To request deletion of this data, email **razvan.gutulov@outlook.com** with:
 - The email address you used to contact support, and/or
 - Your license or order reference, if any
 
-The publisher aims to respond within **30 days** of a verified request. Some
-records may be retained where the law requires it (for example, tax and
-accounting records). See the [Privacy Policy](./privacy-policy.md) for full
+The publisher aims to respond within the period the applicable law requires. Some  
+records may be retained where the law requires it (for example, tax and  
+accounting records). See the [Privacy Policy](./privacy-policy.md) for full  
 retention details.
 
 ## Store purchases
