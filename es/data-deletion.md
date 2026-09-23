@@ -48,11 +48,7 @@ Para solicitar la eliminación de estos datos, escribe a
 - La dirección de correo electrónico que usaste para contactar con el soporte, y/o
 - Tu referencia de licencia o pedido, si la hay
 
-El editor se esfuerza por responder en un plazo de **30 días** tras una solicitud
-verificada. Algunos registros pueden conservarse cuando la ley lo exige (por
-ejemplo, registros fiscales y contables). Consulta la
-[Política de privacidad](./privacy-policy.md) para conocer todos los detalles
-sobre la conservación.
+El editor se esfuerza por responder dentro del plazo que requiere la ley aplicable tras una solicitud verificada. Algunos registros pueden conservarse cuando la ley lo exige (por ejemplo, registros fiscales y contables). Consulta la [Política de privacidad](./privacy-policy.md) para conocer todos los detalles sobre la conservación.
 
 ## Compras en las tiendas
 

@@ -47,10 +47,7 @@ Um die Löschung dieser Daten zu beantragen, schreiben Sie an
 - Der E-Mail-Adresse, mit der Sie den Support kontaktiert haben, und/oder
 - Ihrer Lizenz- oder Bestellreferenz, falls vorhanden
 
-Der Herausgeber ist bestrebt, innerhalb von **30 Tagen** nach einer verifizierten
-Anfrage zu antworten. Einige Aufzeichnungen können aufbewahrt werden, wenn das
-Gesetz dies verlangt (z. B. Steuer- und Buchhaltungsunterlagen). Vollständige
-Angaben zur Aufbewahrung finden Sie in der [Datenschutzerklärung](./privacy-policy.md).
+Der Herausgeber ist bestrebt, innerhalb des von dem anwendbaren Recht vorgeschriebenen Zeitraums nach einer verifizierten Anfrage zu antworten. Einige Aufzeichnungen können aufbewahrt werden, wenn das Gesetz dies verlangt (z. B. Steuer- und Buchhaltungsunterlagen). Vollständige Angaben zur Aufbewahrung finden Sie in der [Datenschutzerklärung](./privacy-policy.md).
 
 ## Käufe im Store
 

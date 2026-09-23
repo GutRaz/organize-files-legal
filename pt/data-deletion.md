@@ -48,11 +48,7 @@ Para solicitar a eliminação destes dados, escreva para
 - O endereço de e-mail que utilizou para contactar o suporte, e/ou
 - A sua referência de licença ou de encomenda, se existir
 
-O editor esforça-se por responder no prazo de **30 dias** após um pedido
-verificado. Alguns registos podem ser conservados quando a lei o exige (por
-exemplo, registos fiscais e contabilísticos). Consulte a
-[Política de Privacidade](./privacy-policy.md) para todos os detalhes sobre a
-conservação.
+O editor esforça-se por responder no prazo exigido pela lei aplicável após um pedido verificado. Alguns registos podem ser conservados quando a lei o exige (por exemplo, registos fiscais e contabilísticos). Consulte a [Política de Privacidade](./privacy-policy.md) para todos os detalhes sobre a conservação.
 
 ## Compras nas lojas
 

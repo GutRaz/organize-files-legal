@@ -42,7 +42,7 @@ För att begära radering av dessa data, mejla **razvan.gutulov@outlook.com** me
 - E-postadressen du använde för att kontakta supporten, och/eller
 - Din licens- eller orderreferens, om sådan finns
 
-Utgivaren strävar efter att svara inom **30 dagar** efter en verifierad begäran.
+Utgivaren strävar efter att svara inom den period som gällande lag kräver.
 Vissa poster kan behållas när lagen kräver det (till exempel skatte- och
 bokföringsunderlag). Se [Integritetspolicyn](./privacy-policy.md) för
 fullständiga uppgifter om lagring.

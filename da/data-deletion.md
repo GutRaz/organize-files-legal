@@ -44,9 +44,9 @@ For at anmode om sletning af disse data skal du skrive til
 - Den e-mailadresse, du brugte til at kontakte supporten, og/eller
 - Din licens- eller ordrereference, hvis en sådan findes
 
-Udgiveren bestræber sig på at svare inden for **30 dage** efter en verificeret
-anmodning. Nogle poster kan opbevares, når loven kræver det (for eksempel skatte-
-og regnskabsmateriale). Se [Privatlivspolitikken](./privacy-policy.md) for alle
+Udgiveren bestræber sig på at svare inden for den periode, som den gældende lovgivning kræver, efter en verificeret  
+anmodning. Nogle poster kan opbevares, når loven kræver det (for eksempel skatte-  
+og regnskabsmateriale). Se [Privatlivspolitikken](./privacy-policy.md) for alle  
 detaljer om opbevaring.
 
 ## Køb i butikker

@@ -47,10 +47,7 @@ Om verwijdering van deze gegevens aan te vragen, mailt u naar
 - Het e-mailadres waarmee u contact hebt opgenomen met support, en/of
 - Uw licentie- of bestelreferentie, indien aanwezig
 
-De uitgever streeft ernaar binnen **30 dagen** na een geverifieerd verzoek te
-reageren. Sommige gegevens kunnen worden bewaard wanneer de wet dit vereist
-(bijvoorbeeld fiscale en boekhoudkundige gegevens). Zie het
-[Privacybeleid](./privacy-policy.md) voor alle details over bewaring.
+De uitgever streeft ernaar binnen de periode te reageren die de toepasselijke wet vereist. Sommige gegevens kunnen worden bewaard wanneer de wet dit vereist (bijvoorbeeld fiscale en boekhoudkundige gegevens). Zie het [Privacybeleid](./privacy-policy.md) voor alle details over bewaring.
 
 ## Aankopen in de stores
 

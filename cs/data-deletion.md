@@ -45,9 +45,9 @@ a uveďte:
 - E-mailovou adresu, kterou jste použili ke kontaktování podpory, a/nebo
 - Referenci licence nebo objednávky, pokud existuje
 
-Vydavatel se snaží odpovědět do **30 dnů** od ověřené žádosti. Některé záznamy
-mohou být uchovány, pokud to vyžaduje zákon (například daňové a účetní doklady).
-Úplné podrobnosti o uchovávání najdete v
+Vydavatel se snaží odpovědět v období, které vyžaduje použitelné právo, od ověřené žádosti. Některé záznamy  
+mohou být uchovány, pokud to vyžaduje zákon (například daňové a účetní doklady).  
+Úplné podrobnosti o uchovávání najdete v  
 [Zásadách ochrany osobních údajů](./privacy-policy.md).
 
 ## Nákupy v obchodech

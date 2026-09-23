@@ -100,7 +100,7 @@ Pro údaje držené vydavatelem:
 
 Údaje, které má vydavatel k dispozici (např. e-mailová korespondence podpory), získáte na **razvan.gutulov@outlook.com**. U dat uložených pouze ve vašem zařízení můžete většinu dat aplikací smazat pomocí **Vymazat data aplikace**, odinstalovat nebo ručně odstranit soubor. **Vymazat data aplikace** odstraní relace, protokoly a koncepty automatizace, ale může si ponechat kotvy zkušebních licencí, značky placených instalací a identifikátor instalace používaný pro volitelné kontroly licencí – než budete pokračovat, přečtěte si text potvrzení v aplikaci. Je-li to relevantní, můžete požadovat přístup, opravu, výmaz, omezení zpracování, vznesení námitky, přenositelnost údajů nebo odvolání souhlasu.
 
-Vydavatel se snaží odpovědět na žádosti subjektů údajů do **30 dnů** od ověřené žádosti (ověření totožnosti může být požadováno, když je to přiměřeně nutné).
+Vydavatel se snaží odpovědět na žádosti subjektů údajů v období, které vyžaduje použitelné právo (ověření totožnosti může být požadováno, když je to přiměřeně nutné).
 
 ## Děti
 

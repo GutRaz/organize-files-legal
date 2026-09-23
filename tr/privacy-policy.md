@@ -100,7 +100,7 @@ Yayıncının tuttuğu veriler için:
 
 Yayıncının elinde bulunan veriler için (ör. destek e-posta yazışmaları) **razvan.gutulov@outlook.com** ile iletişime geçin. Yalnızca cihazınızda depolanan veriler için, uygulama verilerinin çoğunu **Uygulama verilerini temizle**, yüklemeyi kaldır veya manuel dosya silme yoluyla silebilirsiniz. **Uygulama verilerini temizle** oturumları, günlükleri ve otomasyon taslaklarını kaldırır ancak lisans deneme bağlantılarını, ücretli yükleme işaretlerini ve isteğe bağlı lisans kontrolleri için kullanılan bir kurulum tanımlayıcıyı koruyabilir; devam etmeden önce uygulama içi onay metnine bakın. Uygulanabilir olduğu ölçüde erişim, düzeltme, silme, işlemenin kısıtlanması, işlemeye itiraz ve veri taşınabilirliği talep edebilir veya rızanızı geri çekebilirsiniz.
 
-Yayıncı, doğrulanmış bir talepten sonra veri sahibi taleplerine **30 gün** içinde yanıt vermeyi hedefler (makul ölçüde gerekli olduğunda kimlik doğrulaması istenebilir).
+Yayıncı, doğrulanmış bir talepten sonra veri sahibi taleplerine uygulanabilir yasaya göre gereken süre içinde yanıt vermeyi hedefler (makul ölçüde gerekli olduğunda kimlik doğrulaması istenebilir).
 
 ## Çocuklar
 

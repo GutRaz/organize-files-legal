@@ -99,7 +99,7 @@ Julkaisijan hallussa oleville tiedoille:
 
 Julkaisijan hallussa olevia tietoja (esim. tukisähköpostiviestintä) varten ota yhteyttä **razvan.gutulov@outlook.com**. Vain laitteellesi tallennetuista tiedoista voit poistaa useimmat sovellustiedot valitsemalla **Poista sovellustiedot**, poistamalla asennuksen tai poistamalla tiedostot manuaalisesti. **Tyhjennä sovellustiedot** poistaa istunnot, lokit ja automaatioluonnokset, mutta saattaa säilyttää lisenssikokeilun ankkurit, maksulliset asennusmerkit ja asennustunnisteen, jota käytetään valinnaisiin lisenssitarkistuksiin – katso sovelluksen sisäinen vahvistusteksti ennen kuin jatkat. Soveltuvin osin voit pyytää pääsyä tietoihin, niiden oikaisua tai poistamista, käsittelyn rajoittamista, vastustaa käsittelyä, pyytää tietojen siirrettävyyttä tai peruuttaa suostumuksesi.
 
-Julkaisija pyrkii vastaamaan rekisteröidyn pyyntöihin **30 päivän** kuluessa vahvistetusta pyynnöstä (henkilöllisyyden varmistusta voidaan pyytää, kun se on kohtuudella tarpeen).
+Julkaisija pyrkii vastaamaan rekisteröidyn pyyntöihin sovellettavan lain vaatiman ajan kuluessa vahvistetusta pyynnöstä (henkilöllisyyden varmistusta voidaan pyytää, kun se on kohtuudella tarpeen).
 
 ## Lapset
 

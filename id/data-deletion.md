@@ -46,7 +46,7 @@ dengan menyertakan:
 - Alamat email yang Anda gunakan untuk menghubungi dukungan, dan/atau
 - Referensi lisensi atau pesanan Anda, jika ada
 
-Penerbit berupaya menanggapi dalam **30 hari** setelah permintaan diverifikasi.
+Penerbit berupaya menanggapi dalam periode yang diwajibkan oleh hukum yang berlaku.
 Beberapa catatan dapat disimpan jika diwajibkan oleh hukum (misalnya catatan pajak
 dan akuntansi). Lihat [Kebijakan Privasi](./privacy-policy.md) untuk detail
 lengkap tentang penyimpanan.

@@ -106,7 +106,7 @@ Para dados detidos pelo editor:
 - Registos de entitlement num servidor de licenças operado pelo editor: enquanto ativos mais até 24 meses após expiração ou revogação.
 - Registos de acesso/segurança num servidor operado pelo editor: até 90 dias, salvo necessidade maior para investigação de segurança, prevenção de fraude ou reclamações legais.
 
-O editor procura responder a solicitações de titulares de dados em até **30 dias** após uma solicitação verificada (a verificação de identidade pode ser solicitada quando razoavelmente necessária).
+O editor procura responder a solicitações de titulares de dados dentro do prazo exigido pela lei aplicável (a verificação de identidade pode ser solicitada quando razoavelmente necessária).
 
 ## Crianças
 
