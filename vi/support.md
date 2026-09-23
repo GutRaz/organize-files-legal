@@ -21,7 +21,7 @@ Khi liên hệ với chúng tôi, vui lòng cung cấp:
 - Cửa hàng bạn đã cài đặt từ đó (Microsoft Store, Google Play, Apple App Store hoặc bản dựng cài đặt thủ công)
 - Mô tả rõ ràng về sự cố và các bước để tái hiện
 
-Chúng tôi cố gắng phản hồi trong vòng **2–3 ngày làm việc**. Câu hỏi về hoàn tiền có thể mất đến **14 ngày**.
+Chúng tôi cố gắng phản hồi trong vòng **2–3 ngày làm việc**.
 
 ## Trước khi liên hệ với bộ phận hỗ trợ
 
@@ -31,7 +31,7 @@ Chúng tôi cố gắng phản hồi trong vòng **2–3 ngày làm việc**. C�
 
 ## Thanh toán và hoàn tiền
 
-Việc mua hàng và hoàn tiền do cửa hàng nơi bạn mua (Microsoft Store, Google Play hoặc Apple App Store) xử lý.
+Việc mua hàng và hoàn tiền do cửa hàng nơi bạn mua (Microsoft Store, Google Play hoặc Apple App Store) xử lý. Quyền rút lại giao dịch của người tiêu dùng tại Liên minh châu Âu và Khu vực Kinh tế châu Âu kéo dài 14 ngày theo lịch kể từ ngày mua và được thực hiện thông qua cửa hàng. Việc gửi thư đến email liên hệ không phải là thực hiện quyền này, và không tạm dừng hay kéo dài 14 ngày đó.
 
 ## Quyền riêng tư
 

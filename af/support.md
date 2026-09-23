@@ -21,7 +21,7 @@ Wanneer jy vir ons skryf, sluit asseblief in:
 - Die winkel waaruit jy geïnstalleer het (Microsoft Store, Google Play, Apple App Store of 'n handmatig geïnstalleerde bou)
 - 'n Duidelike beskrywing van die probleem en die stappe om dit te herskep
 
-Ons streef daarna om binne **2–3 werksdae** te reageer. Terugbetalingsvrae kan tot **14 dae** neem.
+Ons streef daarna om binne **2–3 werksdae** te reageer.
 
 ## Voordat jy ondersteuning kontak
 
@@ -31,7 +31,7 @@ Ons streef daarna om binne **2–3 werksdae** te reageer. Terugbetalingsvrae kan
 
 ## Fakturering en terugbetalings
 
-Aankope en terugbetalings word hanteer deur die winkel waar jy gekoop het (Microsoft Store, Google Play of Apple App Store).
+Aankope en terugbetalings word hanteer deur die winkel waar jy gekoop het (Microsoft Store, Google Play of Apple App Store). Die herroepingsreg vir verbruikers in die Europese Unie en die Europese Ekonomiese Ruimte geld vir 14 kalenderdae vanaf die aankoop en word via die winkel uitgeoefen. Om aan die kontak-e-pos te skryf, oefen dit nie uit nie en skort daardie 14 dae nie op of verleng dit nie.
 
 ## Privaatheid
 

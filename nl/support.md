@@ -21,7 +21,7 @@ Vermeld bij uw bericht:
 - De store waaruit u hebt geïnstalleerd (Microsoft Store, Google Play, Apple App Store of een handmatig geïnstalleerde build)
 - Een duidelijke beschrijving van het probleem en de stappen om het te reproduceren
 
-We streven ernaar binnen **2–3 werkdagen** te reageren. Vragen over terugbetalingen kunnen tot **14 dagen** duren.
+We streven ernaar binnen **2–3 werkdagen** te reageren.
 
 ## Voordat u contact opneemt met support
 
@@ -31,7 +31,7 @@ We streven ernaar binnen **2–3 werkdagen** te reageren. Vragen over terugbetal
 
 ## Facturering en terugbetalingen
 
-Aankopen en terugbetalingen worden afgehandeld door de store waar u hebt gekocht (Microsoft Store, Google Play of Apple App Store).
+Aankopen en terugbetalingen worden afgehandeld door de store waar u hebt gekocht (Microsoft Store, Google Play of Apple App Store). Het herroepingsrecht voor consumenten in de Europese Unie en de Europese Economische Ruimte geldt 14 kalenderdagen vanaf de aankoop en wordt uitgeoefend via de winkel. Een e-mail naar het contactadres oefent het niet uit en schort die 14 dagen niet op en verlengt ze ook niet.
 
 ## Privacy
 

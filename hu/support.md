@@ -21,7 +21,7 @@ Amikor írsz nekünk, kérjük, add meg:
 - Az áruházat, ahonnan telepítetted (Microsoft Store, Google Play, Apple App Store vagy manuálisan telepített build)
 - A probléma világos leírását és a reprodukálás lépéseit
 
-Igyekszünk **2–3 munkanapon** belül válaszolni. A visszatérítéssel kapcsolatos kérdések akár **14 napot** is igénybe vehetnek.
+Igyekszünk **2–3 munkanapon** belül válaszolni.
 
 ## Mielőtt kapcsolatba lépsz a támogatással
 
@@ -31,7 +31,7 @@ Igyekszünk **2–3 munkanapon** belül válaszolni. A visszatérítéssel kapcs
 
 ## Számlázás és visszatérítés
 
-A vásárlásokat és a visszatérítéseket az az áruház kezeli, ahol vásároltál (Microsoft Store, Google Play vagy Apple App Store).
+A vásárlásokat és a visszatérítéseket az az áruház kezeli, ahol vásároltál (Microsoft Store, Google Play vagy Apple App Store). A fogyasztók elállási joga az Európai Unióban és az Európai Gazdasági Térségben a vásárlástól számított 14 naptári napig tart, és az áruházon keresztül gyakorolható. A kapcsolattartási e-mail-címre írt levél nem minősül a jog gyakorlásának, és ezt a 14 napot nem függeszti fel és nem is hosszabbítja meg.
 
 ## Adatvédelem
 

@@ -21,7 +21,7 @@ Když nám napíšete, uveďte prosím:
 - Obchod, ze kterého jste instalovali (Microsoft Store, Google Play, Apple App Store nebo ručně nainstalované sestavení)
 - Jasný popis problému a kroky k jeho reprodukci
 
-Snažíme se odpovědět do **2–3 pracovních dnů**. Dotazy na vrácení peněz mohou trvat až **14 dní**.
+Snažíme se odpovědět do **2–3 pracovních dnů**.
 
 ## Než kontaktujete podporu
 
@@ -31,7 +31,7 @@ Snažíme se odpovědět do **2–3 pracovních dnů**. Dotazy na vrácení pen�
 
 ## Fakturace a vrácení peněz
 
-Nákupy a vrácení peněz zajišťuje obchod, ve kterém jste nakoupili (Microsoft Store, Google Play nebo Apple App Store).
+Nákupy a vrácení peněz zajišťuje obchod, ve kterém jste nakoupili (Microsoft Store, Google Play nebo Apple App Store). Právo spotřebitelů na odstoupení od smlouvy v Evropské unii a Evropském hospodářském prostoru trvá 14 kalendářních dnů od nákupu a uplatňuje se prostřednictvím obchodu. E-mail na kontaktní adresu není jeho uplatněním a těchto 14 dnů nepozastavuje ani neprodlužuje.
 
 ## Ochrana soukromí
 

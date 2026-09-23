@@ -21,7 +21,7 @@ Bitte geben Sie in Ihrer Nachricht an:
 - Den Store, aus dem Sie installiert haben (Microsoft Store, Google Play, Apple App Store oder ein manuell installierter Build)
 - Eine klare Beschreibung des Problems und die Schritte zur Reproduktion
 
-Wir bemühen uns, innerhalb von **2–3 Werktagen** zu antworten. Fragen zu Rückerstattungen können bis zu **14 Tage** dauern.
+Wir bemühen uns, innerhalb von **2–3 Werktagen** zu antworten.
 
 ## Vor der Kontaktaufnahme mit dem Support
 
@@ -31,7 +31,7 @@ Wir bemühen uns, innerhalb von **2–3 Werktagen** zu antworten. Fragen zu Rüc
 
 ## Abrechnung und Rückerstattungen
 
-Käufe und Rückerstattungen werden von dem Store abgewickelt, in dem Sie gekauft haben (Microsoft Store, Google Play oder Apple App Store).
+Käufe und Rückerstattungen werden von dem Store abgewickelt, in dem Sie gekauft haben (Microsoft Store, Google Play oder Apple App Store). Das Widerrufsrecht für Verbraucher in der Europäischen Union und im Europäischen Wirtschaftsraum gilt 14 Kalendertage ab dem Kauf und wird über den Store ausgeübt. Eine Nachricht an die Kontakt-E-Mail übt es nicht aus und hält die 14 Tage weder an noch verlängert sie sie.
 
 ## Datenschutz
 

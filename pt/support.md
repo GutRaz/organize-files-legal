@@ -21,7 +21,7 @@ Quando nos escrever, inclua por favor:
 - A loja a partir da qual instalou (Microsoft Store, Google Play, Apple App Store ou uma compilação instalada manualmente)
 - Uma descrição clara do problema e os passos para o reproduzir
 
-Procuramos responder em **2 a 3 dias úteis**. As questões de reembolso podem demorar até **14 dias**.
+Procuramos responder em **2 a 3 dias úteis**.
 
 ## Antes de contactar o suporte
 
@@ -31,7 +31,7 @@ Procuramos responder em **2 a 3 dias úteis**. As questões de reembolso podem d
 
 ## Faturação e reembolsos
 
-As compras e os reembolsos são geridos pela loja onde comprou (Microsoft Store, Google Play ou Apple App Store).
+As compras e os reembolsos são geridos pela loja onde comprou (Microsoft Store, Google Play ou Apple App Store). O direito de arrependimento dos consumidores na União Europeia e no Espaço Econômico Europeu dura 14 dias corridos a partir da compra e é exercido por meio da loja. Escrever para o e-mail de contato não exerce esse direito e não suspende nem prorroga esses 14 dias.
 
 ## Privacidade
 

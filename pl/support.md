@@ -21,7 +21,7 @@ Pisząc do nas, podaj:
 - Sklep, z którego zainstalowano aplikację (Microsoft Store, Google Play, Apple App Store lub kompilacja zainstalowana ręcznie)
 - Jasny opis problemu i kroki umożliwiające jego odtworzenie
 
-Staramy się odpowiadać w ciągu **2–3 dni roboczych**. Pytania o zwroty mogą zająć do **14 dni**.
+Staramy się odpowiadać w ciągu **2–3 dni roboczych**.
 
 ## Przed skontaktowaniem się z pomocą
 
@@ -31,7 +31,7 @@ Staramy się odpowiadać w ciągu **2–3 dni roboczych**. Pytania o zwroty mog�
 
 ## Rozliczenia i zwroty
 
-Zakupy i zwroty są obsługiwane przez sklep, w którym dokonano zakupu (Microsoft Store, Google Play lub Apple App Store).
+Zakupy i zwroty są obsługiwane przez sklep, w którym dokonano zakupu (Microsoft Store, Google Play lub Apple App Store). Prawo odstąpienia od umowy dla konsumentów w Unii Europejskiej i Europejskim Obszarze Gospodarczym trwa 14 dni kalendarzowych od zakupu i wykonuje się je za pośrednictwem sklepu. Wiadomość na kontaktowy adres e-mail nie jest wykonaniem tego prawa i nie wstrzymuje ani nie przedłuża tych 14 dni.
 
 ## Prywatność
 

@@ -21,7 +21,7 @@ Kun kirjoitat meille, liitä mukaan:
 - Kauppa, josta asensit (Microsoft Store, Google Play, Apple App Store tai manuaalisesti asennettu koontiversio)
 - Selkeä kuvaus ongelmasta ja vaiheet sen toistamiseksi
 
-Pyrimme vastaamaan **2–3 arkipäivän** kuluessa. Hyvityksiä koskevat kysymykset voivat kestää jopa **14 päivää**.
+Pyrimme vastaamaan **2–3 arkipäivän** kuluessa.
 
 ## Ennen kuin otat yhteyttä tukeen
 
@@ -31,7 +31,7 @@ Pyrimme vastaamaan **2–3 arkipäivän** kuluessa. Hyvityksiä koskevat kysymyk
 
 ## Laskutus ja hyvitykset
 
-Ostokset ja hyvitykset hoitaa kauppa, josta ostit (Microsoft Store, Google Play tai Apple App Store).
+Ostokset ja hyvitykset hoitaa kauppa, josta ostit (Microsoft Store, Google Play tai Apple App Store). Kuluttajien peruuttamisoikeus Euroopan unionissa ja Euroopan talousalueella on voimassa 14 kalenteripäivää ostosta, ja sitä käytetään kaupan kautta. Sähköposti yhteysosoitteeseen ei ole oikeuden käyttämistä, eikä se keskeytä tai pidennä näitä 14 päivää.
 
 ## Tietosuoja
 

@@ -21,7 +21,7 @@ Saat menghubungi kami, harap sertakan:
 - Toko tempat Anda memasang (Microsoft Store, Google Play, Apple App Store, atau build yang dipasang secara manual)
 - Deskripsi masalah yang jelas dan langkah-langkah untuk mereproduksinya
 
-Kami berupaya menanggapi dalam **2–3 hari kerja**. Pertanyaan pengembalian dana dapat memakan waktu hingga **14 hari**.
+Kami berupaya menanggapi dalam **2–3 hari kerja**.
 
 ## Sebelum menghubungi dukungan
 
@@ -31,7 +31,7 @@ Kami berupaya menanggapi dalam **2–3 hari kerja**. Pertanyaan pengembalian dan
 
 ## Penagihan dan pengembalian dana
 
-Pembelian dan pengembalian dana ditangani oleh toko tempat Anda membeli (Microsoft Store, Google Play, atau Apple App Store).
+Pembelian dan pengembalian dana ditangani oleh toko tempat Anda membeli (Microsoft Store, Google Play, atau Apple App Store). Hak penarikan bagi konsumen di Uni Eropa dan Wilayah Ekonomi Eropa berlaku selama 14 hari kalender sejak pembelian dan digunakan melalui toko. Menulis ke email kontak bukan penggunaan hak tersebut, serta tidak menangguhkan maupun memperpanjang 14 hari itu.
 
 ## Privasi
 
