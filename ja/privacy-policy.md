@@ -29,7 +29,7 @@ Organize Files は、**デバイス上でローカル**にファイルを処理�
 | 選択したファイルとフォルダー | お使いのデバイス上のみ | 整理、重複の検出、修復、選択時の削除 |
 | UI セッションのスナップショット (`last-ui-session.json`) | アプリのプロファイル フォルダー内の `sessions\<id>\` フォルダー: Windows では `%LocalAppData%\OrganizeFilesCrossPlatform`、macOS では `~/Library/Application Support/OrganizeFilesCrossPlatform`、Linux では `~/.local/share/OrganizeFilesCrossPlatform`、Android と iOS ではアプリ専用のストレージ |ワークスペースの復元: パス、拡張子、オプション |
 | 整理の実行の再開状態 + 任意の移動ジャーナル | 出力フォルダー内の `_OrganizeMediaLogs`、またはセッション フォルダー | 完了済みの移動をスキップ、パスをエンコードした復旧情報 |
-| 実行の任意の進行状況ファイル、JSON | 出力フォルダー内の `_OrganizeMediaLogs` | ほかのプログラム向けの進行状況カウンター |
+| 実行の任意の進行状況ファイル、JSON — 進行状況カウンター、実行のフェーズ、出力フォルダーのパス | 出力フォルダー内の `_OrganizeMediaLogs` | ほかのプログラム向けの進行状況カウンター |
 | 試用とライセンスの状態 | アプリのプロファイル フォルダー | 試用またはストアでの購入を適用 |
 | 更新確認の状態 | アプリのプロファイル フォルダー | 任意のバージョン確認の実行頻度を制限 |
 | Android: システムの選択画面 SAF で選んだフォルダーのコピー | アプリのストレージ内のセッション フォルダー | エンジンが読めるように `content://` のフォルダー ツリーをコピー |

@@ -29,7 +29,7 @@ För personuppgifter som behandlas av utgivaren är personuppgiftsansvarig **Gu�
 | Filer och mappar du väljer | Endast på din enhet | Organisera, hitta dubbletter, reparera och ta bort när det är valt |
 | Ögonblicksbild av UI-session (`last-ui-session.json`) | Mappen `sessions\<id>\` i appens profilmapp: `%LocalAppData%\OrganizeFilesCrossPlatform` i Windows, `~/Library/Application Support/OrganizeFilesCrossPlatform` i macOS, `~/.local/share/OrganizeFilesCrossPlatform` i Linux, eller appens privata lagring i Android och iOS | Återställ arbetsyta: sökvägar, tillägg, alternativ |
 | Återupptagningsläge för en organisering + valfri flyttlogg | `_OrganizeMediaLogs` i utdatamappen, eller sessionsmappen | Hoppa över flyttar som redan är gjorda, återställningsdata med kodade sökvägar |
-| Valfri förloppsfil för en körning, JSON | `_OrganizeMediaLogs` i utdatamappen | Förloppsräknare för andra program |
+| Valfri förloppsfil för en körning, JSON — förloppsräknare, körningens fas och sökvägen till utdatamappen | `_OrganizeMediaLogs` i utdatamappen | Förloppsräknare för andra program |
 | Prov- och licensstatus | Appens profilmapp | Tillämpa provperioden eller köpet i butiken |
 | Status för uppdateringskontroll | Appens profilmapp | Begränsa hur ofta den valfria versionskontrollen körs |
 | Android: kopior av mappar valda via systemväljaren SAF | Sessionsmapp i appens lagring | Kopierar `content://`-mappträd så att motorn kan läsa dem |

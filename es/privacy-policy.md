@@ -29,7 +29,7 @@ Para los datos personales tratados por el editor, el responsable del tratamiento
 | Archivos y carpetas que usted elige | Solo en su dispositivo | Organizar, buscar duplicados, reparar y eliminar cuando se elige |
 | Instantánea de la sesión de UI (`last-ui-session.json`) | La carpeta `sessions\<id>\` dentro de la carpeta de perfil de la aplicación: `%LocalAppData%\OrganizeFilesCrossPlatform` en Windows, `~/Library/Application Support/OrganizeFilesCrossPlatform` en macOS, `~/.local/share/OrganizeFilesCrossPlatform` en Linux, o el almacenamiento privado de la aplicación en Android e iOS | Restaurar espacio de trabajo: rutas, extensiones, opciones |
 | Estado de reanudación de una organización + registro de movimientos opcional | `_OrganizeMediaLogs` en la carpeta de salida, o la carpeta de sesión | Omitir movimientos ya hechos, datos de recuperación con rutas codificadas |
-| Archivo de progreso opcional de una ejecución, JSON | `_OrganizeMediaLogs` en la carpeta de salida | Contadores de progreso para otros programas |
+| Archivo de progreso opcional de una ejecución, JSON — contadores de progreso, la fase de la ejecución y la ruta de la carpeta de salida | `_OrganizeMediaLogs` en la carpeta de salida | Contadores de progreso para otros programas |
 | Estado de la prueba y de la licencia | Carpeta de perfil de la aplicación | Aplicar la prueba o la compra en la tienda |
 | Estado de la comprobación de actualizaciones | Carpeta de perfil de la aplicación | Limitar la frecuencia de la comprobación opcional de versión |
 | Android: copias de carpetas elegidas con el selector del sistema, SAF | Carpeta de sesión en el almacenamiento de la aplicación | Copia árboles de carpetas `content://` para que el motor pueda leerlos |

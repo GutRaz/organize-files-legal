@@ -25,7 +25,7 @@ For personal data processed by the publisher, the controller is **Guțulov Răzv
 | Files and folders you select | Your device only | Organize, deduplicate, repair, optional delete |
 | UI session snapshot (`last-ui-session.json`) | The `sessions\<id>\` folder in the app's profile folder: `%LocalAppData%\OrganizeFilesCrossPlatform` on Windows, `~/Library/Application Support/OrganizeFilesCrossPlatform` on macOS, `~/.local/share/OrganizeFilesCrossPlatform` on Linux, or app-private storage on Android and iOS | Restore workspace: paths, extensions, options |
 | Organize resume + optional move journal | Output `_OrganizeMediaLogs` or session folder | Skip completed moves; recovery metadata (paths encoded) |
-| Optional run heartbeat JSON | Output `_OrganizeMediaLogs` | Progress counters for external tools |
+| Optional run heartbeat JSON — progress counters, the run phase and the output folder path | Output `_OrganizeMediaLogs` | Progress counters for external tools |
 | Trial / license state | Profile folder under Local App Data | Enforce trial or store entitlement |
 | Update-check state | Profile folder | Throttle optional version manifest checks |
 | Android SAF staging | Session folder under app storage | Copy `content://` trees so the engine can read them |

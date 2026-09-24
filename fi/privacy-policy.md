@@ -29,7 +29,7 @@ Julkaisijan käsittelemien henkilötietojen rekisterinpitäjä on **Guțulov Ră
 | Valitsemasi tiedostot ja kansiot | Vain laitteessasi | Järjestäminen, kaksoiskappaleiden haku, korjaus ja poisto, kun se valitaan |
 | Käyttöliittymän istunnon tilannekuva (`last-ui-session.json`) | Kansio `sessions\<id>\` sovelluksen profiilikansiossa: `%LocalAppData%\OrganizeFilesCrossPlatform` Windowsissa, `~/Library/Application Support/OrganizeFilesCrossPlatform` macOS:ssä, `~/.local/share/OrganizeFilesCrossPlatform` Linuxissa tai sovelluksen yksityinen tallennustila Androidissa ja iOS:ssä | Palauta työtila: polut, laajennukset, asetukset |
 | Järjestelyajon jatkamistila + valinnainen siirtoloki | `_OrganizeMediaLogs` tuloskansiossa tai istuntokansio | Jo tehtyjen siirtojen ohitus, palautustiedot koodatuin poluin |
-| Valinnainen ajon edistymistiedosto, JSON | `_OrganizeMediaLogs` tuloskansiossa | Edistymislaskurit muille ohjelmille |
+| Valinnainen ajon edistymistiedosto, JSON — edistymislaskurit, ajon vaihe ja tulostuskansion polku | `_OrganizeMediaLogs` tuloskansiossa | Edistymislaskurit muille ohjelmille |
 | Kokeilun ja lisenssin tila | Sovelluksen profiilikansio | Kokeilun tai kauppaoston soveltaminen |
 | Päivitystarkistuksen tila | Sovelluksen profiilikansio | Rajoittaa, kuinka usein valinnainen versiotarkistus suoritetaan |
 | Android: kopiot järjestelmän valitsimella SAF valituista kansioista | Istuntokansio sovelluksen tallennustilassa | Kopioi `content://`-kansiopuut, jotta moottori voi lukea ne |

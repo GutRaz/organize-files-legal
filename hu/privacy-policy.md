@@ -29,7 +29,7 @@ A kiadó által kezelt személyes adatok adatkezelője **Guțulov Răzvan Consta
 | A kiválasztott fájlok és mappák | Csak az eszközön | Rendezés, ismétlődések keresése, javítás és törlés, ha ki van választva |
 | UI munkamenet pillanatképe (`last-ui-session.json`) | Az alkalmazás profilmappájában lévő `sessions\<id>\` mappa: `%LocalAppData%\OrganizeFilesCrossPlatform` Windows rendszeren, `~/Library/Application Support/OrganizeFilesCrossPlatform` macOS rendszeren, `~/.local/share/OrganizeFilesCrossPlatform` Linux rendszeren, illetve az alkalmazás privát tárhelye Androidon és iOS-en | Munkaterület visszaállítása: elérési utak, bővítmények, beállítások |
 | Rendezési futtatás folytatási állapota + opcionális áthelyezési napló | `_OrganizeMediaLogs` a kimeneti mappában, vagy a munkamenet mappája | A már elvégzett áthelyezések kihagyása, helyreállítási adatok kódolt útvonalakkal |
-| Egy futtatás opcionális állapotfájlja, JSON | `_OrganizeMediaLogs` a kimeneti mappában | Állapotszámlálók más programok számára |
+| Egy futtatás opcionális állapotfájlja, JSON — folyamatszámlálók, a futás fázisa és a kimeneti mappa elérési útja | `_OrganizeMediaLogs` a kimeneti mappában | Állapotszámlálók más programok számára |
 | Próbaidő és licenc állapota | Az alkalmazás profilmappája | A próbaidő vagy az áruházi vásárlás érvényesítése |
 | Frissítés-ellenőrzés állapota | Az alkalmazás profilmappája | Korlátozza, milyen gyakran fut az opcionális verzióellenőrzés |
 | Android: a rendszer választójával, SAF, kiválasztott mappák másolatai | Munkamenet-mappa az alkalmazás tárhelyén | A `content://` mappafák másolása, hogy a motor olvasni tudja őket |

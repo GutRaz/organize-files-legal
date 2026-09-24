@@ -29,7 +29,7 @@ For personoplysninger behandlet af udgiveren er den dataansvarlige **Guțulov R�
 | Filer og mapper, du vælger | Kun på din enhed | Organisere, finde dubletter, reparere og slette, når det er valgt |
 | Snapshot af UI-session (`last-ui-session.json`) | Mappen `sessions\<id>\` i appens profilmappe: `%LocalAppData%\OrganizeFilesCrossPlatform` på Windows, `~/Library/Application Support/OrganizeFilesCrossPlatform` på macOS, `~/.local/share/OrganizeFilesCrossPlatform` på Linux, eller appens private lager på Android og iOS | Gendan arbejdsområde: stier, udvidelser, muligheder |
 | Genoptagelsestilstand for en organisering + valgfri flyttejournal | `_OrganizeMediaLogs` i outputmappen, eller sessionsmappen | Spring flytninger over, der allerede er gjort, gendannelsesdata med kodede stier |
-| Valgfri statusfil for en kørsel, JSON | `_OrganizeMediaLogs` i outputmappen | Statustællere til andre programmer |
+| Valgfri statusfil for en kørsel, JSON — fremskridtstællere, kørslens fase og stien til output-mappen | `_OrganizeMediaLogs` i outputmappen | Statustællere til andre programmer |
 | Prøve- og licensstatus | Appens profilmappe | Anvende prøveperioden eller butikskøbet |
 | Status for opdateringstjek | Appens profilmappe | Begrænse, hvor ofte det valgfrie versionstjek kører |
 | Android: kopier af mapper valgt via systemvælgeren, SAF | Sessionsmappe i appens lager | Kopierer `content://`-mappetræer, så motoren kan læse dem |
