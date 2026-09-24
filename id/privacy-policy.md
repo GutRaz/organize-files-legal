@@ -29,7 +29,7 @@ Untuk data pribadi yang diproses oleh penerbit, pengendalinya adalah **Guțulov 
 | File dan folder yang Anda pilih | Hanya di perangkat Anda | Mengatur, mencari duplikat, memperbaiki, dan menghapus bila dipilih |
 | Cuplikan sesi UI (`last-ui-session.json`) | Folder `sessions\<id>\` di dalam folder profil aplikasi: `%LocalAppData%\OrganizeFilesCrossPlatform` di Windows, `~/Library/Application Support/OrganizeFilesCrossPlatform` di macOS, `~/.local/share/OrganizeFilesCrossPlatform` di Linux, atau penyimpanan pribadi aplikasi di Android dan iOS | Pulihkan ruang kerja: jalur, ekstensi, opsi |
 | Status lanjutan proses pengaturan + jurnal pemindahan opsional | `_OrganizeMediaLogs` di folder keluaran, atau folder sesi | Melewati pemindahan yang sudah selesai, data pemulihan dengan jalur terenkode |
-| File kemajuan proses opsional, JSON — penghitung kemajuan, fase proses, dan jalur folder output | `_OrganizeMediaLogs` di folder keluaran | Penghitung kemajuan untuk program lain |
+| File kemajuan proses opsional, JSON — jalur folder output, penghitung kemajuan, modus proses, fase proses dan status, pengaturan utama proses, ID dan nama proses, waktu dan sebuah ID korelasi | `_OrganizeMediaLogs` di folder keluaran | Penghitung kemajuan untuk program lain |
 | Status uji coba dan lisensi | Folder profil aplikasi | Menerapkan uji coba atau pembelian di toko |
 | Status pemeriksaan pembaruan | Folder profil aplikasi | Membatasi seberapa sering pemeriksaan versi opsional berjalan |
 | Android: salinan folder yang dipilih lewat pemilih sistem, SAF | Folder sesi di penyimpanan aplikasi | Menyalin pohon folder `content://` agar mesin dapat membacanya |

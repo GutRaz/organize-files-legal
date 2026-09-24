@@ -29,7 +29,7 @@ Organize Files는 **기기에서 로컬로** 파일을 처리합니다. 파일 �
 | 선택한 파일과 폴더 | 사용자의 기기에만 | 정리, 중복 찾기, 복구, 선택 시 삭제 |
 | UI 세션 스냅샷(`last-ui-session.json`) | 앱 프로필 폴더 안의 `sessions\<id>\` 폴더: Windows에서는 `%LocalAppData%\OrganizeFilesCrossPlatform`, macOS에서는 `~/Library/Application Support/OrganizeFilesCrossPlatform`, Linux에서는 `~/.local/share/OrganizeFilesCrossPlatform`, Android와 iOS에서는 앱 전용 저장소 | 작업공간 복원: 경로, 확장자, 옵션 |
 | 정리 실행의 재개 상태 + 선택적 이동 기록 | 출력 폴더의 `_OrganizeMediaLogs` 또는 세션 폴더 | 이미 끝난 이동 건너뛰기, 경로가 인코딩된 복구 정보 |
-| 실행의 선택적 진행 상황 파일, JSON — 진행률 카운터, 실행 단계, 출력 폴더 경로 | 출력 폴더의 `_OrganizeMediaLogs` | 다른 프로그램을 위한 진행 카운터 |
+| 실행의 선택적 진행 상황 파일, JSON — 출력 폴더 경로, 진행률 카운터, 실행 모드, 실행 단계와 상태, 실행의 주요 설정, 프로세스 ID와 이름, 시각과 상관 ID | 출력 폴더의 `_OrganizeMediaLogs` | 다른 프로그램을 위한 진행 카운터 |
 | 체험판 및 라이선스 상태 | 앱 프로필 폴더 | 체험판 또는 스토어 구매 적용 |
 | 업데이트 확인 상태 | 앱 프로필 폴더 | 선택적 버전 확인이 실행되는 빈도 제한 |
 | Android: 시스템 선택기 SAF로 고른 폴더의 복사본 | 앱 저장소의 세션 폴더 | 엔진이 읽을 수 있도록 `content://` 폴더 트리 복사 |

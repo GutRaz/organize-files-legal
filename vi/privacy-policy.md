@@ -29,7 +29,7 @@ Organize Files xử lý tệp **cục bộ trên thiết bị**. Nội dung tệ
 | Tệp và thư mục bạn chọn | Chỉ trên thiết bị của bạn | Sắp xếp, tìm bản trùng lặp, sửa chữa và xóa khi được chọn |
 | Ảnh chụp nhanh phiên giao diện người dùng (`last-ui-session.json`) | Thư mục `sessions\<id>\` trong thư mục hồ sơ của ứng dụng: `%LocalAppData%\OrganizeFilesCrossPlatform` trên Windows, `~/Library/Application Support/OrganizeFilesCrossPlatform` trên macOS, `~/.local/share/OrganizeFilesCrossPlatform` trên Linux, hoặc bộ nhớ riêng của ứng dụng trên Android và iOS | Khôi phục không gian làm việc: đường dẫn, tiện ích mở rộng, tùy chọn |
 | Trạng thái tiếp tục của lần sắp xếp + nhật ký di chuyển tùy chọn | `_OrganizeMediaLogs` trong thư mục đầu ra, hoặc thư mục phiên | Bỏ qua các lần di chuyển đã làm, dữ liệu khôi phục với đường dẫn đã mã hóa |
-| Tệp tiến độ tùy chọn của lần chạy, JSON — bộ đếm tiến trình, giai đoạn của lần chạy và đường dẫn thư mục đầu ra | `_OrganizeMediaLogs` trong thư mục đầu ra | Bộ đếm tiến độ cho các chương trình khác |
+| Tệp tiến độ tùy chọn của lần chạy, JSON — đường dẫn thư mục đầu ra, bộ đếm tiến trình, chế độ chạy, giai đoạn của lần chạy và trạng thái, cài đặt chính của lần chạy, ID và tên của quá trình, thời gian và một ID tương quan | `_OrganizeMediaLogs` trong thư mục đầu ra | Bộ đếm tiến độ cho các chương trình khác |
 | Trạng thái dùng thử và giấy phép | Thư mục hồ sơ của ứng dụng | Áp dụng thời gian dùng thử hoặc giao dịch mua trên cửa hàng |
 | Trạng thái kiểm tra cập nhật | Thư mục hồ sơ của ứng dụng | Giới hạn tần suất chạy kiểm tra phiên bản tùy chọn |
 | Android: bản sao các thư mục được chọn qua bộ chọn của hệ thống, SAF | Thư mục phiên trong bộ nhớ của ứng dụng | Sao chép cây thư mục `content://` để công cụ có thể đọc |

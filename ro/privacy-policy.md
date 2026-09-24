@@ -29,7 +29,7 @@ Pentru datele personale prelucrate de editor, operatorul este **Guțulov Răzvan
 | Fișiere și foldere alese | Doar pe dispozitiv | Organizare, deduplicare, reparare, ștergere opțională |
 | Snapshot UI (`last-ui-session.json`) | Folderul `sessions\<id>\` din folderul de profil al aplicației: `%LocalAppData%\OrganizeFilesCrossPlatform` pe Windows, `~/Library/Application Support/OrganizeFilesCrossPlatform` pe macOS, `~/.local/share/OrganizeFilesCrossPlatform` pe Linux, sau stocarea privată a aplicației pe Android și iOS | Reluare spațiu de lucru: căi, extensii, opțiuni |
 | Resume organize + jurnal mutări | `_OrganizeMediaLogs` sau folder sesiune | Sări peste mutări finalizate; metadate recuperare (căi codificate) |
-| Heartbeat JSON opțional — contoare de progres, faza rulării și calea folderului de ieșire | `_OrganizeMediaLogs` | Contoare progres pentru instrumente externe |
+| Heartbeat JSON opțional — calea folderului de ieșire, contoarele de progres, modul, faza și starea rulării, setările principale ale rulării, ID-ul și numele procesului, ora și un ID de corelare | `_OrganizeMediaLogs` | Contoare progres pentru instrumente externe |
 | Trial / licență | Profil aplicație | Entitlement |
 | Stare verificare actualizări | Profil aplicație | Limitare verificări manifest |
 | Staging SAF (Android) | Folder sesiune | Copiere arbori `content://` pentru acces motor |

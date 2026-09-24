@@ -29,7 +29,7 @@ Vir persoonlike data wat deur die uitgewer verwerk word, is die beheerder **Guț
 | Lêers en gidse wat jy kies | Net op jou toestel | Organiseer, soek duplikate, herstel en vee uit wanneer gekies |
 | UI-sessie momentopname (`last-ui-session.json`) | Die gids `sessions\<id>\` in die profielgids van die toepassing: `%LocalAppData%\OrganizeFilesCrossPlatform` op Windows, `~/Library/Application Support/OrganizeFilesCrossPlatform` op macOS, `~/.local/share/OrganizeFilesCrossPlatform` op Linux, of die private berging van die toepassing op Android en iOS | Herstel werkspasie: paaie, uitbreidings, opsies |
 | Hervattoestand van 'n organiseerlopie + opsionele skuifjoernaal | `_OrganizeMediaLogs` in die uitvoergids, of die sessiegids | Slaan skuiwe oor wat reeds gedoen is, hersteldata met gekodeerde paaie |
-| Opsionele vorderingslêer van 'n lopie, JSON — vorderingstellers, die fase van die lopie en die pad van die uitvoergids | `_OrganizeMediaLogs` in die uitvoergids | Vorderingstellers vir ander programme |
+| Opsionele vorderingslêer van 'n lopie, JSON — die pad van die uitvoergids, vorderingstellers, die lopiemodus, die fase van die lopie en die toestand, die hoofinstellings van die lopie, die ID en die naam van die proses, die tyd en 'n korrelasie-ID | `_OrganizeMediaLogs` in die uitvoergids | Vorderingstellers vir ander programme |
 | Toets- en lisensiestatus | Die toepassing se profielgids | Pas die toetstydperk of die winkelaankoop toe |
 | Status van die opdateringkontrole | Die toepassing se profielgids | Beperk hoe gereeld die opsionele weergawekontrole loop |
 | Android: afskrifte van gidse wat deur die stelselkieser, SAF, gekies is | Sessiegids in die toepassing se berging | Kopieer `content://`-gidsbome sodat die enjin dit kan lees |

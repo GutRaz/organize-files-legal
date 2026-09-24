@@ -29,7 +29,7 @@ Voor persoonsgegevens die de uitgever verwerkt, is de verwerkingsverantwoordelij
 | Bestanden en mappen die u kiest | Alleen op uw apparaat | Ordenen, dubbele bestanden vinden, repareren en verwijderen als dat gekozen is |
 | Momentopname van UI-sessie (`last-ui-session.json`) | De map `sessions\<id>\` in de profielmap van de app: `%LocalAppData%\OrganizeFilesCrossPlatform` op Windows, `~/Library/Application Support/OrganizeFilesCrossPlatform` op macOS, `~/.local/share/OrganizeFilesCrossPlatform` op Linux, of de privéopslag van de app op Android en iOS | Werkruimte herstellen: paden, extensies, opties |
 | Hervattingsstatus van een ordenrun + optioneel verplaatsingslogboek | `_OrganizeMediaLogs` in de uitvoermap, of de sessiemap | Al gedane verplaatsingen overslaan, herstelgegevens met gecodeerde paden |
-| Optioneel voortgangsbestand van een run, JSON — voortgangstellers, de fase van de uitvoering en het pad van de uitvoermap | `_OrganizeMediaLogs` in de uitvoermap | Voortgangstellers voor andere programma's |
+| Optioneel voortgangsbestand van een run, JSON — het pad van de uitvoermap, voortgangstellers, de uitvoeringsmodus, de fase van de uitvoering en de status, de hoofdinstellingen van de uitvoering, de id en de naam van het proces, de tijd en een correlatie-id | `_OrganizeMediaLogs` in de uitvoermap | Voortgangstellers voor andere programma's |
 | Proef- en licentiestatus | Profielmap van de app | De proefperiode of de aankoop in de store toepassen |
 | Status van de updatecontrole | Profielmap van de app | Beperken hoe vaak de optionele versiecontrole draait |
 | Android: kopieën van mappen die via de systeemkiezer SAF zijn gekozen | Sessiemap in de opslag van de app | Kopieert `content://`-mapstructuren zodat de engine ze kan lezen |
