@@ -29,7 +29,7 @@ Administratorem danych osobowych przetwarzanych przez wydawcę jest **Guțulov R
 | Wybrane pliki i foldery | Tylko na urządzeniu | Porządkowanie, wyszukiwanie duplikatów, naprawa i usuwanie, jeśli wybrano |
 | Migawka sesji interfejsu użytkownika (`last-ui-session.json`) | Folder `sessions\<id>\` w folderze profilu aplikacji: `%LocalAppData%\OrganizeFilesCrossPlatform` w systemie Windows, `~/Library/Application Support/OrganizeFilesCrossPlatform` w systemie macOS, `~/.local/share/OrganizeFilesCrossPlatform` w systemie Linux lub prywatna pamięć aplikacji w systemach Android i iOS | Przywróć obszar roboczy: ścieżki, rozszerzenia, opcje |
 | Stan wznowienia porządkowania + opcjonalny dziennik przeniesień | `_OrganizeMediaLogs` w folderze wyjściowym lub folder sesji | Pomijanie już wykonanych przeniesień, dane odzyskiwania z zakodowanymi ścieżkami |
-| Opcjonalny plik postępu uruchomienia, JSON — liczniki postępu, faza uruchomienia i ścieżka folderu wyjściowego | `_OrganizeMediaLogs` w folderze wyjściowym | Liczniki postępu dla innych programów |
+| Opcjonalny plik postępu uruchomienia, JSON — ścieżka folderu wyjściowego, liczniki postępu, tryb pracy, faza uruchomienia i stan, główne ustawienia uruchomienia, identyfikator i nazwa procesu, czas i identyfikator korelacji | `_OrganizeMediaLogs` w folderze wyjściowym | Liczniki postępu dla innych programów |
 | Stan wersji próbnej i licencji | Folder profilu aplikacji | Stosowanie wersji próbnej lub zakupu w sklepie |
 | Stan sprawdzania aktualizacji | Folder profilu aplikacji | Ograniczenie częstotliwości opcjonalnego sprawdzania wersji |
 | Android: kopie folderów wybranych przez systemowy selektor SAF | Folder sesji w pamięci aplikacji | Kopiowanie drzew folderów `content://`, aby silnik mógł je odczytać |

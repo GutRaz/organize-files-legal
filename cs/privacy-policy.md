@@ -29,7 +29,7 @@ Pro osobní údaje zpracovávané vydavatelem je správcem **Guțulov Răzvan Co
 | Soubory a složky, které vyberete | Pouze ve vašem zařízení | Organizace, hledání duplicit, oprava a mazání, pokud je zvoleno |
 | Snímek relace uživatelského rozhraní (`last-ui-session.json`) | Složka `sessions\<id>\` v profilové složce aplikace: `%LocalAppData%\OrganizeFilesCrossPlatform` ve Windows, `~/Library/Application Support/OrganizeFilesCrossPlatform` v macOS, `~/.local/share/OrganizeFilesCrossPlatform` v Linuxu, nebo soukromé úložiště aplikace v Androidu a iOS | Obnovit pracovní prostor: cesty, rozšíření, možnosti |
 | Stav pro pokračování organizace + volitelný deník přesunů | `_OrganizeMediaLogs` ve výstupní složce, nebo složka relace | Přeskočení již provedených přesunů, údaje pro obnovu se zakódovanými cestami |
-| Volitelný soubor s průběhem běhu, JSON — čítače průběhu, fáze běhu a cesta k výstupní složce | `_OrganizeMediaLogs` ve výstupní složce | Počítadla průběhu pro jiné programy |
+| Volitelný soubor s průběhem běhu, JSON — cesta k výstupní složce, čítače průběhu, provozní režim, fáze běhu a stav, hlavní nastavení běhu, ID a jméno procesu, čas a ID korelace | `_OrganizeMediaLogs` ve výstupní složce | Počítadla průběhu pro jiné programy |
 | Stav zkušební verze a licence | Profilová složka aplikace | Uplatnění zkušební verze nebo nákupu v obchodě |
 | Stav kontroly aktualizací | Profilová složka aplikace | Omezení, jak často se volitelná kontrola verze spouští |
 | Android: kopie složek vybraných systémovým výběrem, SAF | Složka relace v úložišti aplikace | Kopírování stromů složek `content://`, aby je engine mohl číst |

@@ -29,7 +29,7 @@ Für personenbezogene Daten, die der Herausgeber verarbeitet, ist der Verantwort
 | Von Ihnen ausgewählte Dateien und Ordner | Nur auf Ihrem Gerät | Organisieren, Duplikate finden, reparieren und, wenn gewählt, löschen |
 | UI-Sitzungs-Snapshot (`last-ui-session.json`) | Der Ordner `sessions\<id>\` im Profilordner der App: `%LocalAppData%\OrganizeFilesCrossPlatform` unter Windows, `~/Library/Application Support/OrganizeFilesCrossPlatform` unter macOS, `~/.local/share/OrganizeFilesCrossPlatform` unter Linux oder der private App-Speicher unter Android und iOS | Arbeitsbereich wiederherstellen |
 | Fortsetzungsstand eines Organize-Laufs + optionales Verschiebeprotokoll | `_OrganizeMediaLogs` im Ausgabeordner oder der Sitzungsordner | Bereits erledigte Verschiebungen überspringen, Wiederherstellungsdaten mit kodierten Pfaden |
-| Optionale Fortschrittsdatei eines Laufs, JSON — Fortschrittszähler, die Phase des Laufs und der Pfad des Ausgabeordners | `_OrganizeMediaLogs` im Ausgabeordner | Fortschrittszähler für andere Programme |
+| Optionale Fortschrittsdatei eines Laufs, JSON — der Pfad des Ausgabeordners, Fortschrittszähler, der Ausführungsmodus, die Phase des Laufs und der Status, die Haupteinstellungen des Laufs, die ID und der Name des Prozesses, die Zeit und eine Korrelations-ID | `_OrganizeMediaLogs` im Ausgabeordner | Fortschrittszähler für andere Programme |
 | Test- und Lizenzstatus | Profilordner der App | Testphase oder Store-Kauf anwenden |
 | Status der Update-Prüfung | Profilordner der App | Begrenzen, wie oft die optionale Versionsprüfung läuft |
 | Android: Kopien von Ordnern, die über die Systemauswahl SAF gewählt wurden | Sitzungsordner im App-Speicher | Kopiert `content://`-Ordnerbäume, damit die Engine sie lesen kann |

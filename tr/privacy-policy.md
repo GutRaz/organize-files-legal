@@ -29,7 +29,7 @@ Yayıncı tarafından işlenen kişisel veriler için veri sorumlusu **Guțulov 
 | Seçtiğiniz dosya ve klasörler | Yalnızca cihazınızda | Düzenleme, yinelenenleri bulma, onarma ve seçildiğinde silme |
 | Kullanıcı arayüzü oturumu anlık görüntüsü (`last-ui-session.json`) | Uygulama profil klasöründeki `sessions\<id>\` klasörü: Windows'ta `%LocalAppData%\OrganizeFilesCrossPlatform`, macOS'ta `~/Library/Application Support/OrganizeFilesCrossPlatform`, Linux'ta `~/.local/share/OrganizeFilesCrossPlatform` veya Android ve iOS'ta uygulamaya özel depolama | Çalışma alanını geri yükleyin: yollar, uzantılar, seçenekler |
 | Bir düzenleme çalıştırmasının devam durumu + isteğe bağlı taşıma günlüğü | Çıktı klasöründe `_OrganizeMediaLogs` veya oturum klasörü | Önceden yapılmış taşımaları atlama, yolları kodlanmış kurtarma bilgileri |
-| Bir çalıştırmanın isteğe bağlı ilerleme dosyası, JSON — ilerleme sayaçları, çalıştırmanın aşaması ve çıktı klasörünün yolu | Çıktı klasöründe `_OrganizeMediaLogs` | Diğer programlar için ilerleme sayaçları |
+| Bir çalıştırmanın isteğe bağlı ilerleme dosyası, JSON — çıktı klasörünün yolu, ilerleme sayaçları, çalıştırma modu, çalıştırmanın aşaması ve durumu, çalıştırmanın ana ayarları, işlemin kimliği ve ismi, zaman ve bir korelasyon kimliği | Çıktı klasöründe `_OrganizeMediaLogs` | Diğer programlar için ilerleme sayaçları |
 | Deneme ve lisans durumu | Uygulamanın profil klasörü | Deneme süresini veya mağaza satın alımını uygulama |
 | Güncelleme denetimi durumu | Uygulamanın profil klasörü | İsteğe bağlı sürüm denetiminin ne sıklıkla çalıştığını sınırlama |
 | Android: sistem seçicisi SAF ile seçilen klasörlerin kopyaları | Uygulama depolamasındaki oturum klasörü | Motorun okuyabilmesi için `content://` klasör ağaçlarını kopyalar |
