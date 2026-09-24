@@ -29,7 +29,7 @@ Pour les données personnelles traitées par l'éditeur, le responsable du trait
 | Fichiers et dossiers que vous choisissez | Uniquement sur votre appareil | Organiser, trouver les doublons, réparer et supprimer si choisi |
 | Instantané UI (`last-ui-session.json`) | Le dossier `sessions\<id>\` du dossier de profil de l'application : `%LocalAppData%\OrganizeFilesCrossPlatform` sous Windows, `~/Library/Application Support/OrganizeFilesCrossPlatform` sous macOS, `~/.local/share/OrganizeFilesCrossPlatform` sous Linux, ou le stockage privé de l'application sous Android et iOS | Restaurer l'espace de travail |
 | État de reprise d'une organisation + journal de déplacements facultatif | `_OrganizeMediaLogs` dans le dossier de sortie, ou le dossier de session | Ignorer les déplacements déjà faits, données de récupération avec chemins encodés |
-| Fichier de progression facultatif d'une exécution, JSON | `_OrganizeMediaLogs` dans le dossier de sortie | Compteurs de progression pour d'autres programmes |
+| Fichier de progression facultatif d'une exécution, JSON — compteurs de progression, phase de l'exécution et chemin du dossier de sortie | `_OrganizeMediaLogs` dans le dossier de sortie | Compteurs de progression pour d'autres programmes |
 | État de l'essai et de la licence | Dossier de profil de l'application | Appliquer l'essai ou l'achat en boutique |
 | État de la vérification des mises à jour | Dossier de profil de l'application | Limiter la fréquence de la vérification de version facultative |
 | Android : copies des dossiers choisis avec le sélecteur du système, SAF | Dossier de session dans le stockage de l'application | Copie des arborescences `content://` pour que le moteur puisse les lire |

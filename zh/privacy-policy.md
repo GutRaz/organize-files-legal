@@ -29,7 +29,7 @@ Organize Files **在设备本地**处理文件。文件内容**不会上传到�
 | 您选择的文件和文件夹 | 仅在您的设备上 | 整理、查找重复项、修复，以及在选择时删除 |
 | UI 会话快照 (`last-ui-session.json`) | 应用配置文件夹中的 `sessions\<id>\` 文件夹：Windows 上为 `%LocalAppData%\OrganizeFilesCrossPlatform`，macOS 上为 `~/Library/Application Support/OrganizeFilesCrossPlatform`，Linux 上为 `~/.local/share/OrganizeFilesCrossPlatform`，Android 和 iOS 上为应用专用存储 |恢复工作空间：路径、扩展、选项 |
 | 整理运行的续传状态 + 可选的移动日志 | 输出文件夹中的 `_OrganizeMediaLogs`，或会话文件夹 | 跳过已完成的移动，路径经过编码的恢复信息 |
-| 运行的可选进度文件，JSON | 输出文件夹中的 `_OrganizeMediaLogs` | 供其他程序使用的进度计数 |
+| 运行的可选进度文件，JSON — 进度计数器、运行阶段和输出文件夹路径 | 输出文件夹中的 `_OrganizeMediaLogs` | 供其他程序使用的进度计数 |
 | 试用和许可证状态 | 应用配置文件夹 | 应用试用期或商店购买 |
 | 更新检查状态 | 应用配置文件夹 | 限制可选版本检查的运行频率 |
 | Android：通过系统选择器 SAF 所选文件夹的副本 | 应用存储中的会话文件夹 | 复制 `content://` 文件夹树，以便引擎读取 |

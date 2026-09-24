@@ -29,7 +29,7 @@ Per i dati personali trattati dall'editore, il titolare del trattamento è **Gu�
 | File e cartelle che scegli | Solo sul tuo dispositivo | Organizzare, trovare duplicati, riparare ed eliminare se scelto |
 | Istantanea della sessione dell'interfaccia utente (`last-ui-session.json`) | La cartella `sessions\<id>\` nella cartella del profilo dell'app: `%LocalAppData%\OrganizeFilesCrossPlatform` su Windows, `~/Library/Application Support/OrganizeFilesCrossPlatform` su macOS, `~/.local/share/OrganizeFilesCrossPlatform` su Linux, oppure lo spazio privato dell'app su Android e iOS | Ripristina l'area di lavoro: percorsi, estensioni, opzioni |
 | Stato di ripresa di un'organizzazione + registro degli spostamenti facoltativo | `_OrganizeMediaLogs` nella cartella di output, o la cartella di sessione | Saltare gli spostamenti già fatti, dati di recupero con percorsi codificati |
-| File di avanzamento facoltativo di un'esecuzione, JSON | `_OrganizeMediaLogs` nella cartella di output | Contatori di avanzamento per altri programmi |
+| File di avanzamento facoltativo di un'esecuzione, JSON — contatori di avanzamento, fase dell'esecuzione e percorso della cartella di output | `_OrganizeMediaLogs` nella cartella di output | Contatori di avanzamento per altri programmi |
 | Stato della prova e della licenza | Cartella del profilo dell'app | Applicare la prova o l'acquisto nello store |
 | Stato del controllo aggiornamenti | Cartella del profilo dell'app | Limitare la frequenza del controllo facoltativo della versione |
 | Android: copie delle cartelle scelte con il selettore di sistema, SAF | Cartella di sessione nello spazio dell'app | Copia gli alberi di cartelle `content://` perché il motore possa leggerli |
