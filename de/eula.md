@@ -4,11 +4,11 @@
 
 # Endbenutzer-Lizenzvertrag (EULA) — Organize Files
 
-**Herausgeber:** Guțulov Răzvan Constantin PFA  
-**Eingetragene Anschrift:** Str. Republicii nr. 33B, bl. N3, sc. A, et. 1, ap. 3, Breaza de Sus, 105400 Breaza, jud. Prahova, România  
-**Handelsregister:** F2026004513003 (EUID ROONRC.F2026004513003)  
-**Steuernummer:** 53610310  
-**Kontakt:** razvan.gutulov@outlook.com  
+**Herausgeber:** <!--publisher:LegalName-->Guțulov Răzvan Constantin PFA<!--/publisher-->  
+**Eingetragene Anschrift:** <!--publisher:RegisteredAddress-->Str. Republicii nr. 33B, bl. N3, sc. A, et. 1, ap. 3, Breaza de Sus, 105400 Breaza, jud. Prahova, România<!--/publisher-->  
+**Handelsregister:** <!--publisher:TradeRegister-->F2026004513003<!--/publisher--> (EUID <!--publisher:Euid-->ROONRC.F2026004513003<!--/publisher-->)  
+**Steuernummer:** <!--publisher:TaxId-->53610310<!--/publisher-->  
+**Kontakt:** <!--publisher:ContactEmail-->organize-files-app@outlook.com<!--/publisher-->  
 **Gültig ab:** 2026-05-28  
 **Öffentliche URL (Store-Einträge):** `https://github.com/GutRaz/organize-files-legal/blob/main/de/eula.md`
 
@@ -49,8 +49,6 @@ IM GRÖSSTMÖGLICH GESETZLICH ZULÄSSIGEN UMFANG HAFTET DER HERAUSGEBER NICHT F�
 
 Testdauer, Store-SKUs und Verlängerungsbedingungen sind in der **Store-Auflistung** und in der In-App-Lizenzkarte definiert. Release-Builds erfordern ein gültiges Store-Entitlement, eine aktive Testphase oder eine Autorisierung durch den vom Herausgeber betriebenen Lizenzserver.
 
-**Nach einer Store-Rückerstattung, einem Widerruf oder einem gekündigten Abonnement:** Wenn diese Installation zuvor einen bezahlten Store-Kauf erfasst hat, kann die App eine **neue 14-tägige lokale Testphase** starten (höchstens **zwei** solcher Testphasen pro Installation). Geldrückerstattungen werden ausschließlich über die Store-Plattform abgewickelt — nicht in der App. Siehe im In-App-Leitfaden das Kapitel *Rückerstattungen und Testphase nach dem Kauf* für den vollständigen Ablauf.
-
 ## 7. Datenschutz
 
 Siehe [Datenschutzerklärung](./privacy-policy.md).
@@ -76,7 +74,7 @@ Verbraucher in Rumänien können sich bei Streitigkeiten an die Nationale Verbra
 
 ## 11. Kontakt
 
-**Guțulov Răzvan Constantin PFA** — razvan.gutulov@outlook.com
+**<!--publisher:LegalName-->Guțulov Răzvan Constantin PFA<!--/publisher-->** — <!--publisher:ContactEmail-->organize-files-app@outlook.com<!--/publisher-->
 
 ## Verwandte Dokumente
 

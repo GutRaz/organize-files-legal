@@ -4,11 +4,11 @@
 
 # Makubaliano ya Leseni ya Mtumiaji wa Hatima (EULA) - Organize Files
 
-**Mchapishaji:** Guțulov Răzvan Constantin PFA  
-**Anwani iliyosajiliwa:** Str. Republicii nr. 33B, bl. N3, sc. A, et. 1, ap. 3, Breaza de Sus, 105400 Breaza, jud. Prahova, România  
-**Rejista ya biashara:** F2026004513003 (EUID ROONRC.F2026004513003)  
-**Nambari ya utambulisho wa kodi:** 53610310  
-**Mawasiliano:** razvan.gutulov@outlook.com  
+**Mchapishaji:** <!--publisher:LegalName-->Guțulov Răzvan Constantin PFA<!--/publisher-->  
+**Anwani iliyosajiliwa:** <!--publisher:RegisteredAddress-->Str. Republicii nr. 33B, bl. N3, sc. A, et. 1, ap. 3, Breaza de Sus, 105400 Breaza, jud. Prahova, România<!--/publisher-->  
+**Rejista ya biashara:** <!--publisher:TradeRegister-->F2026004513003<!--/publisher--> (EUID <!--publisher:Euid-->ROONRC.F2026004513003<!--/publisher-->)  
+**Nambari ya utambulisho wa kodi:** <!--publisher:TaxId-->53610310<!--/publisher-->  
+**Mawasiliano:** <!--publisher:ContactEmail-->organize-files-app@outlook.com<!--/publisher-->  
 **Tarehe ya kuanza kutumika:** 2026-05-28  
 **URL ya Umma (orodha za maduka):** `https://github.com/GutRaz/organize-files-legal/blob/main/sw/eula.md`
 
@@ -49,8 +49,6 @@ KWA KIWANGO CHA JUU INAYORUHUSIWA NA SHERIA, MTANGAZAJI HATATAWAJIBIKA KWA UHARI
 
 Muda wa majaribio, SKU za duka, na masharti ya kusasisha yamefafanuliwa katika **orodha ya duka** na kadi ya leseni ya ndani ya programu. Miundo ya matoleo yanahitaji haki halali ya duka, jaribio linalotumika, au idhini kutoka kwa seva ya leseni inayoendeshwa na mchapishaji.
 
-**Baada ya kurejesha pesa kwenye duka, kubatilisha au kughairi usajili:** ikiwa usakinishaji huu ulirekodi ununuzi wa duka unaolipishwa hapo awali, programu inaweza kuanza **jaribio jipya la ndani la siku 14** (isizidi **majaribio** mawili kwa kila usakinishaji). Urejeshaji wa pesa unashughulikiwa na mfumo wa duka pekee - sio ndani ya programu. Tazama sura ya mwongozo wa ndani ya programu *Rejesha pesa na majaribio baada ya ununuzi* kwa mtiririko mzima.
-
 ## 7. Faragha
 
 Tazama [Sera ya Faragha](./privacy-policy.md).
@@ -76,4 +74,4 @@ Wateja wa Kiromania wanaweza kuwasiliana na Mamlaka ya Kitaifa ya Ulinzi wa Wate
 
 ## 11. Wasiliana
 
-**Guțulov Răzvan Constantin PFA** - razvan.gutulov@outlook.com
+**<!--publisher:LegalName-->Guțulov Răzvan Constantin PFA<!--/publisher-->** - <!--publisher:ContactEmail-->organize-files-app@outlook.com<!--/publisher-->

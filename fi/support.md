@@ -8,11 +8,11 @@ Tarvitsetko apua **Organize Files** -sovelluksen kanssa? Autamme mielellämme.
 
 ## Yhteystiedot
 
-- **Sähköposti:** razvan.gutulov@outlook.com
-- **Julkaisija:** Guțulov Răzvan Constantin PFA
-- **Rekisteröity osoite:** Str. Republicii nr. 33B, bl. N3, sc. A, et. 1, ap. 3, Breaza de Sus, 105400 Breaza, jud. Prahova, România
-- **Kaupparekisteri:** F2026004513003 (EUID ROONRC.F2026004513003)
-- **Verotunniste:** 53610310
+- **Sähköposti:** <!--publisher:ContactEmail-->organize-files-app@outlook.com<!--/publisher-->
+- **Julkaisija:** <!--publisher:LegalName-->Guțulov Răzvan Constantin PFA<!--/publisher-->
+- **Rekisteröity osoite:** <!--publisher:RegisteredAddress-->Str. Republicii nr. 33B, bl. N3, sc. A, et. 1, ap. 3, Breaza de Sus, 105400 Breaza, jud. Prahova, România<!--/publisher-->
+- **Kaupparekisteri:** <!--publisher:TradeRegister-->F2026004513003<!--/publisher--> (EUID <!--publisher:Euid-->ROONRC.F2026004513003<!--/publisher-->)
+- **Verotunniste:** <!--publisher:TaxId-->53610310<!--/publisher-->
 
 Kun kirjoitat meille, liitä mukaan:
 
@@ -39,4 +39,4 @@ Katso [Tietosuojakäytäntö](./privacy-policy.md).
 
 ---
 
-© 2026 Guțulov Răzvan Constantin PFA. Kaikki oikeudet pidätetään.
+© 2026 <!--publisher:LegalName-->Guțulov Răzvan Constantin PFA<!--/publisher-->. Kaikki oikeudet pidätetään.

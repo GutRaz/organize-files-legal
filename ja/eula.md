@@ -4,11 +4,11 @@
 
 # エンドユーザー使用許諾契約書 (EULA) — Organize Files
 
-**出版社:** Guțulov Răzvan Constantin PFA  
-**登録住所:** Str. Republicii nr. 33B, bl. N3, sc. A, et. 1, ap. 3, Breaza de Sus, 105400 Breaza, jud. Prahova, România  
-**商業登記:** F2026004513003 (EUID ROONRC.F2026004513003)  
-**納税者番号:** 53610310  
-**連絡先:** razvan.gutulov@outlook.com  
+**出版社:** <!--publisher:LegalName-->Guțulov Răzvan Constantin PFA<!--/publisher-->  
+**登録住所:** <!--publisher:RegisteredAddress-->Str. Republicii nr. 33B, bl. N3, sc. A, et. 1, ap. 3, Breaza de Sus, 105400 Breaza, jud. Prahova, România<!--/publisher-->  
+**商業登記:** <!--publisher:TradeRegister-->F2026004513003<!--/publisher--> (EUID <!--publisher:Euid-->ROONRC.F2026004513003<!--/publisher-->)  
+**納税者番号:** <!--publisher:TaxId-->53610310<!--/publisher-->  
+**連絡先:** <!--publisher:ContactEmail-->organize-files-app@outlook.com<!--/publisher-->  
 **発効日:** 2026-05-28  
 **パブリック URL (ストアの掲載情報):** `https://github.com/GutRaz/organize-files-legal/blob/main/ja/eula.md`
 
@@ -49,8 +49,6 @@
 
 試用期間、ストア SKU、更新条件は、**ストアの掲載情報**とアプリ内ライセンス カードで定義されます。リリース ビルドには、有効なストア資格、有効なトライアル、または発行元が運用するライセンス サーバーの承認が必要です。
 
-**ストアでの払い戻し、取り消し、またはサブスクリプションのキャンセル後:** このインストールで以前にストアでの有料購入が記録されていた場合、アプリは **新たに 14 日間のローカル トライアル**を開始することがあります (インストールごとにこのようなトライアルは最大で **2 つ**)。返金はストア プラットフォームでのみ処理され、アプリ内では処理されません。詳しい流れについては、アプリ内ガイドの *購入後の返金とトライアル* の章をご覧ください。
-
 ## 7. プライバシー
 
 [プライバシーポリシー](./privacy-policy.md)を参照してください。
@@ -76,4 +74,4 @@ Microsoft Store、Google Play、Mac App Store、または Apple App Store (iOS) 
 
 ## 11. 連絡先
 
-**Guțulov Răzvan Constantin PFA** — razvan.gutulov@outlook.com
+**<!--publisher:LegalName-->Guțulov Răzvan Constantin PFA<!--/publisher-->** — <!--publisher:ContactEmail-->organize-files-app@outlook.com<!--/publisher-->

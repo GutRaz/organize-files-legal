@@ -4,11 +4,11 @@
 
 # Eindgebruikerslisensie-ooreenkoms (EULA) — Organize Files
 
-**Uitgewer:** Guțulov Răzvan Constantin PFA  
-**Geregistreerde adres:** Str. Republicii nr. 33B, bl. N3, sc. A, et. 1, ap. 3, Breaza de Sus, 105400 Breaza, jud. Prahova, România  
-**Handelsregister:** F2026004513003 (EUID ROONRC.F2026004513003)  
-**Belastingidentifikasienommer:** 53610310  
-**Kontak:** razvan.gutulov@outlook.com  
+**Uitgewer:** <!--publisher:LegalName-->Guțulov Răzvan Constantin PFA<!--/publisher-->  
+**Geregistreerde adres:** <!--publisher:RegisteredAddress-->Str. Republicii nr. 33B, bl. N3, sc. A, et. 1, ap. 3, Breaza de Sus, 105400 Breaza, jud. Prahova, România<!--/publisher-->  
+**Handelsregister:** <!--publisher:TradeRegister-->F2026004513003<!--/publisher--> (EUID <!--publisher:Euid-->ROONRC.F2026004513003<!--/publisher-->)  
+**Belastingidentifikasienommer:** <!--publisher:TaxId-->53610310<!--/publisher-->  
+**Kontak:** <!--publisher:ContactEmail-->organize-files-app@outlook.com<!--/publisher-->  
 **Inwerkingtredingsdatum:** 2026-05-28  
 **Publieke URL (winkellysinskrywings):** `https://github.com/GutRaz/organize-files-legal/blob/main/af/eula.md`
 
@@ -49,8 +49,6 @@ IN DIE MAKSIMUM MATE DEUR DIE WET TOEGELAAT, SAL DIE UITGEWER NIE AANSPREEKLIK W
 
 Proeftydsduur, winkel-SKU's en hernuwingsbepalings word in die **winkellysinskrywing** en inprogramlisensiekaart gedefinieer. Vrystellingbou vereis geldige winkelregte, 'n aktiewe proeftydperk, of magtiging van die uitgewer se lisensiebediener.
 
-**Na 'n winkelterugbetaling, herroeping of gekanselleerde intekening:** as hierdie installasie voorheen 'n betaalde winkelaankoop aangeteken het, kan die toepassing 'n **nuwe plaaslike proeftydperk van 14 dae** begin (hoogstens **twee** sulke proeflopies per installasie). Geldterugbetalings word slegs deur die winkelplatform hanteer - nie binne die toepassing nie. Sien die inprogramgids hoofstuk *Terugbetalings en proeftydperk na aankoop* vir die volle vloei.
-
 ## 7. Privaatheid
 
 Sien [Privaatheidsbeleid](./privacy-policy.md).
@@ -76,4 +74,4 @@ Roemeense verbruikers kan die Nasionale Verbruikersbeskermingsowerheid (ANPC —
 
 ## 11. Kontak
 
-**Guțulov Răzvan Constantin PFA** — razvan.gutulov@outlook.com
+**<!--publisher:LegalName-->Guțulov Răzvan Constantin PFA<!--/publisher-->** — <!--publisher:ContactEmail-->organize-files-app@outlook.com<!--/publisher-->

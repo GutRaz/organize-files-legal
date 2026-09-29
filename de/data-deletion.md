@@ -42,7 +42,7 @@ Der Herausgeber speichert nur Daten, die Sie aktiv senden, etwa:
   konfiguriert ist
 
 Um die Löschung dieser Daten zu beantragen, schreiben Sie an
-**razvan.gutulov@outlook.com** mit:
+**<!--publisher:ContactEmail-->organize-files-app@outlook.com<!--/publisher-->** mit:
 
 - Der E-Mail-Adresse, mit der Sie den Support kontaktiert haben, und/oder
 - Ihrer Lizenz- oder Bestellreferenz, falls vorhanden
@@ -58,4 +58,4 @@ Kontoeinstellungen des jeweiligen Stores.
 
 ---
 
-© 2026 Guțulov Răzvan Constantin PFA. Alle Rechte vorbehalten.
+© 2026 <!--publisher:LegalName-->Guțulov Răzvan Constantin PFA<!--/publisher-->. Alle Rechte vorbehalten.

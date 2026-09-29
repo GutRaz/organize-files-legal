@@ -4,11 +4,11 @@
 
 # Informativa sulla privacy: Organize Files
 
-**Editore:** Guțulov Răzvan Constantin PFA  
-**Indirizzo registrato:** Str. Republicii nr. 33B, bl. N3, sc. A, et. 1, ap. 3, Breaza de Sus, 105400 Breaza, jud. Prahova, România  
-**Registro delle imprese:** F2026004513003 (EUID ROONRC.F2026004513003)  
-**Codice fiscale:** 53610310  
-**Contatto:** razvan.gutulov@outlook.com  
+**Editore:** <!--publisher:LegalName-->Guțulov Răzvan Constantin PFA<!--/publisher-->  
+**Indirizzo registrato:** <!--publisher:RegisteredAddress-->Str. Republicii nr. 33B, bl. N3, sc. A, et. 1, ap. 3, Breaza de Sus, 105400 Breaza, jud. Prahova, România<!--/publisher-->  
+**Registro delle imprese:** <!--publisher:TradeRegister-->F2026004513003<!--/publisher--> (EUID <!--publisher:Euid-->ROONRC.F2026004513003<!--/publisher-->)  
+**Codice fiscale:** <!--publisher:TaxId-->53610310<!--/publisher-->  
+**Contatto:** <!--publisher:ContactEmail-->organize-files-app@outlook.com<!--/publisher-->  
 **Data di entrata in vigore:** 28-05-2026  
 **URL pubblico:** `https://github.com/GutRaz/organize-files-legal/blob/main/it/privacy-policy.md`
 
@@ -20,7 +20,7 @@ Organize Files elabora i file **localmente sul dispositivo**. I contenuti dei fi
 
 ## Titolare del trattamento e contatto
 
-Per i dati personali trattati dall'editore, il titolare del trattamento è **Guțulov Răzvan Constantin PFA**. Contatto: **razvan.gutulov@outlook.com**.
+Per i dati personali trattati dall'editore, il titolare del trattamento è **<!--publisher:LegalName-->Guțulov Răzvan Constantin PFA<!--/publisher-->**. Contatto: **<!--publisher:ContactEmail-->organize-files-app@outlook.com<!--/publisher-->**.
 
 ## Dati elaborati localmente
 
@@ -51,7 +51,7 @@ Per i dati personali trattati dall'editore, il titolare del trattamento è **Gu�
 | Server licenze opzionale (configurato dall'operatore) | Un ID di installazione persistente casuale (GUID memorizzato in `license_installation_id.txt`) viene inviato a un server di licenza gestito dall'editore o configurato dall'operatore in "ORGANIZE_FILES_LICENSE_SERVER_URL". L'ID di installazione è un identificatore del dispositivo ai sensi del considerando 30 del GDPR. Base giuridica: esecuzione del contratto. Conservazione gestita dall'editore: registri di entitlement mentre attivi più fino a 24 mesi dopo scadenza/revoca per prevenzione abusi e gestione controversie; i registri contabili possono essere conservati fino a 7 anni ove richiesto dalla legge. I server gestiti dall'operatore seguono il calendario di conservazione documentato dall'operatore. Questa funzione è inattiva a meno che non sia impostato `ORGANIZE_FILES_LICENSE_SERVER_URL`. | Server di licenza editore o operatore |
 | Tracciamento OpenTelemetry opzionale (configurato dall'operatore) | Quando è impostato "ORGANIZE_FILES_OTEL_EXPORTER_OTLP_ENDPOINT", i metadati del lavoro di automazione (ID lavoro, ID di correlazione, tag del tipo di destinazione, contesto di traccia W3C) vengono esportati nel raccoglitore OTLP configurato. Non sono inclusi percorsi o contenuti di file. Questa funzionalità è inattiva per impostazione predefinita e richiede una configurazione esplicita da parte dell'operatore. | Raccoglitore OTLP configurato dall'operatore |
 | Notifiche e-mail opzionali (se abilitate) | Stato dell'esecuzione ed estratti di log (possono includere percorsi di file) inviati tramite il server SMTP configurato dall'operatore | SMTP / provider di posta dell'operatore |
-| Webhook di automazione facoltativi (configurati dall'operatore) | Quando `ORGANIZE_FILES_AUTOMATION_WEBHOOK_URL` è impostato, eventi del ciclo di vita dei processi con ID di correlazione e i percorsi dei file di stato dell'automazione | Endpoint webhook configurato dall'operatore |
+| Webhook di automazione facoltativi (configurati dall'operatore) | Quando `ORGANIZE_FILES_AUTOMATION_WEBHOOK_URL` è impostato, un messaggio per ogni evento di un processo (ad esempio l'avvio di un'esecuzione, l'attesa di approvazione, l'approvazione o la fine), con nome, ID e ora dell'evento, nome del computer, ID del processo e ID di correlazione, destinazione, fase, esito e codice di uscita del processo, percorso della cartella di output, messaggio di errore di un'esecuzione non riuscita (che può nominare un file o una cartella), nome utente e ID operatore di chi ha approvato un'esecuzione reale, percorso di un file di stato dell'automazione che non è stato possibile salvare e porta di un servizio di metriche che non è riuscito ad avviarsi | Endpoint webhook configurato dall'operatore |
 | Verifica facoltativa dell'identità per l'approvazione dell'esecuzione (configurata dall'operatore) | Con `ORGANIZE_FILES_APPROVE_OAUTH_JWKS_URL` impostato, una GET HTTPS scarica le chiavi di firma e le mette in cache per un'ora; nessun token lascia il dispositivo. Con `ORGANIZE_FILES_APPROVE_OAUTH_INTROSPECTION_URL` impostato, viene inviato a quell'endpoint il token di tipo bearer dell'operatore stesso per la convalida (RFC 7662), con credenziali client HTTP Basic se configurate. Inattivo finché non è impostato uno di questi URL. | Provider di identità configurato dall'operatore |
 | Assistenti tentativi NAS motore | Nessuno oltre i percorsi di rete configurati | Host NAS / SMB |
 
@@ -73,7 +73,7 @@ I controlli facoltativi degli aggiornamenti potrebbero raggiungere server al di 
 
 ## Autorità di controllo e reclami
 
-Se la legge applicabile garantisce i diritti dell'interessato o un reclamo a un'autorità di controllo, contattare prima l'editore all'indirizzo **razvan.gutulov@outlook.com**. I residenti nell'UE/SEE possono anche presentare un reclamo all'autorità locale per la protezione dei dati (per la Romania: ANSPDCP, https://www.dataprotection.ro).
+Se la legge applicabile garantisce i diritti dell'interessato o un reclamo a un'autorità di controllo, contattare prima l'editore all'indirizzo **<!--publisher:ContactEmail-->organize-files-app@outlook.com<!--/publisher-->**. I residenti nell'UE/SEE possono anche presentare un reclamo all'autorità locale per la protezione dei dati (per la Romania: ANSPDCP, https://www.dataprotection.ro).
 
 ## Processori di terze parti (quando vengono utilizzate queste funzionalità)
 
@@ -98,7 +98,7 @@ Per i dati detenuti dall'editore:
 
 ## I tuoi diritti
 
-Per i dati conservati dall'editore (ad esempio corrispondenza e-mail di supporto), contattare **razvan.gutulov@outlook.com**. Ove applicabile, puoi richiedere accesso, rettifica, cancellazione, limitazione, opposizione, portabilità o revoca del consenso. L'editore mira a rispondere alle richieste verificate entro il periodo previsto dalla legge applicabile (può essere richiesta la verifica dell'identità se ragionevolmente necessario). Per i dati archiviati solo sul tuo dispositivo, puoi eliminare la maggior parte dei dati delle app tramite **Cancella dati app**, disinstallazione o eliminazione manuale dei file. **Cancella dati app** rimuove sessioni, registri e bozze di automazione, ma potrebbe conservare ancoraggi di prova della licenza, indicatori di installazione a pagamento e un identificatore di installazione utilizzato per controlli di licenza opzionali: consulta il testo di conferma in-app prima di procedere.
+Per i dati conservati dall'editore (ad esempio corrispondenza e-mail di supporto), contattare **<!--publisher:ContactEmail-->organize-files-app@outlook.com<!--/publisher-->**. Ove applicabile, puoi richiedere accesso, rettifica, cancellazione, limitazione, opposizione, portabilità o revoca del consenso. L'editore mira a rispondere alle richieste verificate entro il periodo previsto dalla legge applicabile (può essere richiesta la verifica dell'identità se ragionevolmente necessario). Per i dati archiviati solo sul tuo dispositivo, puoi eliminare la maggior parte dei dati delle app tramite **Cancella dati app**, disinstallazione o eliminazione manuale dei file. **Cancella dati app** rimuove sessioni, registri e bozze di automazione, ma potrebbe conservare ancoraggi di prova della licenza, indicatori di installazione a pagamento e un identificatore di installazione utilizzato per controlli di licenza opzionali: consulta il testo di conferma in-app prima di procedere.
 
 ## Bambini
 

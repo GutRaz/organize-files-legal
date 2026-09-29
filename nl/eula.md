@@ -4,11 +4,11 @@
 
 # Eindgebruikerslicentieovereenkomst (EULA) — Organize Files
 
-**Uitgever:** Guțulov Răzvan Constantin PFA  
-**Geregistreerd adres:** Str. Republicii nr. 33B, bl. N3, sc. A, et. 1, ap. 3, Breaza de Sus, 105400 Breaza, jud. Prahova, România  
-**Handelsregister:** F2026004513003 (EUID ROONRC.F2026004513003)  
-**Fiscaal identificatienummer:** 53610310  
-**Contact:** razvan.gutulov@outlook.com  
+**Uitgever:** <!--publisher:LegalName-->Guțulov Răzvan Constantin PFA<!--/publisher-->  
+**Geregistreerd adres:** <!--publisher:RegisteredAddress-->Str. Republicii nr. 33B, bl. N3, sc. A, et. 1, ap. 3, Breaza de Sus, 105400 Breaza, jud. Prahova, România<!--/publisher-->  
+**Handelsregister:** <!--publisher:TradeRegister-->F2026004513003<!--/publisher--> (EUID <!--publisher:Euid-->ROONRC.F2026004513003<!--/publisher-->)  
+**Fiscaal identificatienummer:** <!--publisher:TaxId-->53610310<!--/publisher-->  
+**Contact:** <!--publisher:ContactEmail-->organize-files-app@outlook.com<!--/publisher-->  
 **Ingangsdatum:** 28-05-2026  
 **Openbare URL (winkelvermeldingen):** `https://github.com/GutRaz/organize-files-legal/blob/main/nl/eula.md`
 
@@ -49,8 +49,6 @@ VOOR ZOVER MAXIMAAL TOEGESTAAN DOOR DE WET, IS DE UITGEVER NIET AANSPRAKELIJK VO
 
 Proefduur, winkel-SKU's en verlengingsvoorwaarden worden gedefinieerd in de **winkelvermelding** en de in-app-licentiekaart. Releasebuilds vereisen geldige winkelentitlement, een actieve proefperiode of autorisatie via de licentieserver van de uitgever.
 
-**Na een terugbetaling, intrekking of opgezegd abonnement in de winkel:** als deze installatie eerder een betaalde winkelaankoop registreerde, kan de app een **nieuwe lokale proefperiode van 14 dagen** starten (maximaal **twee** van dergelijke proefperioden per installatie). Geldterugbetalingen worden alleen afgehandeld door het winkelplatform, niet binnen de app. Zie het hoofdstuk *Restituties en proefperiode na aankoop* in de in-app-gids voor het volledige proces.
-
 ## 7. Privacy
 
 Zie [Privacybeleid](./privacy-policy.md).
@@ -76,4 +74,4 @@ Roemeense consumenten kunnen voor geschillen contact opnemen met de Nationale Co
 
 ## 11. Contactpersoon
 
-**Guțulov Răzvan Constantin PFA** — razvan.gutulov@outlook.com
+**<!--publisher:LegalName-->Guțulov Răzvan Constantin PFA<!--/publisher-->** — <!--publisher:ContactEmail-->organize-files-app@outlook.com<!--/publisher-->

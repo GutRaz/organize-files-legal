@@ -4,11 +4,11 @@
 
 # Zásady ochrany osobních údajů — Organize Files
 
-**Vydavatel:** Guțulov Răzvan Constantin PFA  
-**Sídlo:** Str. Republicii nr. 33B, bl. N3, sc. A, et. 1, ap. 3, Breaza de Sus, 105400 Breaza, jud. Prahova, România  
-**Obchodní rejstřík:** F2026004513003 (EUID ROONRC.F2026004513003)  
-**Daňové identifikační číslo:** 53610310  
-**Kontakt:** razvan.gutulov@outlook.com  
+**Vydavatel:** <!--publisher:LegalName-->Guțulov Răzvan Constantin PFA<!--/publisher-->  
+**Sídlo:** <!--publisher:RegisteredAddress-->Str. Republicii nr. 33B, bl. N3, sc. A, et. 1, ap. 3, Breaza de Sus, 105400 Breaza, jud. Prahova, România<!--/publisher-->  
+**Obchodní rejstřík:** <!--publisher:TradeRegister-->F2026004513003<!--/publisher--> (EUID <!--publisher:Euid-->ROONRC.F2026004513003<!--/publisher-->)  
+**Daňové identifikační číslo:** <!--publisher:TaxId-->53610310<!--/publisher-->  
+**Kontakt:** <!--publisher:ContactEmail-->organize-files-app@outlook.com<!--/publisher-->  
 **Datum účinnosti:** 28.05.2026  
 **Veřejná adresa URL:** `https://github.com/GutRaz/organize-files-legal/blob/main/cs/privacy-policy.md`
 
@@ -20,7 +20,7 @@ Organize Files zpracovává soubory **místně v zařízení**. Obsah souboru se
 
 ## Správce a kontakt
 
-Pro osobní údaje zpracovávané vydavatelem je správcem **Guțulov Răzvan Constantin PFA**. Kontakt: **razvan.gutulov@outlook.com**.
+Pro osobní údaje zpracovávané vydavatelem je správcem **<!--publisher:LegalName-->Guțulov Răzvan Constantin PFA<!--/publisher-->**. Kontakt: **<!--publisher:ContactEmail-->organize-files-app@outlook.com<!--/publisher-->**.
 
 ## Data zpracována lokálně
 
@@ -51,7 +51,7 @@ Pro osobní údaje zpracovávané vydavatelem je správcem **Guțulov Răzvan Co
 | Volitelný licenční server (nakonfigurovaný operátorem) | Náhodné trvalé ID instalace (GUID uložené v `license_installation_id.txt`) je odesláno na licenční server provozovaný vydavatelem nebo operátorem nakonfigurovaný na `ORGANIZE_FILES_LICENSE_SERVER_URL`. ID instalace je identifikátor zařízení podle bodu odůvodnění 30 GDPR. Právní základ: plnění smlouvy. Uchování u vydavatele: záznamy nároků po dobu aktivního nároku plus až 24 měsíců po skončení/odvolání (prevence zneužití a spory); účetní záznamy mohou být uchovány až 7 let, pokud to vyžaduje zákon. Servery provozované operátorem se řídí operátorovým dokumentovaným plánem uchování. Tato funkce je neaktivní, pokud není nastavena adresa URL `ORGANIZE_FILES_LICENSE_SERVER_URL`. | Licenční server vydavatele nebo provozovatele |
 | Volitelné trasování OpenTelemetry (nakonfigurováno operátorem) | Když je nastaveno `ORGANIZE_FILES_OTEL_EXPORTER_OTLP_ENDPOINT`, metadata automatizační úlohy (ID úlohy, ID korelace, značky cílového typu, kontext trasování W3C) se exportují do nakonfigurovaného kolektoru OTLP. Nejsou zahrnuty žádné cesty k souboru ani obsah souboru. Tato funkce je ve výchozím nastavení neaktivní a vyžaduje explicitní konfiguraci operátora. | Operátorem konfigurovaný kolektor OTLP |
 | Volitelná e-mailová oznámení (pokud jsou povolena) | Stav běhu a výňatky z protokolu (mohou obsahovat cesty k souborům) odesílané přes operátorem nakonfigurovaný SMTP server | Operátorův SMTP / poskytovatel pošty |
-| Volitelné webhooky automatizace (nastavené provozovatelem) | Je-li nastaveno `ORGANIZE_FILES_AUTOMATION_WEBHOOK_URL`, události životního cyklu úloh s korelačními identifikátory a cestami k souborům stavu automatizace | Koncový bod webhooku nastavený provozovatelem |
+| Volitelné webhooky automatizace (nastavené provozovatelem) | Je-li nastaveno `ORGANIZE_FILES_AUTOMATION_WEBHOOK_URL`, zpráva pro každou událost úlohy (například spuštění běhu, čekání na schválení, schválení nebo konec) s názvem, identifikátorem a časem události, názvem počítače, identifikátorem úlohy a korelačním identifikátorem, cílem, fází, výsledkem a návratovým kódem úlohy, cestou k výstupní složce, chybovou zprávou neúspěšného běhu (která může uvádět soubor nebo složku), uživatelským jménem a identifikátorem provozovatele osoby, která schválila skutečný běh, cestou k souboru stavu automatizace, který se nepodařilo uložit, a portem služby metrik, kterou se nepodařilo spustit | Koncový bod webhooku nastavený provozovatelem |
 | Volitelné ověření identity při schválení spuštění (nastavuje provozovatel) | Je-li nastaveno `ORGANIZE_FILES_APPROVE_OAUTH_JWKS_URL`, HTTPS GET stáhne podpisové klíče a hodinu je drží v mezipaměti; žádný token zařízení neopustí. Je-li nastaveno `ORGANIZE_FILES_APPROVE_OAUTH_INTROSPECTION_URL`, odešle se na tento koncový bod samotný nosný token provozovatele k ověření (RFC 7662), s přihlašovacími údaji klienta HTTP Basic, jsou-li nastaveny. Neaktivní, dokud není nastavena jedna z těchto adres. | Poskytovatel identity nastavený provozovatelem |
 | Pomocníci pro opakování NAS motoru | Žádné kromě nakonfigurovaných síťových cest | Hostitel NAS / SMB |
 
@@ -73,7 +73,7 @@ Volitelné kontroly aktualizací se mohou dostat na servery mimo Evropský hospo
 
 ## Dozorčí orgán a stížnosti
 
-Pokud platné zákony udělují práva subjektu údajů nebo stížnost u dozorového úřadu, kontaktujte nejprve vydavatele na **razvan.gutulov@outlook.com**. Obyvatelé EU/EHP mohou také podat stížnost svému místnímu úřadu pro ochranu údajů (pro Rumunsko: ANSPDCP, https://www.dataprotection.ro).
+Pokud platné zákony udělují práva subjektu údajů nebo stížnost u dozorového úřadu, kontaktujte nejprve vydavatele na **<!--publisher:ContactEmail-->organize-files-app@outlook.com<!--/publisher-->**. Obyvatelé EU/EHP mohou také podat stížnost svému místnímu úřadu pro ochranu údajů (pro Rumunsko: ANSPDCP, https://www.dataprotection.ro).
 
 ## Procesory třetích stran (při použití těchto funkcí)
 
@@ -98,7 +98,7 @@ Pro údaje držené vydavatelem:
 
 ## Vaše práva
 
-Údaje, které má vydavatel k dispozici (např. e-mailová korespondence podpory), získáte na **razvan.gutulov@outlook.com**. U dat uložených pouze ve vašem zařízení můžete většinu dat aplikací smazat pomocí **Vymazat data aplikace**, odinstalovat nebo ručně odstranit soubor. **Vymazat data aplikace** odstraní relace, protokoly a koncepty automatizace, ale může si ponechat kotvy zkušebních licencí, značky placených instalací a identifikátor instalace používaný pro volitelné kontroly licencí – než budete pokračovat, přečtěte si text potvrzení v aplikaci. Je-li to relevantní, můžete požadovat přístup, opravu, výmaz, omezení zpracování, vznesení námitky, přenositelnost údajů nebo odvolání souhlasu.
+Údaje, které má vydavatel k dispozici (např. e-mailová korespondence podpory), získáte na **<!--publisher:ContactEmail-->organize-files-app@outlook.com<!--/publisher-->**. U dat uložených pouze ve vašem zařízení můžete většinu dat aplikací smazat pomocí **Vymazat data aplikace**, odinstalovat nebo ručně odstranit soubor. **Vymazat data aplikace** odstraní relace, protokoly a koncepty automatizace, ale může si ponechat kotvy zkušebních licencí, značky placených instalací a identifikátor instalace používaný pro volitelné kontroly licencí – než budete pokračovat, přečtěte si text potvrzení v aplikaci. Je-li to relevantní, můžete požadovat přístup, opravu, výmaz, omezení zpracování, vznesení námitky, přenositelnost údajů nebo odvolání souhlasu.
 
 Vydavatel se snaží odpovědět na žádosti subjektů údajů v období, které vyžaduje použitelné právo (ověření totožnosti může být požadováno, když je to přiměřeně nutné).
 

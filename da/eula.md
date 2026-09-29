@@ -4,11 +4,11 @@
 
 # Slutbrugerlicensaftale (EULA) — Organize Files
 
-**Udgiver:** Guțulov Răzvan Constantin PFA  
-**Registreret adresse:** Str. Republicii nr. 33B, bl. N3, sc. A, et. 1, ap. 3, Breaza de Sus, 105400 Breaza, jud. Prahova, România  
-**Handelsregister:** F2026004513003 (EUID ROONRC.F2026004513003)  
-**Skatteregistreringsnummer:** 53610310  
-**Kontakt:** razvan.gutulov@outlook.com  
+**Udgiver:** <!--publisher:LegalName-->Guțulov Răzvan Constantin PFA<!--/publisher-->  
+**Registreret adresse:** <!--publisher:RegisteredAddress-->Str. Republicii nr. 33B, bl. N3, sc. A, et. 1, ap. 3, Breaza de Sus, 105400 Breaza, jud. Prahova, România<!--/publisher-->  
+**Handelsregister:** <!--publisher:TradeRegister-->F2026004513003<!--/publisher--> (EUID <!--publisher:Euid-->ROONRC.F2026004513003<!--/publisher-->)  
+**Skatteregistreringsnummer:** <!--publisher:TaxId-->53610310<!--/publisher-->  
+**Kontakt:** <!--publisher:ContactEmail-->organize-files-app@outlook.com<!--/publisher-->  
 **Ikrafttrædelsesdato:** 2026-05-28  
 **Offentlig webadresse (butiksfortegnelser):** `https://github.com/GutRaz/organize-files-legal/blob/main/da/eula.md`
 
@@ -49,8 +49,6 @@ I DET MAKSIMALE OMFANG LOVEN TILLADER, KAN UDGIVEREN IKKE HOLDES ANSVARLIG FOR I
 
 Prøvevarighed, butiks-SKU'er og fornyelsesvilkår er defineret i **butiksfortegnelsen** og licenskortet i appen. Udgivelsesbuilds kræver gyldig butiksberettigelse, aktiv prøveperiode eller godkendelse via udgiverens licensserver.
 
-**Efter en butiksrefusion, tilbagekaldelse eller annulleret abonnement:** Hvis denne installation tidligere har registreret et betalt butikskøb, kan appen starte en **ny 14-dages lokal prøveperiode** (højst **to** sådanne prøveperioder pr. installation). Refusion af penge håndteres kun af butiksplatformen - ikke inde i appen. Se kapitlet i vejledningen i appen *Refusioner og prøveversion efter køb* for det fulde flow.
-
 ## 7. Privatliv
 
 Se [Privatlivspolitik](./privacy-policy.md).
@@ -76,4 +74,4 @@ Rumænske forbrugere kan kontakte den nationale forbrugerbeskyttelsesmyndighed (
 
 ## 11. Kontakt
 
-**Guțulov Răzvan Constantin PFA** — razvan.gutulov@outlook.com
+**<!--publisher:LegalName-->Guțulov Răzvan Constantin PFA<!--/publisher-->** — <!--publisher:ContactEmail-->organize-files-app@outlook.com<!--/publisher-->

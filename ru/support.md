@@ -8,11 +8,11 @@
 
 ## Контакт
 
-- **Электронная почта:** razvan.gutulov@outlook.com
-- **Издатель:** Guțulov Răzvan Constantin PFA
-- **Юридический адрес:** Str. Republicii nr. 33B, bl. N3, sc. A, et. 1, ap. 3, Breaza de Sus, 105400 Breaza, jud. Prahova, România
-- **Торговый реестр:** F2026004513003 (EUID ROONRC.F2026004513003)
-- **Идентификационный номер налогоплательщика:** 53610310
+- **Электронная почта:** <!--publisher:ContactEmail-->organize-files-app@outlook.com<!--/publisher-->
+- **Издатель:** <!--publisher:LegalName-->Guțulov Răzvan Constantin PFA<!--/publisher-->
+- **Юридический адрес:** <!--publisher:RegisteredAddress-->Str. Republicii nr. 33B, bl. N3, sc. A, et. 1, ap. 3, Breaza de Sus, 105400 Breaza, jud. Prahova, România<!--/publisher-->
+- **Торговый реестр:** <!--publisher:TradeRegister-->F2026004513003<!--/publisher--> (EUID <!--publisher:Euid-->ROONRC.F2026004513003<!--/publisher-->)
+- **Идентификационный номер налогоплательщика:** <!--publisher:TaxId-->53610310<!--/publisher-->
 
 При обращении к нам, пожалуйста, укажите:
 
@@ -39,4 +39,4 @@
 
 ---
 
-© 2026 Guțulov Răzvan Constantin PFA. Все права защищены.
+© 2026 <!--publisher:LegalName-->Guțulov Răzvan Constantin PFA<!--/publisher-->. Все права защищены.

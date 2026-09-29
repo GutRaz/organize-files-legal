@@ -39,7 +39,7 @@ Nhà phát hành chỉ lưu giữ dữ liệu mà bạn chủ động gửi, ch�
 - **Bản ghi máy chủ giấy phép**, chỉ khi máy chủ giấy phép được cấu hình cho bản
   dựng của bạn
 
-Để yêu cầu xóa dữ liệu này, hãy gửi email đến **razvan.gutulov@outlook.com** kèm
+Để yêu cầu xóa dữ liệu này, hãy gửi email đến **<!--publisher:ContactEmail-->organize-files-app@outlook.com<!--/publisher-->** kèm
 theo:
 
 - Địa chỉ email bạn đã dùng để liên hệ với bộ phận hỗ trợ, và/hoặc
@@ -55,4 +55,4 @@ giữ, hãy sử dụng cài đặt tài khoản của cửa hàng đó.
 
 ---
 
-© 2026 Guțulov Răzvan Constantin PFA. Bảo lưu mọi quyền.
+© 2026 <!--publisher:LegalName-->Guțulov Răzvan Constantin PFA<!--/publisher-->. Bảo lưu mọi quyền.

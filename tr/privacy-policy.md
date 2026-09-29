@@ -4,11 +4,11 @@
 
 # Gizlilik Politikası — Organize Files
 
-**Yayıncı:** Guțulov Răzvan Constantin PFA  
-**Kayıtlı adres:** Str. Republicii nr. 33B, bl. N3, sc. A, et. 1, ap. 3, Breaza de Sus, 105400 Breaza, jud. Prahova, România  
-**Ticaret sicili:** F2026004513003 (EUID ROONRC.F2026004513003)  
-**Vergi kimlik numarası:** 53610310  
-**İletişim:** razvan.gutulov@outlook.com  
+**Yayıncı:** <!--publisher:LegalName-->Guțulov Răzvan Constantin PFA<!--/publisher-->  
+**Kayıtlı adres:** <!--publisher:RegisteredAddress-->Str. Republicii nr. 33B, bl. N3, sc. A, et. 1, ap. 3, Breaza de Sus, 105400 Breaza, jud. Prahova, România<!--/publisher-->  
+**Ticaret sicili:** <!--publisher:TradeRegister-->F2026004513003<!--/publisher--> (EUID <!--publisher:Euid-->ROONRC.F2026004513003<!--/publisher-->)  
+**Vergi kimlik numarası:** <!--publisher:TaxId-->53610310<!--/publisher-->  
+**İletişim:** <!--publisher:ContactEmail-->organize-files-app@outlook.com<!--/publisher-->  
 **Geçerlilik tarihi:** 2026-05-28  
 **Genel URL:** `https://github.com/GutRaz/organize-files-legal/blob/main/tr/privacy-policy.md`
 
@@ -20,7 +20,7 @@ Organize Files, dosyaları **cihazda yerel olarak** işler. Dosya içerikleri no
 
 ## Veri sorumlusu ve iletişim
 
-Yayıncı tarafından işlenen kişisel veriler için veri sorumlusu **Guțulov Răzvan Constantin PFA**'dur. İletişim: **razvan.gutulov@outlook.com**.
+Yayıncı tarafından işlenen kişisel veriler için veri sorumlusu **<!--publisher:LegalName-->Guțulov Răzvan Constantin PFA<!--/publisher-->**'dur. İletişim: **<!--publisher:ContactEmail-->organize-files-app@outlook.com<!--/publisher-->**.
 
 ## Veriler yerel olarak işlendi
 
@@ -51,7 +51,7 @@ Yayıncı tarafından işlenen kişisel veriler için veri sorumlusu **Guțulov 
 | İsteğe bağlı lisans sunucusu (operatör tarafından yapılandırılmış) | Rastgele bir kalıcı kurulum kimliği ('license_installation_id.txt'de saklanan GUID), 'ORGANIZE_FILES_LICENSE_SERVER_URL' adresindeki yayıncı tarafından işletilen veya operatör tarafından yapılandırılan bir lisans sunucusuna gönderilir. Kurulum kimliği, GDPR Beyannamesi 30 kapsamında bir cihaz tanımlayıcısıdır. Yasal dayanak: sözleşmenin yerine getirilmesi. Yayıncı tarafından işletilen saklama: hak kayıtları aktifken artı sona erme/iptalden sonra en fazla 24 ay (kötüye kullanım önleme ve uyuşmazlık); muhasebe kayıtları yasanın gerektirdiği yerde en fazla 7 yıl saklanabilir. Operatörün işlettiği sunucular operatörün belgelenmiş saklama takvimini izler. Bu özellik, `ORGANIZE_FILES_LICENSE_SERVER_URL` ayarlanmadığı sürece etkin değildir. | Yayıncı veya operatör lisans sunucusu |
 | İsteğe bağlı OpenTelemetry izleme (operatör tarafından yapılandırılmış) | `ORGANIZE_FILES_OTEL_EXPORTER_OTLP_ENDPOINT` ayarlandığında, otomasyon işi meta verileri (iş kimlikleri, korelasyon kimlikleri, hedef türü etiketleri, W3C izleme bağlamı) yapılandırılmış OTLP toplayıcıya aktarılır. Hiçbir dosya yolu veya dosya içeriği dahil edilmemiştir. Bu özellik varsayılan olarak etkin değildir ve açık operatör yapılandırması gerektirir. | Operatör tarafından yapılandırılan OTLP toplayıcı |
 | İsteğe bağlı e-posta bildirimleri (etkinleştirildiğinde) | Çalışma durumu ve günlük alıntıları (dosya yolları içerebilir) operatör tarafından yapılandırılmış SMTP sunucusu üzerinden gönderilir | Operatör SMTP / e-posta sağlayıcısı |
-| İsteğe bağlı otomasyon web kancaları (operatör tarafından yapılandırılır) | `ORGANIZE_FILES_AUTOMATION_WEBHOOK_URL` ayarlandığında, ilişkilendirme kimlikleri ve otomasyon durum dosyalarının dosya yollarını taşıyan iş yaşam döngüsü olayları | Operatör tarafından yapılandırılan web kancası uç noktası |
+| İsteğe bağlı otomasyon web kancaları (operatör tarafından yapılandırılır) | `ORGANIZE_FILES_AUTOMATION_WEBHOOK_URL` ayarlandığında, her iş olayı için (örneğin bir çalıştırmanın başlaması, onay beklemesi, onaylanması veya bitmesi) bir ileti; olayın adı, kimliği ve zamanı, bilgisayar adı, iş kimliği ve ilişkilendirme kimliği, işin hedefi, aşaması, sonucu ve çıkış kodu, çıktı klasörünün yolu, başarısız bir çalıştırmanın hata iletisi (bir dosya veya klasör adı içerebilir), gerçek bir çalıştırmayı onaylayan kişinin kullanıcı adı ve operatör kimliği, kaydedilemeyen bir otomasyon durum dosyasının yolu ve başlatılamayan bir ölçüm hizmetinin bağlantı noktasıyla birlikte | Operatör tarafından yapılandırılan web kancası uç noktası |
 | Yürütme onayı için isteğe bağlı kimlik denetimi (işletmen tarafından yapılandırılır) | `ORGANIZE_FILES_APPROVE_OAUTH_JWKS_URL` ayarlıysa bir HTTPS GET imzalama anahtarlarını alır ve bir saat önbelleğe koyar; cihazdan hiçbir belirteç çıkmaz. `ORGANIZE_FILES_APPROVE_OAUTH_INTROSPECTION_URL` ayarlıysa işletmenin taşıyıcı belirtecinin kendisi doğrulama için o uç noktaya gönderilir (RFC 7662), yapılandırılmışsa HTTP Basic istemci kimlik bilgileriyle birlikte. Bu adreslerden biri ayarlanmadıkça etkin değildir. | İşletmenin yapılandırdığı kimlik sağlayıcı |
 | Motor NAS yeniden deneme yardımcıları | Yapılandırılmış ağ yollarının ötesinde yok | NAS / SMB ana bilgisayarı |
 
@@ -73,7 +73,7 @@ Güncelleme kontrolleri **yalnızca sürüm meta verilerini** karşılaştırır
 
 ## Denetleyici makam ve şikayetler
 
-Geçerli yasa, veri sahibine haklar veriyorsa veya bir denetleyici makama şikayette bulunuluyorsa, öncelikle **razvan.gutulov@outlook.com** adresinden yayıncıyla iletişime geçin. AB/AEA'da ikamet edenler ayrıca yerel veri koruma makamlarına da şikayette bulunabilirler (Romanya için: ANSPDCP, https://www.dataprotection.ro).
+Geçerli yasa, veri sahibine haklar veriyorsa veya bir denetleyici makama şikayette bulunuluyorsa, öncelikle **<!--publisher:ContactEmail-->organize-files-app@outlook.com<!--/publisher-->** adresinden yayıncıyla iletişime geçin. AB/AEA'da ikamet edenler ayrıca yerel veri koruma makamlarına da şikayette bulunabilirler (Romanya için: ANSPDCP, https://www.dataprotection.ro).
 
 ## Üçüncü taraf işlemciler (bu özellikler kullanıldığında)
 
@@ -98,7 +98,7 @@ Yayıncının tuttuğu veriler için:
 
 ## Haklarınız
 
-Yayıncının elinde bulunan veriler için (ör. destek e-posta yazışmaları) **razvan.gutulov@outlook.com** ile iletişime geçin. Yalnızca cihazınızda depolanan veriler için, uygulama verilerinin çoğunu **Uygulama verilerini temizle**, yüklemeyi kaldır veya manuel dosya silme yoluyla silebilirsiniz. **Uygulama verilerini temizle** oturumları, günlükleri ve otomasyon taslaklarını kaldırır ancak lisans deneme bağlantılarını, ücretli yükleme işaretlerini ve isteğe bağlı lisans kontrolleri için kullanılan bir kurulum tanımlayıcıyı koruyabilir; devam etmeden önce uygulama içi onay metnine bakın. Uygulanabilir olduğu ölçüde erişim, düzeltme, silme, işlemenin kısıtlanması, işlemeye itiraz ve veri taşınabilirliği talep edebilir veya rızanızı geri çekebilirsiniz.
+Yayıncının elinde bulunan veriler için (ör. destek e-posta yazışmaları) **<!--publisher:ContactEmail-->organize-files-app@outlook.com<!--/publisher-->** ile iletişime geçin. Yalnızca cihazınızda depolanan veriler için, uygulama verilerinin çoğunu **Uygulama verilerini temizle**, yüklemeyi kaldır veya manuel dosya silme yoluyla silebilirsiniz. **Uygulama verilerini temizle** oturumları, günlükleri ve otomasyon taslaklarını kaldırır ancak lisans deneme bağlantılarını, ücretli yükleme işaretlerini ve isteğe bağlı lisans kontrolleri için kullanılan bir kurulum tanımlayıcıyı koruyabilir; devam etmeden önce uygulama içi onay metnine bakın. Uygulanabilir olduğu ölçüde erişim, düzeltme, silme, işlemenin kısıtlanması, işlemeye itiraz ve veri taşınabilirliği talep edebilir veya rızanızı geri çekebilirsiniz.
 
 Yayıncı, doğrulanmış bir talepten sonra veri sahibi taleplerine uygulanabilir yasaya göre gereken süre içinde yanıt vermeyi hedefler (makul ölçüde gerekli olduğunda kimlik doğrulaması istenebilir).
 

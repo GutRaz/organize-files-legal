@@ -42,7 +42,7 @@ De uitgever bewaart alleen gegevens die u actief verzendt, zoals:
   voor uw build
 
 Om verwijdering van deze gegevens aan te vragen, mailt u naar
-**razvan.gutulov@outlook.com** met:
+**<!--publisher:ContactEmail-->organize-files-app@outlook.com<!--/publisher-->** met:
 
 - Het e-mailadres waarmee u contact hebt opgenomen met support, en/of
 - Uw licentie- of bestelreferentie, indien aanwezig
@@ -58,4 +58,4 @@ te verwijderen.
 
 ---
 
-© 2026 Guțulov Răzvan Constantin PFA. Alle rechten voorbehouden.
+© 2026 <!--publisher:LegalName-->Guțulov Răzvan Constantin PFA<!--/publisher-->. Alle rechten voorbehouden.

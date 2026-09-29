@@ -8,11 +8,11 @@
 
 ## संपर्क
 
-- **ईमेल:** razvan.gutulov@outlook.com
-- **प्रकाशक:** Guțulov Răzvan Constantin PFA
-- **पंजीकृत पता:** Str. Republicii nr. 33B, bl. N3, sc. A, et. 1, ap. 3, Breaza de Sus, 105400 Breaza, jud. Prahova, România
-- **व्यापार रजिस्टर:** F2026004513003 (EUID ROONRC.F2026004513003)
-- **कर पहचान संख्या:** 53610310
+- **ईमेल:** <!--publisher:ContactEmail-->organize-files-app@outlook.com<!--/publisher-->
+- **प्रकाशक:** <!--publisher:LegalName-->Guțulov Răzvan Constantin PFA<!--/publisher-->
+- **पंजीकृत पता:** <!--publisher:RegisteredAddress-->Str. Republicii nr. 33B, bl. N3, sc. A, et. 1, ap. 3, Breaza de Sus, 105400 Breaza, jud. Prahova, România<!--/publisher-->
+- **व्यापार रजिस्टर:** <!--publisher:TradeRegister-->F2026004513003<!--/publisher--> (EUID <!--publisher:Euid-->ROONRC.F2026004513003<!--/publisher-->)
+- **कर पहचान संख्या:** <!--publisher:TaxId-->53610310<!--/publisher-->
 
 हमें लिखते समय, कृपया शामिल करें:
 
@@ -39,4 +39,4 @@
 
 ---
 
-© 2026 Guțulov Răzvan Constantin PFA. सर्वाधिकार सुरक्षित।
+© 2026 <!--publisher:LegalName-->Guțulov Răzvan Constantin PFA<!--/publisher-->. सर्वाधिकार सुरक्षित।

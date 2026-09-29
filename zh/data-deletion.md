@@ -25,7 +25,7 @@
 - 如果您联系支持，则为**支持电子邮件**往来
 - 仅当为您的构建配置了许可证服务器时的**许可证服务器记录**
 
-要请求删除这些数据，请发送电子邮件至 **razvan.gutulov@outlook.com**，并附上：
+要请求删除这些数据，请发送电子邮件至 **<!--publisher:ContactEmail-->organize-files-app@outlook.com<!--/publisher-->**，并附上：
 
 - 您用于联系支持的电子邮件地址，和/或
 - 您的许可证或订单参考编号（如有）
@@ -38,4 +38,4 @@
 
 ---
 
-© 2026 Guțulov Răzvan Constantin PFA. 保留所有权利。
+© 2026 <!--publisher:LegalName-->Guțulov Răzvan Constantin PFA<!--/publisher-->. 保留所有权利。

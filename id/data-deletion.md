@@ -40,7 +40,7 @@ Penerbit hanya menyimpan data yang Anda kirim secara aktif, seperti:
 - **Catatan server lisensi**, hanya jika server lisensi dikonfigurasi untuk build
   Anda
 
-Untuk meminta penghapusan data ini, kirim email ke **razvan.gutulov@outlook.com**
+Untuk meminta penghapusan data ini, kirim email ke **<!--publisher:ContactEmail-->organize-files-app@outlook.com<!--/publisher-->**
 dengan menyertakan:
 
 - Alamat email yang Anda gunakan untuk menghubungi dukungan, dan/atau
@@ -59,4 +59,4 @@ yang disimpan toko, gunakan pengaturan akun toko tersebut.
 
 ---
 
-© 2026 Guțulov Răzvan Constantin PFA. Semua hak dilindungi.
+© 2026 <!--publisher:LegalName-->Guțulov Răzvan Constantin PFA<!--/publisher-->. Semua hak dilindungi.

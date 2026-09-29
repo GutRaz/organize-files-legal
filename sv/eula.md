@@ -4,11 +4,11 @@
 
 # Slutanvändarlicensavtal (EULA) — Organize Files
 
-**Förlag:** Guțulov Răzvan Constantin PFA  
-**Registrerad adress:** Str. Republicii nr. 33B, bl. N3, sc. A, et. 1, ap. 3, Breaza de Sus, 105400 Breaza, jud. Prahova, România  
-**Handelsregister:** F2026004513003 (EUID ROONRC.F2026004513003)  
-**Skatteregistreringsnummer:** 53610310  
-**Kontakta:** razvan.gutulov@outlook.com  
+**Förlag:** <!--publisher:LegalName-->Guțulov Răzvan Constantin PFA<!--/publisher-->  
+**Registrerad adress:** <!--publisher:RegisteredAddress-->Str. Republicii nr. 33B, bl. N3, sc. A, et. 1, ap. 3, Breaza de Sus, 105400 Breaza, jud. Prahova, România<!--/publisher-->  
+**Handelsregister:** <!--publisher:TradeRegister-->F2026004513003<!--/publisher--> (EUID <!--publisher:Euid-->ROONRC.F2026004513003<!--/publisher-->)  
+**Skatteregistreringsnummer:** <!--publisher:TaxId-->53610310<!--/publisher-->  
+**Kontakta:** <!--publisher:ContactEmail-->organize-files-app@outlook.com<!--/publisher-->  
 **Ikraftträdandedatum:** 2026-05-28  
 **Offentlig webbadress (butiksuppgifter):** `https://github.com/GutRaz/organize-files-legal/blob/main/sv/eula.md`
 
@@ -49,8 +49,6 @@ I DEN MAXIMALA UTSTRÄCKNING SOM LAGEN TILLÅTER SKA UTGIVAREN INTE VARA ANSVARI
 
 Provperioden, butikens SKU:er och förnyelsevillkor definieras i **butiksuppgifterna** och licenskortet i appen. Utgivningsversioner kräver giltig butiksbehörighet, aktiv provperiod eller godkännande via utgivarens licensserver.
 
-**Efter en butiksåterbetalning, återkallande eller avbruten prenumeration:** om den här installationen tidigare registrerat ett köpt köp i butik kan appen starta en **ny 14-dagars lokal provperiod** (högst **två** sådana testversioner per installation). Återbetalningar av pengar hanteras endast av butiksplattformen – inte inuti appen. Se kapitlet i guiden i appen *Återbetalningar och provperiod efter köp* för hela flödet.
-
 ## 7. Sekretess
 
 Se [Sekretesspolicy](./privacy-policy.md).
@@ -76,4 +74,4 @@ Rumänska konsumenter kan kontakta den nationella konsumentskyddsmyndigheten (AN
 
 ## 11. Kontakt
 
-**Guțulov Răzvan Constantin PFA** — razvan.gutulov@outlook.com
+**<!--publisher:LegalName-->Guțulov Răzvan Constantin PFA<!--/publisher-->** — <!--publisher:ContactEmail-->organize-files-app@outlook.com<!--/publisher-->

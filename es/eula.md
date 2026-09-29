@@ -4,11 +4,11 @@
 
 # Acuerdo de licencia de usuario final (EULA): Organize Files
 
-**Editor:** Guțulov Răzvan Constantin PFA  
-**Domicilio registrado:** Str. Republicii nr. 33B, bl. N3, sc. A, et. 1, ap. 3, Breaza de Sus, 105400 Breaza, jud. Prahova, România  
-**Registro mercantil:** F2026004513003 (EUID ROONRC.F2026004513003)  
-**Número de identificación fiscal:** 53610310  
-**Contacto:** razvan.gutulov@outlook.com  
+**Editor:** <!--publisher:LegalName-->Guțulov Răzvan Constantin PFA<!--/publisher-->  
+**Domicilio registrado:** <!--publisher:RegisteredAddress-->Str. Republicii nr. 33B, bl. N3, sc. A, et. 1, ap. 3, Breaza de Sus, 105400 Breaza, jud. Prahova, România<!--/publisher-->  
+**Registro mercantil:** <!--publisher:TradeRegister-->F2026004513003<!--/publisher--> (EUID <!--publisher:Euid-->ROONRC.F2026004513003<!--/publisher-->)  
+**Número de identificación fiscal:** <!--publisher:TaxId-->53610310<!--/publisher-->  
+**Contacto:** <!--publisher:ContactEmail-->organize-files-app@outlook.com<!--/publisher-->  
 **Fecha de entrada en vigor:** 2026-05-28  
 **URL pública (listados de tiendas):** `https://github.com/GutRaz/organize-files-legal/blob/main/es/eula.md`
 
@@ -49,8 +49,6 @@ EN LA MEDIDA MÁXIMA PERMITIDA POR LA LEY, EL EDITOR NO SERÁ RESPONSABLE DE NIN
 
 La duración de la prueba, los SKU de la tienda y los términos de renovación se definen en la **lista de la tienda** y en la tarjeta de licencia en la aplicación. Las compilaciones de lanzamiento requieren un derecho válido de la tienda, una prueba activa o una autorización del servidor de licencias operado por el editor.
 
-**Después de un reembolso de la tienda, una revocación o una suscripción cancelada:** si esta instalación registró previamente una compra paga en la tienda, la aplicación puede iniciar una **nueva prueba local de 14 días** (como máximo **dos** pruebas de este tipo por instalación). Los reembolsos de dinero se manejan únicamente a través de la plataforma de la tienda, no dentro de la aplicación. Consulte el capítulo de la guía en la aplicación *Reembolsos y prueba después de la compra* para conocer el flujo completo.
-
 ## 7. Privacidad
 
 Consulte [Política de privacidad](./privacy-policy.md).
@@ -76,4 +74,4 @@ Los consumidores rumanos pueden ponerse en contacto con la Autoridad Nacional de
 
 ## 11. Contacto
 
-**Guțulov Răzvan Constantin PFA** — razvan.gutulov@outlook.com
+**<!--publisher:LegalName-->Guțulov Răzvan Constantin PFA<!--/publisher-->** — <!--publisher:ContactEmail-->organize-files-app@outlook.com<!--/publisher-->

@@ -4,11 +4,11 @@
 
 # Loppukäyttäjän lisenssisopimus (EULA) — Organize Files
 
-**Julkaisija:** Guțulov Răzvan Constantin PFA  
-**Rekisteröity osoite:** Str. Republicii nr. 33B, bl. N3, sc. A, et. 1, ap. 3, Breaza de Sus, 105400 Breaza, jud. Prahova, România  
-**Kaupparekisteri:** F2026004513003 (EUID ROONRC.F2026004513003)  
-**Verotunniste:** 53610310  
-**Ota yhteyttä:** razvan.gutulov@outlook.com  
+**Julkaisija:** <!--publisher:LegalName-->Guțulov Răzvan Constantin PFA<!--/publisher-->  
+**Rekisteröity osoite:** <!--publisher:RegisteredAddress-->Str. Republicii nr. 33B, bl. N3, sc. A, et. 1, ap. 3, Breaza de Sus, 105400 Breaza, jud. Prahova, România<!--/publisher-->  
+**Kaupparekisteri:** <!--publisher:TradeRegister-->F2026004513003<!--/publisher--> (EUID <!--publisher:Euid-->ROONRC.F2026004513003<!--/publisher-->)  
+**Verotunniste:** <!--publisher:TaxId-->53610310<!--/publisher-->  
+**Ota yhteyttä:** <!--publisher:ContactEmail-->organize-files-app@outlook.com<!--/publisher-->  
 **Voimaan:** 28.5.2026  
 **Julkinen URL-osoite (kauppojen tiedot):** `https://github.com/GutRaz/organize-files-legal/blob/main/fi/eula.md`
 
@@ -49,8 +49,6 @@ JULKAISIJA EI OLE VASTUUSSA MITÄÄN EPÄSUORISTA, SATUNNAISISTA, ERITYISISTÄ, 
 
 Kokeilujakson kesto, kaupan SKU:t ja uusimisehdot määritellään **myymälän tietosivulla** ja sovelluksen sisäisessä lisenssikortissa. Julkaisuversiot edellyttävät kelvollista kaupan käyttöoikeutta, aktiivista kokeilujaksoa tai julkaisijan ylläpitämän lisenssipalvelimen valtuutusta.
 
-**Kaupan hyvityksen, peruutuksen tai peruutetun tilauksen jälkeen:** jos tämä asennus on aiemmin tallentanut maksullisen ostoksen kaupasta, sovellus voi aloittaa **uuden 14 päivän paikallisen kokeilujakson** (enintään **kaksi** tällaista kokeilua asennusta kohden). Rahanpalautukset käsitellään vain kaupan alustalla – ei sovelluksen sisällä. Katso sovelluksen sisäisen oppaan luku *Hyvitykset ja kokeilu oston jälkeen* saadaksesi täydelliset tiedot.
-
 ## 7. Privacy
 
 Katso [tietosuojakäytäntö](./privacy-policy.md).
@@ -76,4 +74,4 @@ Romanialaiset kuluttajat voivat ottaa yhteyttä kansalliseen kuluttajansuojavira
 
 ## 11. Ota yhteyttä
 
-**Guțulov Răzvan Constantin PFA** — razvan.gutulov@outlook.com
+**<!--publisher:LegalName-->Guțulov Răzvan Constantin PFA<!--/publisher-->** — <!--publisher:ContactEmail-->organize-files-app@outlook.com<!--/publisher-->

@@ -8,11 +8,11 @@
 
 ## ติดต่อ
 
-- **อีเมล:** razvan.gutulov@outlook.com
-- **ผู้เผยแพร่:** Guțulov Răzvan Constantin PFA
-- **ที่อยู่จดทะเบียน:** Str. Republicii nr. 33B, bl. N3, sc. A, et. 1, ap. 3, Breaza de Sus, 105400 Breaza, jud. Prahova, România
-- **ทะเบียนพาณิชย์:** F2026004513003 (EUID ROONRC.F2026004513003)
-- **เลขประจำตัวผู้เสียภาษี:** 53610310
+- **อีเมล:** <!--publisher:ContactEmail-->organize-files-app@outlook.com<!--/publisher-->
+- **ผู้เผยแพร่:** <!--publisher:LegalName-->Guțulov Răzvan Constantin PFA<!--/publisher-->
+- **ที่อยู่จดทะเบียน:** <!--publisher:RegisteredAddress-->Str. Republicii nr. 33B, bl. N3, sc. A, et. 1, ap. 3, Breaza de Sus, 105400 Breaza, jud. Prahova, România<!--/publisher-->
+- **ทะเบียนพาณิชย์:** <!--publisher:TradeRegister-->F2026004513003<!--/publisher--> (EUID <!--publisher:Euid-->ROONRC.F2026004513003<!--/publisher-->)
+- **เลขประจำตัวผู้เสียภาษี:** <!--publisher:TaxId-->53610310<!--/publisher-->
 
 เมื่อติดต่อเรา โปรดระบุ:
 
@@ -39,4 +39,4 @@
 
 ---
 
-© 2026 Guțulov Răzvan Constantin PFA. สงวนลิขสิทธิ์ทั้งหมด
+© 2026 <!--publisher:LegalName-->Guțulov Răzvan Constantin PFA<!--/publisher-->. สงวนลิขสิทธิ์ทั้งหมด

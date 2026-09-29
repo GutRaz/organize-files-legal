@@ -4,11 +4,11 @@
 
 # Tietosuojakäytäntö — Organize Files
 
-**Julkaisija:** Guțulov Răzvan Constantin PFA  
-**Rekisteröity osoite:** Str. Republicii nr. 33B, bl. N3, sc. A, et. 1, ap. 3, Breaza de Sus, 105400 Breaza, jud. Prahova, România  
-**Kaupparekisteri:** F2026004513003 (EUID ROONRC.F2026004513003)  
-**Verotunniste:** 53610310  
-**Ota yhteyttä:** razvan.gutulov@outlook.com  
+**Julkaisija:** <!--publisher:LegalName-->Guțulov Răzvan Constantin PFA<!--/publisher-->  
+**Rekisteröity osoite:** <!--publisher:RegisteredAddress-->Str. Republicii nr. 33B, bl. N3, sc. A, et. 1, ap. 3, Breaza de Sus, 105400 Breaza, jud. Prahova, România<!--/publisher-->  
+**Kaupparekisteri:** <!--publisher:TradeRegister-->F2026004513003<!--/publisher--> (EUID <!--publisher:Euid-->ROONRC.F2026004513003<!--/publisher-->)  
+**Verotunniste:** <!--publisher:TaxId-->53610310<!--/publisher-->  
+**Ota yhteyttä:** <!--publisher:ContactEmail-->organize-files-app@outlook.com<!--/publisher-->  
 **Voimaan:** 28.5.2026  
 **Julkinen URL-osoite:** `https://github.com/GutRaz/organize-files-legal/blob/main/fi/privacy-policy.md`
 
@@ -20,7 +20,7 @@ Organize Files käsittelee tiedostoja **paikallisesti laitteessa**. Tiedoston si
 
 ## Rekisterinpitäjä ja yhteystiedot
 
-Julkaisijan käsittelemien henkilötietojen rekisterinpitäjä on **Guțulov Răzvan Constantin PFA**. Yhteys: **razvan.gutulov@outlook.com**.
+Julkaisijan käsittelemien henkilötietojen rekisterinpitäjä on **<!--publisher:LegalName-->Guțulov Răzvan Constantin PFA<!--/publisher-->**. Yhteys: **<!--publisher:ContactEmail-->organize-files-app@outlook.com<!--/publisher-->**.
 
 ## Tiedot käsitellään paikallisesti
 
@@ -51,7 +51,7 @@ Julkaisijan käsittelemien henkilötietojen rekisterinpitäjä on **Guțulov Ră
 | Valinnainen lisenssipalvelin (operaattorin määrittämä) | Satunnainen pysyvä asennustunnus (GUID tallennettu tiedostoon `license_installation_id.txt`) lähetetään julkaisijan ylläpitämään tai operaattorin määrittämälle lisenssipalvelimelle osoitteessa ORGANIZE_FILES_LICENSE_SERVER_URL. Asennustunnus on GDPR:n johdanto-osan 30 kappaleen mukainen laitetunnus. Laillinen perusta: sopimuksen täyttäminen. Julkaisijan ylläpitämä säilytys: oikeustietueet aktiivisuuden ajan plus enintään 24 kuukautta vanhenemisen/peruutuksen jälkeen väärinkäytön estämiseksi ja riitojen käsittelyyn; kirjanpitoaineistoa voidaan säilyttää enintään 7 vuotta lain niin vaatiessa. Operaattorin ylläpitämät palvelimet noudattavat operaattorin dokumentoitua säilytysaikataulua. Tämä ominaisuus ei ole aktiivinen, ellei ORGANIZE_FILES_LICENSE_SERVER_URL ole asetettu. | Julkaisijan tai operaattorin lisenssipalvelin |
 | Valinnainen OpenTelemetry-seuranta (operaattorin määrittämä) | Kun ORGANIZE_FILES_OTEL_EXPORTER_OTLP_ENDPOINT on asetettu, automaatiotyön metatiedot (työtunnukset, korrelaatiotunnukset, kohdetyyppitunnisteet, W3C-jäljityskonteksti) viedään määritettyyn OTLP-keräilijään. Mukana ei ole tiedostopolkuja tai tiedoston sisältöä. Tämä ominaisuus on oletusarvoisesti ei-aktiivinen ja vaatii nimenomaisen operaattorin määrityksen. | Käyttäjän määrittämä OTLP-keräin |
 | Valinnaiset sähköposti-ilmoitukset (kun käytössä) | Suorituksen tila ja lokiotteet (voivat sisältää tiedostopolkuja) lähetetään operaattorin määrittämän SMTP-palvelimen kautta | Operaattorin SMTP / sähköpostipalvelu |
-| Valinnaiset automaation webhookit (ylläpitäjän määrittämät) | Kun `ORGANIZE_FILES_AUTOMATION_WEBHOOK_URL` on asetettu, työn elinkaaren tapahtumat, joissa on korrelaatiotunnisteet ja automaation tilatiedostojen polut | Ylläpitäjän määrittämä webhook-päätepiste |
+| Valinnaiset automaation webhookit (ylläpitäjän määrittämät) | Kun `ORGANIZE_FILES_AUTOMATION_WEBHOOK_URL` on asetettu, viesti jokaisesta työn tapahtumasta (esimerkiksi ajon alkaminen, hyväksynnän odottaminen, hyväksyntä tai päättyminen), jossa on tapahtuman nimi, tunnus ja aika, tietokoneen nimi, työn tunnus ja korrelaatiotunnus, työn kohde, vaihe, tulos ja lopetuskoodi, tuloskansion polku, epäonnistuneen ajon virheilmoitus (joka voi nimetä tiedoston tai kansion), oikean ajon hyväksyneen henkilön käyttäjänimi ja ylläpitäjätunnus, sellaisen automaation tilatiedoston polku, jota ei voitu tallentaa, sekä sellaisen mittaripalvelun portti, joka ei käynnistynyt | Ylläpitäjän määrittämä webhook-päätepiste |
 | Valinnainen henkilöllisyyden tarkistus suorituksen hyväksynnässä (operaattorin määrittämä) | Kun `ORGANIZE_FILES_APPROVE_OAUTH_JWKS_URL` on asetettu, HTTPS GET hakee allekirjoitusavaimet ja pitää ne välimuistissa tunnin; laitteesta ei lähde token. Kun `ORGANIZE_FILES_APPROVE_OAUTH_INTROSPECTION_URL` on asetettu, operaattorin oma bearer-token lähetetään tähän päätepisteeseen tarkistettavaksi (RFC 7662), HTTP Basic -asiakastunnuksin jos ne on määritetty. Ei käytössä, ellei toista näistä osoitteista ole asetettu. | Operaattorin määrittämä tunnistetietojen tarjoaja |
 | Moottorin NAS-uudelleenyritysapuohjelmat | Ei muita kuin määritettyjä verkkopolkuja | NAS / SMB-isäntä |
 
@@ -73,7 +73,7 @@ Valinnaiset päivitystarkistukset voivat tavoittaa palvelimia Euroopan talousalu
 
 ## Valvontaviranomainen ja valitukset
 
-Jos sovellettava laki myöntää rekisteröidylle oikeudet tai valituksen valvontaviranomaiselle, ota ensin yhteyttä julkaisijaan osoitteessa **razvan.gutulov@outlook.com**. EU:n/ETA:n asukkaat voivat myös tehdä valituksen paikalliselle tietosuojaviranomaiselle (Romania: ANSPDCP, https://www.dataprotection.ro).
+Jos sovellettava laki myöntää rekisteröidylle oikeudet tai valituksen valvontaviranomaiselle, ota ensin yhteyttä julkaisijaan osoitteessa **<!--publisher:ContactEmail-->organize-files-app@outlook.com<!--/publisher-->**. EU:n/ETA:n asukkaat voivat myös tehdä valituksen paikalliselle tietosuojaviranomaiselle (Romania: ANSPDCP, https://www.dataprotection.ro).
 
 ## Kolmannen osapuolen prosessorit (kun näitä ominaisuuksia käytetään)
 
@@ -97,7 +97,7 @@ Julkaisijan hallussa oleville tiedoille:
 
 ## Sinun oikeutesi
 
-Julkaisijan hallussa olevia tietoja (esim. tukisähköpostiviestintä) varten ota yhteyttä **razvan.gutulov@outlook.com**. Vain laitteellesi tallennetuista tiedoista voit poistaa useimmat sovellustiedot valitsemalla **Poista sovellustiedot**, poistamalla asennuksen tai poistamalla tiedostot manuaalisesti. **Tyhjennä sovellustiedot** poistaa istunnot, lokit ja automaatioluonnokset, mutta saattaa säilyttää lisenssikokeilun ankkurit, maksulliset asennusmerkit ja asennustunnisteen, jota käytetään valinnaisiin lisenssitarkistuksiin – katso sovelluksen sisäinen vahvistusteksti ennen kuin jatkat. Soveltuvin osin voit pyytää pääsyä tietoihin, niiden oikaisua tai poistamista, käsittelyn rajoittamista, vastustaa käsittelyä, pyytää tietojen siirrettävyyttä tai peruuttaa suostumuksesi.
+Julkaisijan hallussa olevia tietoja (esim. tukisähköpostiviestintä) varten ota yhteyttä **<!--publisher:ContactEmail-->organize-files-app@outlook.com<!--/publisher-->**. Vain laitteellesi tallennetuista tiedoista voit poistaa useimmat sovellustiedot valitsemalla **Poista sovellustiedot**, poistamalla asennuksen tai poistamalla tiedostot manuaalisesti. **Tyhjennä sovellustiedot** poistaa istunnot, lokit ja automaatioluonnokset, mutta saattaa säilyttää lisenssikokeilun ankkurit, maksulliset asennusmerkit ja asennustunnisteen, jota käytetään valinnaisiin lisenssitarkistuksiin – katso sovelluksen sisäinen vahvistusteksti ennen kuin jatkat. Soveltuvin osin voit pyytää pääsyä tietoihin, niiden oikaisua tai poistamista, käsittelyn rajoittamista, vastustaa käsittelyä, pyytää tietojen siirrettävyyttä tai peruuttaa suostumuksesi.
 
 Julkaisija pyrkii vastaamaan rekisteröidyn pyyntöihin sovellettavan lain vaatiman ajan kuluessa vahvistetusta pyynnöstä (henkilöllisyyden varmistusta voidaan pyytää, kun se on kohtuudella tarpeen).
 

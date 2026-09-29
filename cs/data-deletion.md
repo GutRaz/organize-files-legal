@@ -39,7 +39,7 @@ Vydavatel uchovává pouze data, která aktivně odešlete, například:
 - **Záznamy licenčního serveru**, pouze pokud je pro vaše sestavení nakonfigurován
   licenční server
 
-Chcete-li požádat o smazání těchto dat, napište na **razvan.gutulov@outlook.com**
+Chcete-li požádat o smazání těchto dat, napište na **<!--publisher:ContactEmail-->organize-files-app@outlook.com<!--/publisher-->**
 a uveďte:
 
 - E-mailovou adresu, kterou jste použili ke kontaktování podpory, a/nebo
@@ -58,4 +58,4 @@ uchovávaná obchodem, použijte nastavení účtu v daném obchodě.
 
 ---
 
-© 2026 Guțulov Răzvan Constantin PFA. Všechna práva vyhrazena.
+© 2026 <!--publisher:LegalName-->Guțulov Răzvan Constantin PFA<!--/publisher-->. Všechna práva vyhrazena.

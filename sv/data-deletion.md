@@ -37,7 +37,7 @@ Utgivaren lagrar endast data som du aktivt skickar, till exempel:
 - **Support-e-post**korrespondens, om du kontaktar supporten
 - **Licensserverposter**, endast om en licensserver är konfigurerad för din build
 
-För att begära radering av dessa data, mejla **razvan.gutulov@outlook.com** med:
+För att begära radering av dessa data, mejla **<!--publisher:ContactEmail-->organize-files-app@outlook.com<!--/publisher-->** med:
 
 - E-postadressen du använde för att kontakta supporten, och/eller
 - Din licens- eller orderreferens, om sådan finns
@@ -55,4 +55,4 @@ använd kontoinställningarna i den butiken.
 
 ---
 
-© 2026 Guțulov Răzvan Constantin PFA. Med ensamrätt.
+© 2026 <!--publisher:LegalName-->Guțulov Răzvan Constantin PFA<!--/publisher-->. Med ensamrätt.

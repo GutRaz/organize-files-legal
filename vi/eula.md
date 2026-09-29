@@ -4,11 +4,11 @@
 
 # Thỏa thuận cấp phép người dùng cuối (EULA) - Organize Files
 
-**Nhà xuất bản:** Guțulov Răzvan Constantin PFA  
-**Địa chỉ đăng ký:** Str. Republicii nr. 33B, bl. N3, sc. A, et. 1, ap. 3, Breaza de Sus, 105400 Breaza, jud. Prahova, România  
-**Đăng ký kinh doanh:** F2026004513003 (EUID ROONRC.F2026004513003)  
-**Mã số thuế:** 53610310  
-**Liên hệ:** razvan.gutulov@outlook.com  
+**Nhà xuất bản:** <!--publisher:LegalName-->Guțulov Răzvan Constantin PFA<!--/publisher-->  
+**Địa chỉ đăng ký:** <!--publisher:RegisteredAddress-->Str. Republicii nr. 33B, bl. N3, sc. A, et. 1, ap. 3, Breaza de Sus, 105400 Breaza, jud. Prahova, România<!--/publisher-->  
+**Đăng ký kinh doanh:** <!--publisher:TradeRegister-->F2026004513003<!--/publisher--> (EUID <!--publisher:Euid-->ROONRC.F2026004513003<!--/publisher-->)  
+**Mã số thuế:** <!--publisher:TaxId-->53610310<!--/publisher-->  
+**Liên hệ:** <!--publisher:ContactEmail-->organize-files-app@outlook.com<!--/publisher-->  
 **Ngày có hiệu lực:** 28-05-2026  
 **URL công khai (danh sách cửa hàng):** `https://github.com/GutRaz/organize-files-legal/blob/main/vi/eula.md`
 
@@ -49,8 +49,6 @@ TRONG PHẠM VI TỐI ĐA ĐƯỢC LUẬT PHÁP CHO PHÉP, NHÀ XUẤT BẢN S�
 
 Thời gian dùng thử, SKU của cửa hàng và thời hạn gia hạn được xác định trong **danh sách cửa hàng** và thẻ giấy phép trong ứng dụng. Bản phát hành yêu cầu quyền cửa hàng hợp lệ, bản dùng thử đang hoạt động hoặc ủy quyền qua máy chủ cấp phép do nhà xuất bản vận hành.
 
-**Sau khi cửa hàng hoàn tiền, thu hồi hoặc hủy đăng ký:** nếu cài đặt này trước đó đã ghi lại giao dịch mua hàng phải trả phí tại cửa hàng, ứng dụng có thể bắt đầu **bản dùng thử cục bộ mới kéo dài 14 ngày** (tối đa **hai** bản dùng thử như vậy cho mỗi lần cài đặt). Việc hoàn tiền chỉ được xử lý bởi nền tảng cửa hàng chứ không phải bên trong ứng dụng. Xem chương hướng dẫn trong ứng dụng *Hoàn tiền và dùng thử sau khi mua* để biết toàn bộ quy trình.
-
 ## 7. Quyền riêng tư
 
 Xem [Chính sách quyền riêng tư](./privacy-policy.md).
@@ -76,4 +74,4 @@ Người tiêu dùng Romania có thể liên hệ với Cơ quan bảo vệ ngư
 
 ## 11. Liên hệ
 
-**Guțulov Răzvan Constantin PFA** - razvan.gutulov@outlook.com
+**<!--publisher:LegalName-->Guțulov Răzvan Constantin PFA<!--/publisher-->** - <!--publisher:ContactEmail-->organize-files-app@outlook.com<!--/publisher-->

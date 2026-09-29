@@ -4,11 +4,11 @@
 
 # Licenční smlouva s koncovým uživatelem (EULA) — Organize Files
 
-**Vydavatel:** Guțulov Răzvan Constantin PFA  
-**Sídlo:** Str. Republicii nr. 33B, bl. N3, sc. A, et. 1, ap. 3, Breaza de Sus, 105400 Breaza, jud. Prahova, România  
-**Obchodní rejstřík:** F2026004513003 (EUID ROONRC.F2026004513003)  
-**Daňové identifikační číslo:** 53610310  
-**Kontakt:** razvan.gutulov@outlook.com  
+**Vydavatel:** <!--publisher:LegalName-->Guțulov Răzvan Constantin PFA<!--/publisher-->  
+**Sídlo:** <!--publisher:RegisteredAddress-->Str. Republicii nr. 33B, bl. N3, sc. A, et. 1, ap. 3, Breaza de Sus, 105400 Breaza, jud. Prahova, România<!--/publisher-->  
+**Obchodní rejstřík:** <!--publisher:TradeRegister-->F2026004513003<!--/publisher--> (EUID <!--publisher:Euid-->ROONRC.F2026004513003<!--/publisher-->)  
+**Daňové identifikační číslo:** <!--publisher:TaxId-->53610310<!--/publisher-->  
+**Kontakt:** <!--publisher:ContactEmail-->organize-files-app@outlook.com<!--/publisher-->  
 **Datum účinnosti:** 28.05.2026  
 **Veřejná adresa URL (záznamy v obchodě):** `https://github.com/GutRaz/organize-files-legal/blob/main/cs/eula.md`
 
@@ -49,8 +49,6 @@ V MAXIMÁLNÍM ROZSAHU POVOLENÉM ZÁKONEM NEBUDE VYDAVATEL ODPOVĚDNÝ ZA ŽÁD
 
 Trvání zkušební verze, SKU obchodu a podmínky obnovení jsou definovány v **záznamu v obchodě** a licenční kartě v aplikaci. Sestavení vydání vyžadují platné oprávnění z obchodu, aktivní zkušební verzi nebo autorizaci licenčního serveru provozovaného vydavatelem.
 
-**Po vrácení peněz v obchodě, zrušení nebo zrušení předplatného:** pokud tato instalace dříve zaznamenala placený nákup v obchodě, může aplikace zahájit **nové 14denní místní zkušební období** (maximálně **dvě** takové zkušební verze na instalaci). Vrácení peněz zpracovává pouze platforma obchodu – nikoli uvnitř aplikace. Úplný postup najdete v kapitole průvodce v aplikaci *Vrácení peněz a zkušební verze po zakoupení*.
-
 ## 7. Soukromí
 
 Viz [Zásady ochrany osobních údajů](./privacy-policy.md).
@@ -76,4 +74,4 @@ Rumunští spotřebitelé se mohou v případě sporů obrátit na Národní ú�
 
 ## 11. Kontakt
 
-**Guțulov Răzvan Constantin PFA** — razvan.gutulov@outlook.com
+**<!--publisher:LegalName-->Guțulov Răzvan Constantin PFA<!--/publisher-->** — <!--publisher:ContactEmail-->organize-files-app@outlook.com<!--/publisher-->

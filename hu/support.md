@@ -8,11 +8,11 @@ Segítségre van szükséged az **Organize Files** használatához? Szívesen se
 
 ## Kapcsolat
 
-- **E-mail:** razvan.gutulov@outlook.com
-- **Kiadó:** Guțulov Răzvan Constantin PFA
-- **Bejegyzett cím:** Str. Republicii nr. 33B, bl. N3, sc. A, et. 1, ap. 3, Breaza de Sus, 105400 Breaza, jud. Prahova, România
-- **Cégjegyzék:** F2026004513003 (EUID ROONRC.F2026004513003)
-- **Adóazonosító szám:** 53610310
+- **E-mail:** <!--publisher:ContactEmail-->organize-files-app@outlook.com<!--/publisher-->
+- **Kiadó:** <!--publisher:LegalName-->Guțulov Răzvan Constantin PFA<!--/publisher-->
+- **Bejegyzett cím:** <!--publisher:RegisteredAddress-->Str. Republicii nr. 33B, bl. N3, sc. A, et. 1, ap. 3, Breaza de Sus, 105400 Breaza, jud. Prahova, România<!--/publisher-->
+- **Cégjegyzék:** <!--publisher:TradeRegister-->F2026004513003<!--/publisher--> (EUID <!--publisher:Euid-->ROONRC.F2026004513003<!--/publisher-->)
+- **Adóazonosító szám:** <!--publisher:TaxId-->53610310<!--/publisher-->
 
 Amikor írsz nekünk, kérjük, add meg:
 
@@ -39,4 +39,4 @@ Lásd az [Adatvédelmi szabályzatot](./privacy-policy.md).
 
 ---
 
-© 2026 Guțulov Răzvan Constantin PFA. Minden jog fenntartva.
+© 2026 <!--publisher:LegalName-->Guțulov Răzvan Constantin PFA<!--/publisher-->. Minden jog fenntartva.

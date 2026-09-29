@@ -43,7 +43,7 @@ El editor solo conserva los datos que envías activamente, como:
   configurado para tu compilación
 
 Para solicitar la eliminación de estos datos, escribe a
-**razvan.gutulov@outlook.com** con:
+**<!--publisher:ContactEmail-->organize-files-app@outlook.com<!--/publisher-->** con:
 
 - La dirección de correo electrónico que usaste para contactar con el soporte, y/o
 - Tu referencia de licencia o pedido, si la hay
@@ -58,4 +58,4 @@ compra que conserva la tienda, usa los ajustes de la cuenta de esa tienda.
 
 ---
 
-© 2026 Guțulov Răzvan Constantin PFA. Todos los derechos reservados.
+© 2026 <!--publisher:LegalName-->Guțulov Răzvan Constantin PFA<!--/publisher-->. Todos los derechos reservados.

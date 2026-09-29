@@ -8,11 +8,11 @@ Har du brug for hjælp med **Organize Files**? Vi hjælper dig gerne.
 
 ## Kontakt
 
-- **E-mail:** razvan.gutulov@outlook.com
-- **Udgiver:** Guțulov Răzvan Constantin PFA
-- **Registreret adresse:** Str. Republicii nr. 33B, bl. N3, sc. A, et. 1, ap. 3, Breaza de Sus, 105400 Breaza, jud. Prahova, România
-- **Handelsregister:** F2026004513003 (EUID ROONRC.F2026004513003)
-- **Skatteregistreringsnummer:** 53610310
+- **E-mail:** <!--publisher:ContactEmail-->organize-files-app@outlook.com<!--/publisher-->
+- **Udgiver:** <!--publisher:LegalName-->Guțulov Răzvan Constantin PFA<!--/publisher-->
+- **Registreret adresse:** <!--publisher:RegisteredAddress-->Str. Republicii nr. 33B, bl. N3, sc. A, et. 1, ap. 3, Breaza de Sus, 105400 Breaza, jud. Prahova, România<!--/publisher-->
+- **Handelsregister:** <!--publisher:TradeRegister-->F2026004513003<!--/publisher--> (EUID <!--publisher:Euid-->ROONRC.F2026004513003<!--/publisher-->)
+- **Skatteregistreringsnummer:** <!--publisher:TaxId-->53610310<!--/publisher-->
 
 Når du skriver til os, bedes du oplyse:
 
@@ -39,4 +39,4 @@ Se [Privatlivspolitikken](./privacy-policy.md).
 
 ---
 
-© 2026 Guțulov Răzvan Constantin PFA. Alle rettigheder forbeholdes.
+© 2026 <!--publisher:LegalName-->Guțulov Răzvan Constantin PFA<!--/publisher-->. Alle rettigheder forbeholdes.

@@ -4,11 +4,11 @@
 
 # Politica de confidențialitate — Organize Files
 
-**Editor:** Guțulov Răzvan Constantin PFA  
-**Sediu profesional:** Str. Republicii nr. 33B, bl. N3, sc. A, et. 1, ap. 3, Breaza de Sus, 105400 Breaza, jud. Prahova, România  
-**Registrul comerțului:** F2026004513003 (EUID ROONRC.F2026004513003)  
-**Cod unic de înregistrare:** 53610310  
-**Contact:** razvan.gutulov@outlook.com  
+**Editor:** <!--publisher:LegalName-->Guțulov Răzvan Constantin PFA<!--/publisher-->  
+**Sediu profesional:** <!--publisher:RegisteredAddress-->Str. Republicii nr. 33B, bl. N3, sc. A, et. 1, ap. 3, Breaza de Sus, 105400 Breaza, jud. Prahova, România<!--/publisher-->  
+**Registrul comerțului:** <!--publisher:TradeRegister-->F2026004513003<!--/publisher--> (EUID <!--publisher:Euid-->ROONRC.F2026004513003<!--/publisher-->)  
+**Cod unic de înregistrare:** <!--publisher:TaxId-->53610310<!--/publisher-->  
+**Contact:** <!--publisher:ContactEmail-->organize-files-app@outlook.com<!--/publisher-->  
 **Data efectivă:** 2026-05-28  
 **URL public:** `https://github.com/GutRaz/organize-files-legal/blob/main/ro/privacy-policy.md`
 
@@ -20,7 +20,7 @@ Organize Files prelucrează fișiere **local pe dispozitiv**. Conținutul fișie
 
 ## Operator și contact
 
-Pentru datele personale prelucrate de editor, operatorul este **Guțulov Răzvan Constantin PFA**. Contact: **razvan.gutulov@outlook.com**.
+Pentru datele personale prelucrate de editor, operatorul este **<!--publisher:LegalName-->Guțulov Răzvan Constantin PFA<!--/publisher-->**. Contact: **<!--publisher:ContactEmail-->organize-files-app@outlook.com<!--/publisher-->**.
 
 ## Date prelucrate local
 
@@ -53,7 +53,7 @@ Pentru datele personale prelucrate de editor, operatorul este **Guțulov Răzvan
 | Server licențe opțional (configurat de operator) | ID instalare aleator și persistent (GUID în `license_installation_id.txt`) trimis la un server de licențe operat de editor sau configurat de operator la `ORGANIZE_FILES_LICENSE_SERVER_URL`. ID-ul de instalare este un identificator de dispozitiv conform Considerentului 30 GDPR. Bază legală: executarea contractului. Retenție la editor: înregistrări de entitlement pe durata activă plus până la 24 de luni după expirare/revocare (prevenire abuz și litigii); documente contabile pot fi păstrate până la 7 ani unde legea o cere. Serverele operate de un operator urmează calendarul documentat al operatorului. Inactiv dacă `ORGANIZE_FILES_LICENSE_SERVER_URL` nu este setat. | Server operat de editor/operator |
 | OpenTelemetry opțional (configurat de operator) | Metadate job la `ORGANIZE_FILES_OTEL_EXPORTER_OTLP_ENDPOINT` (ID job, tip țintă, context trace W3C) — fără căi sau conținut fișiere. Inactiv implicit; necesită configurare explicită. | Colector OTLP configurat de operator |
 | Notificări e-mail opționale (când sunt activate) | Starea rulării și fragmente din jurnal (pot include căi de fișiere) trimise prin serverul SMTP configurat de operator | SMTP / furnizor de e-mail al operatorului |
-| Webhook-uri opționale de automatizare (configurate de operator) | Când `ORGANIZE_FILES_AUTOMATION_WEBHOOK_URL` este setat, evenimente din ciclul de viață al joburilor, cu ID-uri de corelare și căile fișierelor de stare ale automatizării | Endpoint webhook configurat de operator |
+| Webhook-uri opționale de automatizare (configurate de operator) | Când `ORGANIZE_FILES_AUTOMATION_WEBHOOK_URL` este setat, câte un mesaj pentru fiecare eveniment al unui job (de exemplu pornirea unei rulări, așteptarea aprobării, aprobarea sau sfârșitul ei), cu numele, ID-ul și ora evenimentului, numele calculatorului, ID-ul jobului și ID-ul de corelare, ținta, faza, rezultatul și codul de ieșire ale jobului, calea folderului de ieșire, mesajul de eroare al unei rulări eșuate (care poate numi un fișier sau un folder), numele de utilizator și ID-ul de operator ale celui care a aprobat o rulare reală, calea unui fișier de stare al automatizării care nu a putut fi salvat și portul unui serviciu de metrici care nu a putut porni | Endpoint webhook configurat de operator |
 | Verificare opțională a identității pentru aprobarea execuției (configurată de operator) | Cu `ORGANIZE_FILES_APPROVE_OAUTH_JWKS_URL` setat, un GET HTTPS aduce cheile de semnătură și le păstrează în cache o oră; niciun token nu părăsește dispozitivul. Cu `ORGANIZE_FILES_APPROVE_OAUTH_INTROSPECTION_URL` setat, chiar tokenul purtător al operatorului este trimis prin POST la acel endpoint pentru validare (RFC 7662), cu credențiale de client HTTP Basic când sunt configurate. Inactiv dacă niciuna dintre aceste adrese nu e setată. | Furnizor de identitate configurat de operator |
 | Ajutoare de reîncercare NAS ale motorului | Nimic în afara căilor de rețea configurate | Gazdă NAS / SMB |
 
@@ -81,7 +81,7 @@ Verificările opționale de actualizare pot ajunge la servere în afara SEE (ex.
 
 ## Autoritate de supraveghere
 
-Dacă legea aplicabilă acordă drepturi sau plângeri la o autoritate de supraveghere, contactați mai întâi editorul la **razvan.gutulov@outlook.com**. Rezidenții UE/SEE pot depune plângere la autoritatea locală (România: ANSPDCP, https://www.dataprotection.ro).
+Dacă legea aplicabilă acordă drepturi sau plângeri la o autoritate de supraveghere, contactați mai întâi editorul la **<!--publisher:ContactEmail-->organize-files-app@outlook.com<!--/publisher-->**. Rezidenții UE/SEE pot depune plângere la autoritatea locală (România: ANSPDCP, https://www.dataprotection.ro).
 
 ## Responsabilități operator (cadru GDPR)
 
@@ -100,7 +100,7 @@ Pentru datele deținute de editor:
 
 ## Drepturile dumneavoastră
 
-Pentru datele pe care editorul le deține (ex. corespondență suport e-mail), contactați **razvan.gutulov@outlook.com**. Unde este cazul, puteți solicita acces, rectificare, ștergere, restricționare, opoziție, portabilitate sau retragerea consimțământului. Editorul urmărește să răspundă cererilor persoanelor vizate în termenul prevăzut de legea aplicabilă de la o cerere verificată (poate fi solicitată verificarea identității când este rezonabil necesar). Pentru date stocate doar pe dispozitiv, le puteți șterge prin **Șterge date salvate**, dezinstalare sau ștergere manuală. **Șterge date salvate** elimină sesiuni, jurnale și ciorne de automatizare, dar poate păstra starea locală de entitlement și un identificator de instalare folosit pentru verificări opționale de licență — vedeți textul de confirmare din aplicație înainte de a continua.
+Pentru datele pe care editorul le deține (ex. corespondență suport e-mail), contactați **<!--publisher:ContactEmail-->organize-files-app@outlook.com<!--/publisher-->**. Unde este cazul, puteți solicita acces, rectificare, ștergere, restricționare, opoziție, portabilitate sau retragerea consimțământului. Editorul urmărește să răspundă cererilor persoanelor vizate în termenul prevăzut de legea aplicabilă de la o cerere verificată (poate fi solicitată verificarea identității când este rezonabil necesar). Pentru date stocate doar pe dispozitiv, le puteți șterge prin **Șterge date salvate**, dezinstalare sau ștergere manuală. **Șterge date salvate** elimină sesiuni, jurnale și ciorne de automatizare, dar poate păstra starea locală de entitlement și un identificator de instalare folosit pentru verificări opționale de licență — vedeți textul de confirmare din aplicație înainte de a continua.
 
 ## Copii
 

@@ -1,10 +1,10 @@
 # Privacy Policy — Organize Files
 
-**Publisher:** Guțulov Răzvan Constantin PFA  
-**Registered address:** Str. Republicii nr. 33B, bl. N3, sc. A, et. 1, ap. 3, Breaza de Sus, 105400 Breaza, jud. Prahova, România  
-**Trade register:** F2026004513003 (EUID ROONRC.F2026004513003)  
-**Tax identification number:** 53610310  
-**Contact:** razvan.gutulov@outlook.com  
+**Publisher:** <!--publisher:LegalName-->Guțulov Răzvan Constantin PFA<!--/publisher-->  
+**Registered address:** <!--publisher:RegisteredAddress-->Str. Republicii nr. 33B, bl. N3, sc. A, et. 1, ap. 3, Breaza de Sus, 105400 Breaza, jud. Prahova, România<!--/publisher-->  
+**Trade register:** <!--publisher:TradeRegister-->F2026004513003<!--/publisher--> (EUID <!--publisher:Euid-->ROONRC.F2026004513003<!--/publisher-->)  
+**Tax identification number:** <!--publisher:TaxId-->53610310<!--/publisher-->  
+**Contact:** <!--publisher:ContactEmail-->organize-files-app@outlook.com<!--/publisher-->  
 **Effective date:** 2026-05-28  
 **Public URL:** `https://github.com/GutRaz/organize-files-legal/blob/main/en/privacy-policy.md`
 
@@ -16,7 +16,7 @@ Organize Files processes files **locally on the device**. File contents are **no
 
 ## Controller and contact
 
-For personal data processed by the publisher, the controller is **Guțulov Răzvan Constantin PFA**. Contact: **razvan.gutulov@outlook.com**.
+For personal data processed by the publisher, the controller is **<!--publisher:LegalName-->Guțulov Răzvan Constantin PFA<!--/publisher-->**. Contact: **<!--publisher:ContactEmail-->organize-files-app@outlook.com<!--/publisher-->**.
 
 ## Data processed locally
 
@@ -47,7 +47,7 @@ For personal data processed by the publisher, the controller is **Guțulov Răzv
 | Optional license server (operator-configured) | A random persistent installation ID (GUID stored in `license_installation_id.txt`) is sent to a publisher-operated or operator-configured license server at `ORGANIZE_FILES_LICENSE_SERVER_URL`. The installation ID is a device identifier under GDPR Recital 30. Lawful basis: performance of contract. Publisher-operated retention: entitlement records while active plus up to 24 months after expiry/revocation for abuse prevention and dispute handling; accounting records may be retained up to 7 years where required by law. Operator-run servers follow the operator's documented retention schedule. This feature is inactive unless `ORGANIZE_FILES_LICENSE_SERVER_URL` is set. | Publisher or operator license server |
 | Optional OpenTelemetry tracing (operator-configured) | When `ORGANIZE_FILES_OTEL_EXPORTER_OTLP_ENDPOINT` is set, automation job metadata (job IDs, correlation IDs, target type tags, W3C trace context) is exported to the configured OTLP collector. No file paths or file contents are included. This feature is inactive by default and requires explicit operator configuration. | Operator-configured OTLP collector |
 | Optional email notifications (when enabled) | Run status and log excerpts (may include file paths) sent through the operator-configured SMTP server | Operator SMTP / mail provider |
-| Optional automation webhooks (operator-configured) | When `ORGANIZE_FILES_AUTOMATION_WEBHOOK_URL` is set, job lifecycle events carrying correlation IDs and the file paths of automation state files | Operator-configured webhook endpoint |
+| Optional automation webhooks (operator-configured) | When `ORGANIZE_FILES_AUTOMATION_WEBHOOK_URL` is set, a message for each job event (such as a run starting, waiting for approval, being approved or finishing), carrying the event name, ID and time, the computer name, the job ID and correlation ID, the job's target, phase, outcome and exit code, the output folder path, the error message of a failed run (which can name a file or folder), the user name and operator ID of whoever approved a real run, the path of an automation state file that could not be saved, and the port of a metrics listener that could not start | Operator-configured webhook endpoint |
 | Optional execute-approval identity check (operator-configured) | With `ORGANIZE_FILES_APPROVE_OAUTH_JWKS_URL` set, an HTTPS GET fetches the signing keys and caches them for one hour; no token leaves the device. With `ORGANIZE_FILES_APPROVE_OAUTH_INTROSPECTION_URL` set, the operator's bearer token itself is posted to that endpoint for validation (RFC 7662), with HTTP Basic client credentials when configured. Inactive unless one of those URLs is set. | Operator-configured identity provider |
 | Engine NAS retry helpers | None beyond configured network paths | NAS / SMB host |
 
@@ -69,7 +69,7 @@ Optional update checks may reach servers outside the European Economic Area (for
 
 ## Supervisory authority and complaints
 
-If applicable law grants data-subject rights or a complaint to a supervisory authority, contact the publisher first at **razvan.gutulov@outlook.com**. EU/EEA residents may also lodge a complaint with their local data protection authority (for Romania: ANSPDCP, https://www.dataprotection.ro).
+If applicable law grants data-subject rights or a complaint to a supervisory authority, contact the publisher first at **<!--publisher:ContactEmail-->organize-files-app@outlook.com<!--/publisher-->**. EU/EEA residents may also lodge a complaint with their local data protection authority (for Romania: ANSPDCP, https://www.dataprotection.ro).
 
 ## Third-party processors (when these features are used)
 
@@ -94,7 +94,7 @@ For data held by the publisher:
 
 ## Your rights
 
-For data the publisher holds (e.g. support email correspondence), contact **razvan.gutulov@outlook.com**. Where applicable, you may request access, correction, deletion, restriction, objection, portability, or withdrawal of consent. The publisher aims to respond to data-subject requests within the period the applicable law requires of a verified request (identity may be requested when reasonably necessary). For data stored only on your device, you can delete most app data via **Clear app data**, uninstall, or manual file deletion. **Clear app data** removes sessions, logs, and automation drafts, but may retain local license entitlement state and an installation identifier used for optional license checks — see the in-app confirmation text before you proceed.
+For data the publisher holds (e.g. support email correspondence), contact **<!--publisher:ContactEmail-->organize-files-app@outlook.com<!--/publisher-->**. Where applicable, you may request access, correction, deletion, restriction, objection, portability, or withdrawal of consent. The publisher aims to respond to data-subject requests within the period the applicable law requires of a verified request (identity may be requested when reasonably necessary). For data stored only on your device, you can delete most app data via **Clear app data**, uninstall, or manual file deletion. **Clear app data** removes sessions, logs, and automation drafts, but may retain local license entitlement state and an installation identifier used for optional license checks — see the in-app confirmation text before you proceed.
 
 ## Children
 

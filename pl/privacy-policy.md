@@ -4,11 +4,11 @@
 
 # Polityka prywatności — Organize Files
 
-**Wydawca:** Guțulov Răzvan Constantin PFA  
-**Adres rejestrowy:** Str. Republicii nr. 33B, bl. N3, sc. A, et. 1, ap. 3, Breaza de Sus, 105400 Breaza, jud. Prahova, România  
-**Rejestr handlowy:** F2026004513003 (EUID ROONRC.F2026004513003)  
-**Numer identyfikacji podatkowej:** 53610310  
-**Kontakt:** razvan.gutulov@outlook.com  
+**Wydawca:** <!--publisher:LegalName-->Guțulov Răzvan Constantin PFA<!--/publisher-->  
+**Adres rejestrowy:** <!--publisher:RegisteredAddress-->Str. Republicii nr. 33B, bl. N3, sc. A, et. 1, ap. 3, Breaza de Sus, 105400 Breaza, jud. Prahova, România<!--/publisher-->  
+**Rejestr handlowy:** <!--publisher:TradeRegister-->F2026004513003<!--/publisher--> (EUID <!--publisher:Euid-->ROONRC.F2026004513003<!--/publisher-->)  
+**Numer identyfikacji podatkowej:** <!--publisher:TaxId-->53610310<!--/publisher-->  
+**Kontakt:** <!--publisher:ContactEmail-->organize-files-app@outlook.com<!--/publisher-->  
 **Data wejścia w życie:** 28.05.2026 r  
 **Publiczny adres URL:** `https://github.com/GutRaz/organize-files-legal/blob/main/pl/privacy-policy.md`
 
@@ -20,7 +20,7 @@ Organize Files przetwarza pliki **lokalnie na urządzeniu**. Zawartość plików
 
 ## Administrator i kontakt
 
-Administratorem danych osobowych przetwarzanych przez wydawcę jest **Guțulov Răzvan Constantin PFA**. Kontakt: **razvan.gutulov@outlook.com**.
+Administratorem danych osobowych przetwarzanych przez wydawcę jest **<!--publisher:LegalName-->Guțulov Răzvan Constantin PFA<!--/publisher-->**. Kontakt: **<!--publisher:ContactEmail-->organize-files-app@outlook.com<!--/publisher-->**.
 
 ## Dane przetwarzane lokalnie
 
@@ -51,7 +51,7 @@ Administratorem danych osobowych przetwarzanych przez wydawcę jest **Guțulov R
 | Opcjonalny serwer licencji (skonfigurowany przez operatora) | Losowy identyfikator trwałej instalacji (GUID przechowywany w pliku `license_installation_id.txt`) jest wysyłany do obsługiwanego przez wydawcę lub skonfigurowanego przez operatora serwera licencji pod adresem `ORGANIZE_FILES_LICENSE_SERVER_URL`. Identyfikator instalacji jest identyfikatorem urządzenia w rozumieniu punktu 30 preambuły RODO. Podstawa prawna: wykonanie umowy. Retencja po stronie wydawcy: rejestry uprawnień w okresie aktywności plus do 24 miesięcy po wygaśnięciu/odwołaniu (zapobieganie nadużyciom i spory); rejestry księgowe mogą być przechowywane do 7 lat, gdy wymaga tego prawo. Serwery prowadzone przez operatora stosują udokumentowany harmonogram retencji operatora. Ta funkcja jest nieaktywna, chyba że ustawiono „ORGANIZE_FILES_LICENSE_SERVER_URL”. | Serwer licencji wydawcy lub operatora |
 | Opcjonalne śledzenie OpenTelemetry (skonfigurowane przez operatora) | Gdy ustawiona jest opcja `ORGANIZE_FILES_OTEL_EXPORTER_OTLP_ENDPOINT`, metadane zadania automatyzacji (identyfikatory zadań, identyfikatory korelacji, znaczniki typu docelowego, kontekst śledzenia W3C) są eksportowane do skonfigurowanego modułu zbierającego OTLP. Nie są uwzględniane żadne ścieżki plików ani zawartość plików. Ta funkcja jest domyślnie nieaktywna i wymaga jawnej konfiguracji operatora. | Kolektor OTLP konfigurowany przez operatora |
 | Opcjonalne powiadomienia e-mail (gdy włączone) | Status uruchomienia i fragmenty dziennika (mogą zawierać ścieżki plików) wysyłane przez skonfigurowany przez operatora serwer SMTP | SMTP operatora / dostawca poczty |
-| Opcjonalne webhooki automatyzacji (konfigurowane przez operatora) | Gdy ustawiono `ORGANIZE_FILES_AUTOMATION_WEBHOOK_URL`, zdarzenia cyklu życia zadań z identyfikatorami korelacji i ścieżkami plików stanu automatyzacji | Punkt końcowy webhooka skonfigurowany przez operatora |
+| Opcjonalne webhooki automatyzacji (konfigurowane przez operatora) | Gdy ustawiono `ORGANIZE_FILES_AUTOMATION_WEBHOOK_URL`, wiadomość dla każdego zdarzenia zadania (np. rozpoczęcia uruchomienia, oczekiwania na zatwierdzenie, zatwierdzenia lub zakończenia) z nazwą, identyfikatorem i czasem zdarzenia, nazwą komputera, identyfikatorem zadania i identyfikatorem korelacji, celem, fazą, wynikiem i kodem wyjścia zadania, ścieżką folderu wyjściowego, komunikatem o błędzie nieudanego uruchomienia (który może wskazywać plik lub folder), nazwą użytkownika i identyfikatorem operatora osoby, która zatwierdziła rzeczywiste uruchomienie, ścieżką pliku stanu automatyzacji, którego nie udało się zapisać, oraz portem usługi metryk, której nie udało się uruchomić | Punkt końcowy webhooka skonfigurowany przez operatora |
 | Opcjonalna weryfikacja tożsamości przy zatwierdzaniu wykonania (konfigurowana przez operatora) | Gdy ustawiono `ORGANIZE_FILES_APPROVE_OAUTH_JWKS_URL`, żądanie HTTPS GET pobiera klucze podpisu i buforuje je na godzinę; żaden token nie opuszcza urządzenia. Gdy ustawiono `ORGANIZE_FILES_APPROVE_OAUTH_INTROSPECTION_URL`, do tego punktu końcowego wysyłany jest sam token okaziciela operatora w celu weryfikacji (RFC 7662), wraz z poświadczeniami klienta HTTP Basic, jeśli je skonfigurowano. Nieaktywne, dopóki nie ustawiono jednego z tych adresów. | Dostawca tożsamości skonfigurowany przez operatora |
 | Pomocnicy ponownej próby silnika NAS | Brak poza skonfigurowanymi ścieżkami sieciowymi | Host NAS/SMB |
 
@@ -73,7 +73,7 @@ Opcjonalne kontrole aktualizacji mogą dotrzeć do serwerów poza Europejskim Ob
 
 ## Organ nadzorczy i skargi
 
-Jeśli obowiązujące prawo przyznaje podmiotowi danych prawa lub skargę do organu nadzorczego, należy najpierw skontaktować się z wydawcą pod adresem **razvan.gutulov@outlook.com**. Mieszkańcy UE/EOG mogą również złożyć skargę do lokalnego organu ochrony danych (w przypadku Rumunii: ANSPDCP, https://www.dataprotection.ro).
+Jeśli obowiązujące prawo przyznaje podmiotowi danych prawa lub skargę do organu nadzorczego, należy najpierw skontaktować się z wydawcą pod adresem **<!--publisher:ContactEmail-->organize-files-app@outlook.com<!--/publisher-->**. Mieszkańcy UE/EOG mogą również złożyć skargę do lokalnego organu ochrony danych (w przypadku Rumunii: ANSPDCP, https://www.dataprotection.ro).
 
 ## Procesory innych firm (jeśli używane są te funkcje)
 
@@ -98,7 +98,7 @@ W przypadku danych przechowywanych przez wydawcę:
 
 ## Twoje prawa
 
-W sprawie danych posiadanych przez wydawcę (np. korespondencji e-mailowej) prosimy o kontakt pod adresem **razvan.gutulov@outlook.com**. W przypadku danych przechowywanych tylko na Twoim urządzeniu możesz usunąć większość danych aplikacji, korzystając z opcji **Wyczyść dane aplikacji**, odinstalowania lub ręcznego usunięcia plików. **Wyczyść dane aplikacji** usuwa sesje, dzienniki i wersje robocze automatyzacji, ale może zachować kotwice wersji próbnej licencji, znaczniki płatnej instalacji i identyfikator instalacji używany do opcjonalnego sprawdzania licencji — zanim przejdziesz dalej, zobacz tekst potwierdzenia w aplikacji. W stosownych przypadkach możesz żądać dostępu, sprostowania, usunięcia, ograniczenia przetwarzania, wnieść sprzeciw wobec przetwarzania, żądać przenoszenia danych lub wycofać zgodę.
+W sprawie danych posiadanych przez wydawcę (np. korespondencji e-mailowej) prosimy o kontakt pod adresem **<!--publisher:ContactEmail-->organize-files-app@outlook.com<!--/publisher-->**. W przypadku danych przechowywanych tylko na Twoim urządzeniu możesz usunąć większość danych aplikacji, korzystając z opcji **Wyczyść dane aplikacji**, odinstalowania lub ręcznego usunięcia plików. **Wyczyść dane aplikacji** usuwa sesje, dzienniki i wersje robocze automatyzacji, ale może zachować kotwice wersji próbnej licencji, znaczniki płatnej instalacji i identyfikator instalacji używany do opcjonalnego sprawdzania licencji — zanim przejdziesz dalej, zobacz tekst potwierdzenia w aplikacji. W stosownych przypadkach możesz żądać dostępu, sprostowania, usunięcia, ograniczenia przetwarzania, wnieść sprzeciw wobec przetwarzania, żądać przenoszenia danych lub wycofać zgodę.
 
 Wydawca dąży do odpowiedzi na żądania osób, których dane dotyczą, w ciągu okresu wymaganego przez stosowane prawo (weryfikacja tożsamości może być wymagana, gdy jest rozsądnie potrzebna).
 

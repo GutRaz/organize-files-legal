@@ -8,11 +8,11 @@
 
 ## İletişim
 
-- **E-posta:** razvan.gutulov@outlook.com
-- **Yayıncı:** Guțulov Răzvan Constantin PFA
-- **Kayıtlı adres:** Str. Republicii nr. 33B, bl. N3, sc. A, et. 1, ap. 3, Breaza de Sus, 105400 Breaza, jud. Prahova, România
-- **Ticaret sicili:** F2026004513003 (EUID ROONRC.F2026004513003)
-- **Vergi kimlik numarası:** 53610310
+- **E-posta:** <!--publisher:ContactEmail-->organize-files-app@outlook.com<!--/publisher-->
+- **Yayıncı:** <!--publisher:LegalName-->Guțulov Răzvan Constantin PFA<!--/publisher-->
+- **Kayıtlı adres:** <!--publisher:RegisteredAddress-->Str. Republicii nr. 33B, bl. N3, sc. A, et. 1, ap. 3, Breaza de Sus, 105400 Breaza, jud. Prahova, România<!--/publisher-->
+- **Ticaret sicili:** <!--publisher:TradeRegister-->F2026004513003<!--/publisher--> (EUID <!--publisher:Euid-->ROONRC.F2026004513003<!--/publisher-->)
+- **Vergi kimlik numarası:** <!--publisher:TaxId-->53610310<!--/publisher-->
 
 Bize yazarken lütfen şunları ekleyin:
 
@@ -39,4 +39,4 @@ Satın alımlar ve geri ödemeler, satın aldığınız mağaza (Microsoft Store
 
 ---
 
-© 2026 Guțulov Răzvan Constantin PFA. Tüm hakları saklıdır.
+© 2026 <!--publisher:LegalName-->Guțulov Răzvan Constantin PFA<!--/publisher-->. Tüm hakları saklıdır.

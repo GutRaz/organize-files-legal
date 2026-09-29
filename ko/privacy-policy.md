@@ -4,11 +4,11 @@
 
 # 개인 정보 보호 정책 - Organize Files
 
-**출판사:** Guțulov Răzvan Constantin PFA  
-**등록 주소:** Str. Republicii nr. 33B, bl. N3, sc. A, et. 1, ap. 3, Breaza de Sus, 105400 Breaza, jud. Prahova, România  
-**상업 등기:** F2026004513003 (EUID ROONRC.F2026004513003)  
-**납세자 번호:** 53610310  
-**연락처:** razvan.gutulov@outlook.com  
+**출판사:** <!--publisher:LegalName-->Guțulov Răzvan Constantin PFA<!--/publisher-->  
+**등록 주소:** <!--publisher:RegisteredAddress-->Str. Republicii nr. 33B, bl. N3, sc. A, et. 1, ap. 3, Breaza de Sus, 105400 Breaza, jud. Prahova, România<!--/publisher-->  
+**상업 등기:** <!--publisher:TradeRegister-->F2026004513003<!--/publisher--> (EUID <!--publisher:Euid-->ROONRC.F2026004513003<!--/publisher-->)  
+**납세자 번호:** <!--publisher:TaxId-->53610310<!--/publisher-->  
+**연락처:** <!--publisher:ContactEmail-->organize-files-app@outlook.com<!--/publisher-->  
 **유효일자:** 2026-05-28  
 **공개 URL:** `https://github.com/GutRaz/organize-files-legal/blob/main/ko/privacy-policy.md`
 
@@ -20,7 +20,7 @@ Organize Files는 **기기에서 로컬로** 파일을 처리합니다. 파일 �
 
 ## 관리자 및 연락처
 
-게시자가 처리하는 개인정보의 관리자는 **Guțulov Răzvan Constantin PFA**입니다. 연락처: **razvan.gutulov@outlook.com**.
+게시자가 처리하는 개인정보의 관리자는 **<!--publisher:LegalName-->Guțulov Răzvan Constantin PFA<!--/publisher-->**입니다. 연락처: **<!--publisher:ContactEmail-->organize-files-app@outlook.com<!--/publisher-->**.
 
 ## 로컬에서 처리되는 데이터
 
@@ -51,7 +51,7 @@ Organize Files는 **기기에서 로컬로** 파일을 처리합니다. 파일 �
 | 옵션 라이센스 서버(운영자 구성) | 무작위 영구 설치 ID(`license_installation_id.txt`에 저장된 GUID)는 `ORGANIZE_FILES_LICENSE_SERVER_URL`의 게시자가 운영하거나 운영자가 구성한 라이선스 서버로 전송됩니다. 설치 ID는 GDPR Recital 30에 따른 장치 식별자입니다. 법적 근거: 계약 이행. 게시자 운영 보존: 권한 기록은 활성 기간 동안 및 만료/철회 후 최대 24개월(남용 방지 및 분쟁 처리). 회계 기록은 법이 요구하는 경우 최대 7년까지 보관될 수 있습니다. 운영자가 운영하는 서버는 운영자의 문서화된 보존 일정을 따릅니다. 이 기능은 `ORGANIZE_FILES_LICENSE_SERVER_URL`이 설정되지 않으면 비활성화됩니다. | 게시자 또는 운영자 라이센스 서버 |
 | 선택적 OpenTelemetry 추적(운영자 구성) | 'ORGANIZE_FILES_OTEL_EXPORTER_OTLP_ENDPOINT'가 설정되면 자동화 작업 메타데이터(작업 ID, 상관 관계 ID, 대상 유형 태그, W3C 추적 컨텍스트)가 구성된 OTLP 수집기로 내보내집니다. 파일 경로나 파일 내용은 포함되지 않습니다. 이 기능은 기본적으로 비활성화되어 있으며 명시적인 운영자 구성이 필요합니다. | 운영자가 구성한 OTLP 수집기 |
 | 선택적 이메일 알림(사용 시) | 실행 상태 및 로그 발췌(파일 경로 포함 가능)가 운영자가 구성한 SMTP 서버를 통해 전송됩니다 | 운영자 SMTP / 메일 제공자 |
-| 선택적 자동화 웹후크 (운영자 구성) | `ORGANIZE_FILES_AUTOMATION_WEBHOOK_URL`이 설정된 경우, 상관 ID와 자동화 상태 파일의 파일 경로를 포함한 작업 수명 주기 이벤트 | 운영자가 구성한 웹후크 엔드포인트 |
+| 선택적 자동화 웹후크 (운영자 구성) | `ORGANIZE_FILES_AUTOMATION_WEBHOOK_URL`이 설정된 경우, 작업 이벤트(실행 시작, 승인 대기, 승인, 종료 등)마다 메시지 1건. 이벤트의 이름·ID·시각, 컴퓨터 이름, 작업 ID와 상관 ID, 작업의 대상·단계·결과·종료 코드, 출력 폴더 경로, 실패한 실행의 오류 메시지(파일이나 폴더 이름이 포함될 수 있음), 실제 실행을 승인한 사람의 사용자 이름과 운영자 ID, 저장하지 못한 자동화 상태 파일의 경로, 시작하지 못한 메트릭 서비스의 포트가 포함됩니다 | 운영자가 구성한 웹후크 엔드포인트 |
 | 실행 승인을 위한 선택적 신원 확인 (운영자가 구성) | `ORGANIZE_FILES_APPROVE_OAUTH_JWKS_URL`가 설정되면 HTTPS GET으로 서명 키를 가져와 한 시간 동안 캐시하며, 토큰은 기기를 떠나지 않습니다. `ORGANIZE_FILES_APPROVE_OAUTH_INTROSPECTION_URL`가 설정되면 운영자의 베어러 토큰 자체가 검증을 위해 해당 엔드포인트로 전송되며(RFC 7662), 구성된 경우 HTTP Basic 클라이언트 자격 증명이 함께 전송됩니다. 두 URL 중 어느 것도 설정되지 않으면 비활성입니다. | 운영자가 구성한 ID 공급자 |
 | 엔진 NAS 재시도 도우미 | 구성된 네트워크 경로를 벗어나면 없음 | NAS/SMB 호스트 |
 
@@ -73,7 +73,7 @@ Organize Files는 **기기에서 로컬로** 파일을 처리합니다. 파일 �
 
 ## 감독권한 및 불만사항
 
-관련 법률에 따라 데이터 주체 권리가 부여되거나 감독 기관에 불만이 제기되는 경우 먼저 **razvan.gutulov@outlook.com**으로 게시자에게 문의하세요. EU/EEA 거주자는 현지 데이터 보호 당국(루마니아의 경우: ANSPDCP, https://www.dataprotection.ro)에 불만 사항을 제기할 수도 있습니다.
+관련 법률에 따라 데이터 주체 권리가 부여되거나 감독 기관에 불만이 제기되는 경우 먼저 **<!--publisher:ContactEmail-->organize-files-app@outlook.com<!--/publisher-->**으로 게시자에게 문의하세요. EU/EEA 거주자는 현지 데이터 보호 당국(루마니아의 경우: ANSPDCP, https://www.dataprotection.ro)에 불만 사항을 제기할 수도 있습니다.
 
 ## 타사 프로세서(이러한 기능을 사용하는 경우)
 
@@ -98,7 +98,7 @@ Organize Files는 **기기에서 로컬로** 파일을 처리합니다. 파일 �
 
 ## 귀하의 권리
 
-게시자가 보유하고 있는 데이터(예: 지원 이메일 서신)에 대해서는 **razvan.gutulov@outlook.com**에 문의하세요. 기기에만 저장된 데이터의 경우 **앱 데이터 지우기**, 제거 또는 수동 파일 삭제를 통해 대부분의 앱 데이터를 삭제할 수 있습니다. **앱 데이터 지우기**는 세션, 로그 및 자동화 초안을 제거하지만 라이선스 평가판 앵커, 유료 설치 마커 및 선택적 라이선스 확인에 사용되는 설치 식별자를 유지할 수 있습니다. 계속하기 전에 앱 내 확인 텍스트를 확인하세요. 해당하는 경우 데이터에 대한 액세스, 정정, 삭제, 처리 제한, 처리에 대한 이의 제기, 데이터 이동권 또는 동의 철회를 요청할 수 있습니다.
+게시자가 보유하고 있는 데이터(예: 지원 이메일 서신)에 대해서는 **<!--publisher:ContactEmail-->organize-files-app@outlook.com<!--/publisher-->**에 문의하세요. 기기에만 저장된 데이터의 경우 **앱 데이터 지우기**, 제거 또는 수동 파일 삭제를 통해 대부분의 앱 데이터를 삭제할 수 있습니다. **앱 데이터 지우기**는 세션, 로그 및 자동화 초안을 제거하지만 라이선스 평가판 앵커, 유료 설치 마커 및 선택적 라이선스 확인에 사용되는 설치 식별자를 유지할 수 있습니다. 계속하기 전에 앱 내 확인 텍스트를 확인하세요. 해당하는 경우 데이터에 대한 액세스, 정정, 삭제, 처리 제한, 처리에 대한 이의 제기, 데이터 이동권 또는 동의 철회를 요청할 수 있습니다.
 
 게시자는 확인된 요청 후 적용되는 법률이 정한 기간 내에 정보주체 요청에 응답하는 것을 목표로 합니다(합리적으로 필요한 경우 신원 확인을 요청할 수 있음).
 
