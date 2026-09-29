@@ -8,11 +8,11 @@ Brauchen Sie Hilfe mit **Organize Files**? Wir helfen Ihnen gerne.
 
 ## Kontakt
 
-- **E-Mail:** razvan.gutulov@outlook.com
-- **Herausgeber:** Guțulov Răzvan Constantin PFA
-- **Eingetragene Anschrift:** Str. Republicii nr. 33B, bl. N3, sc. A, et. 1, ap. 3, Breaza de Sus, 105400 Breaza, jud. Prahova, România
-- **Handelsregister:** F2026004513003 (EUID ROONRC.F2026004513003)
-- **Steuernummer:** 53610310
+- **E-Mail:** <!--publisher:ContactEmail-->organize-files-app@outlook.com<!--/publisher-->
+- **Herausgeber:** <!--publisher:LegalName-->Guțulov Răzvan Constantin PFA<!--/publisher-->
+- **Eingetragene Anschrift:** <!--publisher:RegisteredAddress-->Str. Republicii nr. 33B, bl. N3, sc. A, et. 1, ap. 3, Breaza de Sus, 105400 Breaza, jud. Prahova, România<!--/publisher-->
+- **Handelsregister:** <!--publisher:TradeRegister-->F2026004513003<!--/publisher--> (EUID <!--publisher:Euid-->ROONRC.F2026004513003<!--/publisher-->)
+- **Steuernummer:** <!--publisher:TaxId-->53610310<!--/publisher-->
 
 Bitte geben Sie in Ihrer Nachricht an:
 
@@ -39,4 +39,4 @@ Siehe [Datenschutzerklärung](./privacy-policy.md).
 
 ---
 
-© 2026 Guțulov Răzvan Constantin PFA. Alle Rechte vorbehalten.
+© 2026 <!--publisher:LegalName-->Guțulov Răzvan Constantin PFA<!--/publisher-->. Alle Rechte vorbehalten.

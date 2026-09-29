@@ -8,11 +8,11 @@
 
 ## お問い合わせ
 
-- **メール:** razvan.gutulov@outlook.com
-- **発行者:** Guțulov Răzvan Constantin PFA
-- **登録住所:** Str. Republicii nr. 33B, bl. N3, sc. A, et. 1, ap. 3, Breaza de Sus, 105400 Breaza, jud. Prahova, România
-- **商業登記:** F2026004513003 (EUID ROONRC.F2026004513003)
-- **納税者番号:** 53610310
+- **メール:** <!--publisher:ContactEmail-->organize-files-app@outlook.com<!--/publisher-->
+- **発行者:** <!--publisher:LegalName-->Guțulov Răzvan Constantin PFA<!--/publisher-->
+- **登録住所:** <!--publisher:RegisteredAddress-->Str. Republicii nr. 33B, bl. N3, sc. A, et. 1, ap. 3, Breaza de Sus, 105400 Breaza, jud. Prahova, România<!--/publisher-->
+- **商業登記:** <!--publisher:TradeRegister-->F2026004513003<!--/publisher--> (EUID <!--publisher:Euid-->ROONRC.F2026004513003<!--/publisher-->)
+- **納税者番号:** <!--publisher:TaxId-->53610310<!--/publisher-->
 
 ご連絡の際は、次の情報をお知らせください。
 
@@ -39,4 +39,4 @@
 
 ---
 
-© 2026 Guțulov Răzvan Constantin PFA. All rights reserved.
+© 2026 <!--publisher:LegalName-->Guțulov Răzvan Constantin PFA<!--/publisher-->. All rights reserved.

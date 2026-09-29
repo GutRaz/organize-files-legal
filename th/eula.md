@@ -4,11 +4,11 @@
 
 # ข้อตกลงใบอนุญาตผู้ใช้ปลายทาง (EULA) — Organize Files
 
-**ผู้จัดพิมพ์:** Guțulov Răzvan Constantin PFA  
-**ที่อยู่จดทะเบียน:** Str. Republicii nr. 33B, bl. N3, sc. A, et. 1, ap. 3, Breaza de Sus, 105400 Breaza, jud. Prahova, România  
-**ทะเบียนพาณิชย์:** F2026004513003 (EUID ROONRC.F2026004513003)  
-**เลขประจำตัวผู้เสียภาษี:** 53610310  
-**ติดต่อ:** razvan.gutulov@outlook.com  
+**ผู้จัดพิมพ์:** <!--publisher:LegalName-->Guțulov Răzvan Constantin PFA<!--/publisher-->  
+**ที่อยู่จดทะเบียน:** <!--publisher:RegisteredAddress-->Str. Republicii nr. 33B, bl. N3, sc. A, et. 1, ap. 3, Breaza de Sus, 105400 Breaza, jud. Prahova, România<!--/publisher-->  
+**ทะเบียนพาณิชย์:** <!--publisher:TradeRegister-->F2026004513003<!--/publisher--> (EUID <!--publisher:Euid-->ROONRC.F2026004513003<!--/publisher-->)  
+**เลขประจำตัวผู้เสียภาษี:** <!--publisher:TaxId-->53610310<!--/publisher-->  
+**ติดต่อ:** <!--publisher:ContactEmail-->organize-files-app@outlook.com<!--/publisher-->  
 **วันที่มีผลบังคับใช้:** 28-05-2026  
 **URL สาธารณะ (รายชื่อร้านค้า):** `https://github.com/GutRaz/organize-files-legal/blob/main/th/eula.md`
 
@@ -49,8 +49,6 @@
 
 ระยะเวลาทดลองใช้ SKU ของร้านค้า และเงื่อนไขการต่ออายุถูกกำหนดไว้ใน **ข้อมูลผลิตภัณฑ์ใน Store** และบัตรใบอนุญาตในแอป รุ่นวางจำหน่ายจำเป็นต้องมีสิทธิ์จากร้านค้าที่ถูกต้อง การทดลองใช้ที่ใช้งานอยู่ หรือการอนุญาตผ่านเซิร์ฟเวอร์ใบอนุญาตที่ผู้จัดพิมพ์ดำเนินการ
 
-**หลังจากการคืนเงิน การเพิกถอน หรือยกเลิกการสมัครสมาชิกของร้านค้า:** หากการติดตั้งนี้บันทึกการซื้อในร้านค้าแบบชำระเงินก่อนหน้านี้ แอปอาจเริ่ม **การทดลองใช้ในท้องถิ่นใหม่ 14 วัน** (สูงสุด **สอง** การทดลองดังกล่าวต่อการติดตั้ง) การคืนเงินจะดำเนินการโดยแพลตฟอร์มร้านค้าเท่านั้น ไม่ใช่ภายในแอป ดูบทแนะนำในแอป *การคืนเงินและการทดลองใช้หลังการซื้อ* สำหรับขั้นตอนทั้งหมด
-
 ## 7. ความเป็นส่วนตัว
 
 ดู [นโยบายความเป็นส่วนตัว](./privacy-policy.md)
@@ -75,4 +73,4 @@
 
 ## 11. ติดต่อ
 
-**Guțulov Răzvan Constantin PFA** — razvan.gutulov@outlook.com
+**<!--publisher:LegalName-->Guțulov Răzvan Constantin PFA<!--/publisher-->** — <!--publisher:ContactEmail-->organize-files-app@outlook.com<!--/publisher-->

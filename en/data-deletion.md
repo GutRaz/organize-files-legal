@@ -33,7 +33,7 @@ The publisher only holds data you actively send, such as:
 - **Support email** correspondence, if you contact support
 - **License-server records**, only if a license server is configured for your build
 
-To request deletion of this data, email **razvan.gutulov@outlook.com** with:
+To request deletion of this data, email **<!--publisher:ContactEmail-->organize-files-app@outlook.com<!--/publisher-->** with:
 
 - The email address you used to contact support, and/or
 - Your license or order reference, if any
@@ -51,4 +51,4 @@ store, use that store's own account settings.
 
 ---
 
-© 2026 Guțulov Răzvan Constantin PFA. All rights reserved.
+© 2026 <!--publisher:LegalName-->Guțulov Răzvan Constantin PFA<!--/publisher-->. All rights reserved.

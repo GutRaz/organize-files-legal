@@ -43,7 +43,7 @@ L'éditeur ne conserve que les données que vous envoyez activement, telles que 
   licences est configuré pour votre build
 
 Pour demander la suppression de ces données, écrivez à
-**razvan.gutulov@outlook.com** en indiquant :
+**<!--publisher:ContactEmail-->organize-files-app@outlook.com<!--/publisher-->** en indiquant :
 
 - L'adresse e-mail que vous avez utilisée pour contacter l'assistance, et/ou
 - Votre référence de licence ou de commande, le cas échéant
@@ -59,4 +59,4 @@ compte de ce store.
 
 ---
 
-© 2026 Guțulov Răzvan Constantin PFA. Tous droits réservés.
+© 2026 <!--publisher:LegalName-->Guțulov Răzvan Constantin PFA<!--/publisher-->. Tous droits réservés.

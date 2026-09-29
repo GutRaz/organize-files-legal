@@ -4,11 +4,11 @@
 
 # 최종 사용자 사용권 계약(EULA) - Organize Files
 
-**출판사:** Guțulov Răzvan Constantin PFA  
-**등록 주소:** Str. Republicii nr. 33B, bl. N3, sc. A, et. 1, ap. 3, Breaza de Sus, 105400 Breaza, jud. Prahova, România  
-**상업 등기:** F2026004513003 (EUID ROONRC.F2026004513003)  
-**납세자 번호:** 53610310  
-**연락처:** razvan.gutulov@outlook.com  
+**출판사:** <!--publisher:LegalName-->Guțulov Răzvan Constantin PFA<!--/publisher-->  
+**등록 주소:** <!--publisher:RegisteredAddress-->Str. Republicii nr. 33B, bl. N3, sc. A, et. 1, ap. 3, Breaza de Sus, 105400 Breaza, jud. Prahova, România<!--/publisher-->  
+**상업 등기:** <!--publisher:TradeRegister-->F2026004513003<!--/publisher--> (EUID <!--publisher:Euid-->ROONRC.F2026004513003<!--/publisher-->)  
+**납세자 번호:** <!--publisher:TaxId-->53610310<!--/publisher-->  
+**연락처:** <!--publisher:ContactEmail-->organize-files-app@outlook.com<!--/publisher-->  
 **유효일자:** 2026-05-28  
 **공개 URL(스토어 목록):** `https://github.com/GutRaz/organize-files-legal/blob/main/ko/eula.md`
 
@@ -49,8 +49,6 @@
 
 평가판 기간, 매장 SKU, 갱신 기간은 **스토어 목록** 및 인앱 라이선스 카드에 정의되어 있습니다. 릴리스 빌드에는 유효한 스토어 권한, 활성 평가판 또는 게시자가 운영하는 라이선스 서버 승인이 필요합니다.
 
-**스토어 환불, 취소 또는 구독 취소 후:** 이 설치가 이전에 유료 스토어 구매를 기록한 경우 앱은 **새로운 14일 로컬 평가판**(설치당 최대 **2회** 평가판)을 시작할 수 있습니다. 환불은 앱 내부가 아닌 스토어 플랫폼에서만 처리됩니다. 전체 흐름을 보려면 인앱 가이드 장 *구매 후 환불 및 평가판*을 참조하세요.
-
 ## 7. 개인정보 보호
 
 [개인정보처리방침](./privacy-policy.md)을 참고하세요.
@@ -76,4 +74,4 @@ Microsoft Store, Google Play, Mac App Store 또는 Apple App Store (iOS)를 통�
 
 ## 11. 연락처
 
-**Guțulov Răzvan Constantin PFA** — razvan.gutulov@outlook.com
+**<!--publisher:LegalName-->Guțulov Răzvan Constantin PFA<!--/publisher-->** — <!--publisher:ContactEmail-->organize-files-app@outlook.com<!--/publisher-->

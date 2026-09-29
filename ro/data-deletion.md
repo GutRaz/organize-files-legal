@@ -40,7 +40,7 @@ Editorul deține doar datele pe care le trimiți activ, cum ar fi:
 - **Înregistrări de server de licențe**, doar dacă un server de licențe este
   configurat pentru versiunea ta
 
-Pentru a solicita ștergerea acestor date, scrie la **razvan.gutulov@outlook.com**
+Pentru a solicita ștergerea acestor date, scrie la **<!--publisher:ContactEmail-->organize-files-app@outlook.com<!--/publisher-->**
 cu:
 
 - Adresa de e-mail de la care ai contactat suportul și/sau
@@ -60,4 +60,4 @@ magazin.
 
 ---
 
-© 2026 Guțulov Răzvan Constantin PFA. Toate drepturile rezervate.
+© 2026 <!--publisher:LegalName-->Guțulov Răzvan Constantin PFA<!--/publisher-->. Toate drepturile rezervate.

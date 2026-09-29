@@ -4,11 +4,11 @@
 
 # Chính sách quyền riêng tư - Organize Files
 
-**Nhà xuất bản:** Guțulov Răzvan Constantin PFA  
-**Địa chỉ đăng ký:** Str. Republicii nr. 33B, bl. N3, sc. A, et. 1, ap. 3, Breaza de Sus, 105400 Breaza, jud. Prahova, România  
-**Đăng ký kinh doanh:** F2026004513003 (EUID ROONRC.F2026004513003)  
-**Mã số thuế:** 53610310  
-**Liên hệ:** razvan.gutulov@outlook.com  
+**Nhà xuất bản:** <!--publisher:LegalName-->Guțulov Răzvan Constantin PFA<!--/publisher-->  
+**Địa chỉ đăng ký:** <!--publisher:RegisteredAddress-->Str. Republicii nr. 33B, bl. N3, sc. A, et. 1, ap. 3, Breaza de Sus, 105400 Breaza, jud. Prahova, România<!--/publisher-->  
+**Đăng ký kinh doanh:** <!--publisher:TradeRegister-->F2026004513003<!--/publisher--> (EUID <!--publisher:Euid-->ROONRC.F2026004513003<!--/publisher-->)  
+**Mã số thuế:** <!--publisher:TaxId-->53610310<!--/publisher-->  
+**Liên hệ:** <!--publisher:ContactEmail-->organize-files-app@outlook.com<!--/publisher-->  
 **Ngày có hiệu lực:** 28-05-2026  
 **URL công khai:** `https://github.com/GutRaz/organize-files-legal/blob/main/vi/privacy-policy.md`
 
@@ -20,7 +20,7 @@ Organize Files xử lý tệp **cục bộ trên thiết bị**. Nội dung tệ
 
 ## Bên kiểm soát và liên hệ
 
-Đối với dữ liệu cá nhân do nhà phát hành xử lý, bên kiểm soát là **Guțulov Răzvan Constantin PFA**. Liên hệ: **razvan.gutulov@outlook.com**.
+Đối với dữ liệu cá nhân do nhà phát hành xử lý, bên kiểm soát là **<!--publisher:LegalName-->Guțulov Răzvan Constantin PFA<!--/publisher-->**. Liên hệ: **<!--publisher:ContactEmail-->organize-files-app@outlook.com<!--/publisher-->**.
 
 ## Dữ liệu được xử lý cục bộ
 
@@ -51,7 +51,7 @@ Organize Files xử lý tệp **cục bộ trên thiết bị**. Nội dung tệ
 | Máy chủ cấp phép tùy chọn (được định cấu hình bởi nhà điều hành) | ID cài đặt liên tục ngẫu nhiên (GUID được lưu trữ trong `license_installation_id.txt`) được gửi đến máy chủ cấp phép do nhà xuất bản hoặc nhà điều hành định cấu hình tại `ORGANIZE_FILES_LICENSE_SERVER_URL`. ID cài đặt là mã nhận dạng thiết bị theo GDPR Recital 30. Cơ sở hợp pháp: thực hiện hợp đồng. Lưu giữ do nhà phát hành vận hành: hồ sơ quyền trong thời gian hoạt động cộng thêm tối đa 24 tháng sau khi hết hạn/thu hồi để ngăn lạm dụng và xử lý tranh chấp; hồ sơ kế toán có thể được lưu tối đa 7 năm khi luật yêu cầu. Máy chủ do nhà điều hành vận hành tuân theo lịch lưu giữ đã được nhà điều hành ghi nhận. Tính năng này không hoạt động trừ khi `ORGANIZE_FILES_LICENSE_SERVER_URL` được đặt. | Máy chủ cấp phép nhà xuất bản hoặc nhà điều hành |
 | Theo dõi OpenTelemetry tùy chọn (được định cấu hình bởi nhà điều hành) | Khi `ORGANIZE_FILES_OTEL_EXPORTER_OTLP_ENDPOINT` được đặt, siêu dữ liệu công việc tự động hóa (ID công việc, ID tương quan, thẻ loại mục tiêu, ngữ cảnh theo dõi W3C) được xuất sang bộ thu thập OTLP đã định cấu hình. Không có đường dẫn tệp hoặc nội dung tệp nào được bao gồm. Tính năng này không hoạt động theo mặc định và yêu cầu cấu hình toán tử rõ ràng. | Bộ thu thập OTLP do nhà điều hành định cấu hình |
 | Thông báo email tùy chọn (khi bật) | Trạng thái chạy và đoạn nhật ký (có thể gồm đường dẫn tệp) gửi qua máy chủ SMTP do nhà điều hành cấu hình | SMTP / nhà cung cấp thư của nhà điều hành |
-| Webhook tự động hóa tùy chọn (do người vận hành cấu hình) | Khi đặt `ORGANIZE_FILES_AUTOMATION_WEBHOOK_URL`, các sự kiện vòng đời công việc kèm mã tương quan và đường dẫn tệp trạng thái tự động hóa | Điểm cuối webhook do người vận hành cấu hình |
+| Webhook tự động hóa tùy chọn (do người vận hành cấu hình) | Khi đặt `ORGANIZE_FILES_AUTOMATION_WEBHOOK_URL`, mỗi sự kiện của công việc (chẳng hạn một lần chạy bắt đầu, chờ phê duyệt, được phê duyệt hoặc kết thúc) gửi một thông báo gồm tên, mã và thời gian của sự kiện, tên máy tính, mã công việc và mã tương quan, mục tiêu, giai đoạn, kết quả và mã thoát của công việc, đường dẫn thư mục đầu ra, thông báo lỗi của lần chạy thất bại (có thể nêu tên tệp hoặc thư mục), tên người dùng và mã người vận hành của người đã phê duyệt một lần chạy thực, đường dẫn tệp trạng thái tự động hóa không lưu được và cổng của dịch vụ số liệu không khởi động được | Điểm cuối webhook do người vận hành cấu hình |
 | Kiểm tra danh tính tùy chọn khi phê duyệt thực thi (do người vận hành cấu hình) | Khi đặt `ORGANIZE_FILES_APPROVE_OAUTH_JWKS_URL`, một HTTPS GET lấy khóa ký và lưu đệm trong một giờ; không có mã thông báo nào rời khỏi thiết bị. Khi đặt `ORGANIZE_FILES_APPROVE_OAUTH_INTROSPECTION_URL`, chính mã thông báo người mang của người vận hành được gửi tới điểm cuối đó để xác thực (RFC 7662), kèm thông tin xác thực máy khách HTTP Basic nếu đã cấu hình. Không hoạt động trừ khi một trong hai URL đó được đặt. | Nhà cung cấp danh tính do người vận hành cấu hình |
 | Người trợ giúp thử lại NAS động cơ | Không có gì ngoài đường dẫn mạng được cấu hình | Máy chủ NAS / SMB |
 
@@ -73,7 +73,7 @@ Kiểm tra cập nhật tùy chọn có thể đến các máy chủ bên ngoài
 
 ## Thẩm quyền giám sát và khiếu nại
 
-Nếu luật hiện hành cấp quyền đối với chủ thể dữ liệu hoặc khiếu nại lên cơ quan giám sát, trước tiên hãy liên hệ với nhà xuất bản theo địa chỉ **razvan.gutulov@outlook.com**. Cư dân EU/EEA cũng có thể khiếu nại với cơ quan bảo vệ dữ liệu địa phương của họ (đối với Romania: ANSPDCP, https://www.dataprotection.ro).
+Nếu luật hiện hành cấp quyền đối với chủ thể dữ liệu hoặc khiếu nại lên cơ quan giám sát, trước tiên hãy liên hệ với nhà xuất bản theo địa chỉ **<!--publisher:ContactEmail-->organize-files-app@outlook.com<!--/publisher-->**. Cư dân EU/EEA cũng có thể khiếu nại với cơ quan bảo vệ dữ liệu địa phương của họ (đối với Romania: ANSPDCP, https://www.dataprotection.ro).
 
 ## Bộ xử lý của bên thứ ba (khi sử dụng các tính năng này)
 
@@ -98,7 +98,7 @@ Các tệp cục bộ vẫn còn cho đến khi bạn xóa chúng, xóa dữ li�
 
 ## Quyền của bạn
 
-Đối với dữ liệu mà nhà xuất bản lưu giữ (ví dụ: hỗ trợ thư từ qua email), hãy liên hệ **razvan.gutulov@outlook.com**. Đối với dữ liệu chỉ được lưu trữ trên thiết bị của bạn, bạn có thể xóa hầu hết dữ liệu ứng dụng thông qua **Xóa dữ liệu ứng dụng**, gỡ cài đặt hoặc xóa tệp thủ công. **Xóa dữ liệu ứng dụng** xóa phiên, nhật ký và bản nháp tự động hóa nhưng có thể giữ lại các neo dùng thử giấy phép, điểm đánh dấu cài đặt trả phí và mã nhận dạng cài đặt được sử dụng để kiểm tra giấy phép tùy chọn — hãy xem văn bản xác nhận trong ứng dụng trước khi bạn tiếp tục. Khi được áp dụng, bạn có thể yêu cầu quyền truy cập, chỉnh sửa, xóa, hạn chế xử lý, phản đối việc xử lý, chuyển dữ liệu hoặc rút lại sự đồng ý.
+Đối với dữ liệu mà nhà xuất bản lưu giữ (ví dụ: hỗ trợ thư từ qua email), hãy liên hệ **<!--publisher:ContactEmail-->organize-files-app@outlook.com<!--/publisher-->**. Đối với dữ liệu chỉ được lưu trữ trên thiết bị của bạn, bạn có thể xóa hầu hết dữ liệu ứng dụng thông qua **Xóa dữ liệu ứng dụng**, gỡ cài đặt hoặc xóa tệp thủ công. **Xóa dữ liệu ứng dụng** xóa phiên, nhật ký và bản nháp tự động hóa nhưng có thể giữ lại các neo dùng thử giấy phép, điểm đánh dấu cài đặt trả phí và mã nhận dạng cài đặt được sử dụng để kiểm tra giấy phép tùy chọn — hãy xem văn bản xác nhận trong ứng dụng trước khi bạn tiếp tục. Khi được áp dụng, bạn có thể yêu cầu quyền truy cập, chỉnh sửa, xóa, hạn chế xử lý, phản đối việc xử lý, chuyển dữ liệu hoặc rút lại sự đồng ý.
 
 Nhà phát hành sẽ phản hồi yêu cầu của chủ thể dữ liệu trong khoảng thời gian mà luật áp dụng yêu cầu (có thể yêu cầu xác minh danh tính khi cần thiết hợp lý).
 

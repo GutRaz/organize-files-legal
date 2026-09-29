@@ -8,11 +8,11 @@
 
 ## 연락처
 
-- **이메일:** razvan.gutulov@outlook.com
-- **게시자:** Guțulov Răzvan Constantin PFA
-- **등록 주소:** Str. Republicii nr. 33B, bl. N3, sc. A, et. 1, ap. 3, Breaza de Sus, 105400 Breaza, jud. Prahova, România
-- **상업 등기:** F2026004513003 (EUID ROONRC.F2026004513003)
-- **납세자 번호:** 53610310
+- **이메일:** <!--publisher:ContactEmail-->organize-files-app@outlook.com<!--/publisher-->
+- **게시자:** <!--publisher:LegalName-->Guțulov Răzvan Constantin PFA<!--/publisher-->
+- **등록 주소:** <!--publisher:RegisteredAddress-->Str. Republicii nr. 33B, bl. N3, sc. A, et. 1, ap. 3, Breaza de Sus, 105400 Breaza, jud. Prahova, România<!--/publisher-->
+- **상업 등기:** <!--publisher:TradeRegister-->F2026004513003<!--/publisher--> (EUID <!--publisher:Euid-->ROONRC.F2026004513003<!--/publisher-->)
+- **납세자 번호:** <!--publisher:TaxId-->53610310<!--/publisher-->
 
 문의하실 때 다음을 포함해 주십시오.
 
@@ -39,4 +39,4 @@
 
 ---
 
-© 2026 Guțulov Răzvan Constantin PFA. All rights reserved.
+© 2026 <!--publisher:LegalName-->Guțulov Răzvan Constantin PFA<!--/publisher-->. All rights reserved.

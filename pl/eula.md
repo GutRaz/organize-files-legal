@@ -4,11 +4,11 @@
 
 # Umowa licencyjna użytkownika końcowego (EULA) — Organize Files
 
-**Wydawca:** Guțulov Răzvan Constantin PFA  
-**Adres rejestrowy:** Str. Republicii nr. 33B, bl. N3, sc. A, et. 1, ap. 3, Breaza de Sus, 105400 Breaza, jud. Prahova, România  
-**Rejestr handlowy:** F2026004513003 (EUID ROONRC.F2026004513003)  
-**Numer identyfikacji podatkowej:** 53610310  
-**Kontakt:** razvan.gutulov@outlook.com  
+**Wydawca:** <!--publisher:LegalName-->Guțulov Răzvan Constantin PFA<!--/publisher-->  
+**Adres rejestrowy:** <!--publisher:RegisteredAddress-->Str. Republicii nr. 33B, bl. N3, sc. A, et. 1, ap. 3, Breaza de Sus, 105400 Breaza, jud. Prahova, România<!--/publisher-->  
+**Rejestr handlowy:** <!--publisher:TradeRegister-->F2026004513003<!--/publisher--> (EUID <!--publisher:Euid-->ROONRC.F2026004513003<!--/publisher-->)  
+**Numer identyfikacji podatkowej:** <!--publisher:TaxId-->53610310<!--/publisher-->  
+**Kontakt:** <!--publisher:ContactEmail-->organize-files-app@outlook.com<!--/publisher-->  
 **Data wejścia w życie:** 28.05.2026 r  
 **Publiczny adres URL (informacje o sklepie):** `https://github.com/GutRaz/organize-files-legal/blob/main/pl/eula.md`
 
@@ -49,8 +49,6 @@ W MAKSYMALNYM ZAKRESIE DOZWOLONYM PRZEZ PRAWO WYDAWCA NIE PONOSI ODPOWIEDZIALNO�
 
 Czas trwania wersji próbnej, kody SKU sklepu i warunki odnowienia są określone w **informacjach o sklepie** i karcie licencyjnej w aplikacji. Kompilacje wersji wymagają ważnego uprawnienia ze sklepu, aktywnej wersji próbnej lub autoryzacji z serwera licencji prowadzonego przez wydawcę.
 
-**Po zwróceniu środków w sklepie, anulowaniu lub anulowaniu subskrypcji:** jeśli w tej instalacji zarejestrowano wcześniej zakup w płatnym sklepie, aplikacja może rozpocząć **nowy 14-dniowy lokalny okres próbny** (maksymalnie **dwa** takie okresy próbne na instalację). Zwroty pieniędzy są obsługiwane wyłącznie przez platformę sklepu, a nie w aplikacji. Pełny opis znajdziesz w rozdziale przewodnika w aplikacji *Zwroty środków i okres próbny po zakupie*.
-
 ## 7. Prywatność
 
 Zobacz [Politykę prywatności](./privacy-policy.md).
@@ -76,4 +74,4 @@ Rumuńscy konsumenci mogą w przypadku sporów kontaktować się z Krajowym Urz�
 
 ## 11. Kontakt
 
-**Guțulov Răzvan Constantin PFA** — razvan.gutulov@outlook.com
+**<!--publisher:LegalName-->Guțulov Răzvan Constantin PFA<!--/publisher-->** — <!--publisher:ContactEmail-->organize-files-app@outlook.com<!--/publisher-->

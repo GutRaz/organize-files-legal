@@ -4,11 +4,11 @@
 
 # プライバシー ポリシー — Organize Files
 
-**出版社:** Guțulov Răzvan Constantin PFA  
-**登録住所:** Str. Republicii nr. 33B, bl. N3, sc. A, et. 1, ap. 3, Breaza de Sus, 105400 Breaza, jud. Prahova, România  
-**商業登記:** F2026004513003 (EUID ROONRC.F2026004513003)  
-**納税者番号:** 53610310  
-**連絡先:** razvan.gutulov@outlook.com  
+**出版社:** <!--publisher:LegalName-->Guțulov Răzvan Constantin PFA<!--/publisher-->  
+**登録住所:** <!--publisher:RegisteredAddress-->Str. Republicii nr. 33B, bl. N3, sc. A, et. 1, ap. 3, Breaza de Sus, 105400 Breaza, jud. Prahova, România<!--/publisher-->  
+**商業登記:** <!--publisher:TradeRegister-->F2026004513003<!--/publisher--> (EUID <!--publisher:Euid-->ROONRC.F2026004513003<!--/publisher-->)  
+**納税者番号:** <!--publisher:TaxId-->53610310<!--/publisher-->  
+**連絡先:** <!--publisher:ContactEmail-->organize-files-app@outlook.com<!--/publisher-->  
 **発効日:** 2026-05-28  
 **公開 URL:** `https://github.com/GutRaz/organize-files-legal/blob/main/ja/privacy-policy.md`
 
@@ -20,7 +20,7 @@ Organize Files は、**デバイス上でローカル**にファイルを処理�
 
 ## 管理者と連絡先
 
-発行者が処理する個人データについて、管理者は **Guțulov Răzvan Constantin PFA** です。連絡先: **razvan.gutulov@outlook.com**。
+発行者が処理する個人データについて、管理者は **<!--publisher:LegalName-->Guțulov Răzvan Constantin PFA<!--/publisher-->** です。連絡先: **<!--publisher:ContactEmail-->organize-files-app@outlook.com<!--/publisher-->**。
 
 ## データはローカルで処理されます
 
@@ -51,7 +51,7 @@ Organize Files は、**デバイス上でローカル**にファイルを処理�
 |オプションのライセンス サーバー (オペレーター構成) |ランダムな永続インストール ID (`license_installation_id.txt` に保存されている GUID) が、`ORGANIZE_FILES_LICENSE_SERVER_URL` にある発行者運営またはオペレーター設定のライセンス サーバーに送信されます。インストール ID は、GDPR 規定 30 に基づくデバイス識別子です。法的根拠: 契約の履行。発行者運営の保持: エンタイトルメント記録は有効期間中および満了/取消後最大 24 か月（不正防止および紛争対応）。会計記録は法令で必要な場合最大 7 年保持されることがあります。オペレーター運用サーバーはオペレーターの文書化された保持スケジュールに従います。この機能は、「ORGANIZE_FILES_LICENSE_SERVER_URL」が設定されていない限り無効です。 |パブリッシャーまたはオペレーターのライセンス サーバー |
 |オプションの OpenTelemetry トレース (オペレーター構成) | `ORGANIZE_FILES_OTEL_EXPORTER_OTLP_ENDPOINT` が設定されている場合、自動化ジョブのメタデータ (ジョブ ID、相関 ID、ターゲット タイプ タグ、W3C トレース コンテキスト) が、設定された OTLP コレクターにエクスポートされます。ファイル パスやファイルの内容は含まれません。この機能はデフォルトでは非アクティブになっており、オペレーターによる明示的な構成が必要です。 |オペレータ設定の OTLP コレクター |
 | オプションのメール通知（有効時） | 実行ステータスとログ抜粋（ファイルパスを含む場合あり）がオペレーター設定の SMTP サーバー経由で送信されます | オペレーターの SMTP / メールプロバイダー |
-| 任意の自動化 Webhook (運用者が設定) | `ORGANIZE_FILES_AUTOMATION_WEBHOOK_URL` が設定されている場合、相関 ID と自動化状態ファイルのファイル パスを含むジョブ ライフサイクル イベント | 運用者が設定した Webhook エンドポイント |
+| 任意の自動化 Webhook (運用者が設定) | `ORGANIZE_FILES_AUTOMATION_WEBHOOK_URL` が設定されている場合、ジョブのイベント (実行の開始、承認待ち、承認、終了など) ごとに 1 件のメッセージ。内容は、イベントの名前・ID・時刻、コンピューター名、ジョブ ID と相関 ID、ジョブのターゲット・フェーズ・結果・終了コード、出力フォルダーのパス、失敗した実行のエラー メッセージ (ファイルやフォルダーの名前を含む場合があります)、実際の実行を承認した人のユーザー名と運用者 ID、保存できなかった自動化状態ファイルのパス、起動できなかったメトリクス サービスのポート | 運用者が設定した Webhook エンドポイント |
 | 実行承認の任意の ID 検証 (オペレーターが設定) | `ORGANIZE_FILES_APPROVE_OAUTH_JWKS_URL` を設定すると、HTTPS GET が署名鍵を取得し 1 時間キャッシュします。トークンはデバイスから送信されません。`ORGANIZE_FILES_APPROVE_OAUTH_INTROSPECTION_URL` を設定した場合は、オペレーターのベアラー トークン自体が検証のためにそのエンドポイントへ送信されます (RFC 7662)。設定されていれば HTTP Basic のクライアント資格情報も添えられます。どちらの URL も未設定なら無効です。 | オペレーターが設定した ID プロバイダー |
 |エンジン NAS 再試行ヘルパー |設定されたネットワーク パスを超えるものはありません | NAS/SMBホスト |
 
@@ -73,7 +73,7 @@ Organize Files は、**デバイス上でローカル**にファイルを処理�
 
 ## 監督当局と苦情
 
-適用法によりデータ主体の権利が認められている場合、または監督当局への苦情が認められている場合は、まず発行者 (**razvan.gutulov@outlook.com**) にご連絡ください。 EU/EEA 居住者は、現地のデータ保護当局 (ルーマニアの場合: ANSPDCP、https://www.dataprotection.ro) に苦情を申し立てることもできます。
+適用法によりデータ主体の権利が認められている場合、または監督当局への苦情が認められている場合は、まず発行者 (**<!--publisher:ContactEmail-->organize-files-app@outlook.com<!--/publisher-->**) にご連絡ください。 EU/EEA 居住者は、現地のデータ保護当局 (ルーマニアの場合: ANSPDCP、https://www.dataprotection.ro) に苦情を申し立てることもできます。
 
 ## サードパーティ製プロセッサ (これらの機能を使用する場合)
 
@@ -98,7 +98,7 @@ Organize Files は、**デバイス上でローカル**にファイルを処理�
 
 ## あなたの権利
 
-発行者が保持するデータ (サポート電子メール通信など) については、**razvan.gutulov@outlook.com** にお問い合わせください。デバイスにのみ保存されているデータの場合、**アプリ データのクリア**、アンインストール、または手動ファイル削除を使用して、ほとんどのアプリ データを削除できます。 **アプリ データをクリア**すると、セッション、ログ、自動化ドラフトが削除されますが、ライセンス トライアル アンカー、有料インストール マーカー、およびオプションのライセンス チェックに使用されるインストール識別子が保持される場合があります。続行する前に、アプリ内の確認テキストを参照してください。 該当する場合、アクセス、訂正、削除、処理の制限、処理への異議、データポータビリティ、または同意の撤回を請求できます。
+発行者が保持するデータ (サポート電子メール通信など) については、**<!--publisher:ContactEmail-->organize-files-app@outlook.com<!--/publisher-->** にお問い合わせください。デバイスにのみ保存されているデータの場合、**アプリ データのクリア**、アンインストール、または手動ファイル削除を使用して、ほとんどのアプリ データを削除できます。 **アプリ データをクリア**すると、セッション、ログ、自動化ドラフトが削除されますが、ライセンス トライアル アンカー、有料インストール マーカー、およびオプションのライセンス チェックに使用されるインストール識別子が保持される場合があります。続行する前に、アプリ内の確認テキストを参照してください。 該当する場合、アクセス、訂正、削除、処理の制限、処理への異議、データポータビリティ、または同意の撤回を請求できます。
 
 発行者は、確認済みの請求から適用法で定められた期間内にデータ主体の請求へ回答することを目指します（合理的に必要な場合、本人確認を求めることがあります）。
 

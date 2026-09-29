@@ -25,7 +25,7 @@
 - サポートに連絡した場合の**サポートメール**のやり取り
 - ビルドにライセンスサーバーが構成されている場合のみの**ライセンスサーバーの記録**
 
-これらのデータの削除を要求するには、次の情報を添えて **razvan.gutulov@outlook.com** までメールでご連絡ください。
+これらのデータの削除を要求するには、次の情報を添えて **<!--publisher:ContactEmail-->organize-files-app@outlook.com<!--/publisher-->** までメールでご連絡ください。
 
 - サポートへの連絡に使用したメールアドレス、および/または
 - ライセンスまたは注文の参照番号（ある場合）
@@ -38,4 +38,4 @@
 
 ---
 
-© 2026 Guțulov Răzvan Constantin PFA. All rights reserved.
+© 2026 <!--publisher:LegalName-->Guțulov Răzvan Constantin PFA<!--/publisher-->. All rights reserved.

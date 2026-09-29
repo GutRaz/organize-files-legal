@@ -4,11 +4,11 @@
 
 # Végfelhasználói licencszerződés (EULA) — Organize Files
 
-**Kiadó:** Guțulov Răzvan Constantin PFA  
-**Bejegyzett cím:** Str. Republicii nr. 33B, bl. N3, sc. A, et. 1, ap. 3, Breaza de Sus, 105400 Breaza, jud. Prahova, România  
-**Cégjegyzék:** F2026004513003 (EUID ROONRC.F2026004513003)  
-**Adóazonosító szám:** 53610310  
-**Kapcsolat:** razvan.gutulov@outlook.com  
+**Kiadó:** <!--publisher:LegalName-->Guțulov Răzvan Constantin PFA<!--/publisher-->  
+**Bejegyzett cím:** <!--publisher:RegisteredAddress-->Str. Republicii nr. 33B, bl. N3, sc. A, et. 1, ap. 3, Breaza de Sus, 105400 Breaza, jud. Prahova, România<!--/publisher-->  
+**Cégjegyzék:** <!--publisher:TradeRegister-->F2026004513003<!--/publisher--> (EUID <!--publisher:Euid-->ROONRC.F2026004513003<!--/publisher-->)  
+**Adóazonosító szám:** <!--publisher:TaxId-->53610310<!--/publisher-->  
+**Kapcsolat:** <!--publisher:ContactEmail-->organize-files-app@outlook.com<!--/publisher-->  
 **Hatálybalépés dátuma:** 2026-05-28  
 **Nyilvános URL (üzleti adatok):** `https://github.com/GutRaz/organize-files-legal/blob/main/hu/eula.md`
 
@@ -49,8 +49,6 @@ A TÖRVÉNY ÁLTAL ENGEDÉLYEZETT MAXIMÁLIS MÉRTÉKBEN A KIADÓ NEM VÁLLAL FE
 
 A próbaidőszak, az áruházi cikkszámok és a megújítási feltételek az **áruház adatlapján** és az alkalmazáson belüli licenckártyán vannak meghatározva. A kiadási buildekhez érvényes áruházi jogosultság, aktív próbaidőszak vagy a kiadó által üzemeltetett licencszerver engedélye szükséges.
 
-**Az üzletben történt visszatérítés, visszavonás vagy lemondott előfizetés után:** ha ez a telepítés korábban fizetős bolti vásárlást rögzített, az alkalmazás elindíthat egy **új 14 napos helyi próbaverziót** (telepítésenként legfeljebb **két** ilyen próba). A pénzvisszatérítést csak az áruház platformja kezeli – az alkalmazáson belül nem. Tekintse meg az alkalmazáson belüli útmutató *Visszatérítések és vásárlás utáni próbaverzió* című fejezetét a teljes folyamatért.
-
 ## 7. Adatvédelem
 
 Lásd: [Adatvédelmi szabályzat](./privacy-policy.md).
@@ -76,4 +74,4 @@ A román fogyasztók vitáikkal az Országos Fogyasztóvédelmi Hatósághoz (AN
 
 ## 11. Kapcsolat
 
-**Guțulov Răzvan Constantin PFA** — razvan.gutulov@outlook.com
+**<!--publisher:LegalName-->Guțulov Răzvan Constantin PFA<!--/publisher-->** — <!--publisher:ContactEmail-->organize-files-app@outlook.com<!--/publisher-->

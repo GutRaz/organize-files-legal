@@ -40,7 +40,7 @@ Mchapishaji huhifadhi tu data unayotuma kwa hiari, kama vile:
 - **Kumbukumbu za seva ya leseni**, tu ikiwa seva ya leseni imesanidiwa kwa toleo
   lako
 
-Ili kuomba kufutwa kwa data hii, tuma barua pepe kwa **razvan.gutulov@outlook.com**
+Ili kuomba kufutwa kwa data hii, tuma barua pepe kwa **<!--publisher:ContactEmail-->organize-files-app@outlook.com<!--/publisher-->**
 ukiwa na:
 
 - Anwani ya barua pepe uliyotumia kuwasiliana na usaidizi, na/au
@@ -59,4 +59,4 @@ duka, tumia mipangilio ya akaunti ya duka hilo.
 
 ---
 
-© 2026 Guțulov Răzvan Constantin PFA. Haki zote zimehifadhiwa.
+© 2026 <!--publisher:LegalName-->Guțulov Răzvan Constantin PFA<!--/publisher-->. Haki zote zimehifadhiwa.

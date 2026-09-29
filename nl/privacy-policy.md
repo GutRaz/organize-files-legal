@@ -4,11 +4,11 @@
 
 # Privacybeleid — Organize Files
 
-**Uitgever:** Guțulov Răzvan Constantin PFA  
-**Geregistreerd adres:** Str. Republicii nr. 33B, bl. N3, sc. A, et. 1, ap. 3, Breaza de Sus, 105400 Breaza, jud. Prahova, România  
-**Handelsregister:** F2026004513003 (EUID ROONRC.F2026004513003)  
-**Fiscaal identificatienummer:** 53610310  
-**Contact:** razvan.gutulov@outlook.com  
+**Uitgever:** <!--publisher:LegalName-->Guțulov Răzvan Constantin PFA<!--/publisher-->  
+**Geregistreerd adres:** <!--publisher:RegisteredAddress-->Str. Republicii nr. 33B, bl. N3, sc. A, et. 1, ap. 3, Breaza de Sus, 105400 Breaza, jud. Prahova, România<!--/publisher-->  
+**Handelsregister:** <!--publisher:TradeRegister-->F2026004513003<!--/publisher--> (EUID <!--publisher:Euid-->ROONRC.F2026004513003<!--/publisher-->)  
+**Fiscaal identificatienummer:** <!--publisher:TaxId-->53610310<!--/publisher-->  
+**Contact:** <!--publisher:ContactEmail-->organize-files-app@outlook.com<!--/publisher-->  
 **Ingangsdatum:** 28-05-2026  
 **Openbare URL:** `https://github.com/GutRaz/organize-files-legal/blob/main/nl/privacy-policy.md`
 
@@ -20,7 +20,7 @@ Organize Files verwerkt bestanden **lokaal op het apparaat**. Bestandsinhoud wor
 
 ## Verwerkingsverantwoordelijke en contact
 
-Voor persoonsgegevens die de uitgever verwerkt, is de verwerkingsverantwoordelijke **Guțulov Răzvan Constantin PFA**. Contact: **razvan.gutulov@outlook.com**.
+Voor persoonsgegevens die de uitgever verwerkt, is de verwerkingsverantwoordelijke **<!--publisher:LegalName-->Guțulov Răzvan Constantin PFA<!--/publisher-->**. Contact: **<!--publisher:ContactEmail-->organize-files-app@outlook.com<!--/publisher-->**.
 
 ## Gegevens lokaal verwerkt
 
@@ -51,7 +51,7 @@ Voor persoonsgegevens die de uitgever verwerkt, is de verwerkingsverantwoordelij
 | Optionele licentieserver (door de operator geconfigureerd) | Een willekeurige persistente installatie-ID (GUID opgeslagen in `license_installation_id.txt`) wordt verzonden naar een door de uitgever beheerde of door de operator geconfigureerde licentieserver op `ORGANIZE_FILES_LICENSE_SERVER_URL`. De installatie-ID is een apparaatidentificatie volgens AVG-overweging 30. Wettelijke basis: uitvoering van contract. Uitgever-beheerde retentie: entitlement-records terwijl actief plus tot 24 maanden na verval/intrekking voor misbruikpreventie en geschillen; boekhoudkundige gegevens kunnen tot 7 jaar worden bewaard wanneer de wet dat vereist. Door de operator beheerde servers volgen het gedocumenteerde retentieschema van de operator. Deze functie is inactief tenzij `ORGANIZE_FILES_LICENSE_SERVER_URL` is ingesteld. | Uitgever- of operatorlicentieserver |
 | Optionele OpenTelemetry-tracering (door de operator geconfigureerd) | Wanneer 'ORGANIZE_FILES_OTEL_EXPORTER_OTLP_ENDPOINT' is ingesteld, worden metagegevens van automatiseringstaak (taak-ID's, correlatie-ID's, doeltype-tags, W3C-traceercontext) geëxporteerd naar de geconfigureerde OTLP-verzamelaar. Er zijn geen bestandspaden of bestandsinhoud opgenomen. Deze functie is standaard inactief en vereist een expliciete operatorconfiguratie. | Door de operator geconfigureerde OTLP-collector |
 | Optionele e-mailmeldingen (indien ingeschakeld) | Uitvoeringsstatus en logfragmenten (kunnen bestandspaden bevatten) verzonden via de door de operator geconfigureerde SMTP-server | Operator-SMTP / e-mailprovider |
-| Optionele automatiseringswebhooks (door de beheerder ingesteld) | Wanneer `ORGANIZE_FILES_AUTOMATION_WEBHOOK_URL` is ingesteld, gebeurtenissen uit de levenscyclus van taken met correlatie-ID's en de bestandspaden van automatiseringsstatusbestanden | Door de beheerder ingesteld webhook-eindpunt |
+| Optionele automatiseringswebhooks (door de beheerder ingesteld) | Wanneer `ORGANIZE_FILES_AUTOMATION_WEBHOOK_URL` is ingesteld, een bericht per taakgebeurtenis (zoals het starten van een uitvoering, wachten op goedkeuring, goedkeuring of het einde), met de naam, id en tijd van de gebeurtenis, de computernaam, de taak-id en de correlatie-id, het doel, de fase, het resultaat en de afsluitcode van de taak, het pad van de uitvoermap, de foutmelding van een mislukte uitvoering (die een bestand of map kan noemen), de gebruikersnaam en beheerders-id van wie een echte uitvoering heeft goedgekeurd, het pad van een automatiseringsstatusbestand dat niet kon worden opgeslagen, en de poort van een metriekdienst die niet kon starten | Door de beheerder ingesteld webhook-eindpunt |
 | Optionele identiteitscontrole bij uitvoeringsgoedkeuring (door de operator ingesteld) | Met `ORGANIZE_FILES_APPROVE_OAUTH_JWKS_URL` ingesteld haalt een HTTPS GET de ondertekeningssleutels op en cachet ze een uur; er verlaat geen token het apparaat. Met `ORGANIZE_FILES_APPROVE_OAUTH_INTROSPECTION_URL` ingesteld wordt het bearer-token van de operator zelf naar dat eindpunt gestuurd ter validatie (RFC 7662), met HTTP Basic-clientgegevens indien ingesteld. Inactief tenzij een van die URL's is ingesteld. | Door de operator ingestelde identiteitsprovider |
 | Helpers voor nieuwe pogingen van Engine NAS | Geen buiten de geconfigureerde netwerkpaden | NAS/SMB-host |
 
@@ -73,7 +73,7 @@ Optionele updatecontroles kunnen servers buiten de Europese Economische Ruimte b
 
 ## Toezichthoudende autoriteit en klachten
 
-Als de toepasselijke wetgeving de betrokkene rechten verleent of een klacht indient bij een toezichthoudende autoriteit, neem dan eerst contact op met de uitgever via **razvan.gutulov@outlook.com**. Inwoners van de EU/EER kunnen ook een klacht indienen bij hun lokale gegevensbeschermingsautoriteit (voor Roemenië: ANSPDCP, https://www.dataprotection.ro).
+Als de toepasselijke wetgeving de betrokkene rechten verleent of een klacht indient bij een toezichthoudende autoriteit, neem dan eerst contact op met de uitgever via **<!--publisher:ContactEmail-->organize-files-app@outlook.com<!--/publisher-->**. Inwoners van de EU/EER kunnen ook een klacht indienen bij hun lokale gegevensbeschermingsautoriteit (voor Roemenië: ANSPDCP, https://www.dataprotection.ro).
 
 ## Externe processors (wanneer deze functies worden gebruikt)
 
@@ -98,7 +98,7 @@ Voor gegevens die de uitgever bewaart:
 
 ## Jouw rechten
 
-Neem voor gegevens waarover de uitgever beschikt (bijvoorbeeld ondersteuningsmailcorrespondentie) contact op met **razvan.gutulov@outlook.com**. Waar van toepassing kunt u toegang, rectificatie, wissing, beperking, bezwaar, overdraagbaarheid of intrekking van toestemming verzoeken. De uitgever streeft ernaar geverifieerde verzoeken binnen de periode te beantwoorden die de toepasselijke wet vereist (identiteitsverificatie kan redelijkerwijs worden gevraagd). Voor gegevens die alleen op uw apparaat zijn opgeslagen, kunt u de meeste app-gegevens verwijderen via **App-gegevens wissen**, verwijderen of handmatig bestanden verwijderen. **Door app-gegevens te wissen** worden sessies, logboeken en automatiseringsconcepten verwijderd, maar kunnen licentieproefankers, markeringen voor betaalde installaties en een installatie-ID die wordt gebruikt voor optionele licentiecontroles behouden blijven. Bekijk de bevestigingstekst in de app voordat u doorgaat.
+Neem voor gegevens waarover de uitgever beschikt (bijvoorbeeld ondersteuningsmailcorrespondentie) contact op met **<!--publisher:ContactEmail-->organize-files-app@outlook.com<!--/publisher-->**. Waar van toepassing kunt u toegang, rectificatie, wissing, beperking, bezwaar, overdraagbaarheid of intrekking van toestemming verzoeken. De uitgever streeft ernaar geverifieerde verzoeken binnen de periode te beantwoorden die de toepasselijke wet vereist (identiteitsverificatie kan redelijkerwijs worden gevraagd). Voor gegevens die alleen op uw apparaat zijn opgeslagen, kunt u de meeste app-gegevens verwijderen via **App-gegevens wissen**, verwijderen of handmatig bestanden verwijderen. **Door app-gegevens te wissen** worden sessies, logboeken en automatiseringsconcepten verwijderd, maar kunnen licentieproefankers, markeringen voor betaalde installaties en een installatie-ID die wordt gebruikt voor optionele licentiecontroles behouden blijven. Bekijk de bevestigingstekst in de app voordat u doorgaat.
 
 ## Kinderen
 

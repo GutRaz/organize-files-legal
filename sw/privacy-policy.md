@@ -4,11 +4,11 @@
 
 # Sera ya Faragha - Organize Files
 
-**Mchapishaji:** Guțulov Răzvan Constantin PFA  
-**Anwani iliyosajiliwa:** Str. Republicii nr. 33B, bl. N3, sc. A, et. 1, ap. 3, Breaza de Sus, 105400 Breaza, jud. Prahova, România  
-**Rejista ya biashara:** F2026004513003 (EUID ROONRC.F2026004513003)  
-**Nambari ya utambulisho wa kodi:** 53610310  
-**Mawasiliano:** razvan.gutulov@outlook.com  
+**Mchapishaji:** <!--publisher:LegalName-->Guțulov Răzvan Constantin PFA<!--/publisher-->  
+**Anwani iliyosajiliwa:** <!--publisher:RegisteredAddress-->Str. Republicii nr. 33B, bl. N3, sc. A, et. 1, ap. 3, Breaza de Sus, 105400 Breaza, jud. Prahova, România<!--/publisher-->  
+**Rejista ya biashara:** <!--publisher:TradeRegister-->F2026004513003<!--/publisher--> (EUID <!--publisher:Euid-->ROONRC.F2026004513003<!--/publisher-->)  
+**Nambari ya utambulisho wa kodi:** <!--publisher:TaxId-->53610310<!--/publisher-->  
+**Mawasiliano:** <!--publisher:ContactEmail-->organize-files-app@outlook.com<!--/publisher-->  
 **Tarehe ya kuanza kutumika:** 2026-05-28  
 **URL ya Umma:** `https://github.com/GutRaz/organize-files-legal/blob/main/sw/privacy-policy.md`
 
@@ -20,7 +20,7 @@ Organize Files huchakata faili **ndani kwenye kifaa**. Yaliyomo kwenye faili **h
 
 ## Mdhibiti na mawasiliano
 
-Kwa data binafsi inayochakatwa na mchapishaji, mdhibiti ni **Guțulov Răzvan Constantin PFA**. Mawasiliano: **razvan.gutulov@outlook.com**.
+Kwa data binafsi inayochakatwa na mchapishaji, mdhibiti ni **<!--publisher:LegalName-->Guțulov Răzvan Constantin PFA<!--/publisher-->**. Mawasiliano: **<!--publisher:ContactEmail-->organize-files-app@outlook.com<!--/publisher-->**.
 
 ## Data imechakatwa ndani
 
@@ -51,7 +51,7 @@ Kwa data binafsi inayochakatwa na mchapishaji, mdhibiti ni **Guțulov Răzvan Co
 | Seva ya leseni ya hiari (imesanidiwa na kiendeshaji) | Kitambulisho cha usakinishaji unaoendelea bila mpangilio (GUID iliyohifadhiwa katika `license_installation_id.txt`) hutumwa kwa seva ya leseni inayoendeshwa na mchapishaji au iliyosanidiwa na opereta katika `ORGANIZE_FILES_LICENSE_SERVER_URL`. Kitambulisho cha usakinishaji ni kitambulisho cha kifaa chini ya GDPR Recital 30. Msingi halali: utendaji wa mkataba. Uhifadhi unaoendeshwa na mchapishaji: rekodi za haki wakati zikiwa hai pamoja na hadi miezi 24 baada ya kuisha/kufutwa kwa kuzuia matumizi mabaya na utatuzi wa migogoro; rekodi za uhasibu zinaweza kuhifadhiwa hadi miaka 7 pale sheria inapohitaji. Seva zinazoendeshwa na opereta hufuata ratiba ya uhifadhi iliyoandikwa ya opereta. Kipengele hiki hakitumiki isipokuwa `ORGANIZE_FILES_LICENSE_SERVER_URL` kimewekwa. | Mchapishaji au seva ya leseni ya mwendeshaji |
 | Ufuatiliaji wa hiari wa OpenTelemetry (kiendeshaji kimesanidiwa) | `ORGANIZE_FILES_OTEL_EXPORTER_OTLP_ENDPOINT` inapowekwa, metadata ya kazi ya otomatiki (Vitambulisho vya kazi, vitambulisho vya uunganisho, lebo za aina inayolengwa, muktadha wa ufuatiliaji wa W3C) inatumwa kwa kikusanyaji kilichosanidiwa cha OTLP. Hakuna njia faili au yaliyomo faili ni pamoja. Kipengele hiki hakitumiki kwa chaguo-msingi na kinahitaji usanidi wazi wa opereta. | Kikusanyaji cha OTLP kilichosanidiwa na opereta |
 | Arifa za barua pepe za hiari (zinapowashwa) | Hali ya uendeshaji na sehemu za kumbukumbu (zinaweza kujumuisha njia za faili) zinazotumwa kupitia seva ya SMTP iliyosanidiwa na opereta | SMTP ya opereta / mtoa huduma wa barua pepe |
-| Webhooks za uendeshaji otomatiki za hiari (husanidiwa na mwendeshaji) | `ORGANIZE_FILES_AUTOMATION_WEBHOOK_URL` inapowekwa, matukio ya mzunguko wa maisha ya kazi yenye vitambulisho vya uhusiano na njia za faili za hali ya uendeshaji otomatiki | Mwisho wa webhook uliosanidiwa na mwendeshaji |
+| Webhooks za uendeshaji otomatiki za hiari (husanidiwa na mwendeshaji) | `ORGANIZE_FILES_AUTOMATION_WEBHOOK_URL` inapowekwa, ujumbe mmoja kwa kila tukio la kazi (kwa mfano kuanza kwa uendeshaji, kusubiri idhini, kuidhinishwa au kumalizika), wenye jina, kitambulisho na muda wa tukio, jina la kompyuta, kitambulisho cha kazi na kitambulisho cha uhusiano, lengo, awamu, matokeo na msimbo wa kutoka wa kazi, njia ya folda ya pato, ujumbe wa hitilafu wa uendeshaji ulioshindwa (ambao unaweza kutaja faili au folda), jina la mtumiaji na kitambulisho cha mwendeshaji cha aliyeidhinisha uendeshaji halisi, njia ya faili ya hali ya uendeshaji otomatiki ambayo haikuweza kuhifadhiwa, na mlango wa huduma ya vipimo ambayo haikuweza kuanza | Mwisho wa webhook uliosanidiwa na mwendeshaji |
 | Ukaguzi wa hiari wa utambulisho kwa idhini ya utekelezaji (huwekwa na mwendeshaji) | `ORGANIZE_FILES_APPROVE_OAUTH_JWKS_URL` ikiwekwa, ombi la HTTPS GET huleta funguo za saini na kuzihifadhi kwa saa moja; hakuna tokeni inayoondoka kwenye kifaa. `ORGANIZE_FILES_APPROVE_OAUTH_INTROSPECTION_URL` ikiwekwa, tokeni ya mbeba ya mwendeshaji yenyewe hutumwa kwenye kiunganishi hicho ili kuthibitishwa (RFC 7662), pamoja na stakabadhi za mteja za HTTP Basic zikiwa zimewekwa. Haifanyi kazi isipokuwa mojawapo ya anwani hizo imewekwa. | Mtoa utambulisho aliyewekwa na mwendeshaji |
 | Injini NAS jaribu tena wasaidizi | Hakuna zaidi ya njia za mtandao zilizosanidiwa | Mwenyeji wa NAS / SMB |
 
@@ -73,7 +73,7 @@ Ukaguzi wa hiari wa sasisho unaweza kufikia seva nje ya Eneo la Kiuchumi la Ulay
 
 ## Mamlaka ya usimamizi na malalamiko
 
-Ikiwa sheria inayotumika inatoa haki za data au malalamiko kwa mamlaka ya usimamizi, wasiliana na mchapishaji kwanza kupitia **razvan.gutulov@outlook.com**. Wakazi wa EU/EEA wanaweza pia kuwasilisha malalamiko kwa mamlaka ya eneo lao ya ulinzi wa data (kwa Romania: ANSPDCP, https://www.dataprotection.ro).
+Ikiwa sheria inayotumika inatoa haki za data au malalamiko kwa mamlaka ya usimamizi, wasiliana na mchapishaji kwanza kupitia **<!--publisher:ContactEmail-->organize-files-app@outlook.com<!--/publisher-->**. Wakazi wa EU/EEA wanaweza pia kuwasilisha malalamiko kwa mamlaka ya eneo lao ya ulinzi wa data (kwa Romania: ANSPDCP, https://www.dataprotection.ro).
 
 ## Wachakataji wa wahusika wengine (vipengele hivi vinapotumika)
 
@@ -97,7 +97,7 @@ Kwa data inayoshikiliwa na mchapishaji:
 
 ## Haki zako
 
-Kwa data aliyonayo mchapishaji (k.m. mawasiliano ya barua pepe ya usaidizi), wasiliana na **razvan.gutulov@outlook.com**. Kwa data iliyohifadhiwa kwenye kifaa chako pekee, unaweza kufuta data nyingi za programu kupitia **Futa data ya programu**, sanidua au kufuta faili mwenyewe. **Futa data ya programu** huondoa vipindi, kumbukumbu na rasimu za otomatiki, lakini inaweza kubaki na viambajengo vya majaribio ya leseni, vialama vya usakinishaji unaolipishwa na kitambulisho cha usakinishaji kisichokutambulisha kinachotumika kwa ukaguzi wa hiari wa leseni - angalia maandishi ya uthibitishaji wa ndani ya programu kabla ya kuendelea. Inapotumika, unaweza kuomba ufikiaji, kusahihishwa, kufutwa, kuzuiwa kwa uchakataji, kupinga uchakataji, kuhamishwa kwa data, au kuondoa idhini.
+Kwa data aliyonayo mchapishaji (k.m. mawasiliano ya barua pepe ya usaidizi), wasiliana na **<!--publisher:ContactEmail-->organize-files-app@outlook.com<!--/publisher-->**. Kwa data iliyohifadhiwa kwenye kifaa chako pekee, unaweza kufuta data nyingi za programu kupitia **Futa data ya programu**, sanidua au kufuta faili mwenyewe. **Futa data ya programu** huondoa vipindi, kumbukumbu na rasimu za otomatiki, lakini inaweza kubaki na viambajengo vya majaribio ya leseni, vialama vya usakinishaji unaolipishwa na kitambulisho cha usakinishaji kisichokutambulisha kinachotumika kwa ukaguzi wa hiari wa leseni - angalia maandishi ya uthibitishaji wa ndani ya programu kabla ya kuendelea. Inapotumika, unaweza kuomba ufikiaji, kusahihishwa, kufutwa, kuzuiwa kwa uchakataji, kupinga uchakataji, kuhamishwa kwa data, au kuondoa idhini.
 
 Mchapishaji analenga kujibu maombi ya wahusika wa data ndani ya **siku 30** baada ya ombi kuthibitishwa (uthibitisho wa utambulisho unaweza kuombwa inapohitajika kwa busara).
 

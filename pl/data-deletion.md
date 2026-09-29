@@ -41,7 +41,7 @@ Wydawca przechowuje wyłącznie dane, które aktywnie wysyłasz, takie jak:
 - **Rejestry serwera licencji**, tylko jeśli serwer licencji jest skonfigurowany
   dla Twojej kompilacji
 
-Aby zażądać usunięcia tych danych, napisz na **razvan.gutulov@outlook.com**,
+Aby zażądać usunięcia tych danych, napisz na **<!--publisher:ContactEmail-->organize-files-app@outlook.com<!--/publisher-->**,
 podając:
 
 - Adres e-mail, którego użyłeś do kontaktu z pomocą, i/lub
@@ -60,4 +60,4 @@ przechowywanymi przez sklep lub je usunąć, użyj ustawień konta w tym sklepie
 
 ---
 
-© 2026 Guțulov Răzvan Constantin PFA. Wszelkie prawa zastrzeżone.
+© 2026 <!--publisher:LegalName-->Guțulov Răzvan Constantin PFA<!--/publisher-->. Wszelkie prawa zastrzeżone.

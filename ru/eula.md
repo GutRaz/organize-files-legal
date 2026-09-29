@@ -4,11 +4,11 @@
 
 # Лицензионное соглашение с конечным пользователем (EULA) — Organize Files
 
-**Издатель:** Guțulov Răzvan Constantin PFA  
-**Юридический адрес:** Str. Republicii nr. 33B, bl. N3, sc. A, et. 1, ap. 3, Breaza de Sus, 105400 Breaza, jud. Prahova, România  
-**Торговый реестр:** F2026004513003 (EUID ROONRC.F2026004513003)  
-**Идентификационный номер налогоплательщика:** 53610310  
-**Контактная информация:** razvan.gutulov@outlook.com  
+**Издатель:** <!--publisher:LegalName-->Guțulov Răzvan Constantin PFA<!--/publisher-->  
+**Юридический адрес:** <!--publisher:RegisteredAddress-->Str. Republicii nr. 33B, bl. N3, sc. A, et. 1, ap. 3, Breaza de Sus, 105400 Breaza, jud. Prahova, România<!--/publisher-->  
+**Торговый реестр:** <!--publisher:TradeRegister-->F2026004513003<!--/publisher--> (EUID <!--publisher:Euid-->ROONRC.F2026004513003<!--/publisher-->)  
+**Идентификационный номер налогоплательщика:** <!--publisher:TaxId-->53610310<!--/publisher-->  
+**Контактная информация:** <!--publisher:ContactEmail-->organize-files-app@outlook.com<!--/publisher-->  
 **Дата вступления в силу:** 28 мая 2026 г.  
 **Открытый URL-адрес (списки магазинов):** `https://github.com/GutRaz/organize-files-legal/blob/main/ru/eula.md`
 
@@ -49,8 +49,6 @@
 
 Продолжительность пробной версии, номера SKU в магазине и условия продления определены в **списке магазина** и на карточке лицензии в приложении. Для выпускных сборок требуются действительные права магазина, активный пробный период или авторизация сервера лицензий, управляемого издателем.
 
-**После возврата средств в магазине, отзыва или отмены подписки:** если в этой установке ранее была зафиксирована платная покупка в магазине, приложение может запустить **новую 14-дневную локальную пробную версию** (не более **двух** таких пробных версий на установку). Возврат денег осуществляется только платформой магазина, а не внутри приложения. Подробную информацию см. в главе руководства *Возврат средств и пробная версия после покупки*.
-
 ## 7. Конфиденциальность
 
 См. [Политику конфиденциальности](./privacy-policy.md).
@@ -76,4 +74,4 @@
 
 ## 11. Контакт
 
-**Guțulov Răzvan Constantin PFA** — razvan.gutulov@outlook.com
+**<!--publisher:LegalName-->Guțulov Răzvan Constantin PFA<!--/publisher-->** — <!--publisher:ContactEmail-->organize-files-app@outlook.com<!--/publisher-->

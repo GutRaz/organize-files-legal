@@ -4,11 +4,11 @@
 
 # اتفاقية ترخيص المستخدم النهائي (EULA) — Organize Files
 
-**الناشر:** Guțulov Răzvan Constantin PFA  
-**العنوان المسجل:** Str. Republicii nr. 33B, bl. N3, sc. A, et. 1, ap. 3, Breaza de Sus, 105400 Breaza, jud. Prahova, România  
-**السجل التجاري:** F2026004513003 (EUID ROONRC.F2026004513003)  
-**رقم التعريف الضريبي:** 53610310  
-** جهة الاتصال: ** razvan.gutulov@outlook.com  
+**الناشر:** <!--publisher:LegalName-->Guțulov Răzvan Constantin PFA<!--/publisher-->  
+**العنوان المسجل:** <!--publisher:RegisteredAddress-->Str. Republicii nr. 33B, bl. N3, sc. A, et. 1, ap. 3, Breaza de Sus, 105400 Breaza, jud. Prahova, România<!--/publisher-->  
+**السجل التجاري:** <!--publisher:TradeRegister-->F2026004513003<!--/publisher--> (EUID <!--publisher:Euid-->ROONRC.F2026004513003<!--/publisher-->)  
+**رقم التعريف الضريبي:** <!--publisher:TaxId-->53610310<!--/publisher-->  
+** جهة الاتصال: ** <!--publisher:ContactEmail-->organize-files-app@outlook.com<!--/publisher-->  
 **تاريخ السريان:** 2026-05-28  
 **عنوان URL العام (قوائم المتجر):** `https://github.com/GutRaz/organize-files-legal/blob/main/ar/eula.md`
 
@@ -49,8 +49,6 @@
 
 يتم تحديد المدة التجريبية ووحدات SKU الخاصة بالمتجر وشروط التجديد في **قائمة المتجر** وبطاقة الترخيص داخل التطبيق. تتطلب إصدارات الإصدار استحقاق متجر صالحًا أو فترة تجريبية نشطة أو تفويضًا من خادم الترخيص الذي يشغله الناشر.
 
-**بعد استرداد أموال المتجر أو إلغائه أو إلغاء الاشتراك:** إذا سجل هذا التثبيت مسبقًا عملية شراء مدفوعة من المتجر، فقد يبدأ التطبيق **تجربة محلية جديدة مدتها 14 يومًا** (على الأكثر **تجربتان** لكل عملية تثبيت). تتم معالجة عمليات استرداد الأموال فقط من خلال منصة المتجر، وليس داخل التطبيق. راجع فصل الدليل داخل التطبيق *استرداد الأموال والتجربة بعد الشراء* للاطلاع على التدفق الكامل.
-
 ## 7. الخصوصية
 
 راجع [سياسة الخصوصية](./privacy-policy.md).
@@ -76,4 +74,4 @@
 
 ## 11. اتصل
 
-**Guțulov Răzvan Constantin PFA** — razvan.gutulov@outlook.com
+**<!--publisher:LegalName-->Guțulov Răzvan Constantin PFA<!--/publisher-->** — <!--publisher:ContactEmail-->organize-files-app@outlook.com<!--/publisher-->

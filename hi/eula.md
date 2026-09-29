@@ -4,11 +4,11 @@
 
 # अंतिम उपयोगकर्ता लाइसेंस अनुबंध (ईयूएलए) - Organize Files
 
-**प्रकाशक:** Guțulov Răzvan Constantin PFA  
-**पंजीकृत पता:** Str. Republicii nr. 33B, bl. N3, sc. A, et. 1, ap. 3, Breaza de Sus, 105400 Breaza, jud. Prahova, România  
-**व्यापार रजिस्टर:** F2026004513003 (EUID ROONRC.F2026004513003)  
-**कर पहचान संख्या:** 53610310  
-**संपर्क करें:** razvan.gutulov@outlook.com  
+**प्रकाशक:** <!--publisher:LegalName-->Guțulov Răzvan Constantin PFA<!--/publisher-->  
+**पंजीकृत पता:** <!--publisher:RegisteredAddress-->Str. Republicii nr. 33B, bl. N3, sc. A, et. 1, ap. 3, Breaza de Sus, 105400 Breaza, jud. Prahova, România<!--/publisher-->  
+**व्यापार रजिस्टर:** <!--publisher:TradeRegister-->F2026004513003<!--/publisher--> (EUID <!--publisher:Euid-->ROONRC.F2026004513003<!--/publisher-->)  
+**कर पहचान संख्या:** <!--publisher:TaxId-->53610310<!--/publisher-->  
+**संपर्क करें:** <!--publisher:ContactEmail-->organize-files-app@outlook.com<!--/publisher-->  
 **प्रभावी तिथि:** 2026-05-28  
 **सार्वजनिक URL (स्टोर सूची):** `https://github.com/GutRaz/organize-files-legal/blob/main/hi/eula.md`
 
@@ -49,8 +49,6 @@
 
 परीक्षण अवधि, स्टोर SKU और नवीनीकरण शर्तें **स्टोर लिस्टिंग** और इन-ऐप लाइसेंस कार्ड में परिभाषित की गई हैं। रिलीज़ बिल्ड के लिए वैध स्टोर अधिकार, सक्रिय परीक्षण अवधि, या प्रकाशक द्वारा संचालित लाइसेंस सर्वर प्राधिकरण आवश्यक है।
 
-**स्टोर रिफंड, निरस्तीकरण, या रद्द की गई सदस्यता के बाद:** यदि इस इंस्टॉलेशन ने पहले भुगतान की गई स्टोर खरीदारी रिकॉर्ड की थी, तो ऐप **नया 14-दिवसीय स्थानीय परीक्षण** शुरू कर सकता है (प्रति इंस्टॉलेशन अधिकतम **दो** ऐसे परीक्षण)। धन वापसी केवल स्टोर प्लेटफ़ॉर्म द्वारा नियंत्रित की जाती है - ऐप के अंदर नहीं। पूर्ण प्रवाह के लिए इन-ऐप गाइड अध्याय *खरीद के बाद धनवापसी और परीक्षण* देखें।
-
 ## 7. गोपनीयता
 
 [गोपनीयता नीति](./privacy-policy.md) देखें।
@@ -75,4 +73,4 @@
 
 ## 11. संपर्क करें
 
-**Guțulov Răzvan Constantin PFA** — razvan.gutulov@outlook.com
+**<!--publisher:LegalName-->Guțulov Răzvan Constantin PFA<!--/publisher-->** — <!--publisher:ContactEmail-->organize-files-app@outlook.com<!--/publisher-->

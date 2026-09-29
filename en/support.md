@@ -4,11 +4,11 @@ Need help with **Organize Files**? We are happy to assist.
 
 ## Contact
 
-- **Email:** razvan.gutulov@outlook.com
-- **Publisher:** Guțulov Răzvan Constantin PFA
-- **Registered address:** Str. Republicii nr. 33B, bl. N3, sc. A, et. 1, ap. 3, Breaza de Sus, 105400 Breaza, jud. Prahova, România
-- **Trade register:** F2026004513003 (EUID ROONRC.F2026004513003)
-- **Tax identification number:** 53610310
+- **Email:** <!--publisher:ContactEmail-->organize-files-app@outlook.com<!--/publisher-->
+- **Publisher:** <!--publisher:LegalName-->Guțulov Răzvan Constantin PFA<!--/publisher-->
+- **Registered address:** <!--publisher:RegisteredAddress-->Str. Republicii nr. 33B, bl. N3, sc. A, et. 1, ap. 3, Breaza de Sus, 105400 Breaza, jud. Prahova, România<!--/publisher-->
+- **Trade register:** <!--publisher:TradeRegister-->F2026004513003<!--/publisher--> (EUID <!--publisher:Euid-->ROONRC.F2026004513003<!--/publisher-->)
+- **Tax identification number:** <!--publisher:TaxId-->53610310<!--/publisher-->
 
 When you write, please include:
 
@@ -35,4 +35,4 @@ See the [Privacy Policy](./privacy-policy.md).
 
 ---
 
-© 2026 Guțulov Răzvan Constantin PFA. All rights reserved.
+© 2026 <!--publisher:LegalName-->Guțulov Răzvan Constantin PFA<!--/publisher-->. All rights reserved.

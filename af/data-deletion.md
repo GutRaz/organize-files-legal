@@ -40,7 +40,7 @@ Die uitgewer hou slegs data wat jy aktief stuur, soos:
 - **Lisensiebediener-rekords**, slegs as 'n lisensiebediener vir jou bou opgestel is
 
 Om die verwydering van hierdie data te versoek, stuur 'n e-pos aan
-**razvan.gutulov@outlook.com** met:
+**<!--publisher:ContactEmail-->organize-files-app@outlook.com<!--/publisher-->** met:
 
 - Die e-posadres waarmee jy ondersteuning gekontak het, en/of
 - Jou lisensie- of bestelverwysing, indien enige
@@ -55,4 +55,4 @@ bestuur of uit te vee, gebruik daardie winkel se rekeninginstellings.
 
 ---
 
-© 2026 Guțulov Răzvan Constantin PFA. Alle regte voorbehou.
+© 2026 <!--publisher:LegalName-->Guțulov Răzvan Constantin PFA<!--/publisher-->. Alle regte voorbehou.

@@ -8,11 +8,11 @@ Bạn cần trợ giúp với **Organize Files**? Chúng tôi rất sẵn lòng 
 
 ## Liên hệ
 
-- **Email:** razvan.gutulov@outlook.com
-- **Nhà phát hành:** Guțulov Răzvan Constantin PFA
-- **Địa chỉ đăng ký:** Str. Republicii nr. 33B, bl. N3, sc. A, et. 1, ap. 3, Breaza de Sus, 105400 Breaza, jud. Prahova, România
-- **Đăng ký kinh doanh:** F2026004513003 (EUID ROONRC.F2026004513003)
-- **Mã số thuế:** 53610310
+- **Email:** <!--publisher:ContactEmail-->organize-files-app@outlook.com<!--/publisher-->
+- **Nhà phát hành:** <!--publisher:LegalName-->Guțulov Răzvan Constantin PFA<!--/publisher-->
+- **Địa chỉ đăng ký:** <!--publisher:RegisteredAddress-->Str. Republicii nr. 33B, bl. N3, sc. A, et. 1, ap. 3, Breaza de Sus, 105400 Breaza, jud. Prahova, România<!--/publisher-->
+- **Đăng ký kinh doanh:** <!--publisher:TradeRegister-->F2026004513003<!--/publisher--> (EUID <!--publisher:Euid-->ROONRC.F2026004513003<!--/publisher-->)
+- **Mã số thuế:** <!--publisher:TaxId-->53610310<!--/publisher-->
 
 Khi liên hệ với chúng tôi, vui lòng cung cấp:
 
@@ -39,4 +39,4 @@ Xem [Chính sách quyền riêng tư](./privacy-policy.md).
 
 ---
 
-© 2026 Guțulov Răzvan Constantin PFA. Bảo lưu mọi quyền.
+© 2026 <!--publisher:LegalName-->Guțulov Răzvan Constantin PFA<!--/publisher-->. Bảo lưu mọi quyền.

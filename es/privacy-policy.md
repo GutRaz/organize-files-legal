@@ -4,11 +4,11 @@
 
 # Política de privacidad: Organize Files
 
-**Editor:** Guțulov Răzvan Constantin PFA  
-**Domicilio registrado:** Str. Republicii nr. 33B, bl. N3, sc. A, et. 1, ap. 3, Breaza de Sus, 105400 Breaza, jud. Prahova, România  
-**Registro mercantil:** F2026004513003 (EUID ROONRC.F2026004513003)  
-**Número de identificación fiscal:** 53610310  
-**Contacto:** razvan.gutulov@outlook.com  
+**Editor:** <!--publisher:LegalName-->Guțulov Răzvan Constantin PFA<!--/publisher-->  
+**Domicilio registrado:** <!--publisher:RegisteredAddress-->Str. Republicii nr. 33B, bl. N3, sc. A, et. 1, ap. 3, Breaza de Sus, 105400 Breaza, jud. Prahova, România<!--/publisher-->  
+**Registro mercantil:** <!--publisher:TradeRegister-->F2026004513003<!--/publisher--> (EUID <!--publisher:Euid-->ROONRC.F2026004513003<!--/publisher-->)  
+**Número de identificación fiscal:** <!--publisher:TaxId-->53610310<!--/publisher-->  
+**Contacto:** <!--publisher:ContactEmail-->organize-files-app@outlook.com<!--/publisher-->  
 **Fecha de entrada en vigor:** 2026-05-28  
 **URL pública:** `https://github.com/GutRaz/organize-files-legal/blob/main/es/privacy-policy.md`
 
@@ -20,7 +20,7 @@ Organize Files procesa archivos **localmente en el dispositivo**. El contenido d
 
 ## Responsable del tratamiento y contacto
 
-Para los datos personales tratados por el editor, el responsable del tratamiento es **Guțulov Răzvan Constantin PFA**. Contacto: **razvan.gutulov@outlook.com**.
+Para los datos personales tratados por el editor, el responsable del tratamiento es **<!--publisher:LegalName-->Guțulov Răzvan Constantin PFA<!--/publisher-->**. Contacto: **<!--publisher:ContactEmail-->organize-files-app@outlook.com<!--/publisher-->**.
 
 ## Datos procesados localmente
 
@@ -51,7 +51,7 @@ Para los datos personales tratados por el editor, el responsable del tratamiento
 | Servidor de licencias opcional (configurado por el operador) | Se envía un ID de instalación persistente aleatorio (GUID almacenado en `license_installation_id.txt`) a un servidor de licencias operado por el editor o configurado por el operador en `ORGANIZE_FILES_LICENSE_SERVER_URL`. El ID de instalación es un identificador de dispositivo según el considerando 30 del RGPD. Base jurídica: ejecución del contrato. Retención del editor: registros de entitlement mientras estén activos más hasta 24 meses tras caducidad/revocación (prevención de abusos y disputas); registros contables hasta 7 años cuando lo exija la ley. Los servidores del operador siguen el calendario documentado del operador. Esta función está inactiva a menos que se establezca `ORGANIZE_FILES_LICENSE_SERVER_URL`. | Servidor de licencias de editor u operador |
 | Seguimiento opcional de OpenTelemetry (configurado por el operador) | Cuando se configura `ORGANIZE_FILES_OTEL_EXPORTER_OTLP_ENDPOINT`, los metadatos del trabajo de automatización (ID de trabajo, ID de correlación, etiquetas de tipo de destino, contexto de seguimiento W3C) se exportan al recopilador OTLP configurado. No se incluyen rutas de archivos ni contenidos de archivos. Esta función está inactiva de forma predeterminada y requiere una configuración explícita del operador. | Recopilador OTLP configurado por el operador |
 | Notificaciones por correo opcionales (cuando están habilitadas) | Estado de ejecución y extractos del registro (pueden incluir rutas de archivo) enviados a través del servidor SMTP configurado por el operador | SMTP / proveedor de correo del operador |
-| Webhooks de automatización opcionales (configurados por el operador) | Cuando `ORGANIZE_FILES_AUTOMATION_WEBHOOK_URL` está definido, eventos del ciclo de vida de los trabajos con identificadores de correlación y las rutas de los archivos de estado de la automatización | Punto de conexión webhook configurado por el operador |
+| Webhooks de automatización opcionales (configurados por el operador) | Cuando `ORGANIZE_FILES_AUTOMATION_WEBHOOK_URL` está definido, un mensaje por cada evento de un trabajo (por ejemplo, el inicio de una ejecución, la espera de aprobación, la aprobación o el final), con el nombre, el ID y la hora del evento, el nombre del equipo, el ID del trabajo y el ID de correlación, el destino, la fase, el resultado y el código de salida del trabajo, la ruta de la carpeta de salida, el mensaje de error de una ejecución fallida (que puede nombrar un archivo o una carpeta), el nombre de usuario y el ID de operador de quien aprobó una ejecución real, la ruta de un archivo de estado de la automatización que no se pudo guardar y el puerto de un servicio de métricas que no pudo iniciarse | Punto de conexión webhook configurado por el operador |
 | Comprobación opcional de identidad para aprobar la ejecución (configurada por el operador) | Con `ORGANIZE_FILES_APPROVE_OAUTH_JWKS_URL` definido, un GET HTTPS obtiene las claves de firma y las guarda en caché una hora; ningún token sale del dispositivo. Con `ORGANIZE_FILES_APPROVE_OAUTH_INTROSPECTION_URL` definido, se envía por POST el propio token de portador del operador a ese extremo para validarlo (RFC 7662), con credenciales de cliente HTTP Basic si están configuradas. Inactivo salvo que se defina una de esas URL. | Proveedor de identidad configurado por el operador |
 | Ayudantes de reintento NAS del motor | Nada fuera de las rutas de red configuradas | Host NAS / SMB |
 
@@ -73,7 +73,7 @@ Las comprobaciones de actualizaciones opcionales pueden llegar a servidores fuer
 
 ## Autoridad de control y quejas
 
-Si la ley aplicable otorga derechos a los interesados o presenta una queja ante una autoridad supervisora, comuníquese primero con el editor en **razvan.gutulov@outlook.com**. Los residentes de la UE/EEE también pueden presentar una queja ante su autoridad local de protección de datos (para Rumania: ANSPDCP, https://www.dataprotection.ro).
+Si la ley aplicable otorga derechos a los interesados o presenta una queja ante una autoridad supervisora, comuníquese primero con el editor en **<!--publisher:ContactEmail-->organize-files-app@outlook.com<!--/publisher-->**. Los residentes de la UE/EEE también pueden presentar una queja ante su autoridad local de protección de datos (para Rumania: ANSPDCP, https://www.dataprotection.ro).
 
 ## Procesadores de terceros (cuando se utilizan estas funciones)
 
@@ -98,7 +98,7 @@ Para los datos que conserva el editor:
 
 ## Tus derechos
 
-Para obtener los datos que posee el editor (por ejemplo, correspondencia por correo electrónico de soporte), comuníquese con **razvan.gutulov@outlook.com**. Cuando proceda, puede solicitar acceso, rectificación, supresión, limitación, oposición, portabilidad o retirada del consentimiento. El editor procura responder a las solicitudes verificadas dentro del plazo que requiere la ley aplicable (puede pedirse verificación de identidad si es razonablemente necesario). Para los datos almacenados solo en su dispositivo, puede eliminar la mayoría de los datos de la aplicación mediante **Borrar datos de la aplicación**, desinstalación o eliminación manual de archivos. **Borrar datos de la aplicación** elimina sesiones, registros y borradores de automatización, pero puede conservar anclajes de prueba de licencia, marcadores de instalación paga y un identificador de instalación utilizado para verificaciones de licencia opcionales; consulte el texto de confirmación en la aplicación antes de continuar.
+Para obtener los datos que posee el editor (por ejemplo, correspondencia por correo electrónico de soporte), comuníquese con **<!--publisher:ContactEmail-->organize-files-app@outlook.com<!--/publisher-->**. Cuando proceda, puede solicitar acceso, rectificación, supresión, limitación, oposición, portabilidad o retirada del consentimiento. El editor procura responder a las solicitudes verificadas dentro del plazo que requiere la ley aplicable (puede pedirse verificación de identidad si es razonablemente necesario). Para los datos almacenados solo en su dispositivo, puede eliminar la mayoría de los datos de la aplicación mediante **Borrar datos de la aplicación**, desinstalación o eliminación manual de archivos. **Borrar datos de la aplicación** elimina sesiones, registros y borradores de automatización, pero puede conservar anclajes de prueba de licencia, marcadores de instalación paga y un identificador de instalación utilizado para verificaciones de licencia opcionales; consulte el texto de confirmación en la aplicación antes de continuar.
 
 ## niños
 

@@ -4,11 +4,11 @@
 
 # 隐私政策 — Organize Files
 
-**出版商：** Guțulov Răzvan Constantin PFA  
-**注册地址:** Str. Republicii nr. 33B, bl. N3, sc. A, et. 1, ap. 3, Breaza de Sus, 105400 Breaza, jud. Prahova, România  
-**商业登记:** F2026004513003 (EUID ROONRC.F2026004513003)  
-**纳税人识别号:** 53610310  
-**联系方式：** razvan.gutulov@outlook.com  
+**出版商：** <!--publisher:LegalName-->Guțulov Răzvan Constantin PFA<!--/publisher-->  
+**注册地址:** <!--publisher:RegisteredAddress-->Str. Republicii nr. 33B, bl. N3, sc. A, et. 1, ap. 3, Breaza de Sus, 105400 Breaza, jud. Prahova, România<!--/publisher-->  
+**商业登记:** <!--publisher:TradeRegister-->F2026004513003<!--/publisher--> (EUID <!--publisher:Euid-->ROONRC.F2026004513003<!--/publisher-->)  
+**纳税人识别号:** <!--publisher:TaxId-->53610310<!--/publisher-->  
+**联系方式：** <!--publisher:ContactEmail-->organize-files-app@outlook.com<!--/publisher-->  
 **生效日期：** 2026-05-28  
 **公共网址：** `https://github.com/GutRaz/organize-files-legal/blob/main/zh/privacy-policy.md`
 
@@ -20,7 +20,7 @@ Organize Files **在设备本地**处理文件。文件内容**不会上传到�
 
 ## 控制者和联系方式
 
-对于发布者处理的个人数据，控制者为 **Guțulov Răzvan Constantin PFA**。联系方式：**razvan.gutulov@outlook.com**。
+对于发布者处理的个人数据，控制者为 **<!--publisher:LegalName-->Guțulov Răzvan Constantin PFA<!--/publisher-->**。联系方式：**<!--publisher:ContactEmail-->organize-files-app@outlook.com<!--/publisher-->**。
 
 ## 本地处理的数据
 
@@ -51,7 +51,7 @@ Organize Files **在设备本地**处理文件。文件内容**不会上传到�
 |可选许可证服务器（运营商配置）|随机持久安装 ID（存储在“license_installation_id.txt”中的 GUID）将发送到位于“ORGANIZE_FILES_LICENSE_SERVER_URL”处的发布者操作或操作员配置的许可证服务器。安装 ID 是 GDPR Recital 30 下的设备标识符。合法依据：合同的履行。发布者运营的保留：权利记录在有效期间以及到期/撤销后最多 24 个月（防止滥用和争议处理）；会计记录在法律要求时可保留最多 7 年。运营商运行的服务器遵循运营商记录的保留时间表。除非设置了“ORGANIZE_FILES_LICENSE_SERVER_URL”，否则此功能处于非活动状态。 |发行商或运营商许可证服务器|
 |可选的 OpenTelemetry 跟踪（操作员配置）|设置“ORGANIZE_FILES_OTEL_EXPORTER_OTLP_ENDPOINT”时，自动化作业元数据（作业 ID、相关 ID、目标类型标签、W3C 跟踪上下文）将导出到配置的 OTLP 收集器。不包含文件路径或文件内容。该功能默认处于非活动状态，需要明确的操作员配置。 |操作员配置的 OTLP 收集器 |
 | 可选电子邮件通知（启用时） | 运行状态和日志摘录（可能包含文件路径）通过运营商配置的 SMTP 服务器发送 | 运营商 SMTP / 邮件提供商 |
-| 可选的自动化 Webhook（由运维方配置） | 设置 `ORGANIZE_FILES_AUTOMATION_WEBHOOK_URL` 后，作业生命周期事件，其中包含关联 ID 和自动化状态文件的文件路径 | 由运维方配置的 Webhook 端点 |
+| 可选的自动化 Webhook（由运维方配置） | 设置 `ORGANIZE_FILES_AUTOMATION_WEBHOOK_URL` 后，作业的每个事件（例如运行开始、等待批准、获得批准或结束）各发送一条消息，包含事件的名称、ID 和时间，计算机名称，作业 ID 和关联 ID，作业的目标、阶段、结果和退出代码，输出文件夹路径，失败运行的错误消息（其中可能包含文件或文件夹名称），批准实际运行者的用户名和运维方 ID，无法保存的自动化状态文件的路径，以及无法启动的指标服务的端口 | 由运维方配置的 Webhook 端点 |
 | 执行审批的可选身份校验（由运营方配置） | 设置 `ORGANIZE_FILES_APPROVE_OAUTH_JWKS_URL` 后，一次 HTTPS GET 取回签名密钥并缓存一小时，不会有令牌离开设备。改为设置 `ORGANIZE_FILES_APPROVE_OAUTH_INTROSPECTION_URL` 时，运营方的持有者令牌本身会被发送到该端点进行校验（RFC 7662），若已配置则附带 HTTP Basic 客户端凭据。两个 URL 都未设置时不启用。 | 由运营方配置的身份提供方 |
 |引擎 NAS 重试助手 |没有超出配置的网络路径 | NAS/SMB主机|
 
@@ -73,7 +73,7 @@ Organize Files **在设备本地**处理文件。文件内容**不会上传到�
 
 ## 监管机构和投诉
 
-如果适用法律授予数据主体权利或向监管机构提出投诉，请首先通过 **razvan.gutulov@outlook.com** 联系发布者。欧盟/欧洲经济区居民还可以向当地数据保护机构提出投诉（罗马尼亚：ANSPDCP，https://www.dataprotection.ro）。
+如果适用法律授予数据主体权利或向监管机构提出投诉，请首先通过 **<!--publisher:ContactEmail-->organize-files-app@outlook.com<!--/publisher-->** 联系发布者。欧盟/欧洲经济区居民还可以向当地数据保护机构提出投诉（罗马尼亚：ANSPDCP，https://www.dataprotection.ro）。
 
 ## 第三方处理器（当使用这些功能时）
 
@@ -98,7 +98,7 @@ Organize Files **在设备本地**处理文件。文件内容**不会上传到�
 
 ## 您的权利
 
-对于发布者持有的数据（例如支持电子邮件通信），请联系 **razvan.gutulov@outlook.com**。对于仅存储在设备上的数据，您可以通过**清除应用数据**、卸载或手动文件删除来删除大部分应用数据。 **清除应用程序数据**会删除会话、日志和自动化草稿，但可能会保留许可证试用锚、付费安装标记以及用于可选许可证检查的安装标识符 - 请在继续之前查看应用程序内确认文本。在适用的情况下，您可以要求访问、更正、删除、限制处理、反对处理、数据可携或撤回同意。
+对于发布者持有的数据（例如支持电子邮件通信），请联系 **<!--publisher:ContactEmail-->organize-files-app@outlook.com<!--/publisher-->**。对于仅存储在设备上的数据，您可以通过**清除应用数据**、卸载或手动文件删除来删除大部分应用数据。 **清除应用程序数据**会删除会话、日志和自动化草稿，但可能会保留许可证试用锚、付费安装标记以及用于可选许可证检查的安装标识符 - 请在继续之前查看应用程序内确认文本。在适用的情况下，您可以要求访问、更正、删除、限制处理、反对处理、数据可携或撤回同意。
 
 发布者力求在经验证请求后根据适用法律规定的期限内回应数据主体请求（在合理必要时可能要求验证身份）。
 

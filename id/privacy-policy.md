@@ -4,11 +4,11 @@
 
 # Kebijakan Privasi — Organize Files
 
-**Penerbit:** Guțulov Răzvan Constantin PFA  
-**Alamat terdaftar:** Str. Republicii nr. 33B, bl. N3, sc. A, et. 1, ap. 3, Breaza de Sus, 105400 Breaza, jud. Prahova, România  
-**Daftar perdagangan:** F2026004513003 (EUID ROONRC.F2026004513003)  
-**Nomor identifikasi pajak:** 53610310  
-**Hubungi:** razvan.gutulov@outlook.com  
+**Penerbit:** <!--publisher:LegalName-->Guțulov Răzvan Constantin PFA<!--/publisher-->  
+**Alamat terdaftar:** <!--publisher:RegisteredAddress-->Str. Republicii nr. 33B, bl. N3, sc. A, et. 1, ap. 3, Breaza de Sus, 105400 Breaza, jud. Prahova, România<!--/publisher-->  
+**Daftar perdagangan:** <!--publisher:TradeRegister-->F2026004513003<!--/publisher--> (EUID <!--publisher:Euid-->ROONRC.F2026004513003<!--/publisher-->)  
+**Nomor identifikasi pajak:** <!--publisher:TaxId-->53610310<!--/publisher-->  
+**Hubungi:** <!--publisher:ContactEmail-->organize-files-app@outlook.com<!--/publisher-->  
 **Tanggal efektif:** 28-05-2026  
 **URL Publik:** `https://github.com/GutRaz/organize-files-legal/blob/main/id/privacy-policy.md`
 
@@ -20,7 +20,7 @@ Organize Files memproses file **secara lokal di perangkat**. Konten file **tidak
 
 ## Pengendali dan kontak
 
-Untuk data pribadi yang diproses oleh penerbit, pengendalinya adalah **Guțulov Răzvan Constantin PFA**. Kontak: **razvan.gutulov@outlook.com**.
+Untuk data pribadi yang diproses oleh penerbit, pengendalinya adalah **<!--publisher:LegalName-->Guțulov Răzvan Constantin PFA<!--/publisher-->**. Kontak: **<!--publisher:ContactEmail-->organize-files-app@outlook.com<!--/publisher-->**.
 
 ## Data diproses secara lokal
 
@@ -51,7 +51,7 @@ Untuk data pribadi yang diproses oleh penerbit, pengendalinya adalah **Guțulov 
 | Server lisensi opsional (dikonfigurasi operator) | ID instalasi persisten acak (GUID disimpan di `license_installation_id.txt`) dikirim ke server lisensi yang dioperasikan penerbit atau dikonfigurasi oleh operator di `ORGANIZE_FILES_LICENSE_SERVER_URL`. ID instalasi adalah pengidentifikasi perangkat berdasarkan GDPR Recital 30. Dasar hukum: pelaksanaan kontrak. Retensi yang dioperasikan penerbit: catatan hak selama aktif ditambah hingga 24 bulan setelah kedaluwarsa/pencabutan untuk pencegahan penyalahgunaan dan penanganan sengketa; catatan akuntansi dapat disimpan hingga 7 tahun jika diwajibkan hukum. Server yang dijalankan operator mengikuti jadwal retensi terdokumentasi operator. Fitur ini tidak aktif kecuali `ORGANIZE_FILES_LICENSE_SERVER_URL` disetel. | Server lisensi penerbit atau operator |
 | Pelacakan OpenTelemetry opsional (dikonfigurasi operator) | Ketika `ORGANIZE_FILES_OTEL_EXPORTER_OTLP_ENDPOINT` disetel, metadata tugas otomatisasi (ID tugas, ID korelasi, tag jenis target, konteks pelacakan W3C) diekspor ke kolektor OTLP yang dikonfigurasi. Tidak ada jalur file atau konten file yang disertakan. Fitur ini tidak aktif secara default dan memerlukan konfigurasi operator eksplisit. | Kolektor OTLP yang dikonfigurasi oleh operator |
 | Notifikasi email opsional (saat diaktifkan) | Status berjalan dan cuplikan log (dapat mencakup jalur file) dikirim melalui server SMTP yang dikonfigurasi operator | SMTP operator / penyedia email |
-| Webhook otomatisasi opsional (dikonfigurasi operator) | Ketika `ORGANIZE_FILES_AUTOMATION_WEBHOOK_URL` disetel, peristiwa siklus hidup tugas berisi ID korelasi dan jalur berkas status otomatisasi | Endpoint webhook yang dikonfigurasi operator |
+| Webhook otomatisasi opsional (dikonfigurasi operator) | Ketika `ORGANIZE_FILES_AUTOMATION_WEBHOOK_URL` disetel, satu pesan untuk setiap peristiwa tugas (misalnya proses dimulai, menunggu persetujuan, disetujui, atau selesai) yang berisi nama, ID, dan waktu peristiwa, nama komputer, ID tugas dan ID korelasi, target, fase, hasil, dan kode keluar tugas, jalur folder output, pesan galat dari proses yang gagal (yang dapat menyebut berkas atau folder), nama pengguna dan ID operator dari orang yang menyetujui proses nyata, jalur berkas status otomatisasi yang tidak dapat disimpan, serta port layanan metrik yang tidak dapat dimulai | Endpoint webhook yang dikonfigurasi operator |
 | Pemeriksaan identitas opsional untuk persetujuan eksekusi (dikonfigurasi operator) | Bila `ORGANIZE_FILES_APPROVE_OAUTH_JWKS_URL` disetel, satu HTTPS GET mengambil kunci penandatanganan dan menyimpannya di cache selama satu jam; tidak ada token yang meninggalkan perangkat. Bila `ORGANIZE_FILES_APPROVE_OAUTH_INTROSPECTION_URL` disetel, token bearer operator itu sendiri dikirim ke endpoint tersebut untuk divalidasi (RFC 7662), dengan kredensial klien HTTP Basic bila dikonfigurasi. Tidak aktif kecuali salah satu URL itu disetel. | Penyedia identitas yang dikonfigurasi operator |
 | Pembantu coba lagi NAS mesin | Tidak ada selain jalur jaringan yang dikonfigurasi | Host NAS / SMB |
 
@@ -73,7 +73,7 @@ Pemeriksaan pembaruan opsional dapat menjangkau server di luar Wilayah Ekonomi E
 
 ## Otoritas pengawas dan pengaduan
 
-Jika undang-undang yang berlaku memberikan hak subjek data atau keluhan kepada otoritas pengawas, hubungi penerbit terlebih dahulu di **razvan.gutulov@outlook.com**. Penduduk UE/EEA juga dapat mengajukan keluhan kepada otoritas perlindungan data setempat (untuk Rumania: ANSPDCP, https://www.dataprotection.ro).
+Jika undang-undang yang berlaku memberikan hak subjek data atau keluhan kepada otoritas pengawas, hubungi penerbit terlebih dahulu di **<!--publisher:ContactEmail-->organize-files-app@outlook.com<!--/publisher-->**. Penduduk UE/EEA juga dapat mengajukan keluhan kepada otoritas perlindungan data setempat (untuk Rumania: ANSPDCP, https://www.dataprotection.ro).
 
 ## Prosesor pihak ketiga (saat fitur ini digunakan)
 
@@ -98,7 +98,7 @@ Untuk data yang dipegang penerbit:
 
 ## Hak Anda
 
-Untuk data yang dimiliki penerbit (misalnya korespondensi email dukungan), hubungi **razvan.gutulov@outlook.com**. Untuk data yang hanya disimpan di perangkat, Anda dapat menghapus sebagian besar data aplikasi melalui **Hapus data aplikasi**, mencopot pemasangan, atau menghapus file secara manual. **Hapus data aplikasi** menghapus sesi, log, dan draf otomatisasi, namun dapat mempertahankan jangkar uji coba lisensi, penanda pemasangan berbayar, dan pengidentifikasi pemasangan yang digunakan untuk pemeriksaan lisensi opsional — lihat teks konfirmasi dalam aplikasi sebelum Anda melanjutkan. Jika berlaku, Anda dapat meminta akses, koreksi, penghapusan, pembatasan pemrosesan, mengajukan keberatan atas pemrosesan, portabilitas data, atau menarik persetujuan.
+Untuk data yang dimiliki penerbit (misalnya korespondensi email dukungan), hubungi **<!--publisher:ContactEmail-->organize-files-app@outlook.com<!--/publisher-->**. Untuk data yang hanya disimpan di perangkat, Anda dapat menghapus sebagian besar data aplikasi melalui **Hapus data aplikasi**, mencopot pemasangan, atau menghapus file secara manual. **Hapus data aplikasi** menghapus sesi, log, dan draf otomatisasi, namun dapat mempertahankan jangkar uji coba lisensi, penanda pemasangan berbayar, dan pengidentifikasi pemasangan yang digunakan untuk pemeriksaan lisensi opsional — lihat teks konfirmasi dalam aplikasi sebelum Anda melanjutkan. Jika berlaku, Anda dapat meminta akses, koreksi, penghapusan, pembatasan pemrosesan, mengajukan keberatan atas pemrosesan, portabilitas data, atau menarik persetujuan.
 
 Penerbit berupaya menanggapi permintaan subjek data dalam periode yang ditentukan oleh hukum yang berlaku (verifikasi identitas dapat diminta bila wajar diperlukan).
 

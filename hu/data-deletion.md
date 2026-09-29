@@ -42,7 +42,7 @@ A kiadó csak az általad aktívan elküldött adatokat őrzi meg, például:
   ügyfélszolgálattal
 - **Licencszerver-bejegyzések**, csak ha a buildedhez licencszerver van beállítva
 
-Ezen adatok törlésének kéréséhez írj a **razvan.gutulov@outlook.com** címre, és
+Ezen adatok törlésének kéréséhez írj a **<!--publisher:ContactEmail-->organize-files-app@outlook.com<!--/publisher-->** címre, és
 add meg:
 
 - Az e-mail-címet, amelyről az ügyfélszolgálattal kapcsolatba léptél, és/vagy
@@ -61,4 +61,4 @@ adatok kezeléséhez vagy törléséhez használd az adott áruház fiókbeáll�
 
 ---
 
-© 2026 Guțulov Răzvan Constantin PFA. Minden jog fenntartva.
+© 2026 <!--publisher:LegalName-->Guțulov Răzvan Constantin PFA<!--/publisher-->. Minden jog fenntartva.

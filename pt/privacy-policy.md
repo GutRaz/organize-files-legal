@@ -4,11 +4,11 @@
 
 # Política de Privacidade — Organize Files
 
-**Editor:** Guțulov Răzvan Constantin PFA  
-**Endereço registado:** Str. Republicii nr. 33B, bl. N3, sc. A, et. 1, ap. 3, Breaza de Sus, 105400 Breaza, jud. Prahova, România  
-**Registo comercial:** F2026004513003 (EUID ROONRC.F2026004513003)  
-**Número de identificação fiscal:** 53610310  
-**Contato:** razvan.gutulov@outlook.com  
+**Editor:** <!--publisher:LegalName-->Guțulov Răzvan Constantin PFA<!--/publisher-->  
+**Endereço registado:** <!--publisher:RegisteredAddress-->Str. Republicii nr. 33B, bl. N3, sc. A, et. 1, ap. 3, Breaza de Sus, 105400 Breaza, jud. Prahova, România<!--/publisher-->  
+**Registo comercial:** <!--publisher:TradeRegister-->F2026004513003<!--/publisher--> (EUID <!--publisher:Euid-->ROONRC.F2026004513003<!--/publisher-->)  
+**Número de identificação fiscal:** <!--publisher:TaxId-->53610310<!--/publisher-->  
+**Contato:** <!--publisher:ContactEmail-->organize-files-app@outlook.com<!--/publisher-->  
 **Data de vigência:** 28/05/2026  
 **URL público:** `https://github.com/GutRaz/organize-files-legal/blob/main/pt/privacy-policy.md`
 
@@ -20,7 +20,7 @@ Organize Files processa arquivos **localmente no dispositivo**. O conteúdo dos 
 
 ## Controlador e contato
 
-Para dados pessoais processados pelo editor, o controlador é **Guțulov Răzvan Constantin PFA**. Contato: **razvan.gutulov@outlook.com**.
+Para dados pessoais processados pelo editor, o controlador é **<!--publisher:LegalName-->Guțulov Răzvan Constantin PFA<!--/publisher-->**. Contato: **<!--publisher:ContactEmail-->organize-files-app@outlook.com<!--/publisher-->**.
 
 ## Dados processados localmente
 
@@ -51,7 +51,7 @@ Para dados pessoais processados pelo editor, o controlador é **Guțulov Răzvan
 | Servidor de licença opcional (configurado pelo operador) | Um ID de instalação persistente aleatório (GUID armazenado em `license_installation_id.txt`) é enviado para um servidor de licença operado pelo editor ou configurado pelo operador em `ORGANIZE_FILES_LICENSE_SERVER_URL`. O ID de instalação é um identificador de dispositivo de acordo com o Considerando 30 do GDPR. Base legal: execução do contrato. Retenção operada pelo editor: registos de entitlement enquanto ativos mais até 24 meses após expiração/revogação para prevenção de abuso e litígios; registos contabilísticos podem ser retidos até 7 anos quando a lei o exigir. Servidores geridos pelo operador seguem o calendário de retenção documentado do operador. Este recurso está inativo a menos que `ORGANIZE_FILES_LICENSE_SERVER_URL` esteja definido. | Servidor de licença de editor ou operador |
 | Rastreamento OpenTelemetry opcional (configurado pelo operador) | Quando `ORGANIZE_FILES_OTEL_EXPORTER_OTLP_ENDPOINT` é definido, os metadados do trabalho de automação (IDs de trabalho, IDs de correlação, tags de tipo de destino, contexto de rastreamento W3C) são exportados para o coletor OTLP configurado. Nenhum caminho de arquivo ou conteúdo de arquivo está incluído. Este recurso está inativo por padrão e requer configuração explícita do operador. | Coletor OTLP configurado pelo operador |
 | Notificações por e-mail opcionais (quando ativadas) | Estado da execução e trechos de log (podem incluir caminhos de ficheiros) enviados através do servidor SMTP configurado pelo operador | SMTP / fornecedor de e-mail do operador |
-| Webhooks de automação opcionais (configurados pelo operador) | Quando `ORGANIZE_FILES_AUTOMATION_WEBHOOK_URL` está definido, eventos do ciclo de vida das tarefas com identificadores de correlação e os caminhos dos ficheiros de estado da automação | Ponto final de webhook configurado pelo operador |
+| Webhooks de automação opcionais (configurados pelo operador) | Quando `ORGANIZE_FILES_AUTOMATION_WEBHOOK_URL` está definido, uma mensagem por cada evento de uma tarefa (por exemplo, o início de uma execução, a espera por aprovação, a aprovação ou o fim), com o nome, o ID e a hora do evento, o nome do computador, o ID da tarefa e o ID de correlação, o destino, a fase, o resultado e o código de saída da tarefa, o caminho da pasta de saída, a mensagem de erro de uma execução que falhou (que pode indicar um ficheiro ou uma pasta), o nome de utilizador e o ID de operador de quem aprovou uma execução real, o caminho de um ficheiro de estado da automação que não foi possível guardar e a porta de um serviço de métricas que não conseguiu iniciar | Ponto final de webhook configurado pelo operador |
 | Verificação de identidade opcional para aprovação de execução (configurada pelo operador) | Com `ORGANIZE_FILES_APPROVE_OAUTH_JWKS_URL` definido, um GET HTTPS busca as chaves de assinatura e as mantém em cache por uma hora; nenhum token sai do dispositivo. Com `ORGANIZE_FILES_APPROVE_OAUTH_INTROSPECTION_URL` definido, o próprio token de portador do operador é enviado a esse endpoint para validação (RFC 7662), com credenciais de cliente HTTP Basic quando configuradas. Inativo a menos que uma dessas URLs esteja definida. | Provedor de identidade configurado pelo operador |
 | Auxiliares de nova tentativa do Engine NAS | Nenhum além dos caminhos de rede configurados | Anfitrião NAS/SMB |
 
@@ -73,7 +73,7 @@ As verificações opcionais de atualização podem chegar a servidores fora do E
 
 ## Autoridade supervisora e reclamações
 
-Se a lei aplicável conceder direitos ao titular dos dados ou uma reclamação a uma autoridade supervisora, entre em contato primeiro com o editor em **razvan.gutulov@outlook.com**. Os residentes da UE/EEE também podem apresentar uma reclamação junto da autoridade local de proteção de dados (para a Roménia: ANSPDCP, https://www.dataprotection.ro).
+Se a lei aplicável conceder direitos ao titular dos dados ou uma reclamação a uma autoridade supervisora, entre em contato primeiro com o editor em **<!--publisher:ContactEmail-->organize-files-app@outlook.com<!--/publisher-->**. Os residentes da UE/EEE também podem apresentar uma reclamação junto da autoridade local de proteção de dados (para a Roménia: ANSPDCP, https://www.dataprotection.ro).
 
 ## Processadores de terceiros (quando esses recursos são usados)
 
@@ -97,7 +97,7 @@ Para dados mantidos pelo editor:
 
 ## Seus direitos
 
-Para dados que o editor possui (por exemplo, correspondência por e-mail de suporte), entre em contato com **razvan.gutulov@outlook.com**. Para dados armazenados apenas no seu dispositivo, você pode excluir a maioria dos dados do aplicativo por meio de **Limpar dados do aplicativo**, desinstalar ou excluir manualmente o arquivo. **Limpar dados do aplicativo** remove sessões, registros e rascunhos de automação, mas pode reter âncoras de avaliação de licença, marcadores de instalação paga e um identificador de instalação usado para verificações de licença opcionais. Consulte o texto de confirmação no aplicativo antes de continuar. Quando aplicável, pode solicitar o acesso, a retificação, o apagamento, a limitação do tratamento, opor-se ao tratamento, a portabilidade dos dados ou retirar o consentimento.
+Para dados que o editor possui (por exemplo, correspondência por e-mail de suporte), entre em contato com **<!--publisher:ContactEmail-->organize-files-app@outlook.com<!--/publisher-->**. Para dados armazenados apenas no seu dispositivo, você pode excluir a maioria dos dados do aplicativo por meio de **Limpar dados do aplicativo**, desinstalar ou excluir manualmente o arquivo. **Limpar dados do aplicativo** remove sessões, registros e rascunhos de automação, mas pode reter âncoras de avaliação de licença, marcadores de instalação paga e um identificador de instalação usado para verificações de licença opcionais. Consulte o texto de confirmação no aplicativo antes de continuar. Quando aplicável, pode solicitar o acesso, a retificação, o apagamento, a limitação do tratamento, opor-se ao tratamento, a portabilidade dos dados ou retirar o consentimento.
 
 Para dados detidos pelo editor:
 

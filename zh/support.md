@@ -8,11 +8,11 @@
 
 ## 联系方式
 
-- **电子邮件：** razvan.gutulov@outlook.com
-- **发布者：** Guțulov Răzvan Constantin PFA
-- **注册地址:** Str. Republicii nr. 33B, bl. N3, sc. A, et. 1, ap. 3, Breaza de Sus, 105400 Breaza, jud. Prahova, România
-- **商业登记:** F2026004513003 (EUID ROONRC.F2026004513003)
-- **纳税人识别号:** 53610310
+- **电子邮件：** <!--publisher:ContactEmail-->organize-files-app@outlook.com<!--/publisher-->
+- **发布者：** <!--publisher:LegalName-->Guțulov Răzvan Constantin PFA<!--/publisher-->
+- **注册地址:** <!--publisher:RegisteredAddress-->Str. Republicii nr. 33B, bl. N3, sc. A, et. 1, ap. 3, Breaza de Sus, 105400 Breaza, jud. Prahova, România<!--/publisher-->
+- **商业登记:** <!--publisher:TradeRegister-->F2026004513003<!--/publisher--> (EUID <!--publisher:Euid-->ROONRC.F2026004513003<!--/publisher-->)
+- **纳税人识别号:** <!--publisher:TaxId-->53610310<!--/publisher-->
 
 联系我们时，请提供：
 
@@ -39,4 +39,4 @@
 
 ---
 
-© 2026 Guțulov Răzvan Constantin PFA. 保留所有权利。
+© 2026 <!--publisher:LegalName-->Guțulov Răzvan Constantin PFA<!--/publisher-->. 保留所有权利。

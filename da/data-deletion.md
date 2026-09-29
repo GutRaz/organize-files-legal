@@ -39,7 +39,7 @@ Udgiveren opbevarer kun data, du aktivt sender, såsom:
 - **Licensserverposter**, kun hvis der er konfigureret en licensserver til din build
 
 For at anmode om sletning af disse data skal du skrive til
-**razvan.gutulov@outlook.com** med:
+**<!--publisher:ContactEmail-->organize-files-app@outlook.com<!--/publisher-->** med:
 
 - Den e-mailadresse, du brugte til at kontakte supporten, og/eller
 - Din licens- eller ordrereference, hvis en sådan findes
@@ -57,4 +57,4 @@ butikken opbevarer, skal du bruge kontoindstillingerne i den pågældende butik.
 
 ---
 
-© 2026 Guțulov Răzvan Constantin PFA. Alle rettigheder forbeholdes.
+© 2026 <!--publisher:LegalName-->Guțulov Răzvan Constantin PFA<!--/publisher-->. Alle rettigheder forbeholdes.

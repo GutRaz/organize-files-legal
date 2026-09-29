@@ -4,11 +4,11 @@
 
 # Privatlivspolitik — Organize Files
 
-**Udgiver:** Guțulov Răzvan Constantin PFA  
-**Registreret adresse:** Str. Republicii nr. 33B, bl. N3, sc. A, et. 1, ap. 3, Breaza de Sus, 105400 Breaza, jud. Prahova, România  
-**Handelsregister:** F2026004513003 (EUID ROONRC.F2026004513003)  
-**Skatteregistreringsnummer:** 53610310  
-**Kontakt:** razvan.gutulov@outlook.com  
+**Udgiver:** <!--publisher:LegalName-->Guțulov Răzvan Constantin PFA<!--/publisher-->  
+**Registreret adresse:** <!--publisher:RegisteredAddress-->Str. Republicii nr. 33B, bl. N3, sc. A, et. 1, ap. 3, Breaza de Sus, 105400 Breaza, jud. Prahova, România<!--/publisher-->  
+**Handelsregister:** <!--publisher:TradeRegister-->F2026004513003<!--/publisher--> (EUID <!--publisher:Euid-->ROONRC.F2026004513003<!--/publisher-->)  
+**Skatteregistreringsnummer:** <!--publisher:TaxId-->53610310<!--/publisher-->  
+**Kontakt:** <!--publisher:ContactEmail-->organize-files-app@outlook.com<!--/publisher-->  
 **Ikrafttrædelsesdato:** 2026-05-28  
 **Offentlig webadresse:** `https://github.com/GutRaz/organize-files-legal/blob/main/da/privacy-policy.md`
 
@@ -20,7 +20,7 @@ Organize Files behandler filer **lokalt på enheden**. Filindhold er **ikke uplo
 
 ## Dataansvarlig og kontakt
 
-For personoplysninger behandlet af udgiveren er den dataansvarlige **Guțulov Răzvan Constantin PFA**. Kontakt: **razvan.gutulov@outlook.com**.
+For personoplysninger behandlet af udgiveren er den dataansvarlige **<!--publisher:LegalName-->Guțulov Răzvan Constantin PFA<!--/publisher-->**. Kontakt: **<!--publisher:ContactEmail-->organize-files-app@outlook.com<!--/publisher-->**.
 
 ## Data behandlet lokalt
 
@@ -51,7 +51,7 @@ For personoplysninger behandlet af udgiveren er den dataansvarlige **Guțulov R�
 | Valgfri licensserver (operatørkonfigureret) | Et tilfældigt vedvarende installations-id (GUID gemt i `license_installation_id.txt`) sendes til en udgiver-drevet eller operatør-konfigureret licensserver på `ORGANIZE_FILES_LICENSE_SERVER_URL`. Installations-id'et er en enhedsidentifikator i henhold til GDPR-betragtning 30. Lovgrundlag: opfyldelse af kontrakt. Udgiverdrevet opbevaring: rettighedsregistre mens aktive plus op til 24 måneder efter udløb/tilbagekaldelse til misbrugsforebyggelse og tvister; regnskabsoptegnelser kan opbevares op til 7 år, hvor loven kræver det. Operatordrevne servere følger operatørens dokumenterede opbevaringsplan. Denne funktion er inaktiv, medmindre `ORGANIZE_FILES_LICENSE_SERVER_URL` er indstillet. | Udgiver- eller operatørlicensserver |
 | Valgfri OpenTelemetry-sporing (operatørkonfigureret) | Når `ORGANIZE_FILES_OTEL_EXPORTER_OTLP_ENDPOINT` er indstillet, eksporteres automatiseringsjob-metadata (job-id'er, korrelations-id'er, måltype-tags, W3C-sporingskontekst) til den konfigurerede OTLP-opsamler. Ingen filstier eller filindhold er inkluderet. Denne funktion er inaktiv som standard og kræver eksplicit operatørkonfiguration. | Operatør-konfigureret OTLP-opsamler |
 | Valgfri e-mailnotifikationer (når aktiveret) | Kørselsstatus og loguddrag (kan indeholde filstier) sendt via den operatorkonfigurerede SMTP-server | Operatør-SMTP / mailudbyder |
-| Valgfrie automatiserings-webhooks (konfigureret af operatøren) | Når `ORGANIZE_FILES_AUTOMATION_WEBHOOK_URL` er angivet, hændelser i jobbets livscyklus med korrelations-id'er og filstier til automatiseringens tilstandsfiler | Webhook-slutpunkt konfigureret af operatøren |
+| Valgfrie automatiserings-webhooks (konfigureret af operatøren) | Når `ORGANIZE_FILES_AUTOMATION_WEBHOOK_URL` er angivet, en meddelelse for hver jobhændelse (f.eks. at en kørsel starter, venter på godkendelse, godkendes eller afsluttes), med hændelsens navn, id og tidspunkt, computerens navn, jobbets id og korrelations-id, jobbets mål, fase, resultat og afslutningskode, stien til outputmappen, fejlmeddelelsen fra en mislykket kørsel (som kan nævne en fil eller mappe), brugernavn og operatør-id for den, der godkendte en rigtig kørsel, stien til en tilstandsfil for automatiseringen, der ikke kunne gemmes, og porten for en metriktjeneste, der ikke kunne starte | Webhook-slutpunkt konfigureret af operatøren |
 | Valgfri identitetskontrol ved udførelsesgodkendelse (opsat af operatøren) | Med `ORGANIZE_FILES_APPROVE_OAUTH_JWKS_URL` sat henter et HTTPS GET signeringsnøglerne og cacher dem en time; ingen token forlader enheden. Med `ORGANIZE_FILES_APPROVE_OAUTH_INTROSPECTION_URL` sat sendes operatørens bearer-token selv til det endpoint til validering (RFC 7662), med HTTP Basic-klientlegitimation når den er opsat. Inaktiv, medmindre en af disse URL'er er sat. | Identitetsudbyder opsat af operatøren |
 | Engine NAS genforsøg hjælpere | Ingen ud over konfigurerede netværksstier | NAS / SMB vært |
 
@@ -73,7 +73,7 @@ Valgfri opdateringskontrol kan nå servere uden for Det Europæiske Økonomiske 
 
 ## Tilsynsmyndighed og klager
 
-Hvis gældende lov tildeler datasubjektrettigheder eller en klage til en tilsynsmyndighed, skal du først kontakte udgiveren på **razvan.gutulov@outlook.com**. EU/EØS-boere kan også indgive en klage til deres lokale databeskyttelsesmyndighed (for Rumænien: ANSPDCP, https://www.dataprotection.ro).
+Hvis gældende lov tildeler datasubjektrettigheder eller en klage til en tilsynsmyndighed, skal du først kontakte udgiveren på **<!--publisher:ContactEmail-->organize-files-app@outlook.com<!--/publisher-->**. EU/EØS-boere kan også indgive en klage til deres lokale databeskyttelsesmyndighed (for Rumænien: ANSPDCP, https://www.dataprotection.ro).
 
 ## Tredjepartsprocessorer (når disse funktioner bruges)
 
@@ -97,7 +97,7 @@ For data, som udgiveren opbevarer:
 
 ## Dine rettigheder
 
-Kontakt **razvan.gutulov@outlook.com** for data, som udgiveren har (f.eks. support-e-mail-korrespondance). For data, der kun er gemt på din enhed, kan du slette de fleste appdata via **Ryd appdata**, afinstallation eller manuel filsletning. **Ryd appdata** fjerner sessioner, logfiler og automatiseringsudkast, men kan beholde licensprøveankre, betalte installationsmarkører og en installationsidentifikator, der bruges til valgfri licenskontrol – se bekræftelsesteksten i appen, før du fortsætter. Hvor det er relevant, kan du anmode om indsigt, berigtigelse, sletning, begrænsning af behandlingen, indsigelse mod behandlingen, dataportabilitet eller tilbagekaldelse af samtykke.
+Kontakt **<!--publisher:ContactEmail-->organize-files-app@outlook.com<!--/publisher-->** for data, som udgiveren har (f.eks. support-e-mail-korrespondance). For data, der kun er gemt på din enhed, kan du slette de fleste appdata via **Ryd appdata**, afinstallation eller manuel filsletning. **Ryd appdata** fjerner sessioner, logfiler og automatiseringsudkast, men kan beholde licensprøveankre, betalte installationsmarkører og en installationsidentifikator, der bruges til valgfri licenskontrol – se bekræftelsesteksten i appen, før du fortsætter. Hvor det er relevant, kan du anmode om indsigt, berigtigelse, sletning, begrænsning af behandlingen, indsigelse mod behandlingen, dataportabilitet eller tilbagekaldelse af samtykke.
 
 Udgiveren tilstræber at besvare anmodninger fra registrerede inden for den periode, som gældende lovgivning kræver (identitetsbekræftelse kan kræves, når det med rimelighed er nødvendigt).
 

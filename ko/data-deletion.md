@@ -25,7 +25,7 @@
 - 지원팀에 문의한 경우 **지원 이메일** 서신
 - 빌드에 라이선스 서버가 구성된 경우에만 **라이선스 서버 기록**
 
-이 데이터의 삭제를 요청하려면 다음을 포함하여 **razvan.gutulov@outlook.com**으로 이메일을 보내십시오.
+이 데이터의 삭제를 요청하려면 다음을 포함하여 **<!--publisher:ContactEmail-->organize-files-app@outlook.com<!--/publisher-->**으로 이메일을 보내십시오.
 
 - 지원팀에 문의할 때 사용한 이메일 주소, 및/또는
 - 라이선스 또는 주문 참조 번호(있는 경우)
@@ -38,4 +38,4 @@
 
 ---
 
-© 2026 Guțulov Răzvan Constantin PFA. All rights reserved.
+© 2026 <!--publisher:LegalName-->Guțulov Răzvan Constantin PFA<!--/publisher-->. All rights reserved.

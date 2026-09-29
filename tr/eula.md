@@ -4,11 +4,11 @@
 
 # Son Kullanıcı Lisans Sözleşmesi (EULA) — Organize Files
 
-**Yayıncı:** Guțulov Răzvan Constantin PFA  
-**Kayıtlı adres:** Str. Republicii nr. 33B, bl. N3, sc. A, et. 1, ap. 3, Breaza de Sus, 105400 Breaza, jud. Prahova, România  
-**Ticaret sicili:** F2026004513003 (EUID ROONRC.F2026004513003)  
-**Vergi kimlik numarası:** 53610310  
-**İletişim:** razvan.gutulov@outlook.com  
+**Yayıncı:** <!--publisher:LegalName-->Guțulov Răzvan Constantin PFA<!--/publisher-->  
+**Kayıtlı adres:** <!--publisher:RegisteredAddress-->Str. Republicii nr. 33B, bl. N3, sc. A, et. 1, ap. 3, Breaza de Sus, 105400 Breaza, jud. Prahova, România<!--/publisher-->  
+**Ticaret sicili:** <!--publisher:TradeRegister-->F2026004513003<!--/publisher--> (EUID <!--publisher:Euid-->ROONRC.F2026004513003<!--/publisher-->)  
+**Vergi kimlik numarası:** <!--publisher:TaxId-->53610310<!--/publisher-->  
+**İletişim:** <!--publisher:ContactEmail-->organize-files-app@outlook.com<!--/publisher-->  
 **Geçerlilik tarihi:** 2026-05-28  
 **Genel URL (mağaza listeleri):** `https://github.com/GutRaz/organize-files-legal/blob/main/tr/eula.md`
 
@@ -49,8 +49,6 @@ YAYINCI, YASALARIN İZİN VERDİĞİ AZAMİ ÖLÇÜDE, YAZILIMIN KULLANIMI VEYA 
 
 Deneme süresi, mağaza SKU'ları ve yenileme koşulları **mağaza girişinde** ve uygulama içi lisans kartında tanımlanır. Sürüm derlemeleri geçerli bir mağaza yetkisi, aktif bir deneme veya yayıncı tarafından işletilen lisans sunucusu yetkilendirmesi gerektirir.
 
-**Mağaza para iadesi, iptali veya aboneliğin iptal edilmesinden sonra:** bu kurulum daha önce ücretli bir mağaza satın alma işlemi kaydettiyse, uygulama **yeni bir 14 günlük yerel deneme** başlatabilir (kurulum başına bu tür en fazla **iki** deneme). Para iadeleri uygulama içinde değil, yalnızca mağaza platformu tarafından gerçekleştirilir. Tüm akışı görmek için uygulama içi kılavuzun *Satın alma sonrası geri ödemeler ve deneme* bölümüne bakın.
-
 ## 7. Gizlilik
 
 Bkz. [Gizlilik Politikası](./privacy-policy.md).
@@ -76,4 +74,4 @@ Rumen tüketiciler anlaşmazlıklar için Ulusal Tüketiciyi Koruma Kurumu (ANPC
 
 ## 11. İletişim
 
-**Guțulov Răzvan Constantin PFA** — razvan.gutulov@outlook.com
+**<!--publisher:LegalName-->Guțulov Răzvan Constantin PFA<!--/publisher-->** — <!--publisher:ContactEmail-->organize-files-app@outlook.com<!--/publisher-->

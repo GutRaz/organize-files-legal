@@ -4,11 +4,11 @@
 
 # Perjanjian Lisensi Pengguna Akhir (EULA) — Organize Files
 
-**Penerbit:** Guțulov Răzvan Constantin PFA  
-**Alamat terdaftar:** Str. Republicii nr. 33B, bl. N3, sc. A, et. 1, ap. 3, Breaza de Sus, 105400 Breaza, jud. Prahova, România  
-**Daftar perdagangan:** F2026004513003 (EUID ROONRC.F2026004513003)  
-**Nomor identifikasi pajak:** 53610310  
-**Hubungi:** razvan.gutulov@outlook.com  
+**Penerbit:** <!--publisher:LegalName-->Guțulov Răzvan Constantin PFA<!--/publisher-->  
+**Alamat terdaftar:** <!--publisher:RegisteredAddress-->Str. Republicii nr. 33B, bl. N3, sc. A, et. 1, ap. 3, Breaza de Sus, 105400 Breaza, jud. Prahova, România<!--/publisher-->  
+**Daftar perdagangan:** <!--publisher:TradeRegister-->F2026004513003<!--/publisher--> (EUID <!--publisher:Euid-->ROONRC.F2026004513003<!--/publisher-->)  
+**Nomor identifikasi pajak:** <!--publisher:TaxId-->53610310<!--/publisher-->  
+**Hubungi:** <!--publisher:ContactEmail-->organize-files-app@outlook.com<!--/publisher-->  
 **Tanggal efektif:** 28-05-2026  
 **URL publik (daftar toko):** `https://github.com/GutRaz/organize-files-legal/blob/main/id/eula.md`
 
@@ -49,8 +49,6 @@ SEJAUH DIIZINKAN OLEH HUKUM, PENERBIT TIDAK BERTANGGUNG JAWAB ATAS KERUSAKAN TID
 
 Durasi uji coba, SKU toko, dan ketentuan perpanjangan ditentukan dalam **daftar toko** dan kartu lisensi dalam aplikasi. Versi rilis memerlukan hak toko yang valid, masa uji coba aktif, atau otorisasi server lisensi yang dioperasikan penerbit.
 
-**Setelah pengembalian dana toko, pencabutan, atau pembatalan langganan:** jika instalasi ini sebelumnya mencatat pembelian toko berbayar, aplikasi dapat memulai **uji coba lokal baru selama 14 hari** (paling banyak **dua** uji coba tersebut per instalasi). Pengembalian uang hanya ditangani oleh platform toko — bukan di dalam aplikasi. Lihat bab panduan dalam aplikasi *Pengembalian dana dan uji coba setelah pembelian* untuk mengetahui alur selengkapnya.
-
 ## 7. Privasi
 
 Lihat [Kebijakan Privasi](./privacy-policy.md).
@@ -76,4 +74,4 @@ Konsumen Rumania dapat menghubungi Otoritas Perlindungan Konsumen Nasional (ANPC
 
 ## 11. Kontak
 
-**Guțulov Răzvan Constantin PFA** — razvan.gutulov@outlook.com
+**<!--publisher:LegalName-->Guțulov Răzvan Constantin PFA<!--/publisher-->** — <!--publisher:ContactEmail-->organize-files-app@outlook.com<!--/publisher-->

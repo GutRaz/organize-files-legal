@@ -4,11 +4,11 @@
 
 # 最终用户许可协议 (EULA) — Organize Files
 
-**出版商：** Guțulov Răzvan Constantin PFA  
-**注册地址:** Str. Republicii nr. 33B, bl. N3, sc. A, et. 1, ap. 3, Breaza de Sus, 105400 Breaza, jud. Prahova, România  
-**商业登记:** F2026004513003 (EUID ROONRC.F2026004513003)  
-**纳税人识别号:** 53610310  
-**联系方式：** razvan.gutulov@outlook.com  
+**出版商：** <!--publisher:LegalName-->Guțulov Răzvan Constantin PFA<!--/publisher-->  
+**注册地址:** <!--publisher:RegisteredAddress-->Str. Republicii nr. 33B, bl. N3, sc. A, et. 1, ap. 3, Breaza de Sus, 105400 Breaza, jud. Prahova, România<!--/publisher-->  
+**商业登记:** <!--publisher:TradeRegister-->F2026004513003<!--/publisher--> (EUID <!--publisher:Euid-->ROONRC.F2026004513003<!--/publisher-->)  
+**纳税人识别号:** <!--publisher:TaxId-->53610310<!--/publisher-->  
+**联系方式：** <!--publisher:ContactEmail-->organize-files-app@outlook.com<!--/publisher-->  
 **生效日期：** 2026-05-28  
 **公共 URL（商店列表）：** `https://github.com/GutRaz/organize-files-legal/blob/main/zh/eula.md`
 
@@ -49,8 +49,6 @@
 
 试用期限、商店 SKU 和续订条款在 **商店列表** 和应用内许可证卡中定义。发布版本需要有效的商店权利、有效的试用期，或由发行商运营的许可证服务器授权。
 
-**商店退款、撤销或取消订阅后：**如果此安装之前记录了付费商店购买，则应用程序可能会开始**新的 14 天本地试用**（每次安装最多**两次**此类试用）。退款仅由商店平台处理，而不是在应用程序内处理。请参阅应用内指南章节*购买后退款和试用*了解完整流程。
-
 ## 7. 隐私
 
 请参阅[隐私政策](./privacy-policy.md)。
@@ -76,4 +74,4 @@
 
 ## 11. 联系方式
 
-**Guțulov Răzvan Constantin PFA** — razvan.gutulov@outlook.com
+**<!--publisher:LegalName-->Guțulov Răzvan Constantin PFA<!--/publisher-->** — <!--publisher:ContactEmail-->organize-files-app@outlook.com<!--/publisher-->

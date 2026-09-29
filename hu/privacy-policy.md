@@ -4,11 +4,11 @@
 
 # Adatvédelmi szabályzat — Organize Files
 
-**Kiadó:** Guțulov Răzvan Constantin PFA  
-**Bejegyzett cím:** Str. Republicii nr. 33B, bl. N3, sc. A, et. 1, ap. 3, Breaza de Sus, 105400 Breaza, jud. Prahova, România  
-**Cégjegyzék:** F2026004513003 (EUID ROONRC.F2026004513003)  
-**Adóazonosító szám:** 53610310  
-**Kapcsolat:** razvan.gutulov@outlook.com  
+**Kiadó:** <!--publisher:LegalName-->Guțulov Răzvan Constantin PFA<!--/publisher-->  
+**Bejegyzett cím:** <!--publisher:RegisteredAddress-->Str. Republicii nr. 33B, bl. N3, sc. A, et. 1, ap. 3, Breaza de Sus, 105400 Breaza, jud. Prahova, România<!--/publisher-->  
+**Cégjegyzék:** <!--publisher:TradeRegister-->F2026004513003<!--/publisher--> (EUID <!--publisher:Euid-->ROONRC.F2026004513003<!--/publisher-->)  
+**Adóazonosító szám:** <!--publisher:TaxId-->53610310<!--/publisher-->  
+**Kapcsolat:** <!--publisher:ContactEmail-->organize-files-app@outlook.com<!--/publisher-->  
 **Hatálybalépés dátuma:** 2026-05-28  
 **Nyilvános URL:** `https://github.com/GutRaz/organize-files-legal/blob/main/hu/privacy-policy.md`
 
@@ -20,7 +20,7 @@ Az Organize Files **helyben, az eszközön** dolgozza fel a fájlokat. A fájl t
 
 ## Adatkezelő és kapcsolat
 
-A kiadó által kezelt személyes adatok adatkezelője **Guțulov Răzvan Constantin PFA**. Kapcsolat: **razvan.gutulov@outlook.com**.
+A kiadó által kezelt személyes adatok adatkezelője **<!--publisher:LegalName-->Guțulov Răzvan Constantin PFA<!--/publisher-->**. Kapcsolat: **<!--publisher:ContactEmail-->organize-files-app@outlook.com<!--/publisher-->**.
 
 ## Az adatok helyben feldolgozva
 
@@ -51,7 +51,7 @@ A kiadó által kezelt személyes adatok adatkezelője **Guțulov Răzvan Consta
 | Opcionális licencszerver (üzemeltető által konfigurált) | A rendszer egy véletlenszerű állandó telepítési azonosítót (a `license_installation_id.txt' fájlban tárolt GUID) elküld a kiadó által üzemeltetett vagy üzemeltető által konfigurált licencszervernek a `ORGANIZE_FILES_LICENSE_SERVER_URL' címen. A telepítési azonosító egy eszközazonosító a GDPR 30. preambulumbekezdése szerint. Jogalap: szerződés teljesítése. Kiadói megőrzés: jogosultsági nyilvántartások az aktív időszak alatt, plusz legfeljebb 24 hónap lejárat/visszavonás után a visszaélések megelőzése és viták kezelése céljából; számviteli nyilvántartások legfeljebb 7 évig őrizhetők, ha a törvény előírja. Az üzemeltető által futtatott szerverek az üzemeltető dokumentált megőrzési ütemtervét követik. Ez a funkció inaktív, hacsak nincs beállítva a `ORGANIZE_FILES_LICENSE_SERVER_URL'. | Kiadói vagy üzemeltetői licencszerver |
 | Opcionális OpenTelemetry nyomkövetés (operátor által konfigurált) | Ha az `ORGANIZE_FILES_OTEL_EXPORTER_OTLP_ENDPOINT' be van állítva, az automatizálási feladatok metaadatai (feladatazonosítók, korrelációs azonosítók, céltípus-címkék, W3C nyomkövetési kontextus) exportálódnak a konfigurált OTLP-gyűjtőbe. Nem tartalmaz fájl elérési utat vagy fájltartalmat. Ez a funkció alapértelmezés szerint inaktív, és kifejezett kezelői konfigurációt igényel. | Kezelő által konfigurált OTLP gyűjtő |
 | Opcionális e-mail értesítések (ha engedélyezve) | Futási állapot és naplórészletek (tartalmazhatnak fájlútvonalakat) az üzemeltető által konfigurált SMTP-kiszolgálón keresztül | Üzemeltetői SMTP / levelezőszolgáltató |
-| Opcionális automatizálási webhookok (az üzemeltető állítja be) | Ha az `ORGANIZE_FILES_AUTOMATION_WEBHOOK_URL` be van állítva, a feladatok életciklus-eseményei korrelációs azonosítókkal és az automatizálás állapotfájljainak elérési útjaival | Az üzemeltető által beállított webhook-végpont |
+| Opcionális automatizálási webhookok (az üzemeltető állítja be) | Ha az `ORGANIZE_FILES_AUTOMATION_WEBHOOK_URL` be van állítva, a feladatok minden eseményéről (például egy futás indulásáról, jóváhagyásra várásáról, jóváhagyásáról vagy befejezéséről) egy üzenet, amely tartalmazza az esemény nevét, azonosítóját és idejét, a számítógép nevét, a feladat azonosítóját és a korrelációs azonosítót, a feladat célját, fázisát, eredményét és kilépési kódját, a kimeneti mappa elérési útját, a sikertelen futás hibaüzenetét (amely fájlt vagy mappát nevezhet meg), a valódi futást jóváhagyó személy felhasználónevét és üzemeltetői azonosítóját, egy nem menthető automatizálási állapotfájl elérési útját, valamint egy el nem indult metrikaszolgáltatás portját | Az üzemeltető által beállított webhook-végpont |
 | Választható személyazonosság-ellenőrzés a végrehajtás jóváhagyásához (az üzemeltető állítja be) | Ha `ORGANIZE_FILES_APPROVE_OAUTH_JWKS_URL` be van állítva, egy HTTPS GET lekéri az aláírókulcsokat és egy órára gyorsítótárazza őket; token nem hagyja el az eszközt. Ha `ORGANIZE_FILES_APPROVE_OAUTH_INTROSPECTION_URL` van beállítva, magát az üzemeltető bearer tokenjét küldi el a rendszer ellenőrzésre erre a végpontra (RFC 7662), beállítás esetén HTTP Basic ügyfél-hitelesítéssel. Inaktív, amíg egyik URL sincs beállítva. | Az üzemeltető által beállított identitásszolgáltató |
 | Motor NAS újrapróbálkozás segítők | A konfigurált hálózati útvonalakon kívül nincs | NAS / SMB gazdagép |
 
@@ -73,7 +73,7 @@ Az opcionális frissítési ellenőrzések elérhetik az Európai Gazdasági Té
 
 ## Felügyeleti hatóság és panaszok
 
-Ha az alkalmazandó jogszabályok az érintettek jogait biztosítják, vagy panaszt tehet a felügyeleti hatóságnál, először lépjen kapcsolatba a kiadóval a **razvan.gutulov@outlook.com** címen. Az EU/EGT lakosai a helyi adatvédelmi hatóságukhoz is panaszt tehetnek (Románia esetében: ANSPDCP, https://www.dataprotection.ro).
+Ha az alkalmazandó jogszabályok az érintettek jogait biztosítják, vagy panaszt tehet a felügyeleti hatóságnál, először lépjen kapcsolatba a kiadóval a **<!--publisher:ContactEmail-->organize-files-app@outlook.com<!--/publisher-->** címen. Az EU/EGT lakosai a helyi adatvédelmi hatóságukhoz is panaszt tehetnek (Románia esetében: ANSPDCP, https://www.dataprotection.ro).
 
 ## Harmadik féltől származó processzorok (ha ezeket a szolgáltatásokat használják)
 
@@ -97,7 +97,7 @@ A kiadó által tárolt adatokra:
 
 ## Az Ön jogai
 
-A kiadó birtokában lévő adatokkal kapcsolatban (pl. támogatási e-mailes levelezés) forduljon a **razvan.gutulov@outlook.com** címhez. A csak az eszközén tárolt adatok esetében törölheti a legtöbb alkalmazásadatot az **Alkalmazásadatok törlése**, az eltávolítás vagy a fájl manuális törlésével. Az **Alkalmazásadatok törlése** eltávolítja a munkameneteket, a naplókat és az automatizálási vázlatokat, de megtarthatja a licencpróba horgonyokat, a fizetett telepítési jelzőket és az opcionális licencellenőrzésekhez használt telepítési azonosítót – a folytatás előtt tekintse meg az alkalmazáson belüli megerősítő szöveget. Ahol alkalmazandó, kérheti az adataihoz való hozzáférést, azok helyesbítését vagy törlését, a kezelés korlátozását, tiltakozhat a kezelés ellen, kérheti az adathordozhatóságot, vagy visszavonhatja a hozzájárulását.
+A kiadó birtokában lévő adatokkal kapcsolatban (pl. támogatási e-mailes levelezés) forduljon a **<!--publisher:ContactEmail-->organize-files-app@outlook.com<!--/publisher-->** címhez. A csak az eszközén tárolt adatok esetében törölheti a legtöbb alkalmazásadatot az **Alkalmazásadatok törlése**, az eltávolítás vagy a fájl manuális törlésével. Az **Alkalmazásadatok törlése** eltávolítja a munkameneteket, a naplókat és az automatizálási vázlatokat, de megtarthatja a licencpróba horgonyokat, a fizetett telepítési jelzőket és az opcionális licencellenőrzésekhez használt telepítési azonosítót – a folytatás előtt tekintse meg az alkalmazáson belüli megerősítő szöveget. Ahol alkalmazandó, kérheti az adataihoz való hozzáférést, azok helyesbítését vagy törlését, a kezelés korlátozását, tiltakozhat a kezelés ellen, kérheti az adathordozhatóságot, vagy visszavonhatja a hozzájárulását.
 
 A kiadó törekszik arra, hogy az érintetti kérelmekre az ellenőrzött kéréstől számított az alkalmazandó jog által előírt időszakon belül válaszoljon (személyazonosság igazolása kérhető, ha ez ésszerűen szükséges).
 

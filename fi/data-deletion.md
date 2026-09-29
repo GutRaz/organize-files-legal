@@ -42,7 +42,7 @@ Julkaisija säilyttää vain tietoja, jotka lähetät aktiivisesti, kuten:
   lisenssipalvelin
 
 Pyytääksesi näiden tietojen poistamista, kirjoita osoitteeseen
-**razvan.gutulov@outlook.com** ja liitä mukaan:
+**<!--publisher:ContactEmail-->organize-files-app@outlook.com<!--/publisher-->** ja liitä mukaan:
 
 - Sähköpostiosoite, jolla otit yhteyttä tukeen, ja/tai
 - Lisenssi- tai tilausviitteesi, jos sellainen on
@@ -60,4 +60,4 @@ käytä kyseisen kaupan tiliasetuksia.
 
 ---
 
-© 2026 Guțulov Răzvan Constantin PFA. Kaikki oikeudet pidätetään.
+© 2026 <!--publisher:LegalName-->Guțulov Răzvan Constantin PFA<!--/publisher-->. Kaikki oikeudet pidätetään.

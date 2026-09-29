@@ -4,11 +4,11 @@
 
 # Sekretesspolicy — Organize Files
 
-**Förlag:** Guțulov Răzvan Constantin PFA  
-**Registrerad adress:** Str. Republicii nr. 33B, bl. N3, sc. A, et. 1, ap. 3, Breaza de Sus, 105400 Breaza, jud. Prahova, România  
-**Handelsregister:** F2026004513003 (EUID ROONRC.F2026004513003)  
-**Skatteregistreringsnummer:** 53610310  
-**Kontakta:** razvan.gutulov@outlook.com  
+**Förlag:** <!--publisher:LegalName-->Guțulov Răzvan Constantin PFA<!--/publisher-->  
+**Registrerad adress:** <!--publisher:RegisteredAddress-->Str. Republicii nr. 33B, bl. N3, sc. A, et. 1, ap. 3, Breaza de Sus, 105400 Breaza, jud. Prahova, România<!--/publisher-->  
+**Handelsregister:** <!--publisher:TradeRegister-->F2026004513003<!--/publisher--> (EUID <!--publisher:Euid-->ROONRC.F2026004513003<!--/publisher-->)  
+**Skatteregistreringsnummer:** <!--publisher:TaxId-->53610310<!--/publisher-->  
+**Kontakta:** <!--publisher:ContactEmail-->organize-files-app@outlook.com<!--/publisher-->  
 **Ikraftträdandedatum:** 2026-05-28  
 **Offentlig webbadress:** `https://github.com/GutRaz/organize-files-legal/blob/main/sv/privacy-policy.md`
 
@@ -20,7 +20,7 @@ Organize Files behandlar filer **lokalt på enheten**. Filinnehåll laddas **int
 
 ## Personuppgiftsansvarig och kontakt
 
-För personuppgifter som behandlas av utgivaren är personuppgiftsansvarig **Guțulov Răzvan Constantin PFA**. Kontakt: **razvan.gutulov@outlook.com**.
+För personuppgifter som behandlas av utgivaren är personuppgiftsansvarig **<!--publisher:LegalName-->Guțulov Răzvan Constantin PFA<!--/publisher-->**. Kontakt: **<!--publisher:ContactEmail-->organize-files-app@outlook.com<!--/publisher-->**.
 
 ## Data bearbetas lokalt
 
@@ -51,7 +51,7 @@ För personuppgifter som behandlas av utgivaren är personuppgiftsansvarig **Gu�
 | Valfri licensserver (operatörskonfigurerad) | Ett slumpmässigt beständigt installations-ID (GUID lagrat i `license_installation_id.txt`) skickas till en utgivarstyrd eller operatörskonfigurerad licensserver på `ORGANIZE_FILES_LICENSE_SERVER_URL`. Installations-ID:t är en enhetsidentifierare enligt GDPR skäl 30. Laglig grund: fullgörande av kontrakt. Utgivardriven lagring: rättighetsregister medan aktiva plus upp till 24 månader efter utgång/återkallelse för missbruksförebyggande och tvister; bokföringsuppgifter kan lagras upp till 7 år där lag kräver det. Operatörsdrivna servrar följer operatörens dokumenterade lagringsschema. Den här funktionen är inaktiv om inte `ORGANIZE_FILES_LICENSE_SERVER_URL` är inställd. | Utgivar- eller operatörslicensserver |
 | Valfri OpenTelemetry-spårning (operatörskonfigurerad) | När `ORGANIZE_FILES_OTEL_EXPORTER_OTLP_ENDPOINT` är inställt, exporteras automatiseringsjobbmetadata (jobb-ID, korrelations-ID, måltypstaggar, W3C-spårningskontext) till den konfigurerade OTLP-samlaren. Inga filsökvägar eller filinnehåll ingår. Den här funktionen är inaktiv som standard och kräver explicit operatörskonfiguration. | Operatörskonfigurerad OTLP-samlare |
 | Valfria e-postaviseringar (när aktiverade) | Körstatus och loggutdrag (kan inkludera filsökvägar) som skickas via den operatörskonfigurerade SMTP-servern | Operatörens SMTP / e-postleverantör |
-| Valfria automatiseringswebhookar (konfigurerade av operatören) | När `ORGANIZE_FILES_AUTOMATION_WEBHOOK_URL` är angiven, händelser i jobbets livscykel med korrelations-id:n och filsökvägar till automatiseringens tillståndsfiler | Webhook-slutpunkt konfigurerad av operatören |
+| Valfria automatiseringswebhookar (konfigurerade av operatören) | När `ORGANIZE_FILES_AUTOMATION_WEBHOOK_URL` är angiven, ett meddelande för varje jobbhändelse (till exempel att en körning startar, väntar på godkännande, godkänns eller avslutas), med händelsens namn, id och tid, datorns namn, jobbets id och korrelations-id, jobbets mål, fas, utfall och slutkod, sökvägen till utdatamappen, felmeddelandet från en misslyckad körning (som kan nämna en fil eller mapp), användarnamn och operatörs-id för den som godkände en riktig körning, sökvägen till en tillståndsfil för automatiseringen som inte kunde sparas, och porten för en metriktjänst som inte kunde starta | Webhook-slutpunkt konfigurerad av operatören |
 | Valfri identitetskontroll vid körningsgodkännande (konfigurerad av operatören) | Med `ORGANIZE_FILES_APPROVE_OAUTH_JWKS_URL` satt hämtar en HTTPS GET signeringsnycklarna och cachar dem en timme; ingen token lämnar enheten. Med `ORGANIZE_FILES_APPROVE_OAUTH_INTROSPECTION_URL` satt skickas operatörens bärartoken själv till den slutpunkten för validering (RFC 7662), med HTTP Basic-klientuppgifter när sådana är konfigurerade. Inaktiv om ingen av dessa URL:er är satt. | Identitetsleverantör konfigurerad av operatören |
 | Försök med hjälp av motor NAS igen | Inga utöver konfigurerade nätverksvägar | NAS / SMB-värd |
 
@@ -73,7 +73,7 @@ Valfria uppdateringskontroller kan nå servrar utanför Europeiska ekonomiska sa
 
 ## Tillsynsmyndighet och klagomål
 
-Om tillämplig lag ger registrerade rättigheter eller ett klagomål till en tillsynsmyndighet, kontakta först utgivaren på **razvan.gutulov@outlook.com**. Invånare i EU/EES kan också lämna in ett klagomål till sin lokala dataskyddsmyndighet (för Rumänien: ANSPDCP, https://www.dataprotection.ro).
+Om tillämplig lag ger registrerade rättigheter eller ett klagomål till en tillsynsmyndighet, kontakta först utgivaren på **<!--publisher:ContactEmail-->organize-files-app@outlook.com<!--/publisher-->**. Invånare i EU/EES kan också lämna in ett klagomål till sin lokala dataskyddsmyndighet (för Rumänien: ANSPDCP, https://www.dataprotection.ro).
 
 ## Tredjepartsprocessorer (när dessa funktioner används)
 
@@ -98,7 +98,7 @@ För data som utgivaren innehar:
 
 ## Dina rättigheter
 
-Kontakta **razvan.gutulov@outlook.com** för data som utgivaren har (t.ex. support via e-postkorrespondens). För data som endast lagras på din enhet kan du radera de flesta appdata via **Rensa appdata**, avinstallera eller manuell radering av filer. **Rensa appdata** tar bort sessioner, loggar och automatiseringsutkast, men kan behålla licensankare, betalda installationsmarkörer och en installationsidentifierare som används för valfria licenskontroller – se bekräftelsetexten i appen innan du fortsätter. I tillämpliga fall kan du begära tillgång, rättelse, radering, begränsning av behandlingen, invända mot behandlingen, dataportabilitet eller återkalla ditt samtycke.
+Kontakta **<!--publisher:ContactEmail-->organize-files-app@outlook.com<!--/publisher-->** för data som utgivaren har (t.ex. support via e-postkorrespondens). För data som endast lagras på din enhet kan du radera de flesta appdata via **Rensa appdata**, avinstallera eller manuell radering av filer. **Rensa appdata** tar bort sessioner, loggar och automatiseringsutkast, men kan behålla licensankare, betalda installationsmarkörer och en installationsidentifierare som används för valfria licenskontroller – se bekräftelsetexten i appen innan du fortsätter. I tillämpliga fall kan du begära tillgång, rättelse, radering, begränsning av behandlingen, invända mot behandlingen, dataportabilitet eller återkalla ditt samtycke.
 
 Utgivaren strävar efter att svara på registrerades begäranden inom den tid som gällande lagstiftning kräver (identitetsverifiering kan begäras när det är rimligen nödvändigt).
 

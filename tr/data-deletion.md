@@ -40,7 +40,7 @@ Yayıncı yalnızca etkin olarak gönderdiğiniz verileri tutar, örneğin:
 - Yalnızca yapınız için bir lisans sunucusu yapılandırılmışsa **lisans sunucusu
   kayıtları**
 
-Bu verilerin silinmesini talep etmek için **razvan.gutulov@outlook.com** adresine
+Bu verilerin silinmesini talep etmek için **<!--publisher:ContactEmail-->organize-files-app@outlook.com<!--/publisher-->** adresine
 şunları belirterek yazın:
 
 - Destek ile iletişime geçmek için kullandığınız e-posta adresi ve/veya
@@ -59,4 +59,4 @@ verilerini yönetmek veya silmek için o mağazanın hesap ayarlarını kullanı
 
 ---
 
-© 2026 Guțulov Răzvan Constantin PFA. Tüm hakları saklıdır.
+© 2026 <!--publisher:LegalName-->Guțulov Răzvan Constantin PFA<!--/publisher-->. Tüm hakları saklıdır.

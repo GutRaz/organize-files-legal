@@ -44,13 +44,20 @@ These documents exist so the app stores (Microsoft Store, Google Play, Apple App
 | Afrikaans | [link](./af/privacy-policy.md) | [link](./af/eula.md) | [link](./af/data-deletion.md) | [link](./af/support.md) |
 | Kiswahili | [link](./sw/privacy-policy.md) | [link](./sw/eula.md) | [link](./sw/data-deletion.md) | [link](./sw/support.md) |
 
+## Publisher details
+
+The publisher's name, registered address, registration numbers and contact address are kept in
+[publisher.json](./publisher.json). Every document shows them between markers a reader does not see. After a change
+there, run `python tools/refresh_publisher_facts.py`. With `--check` it changes nothing and names any document that
+still holds an old value.
+
 ## Contact
 
-For support or privacy questions: **razvan.gutulov@outlook.com**  
-Publisher: **Guțulov Răzvan Constantin PFA**
+For support or privacy questions: **<!--publisher:ContactEmail-->organize-files-app@outlook.com<!--/publisher-->**  
+Publisher: **<!--publisher:LegalName-->Guțulov Răzvan Constantin PFA<!--/publisher-->**
 
 ---
 
-© 2026 Guțulov Răzvan Constantin PFA. All rights reserved. These documents may not be reproduced or redistributed without permission.
+© 2026 <!--publisher:LegalName-->Guțulov Răzvan Constantin PFA<!--/publisher-->. All rights reserved. These documents may not be reproduced or redistributed without permission.
 
-_Last updated: 2026-09-14_
+_Last updated: 2026-09-29_

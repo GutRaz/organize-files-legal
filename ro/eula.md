@@ -4,11 +4,11 @@
 
 # Acord de licență pentru utilizatorul final (EULA) — Organize Files
 
-**Editor:** Guțulov Răzvan Constantin PFA  
-**Sediu profesional:** Str. Republicii nr. 33B, bl. N3, sc. A, et. 1, ap. 3, Breaza de Sus, 105400 Breaza, jud. Prahova, România  
-**Registrul comerțului:** F2026004513003 (EUID ROONRC.F2026004513003)  
-**Cod unic de înregistrare:** 53610310  
-**Contact:** razvan.gutulov@outlook.com  
+**Editor:** <!--publisher:LegalName-->Guțulov Răzvan Constantin PFA<!--/publisher-->  
+**Sediu profesional:** <!--publisher:RegisteredAddress-->Str. Republicii nr. 33B, bl. N3, sc. A, et. 1, ap. 3, Breaza de Sus, 105400 Breaza, jud. Prahova, România<!--/publisher-->  
+**Registrul comerțului:** <!--publisher:TradeRegister-->F2026004513003<!--/publisher--> (EUID <!--publisher:Euid-->ROONRC.F2026004513003<!--/publisher-->)  
+**Cod unic de înregistrare:** <!--publisher:TaxId-->53610310<!--/publisher-->  
+**Contact:** <!--publisher:ContactEmail-->organize-files-app@outlook.com<!--/publisher-->  
 **Data efectivă:** 2026-05-28  
 
 ## 1. Acordarea licenței
@@ -41,8 +41,6 @@ SOFTWARE-UL ESTE FURNIZAT **„CA ATARE”**, FĂRĂ NICIO GARANȚIE DE ORICE FE
 
 Durata probei, SKU-urile și reînnoirea sunt definite în listarea magazinului și în cardul de licență din aplicație. Versiunile de lansare necesită un drept valid din magazin, o probă activă sau autorizare de la serverul de licențe al editorului.
 
-**După refund, revocare sau anularea abonamentului în magazin:** dacă această instalare a înregistrat anterior o achiziție plătită, aplicația poate porni o **probă locală nouă de 14 zile** (cel mult **două** astfel de probe per instalare). Rambursările în bani sunt gestionate doar de platforma magazinului — nu în aplicație. Vezi în ghidul din aplicație capitolul *Rambursare și trial după achiziție*.
-
 ## 7. Confidențialitate
 
 Vezi [Politica de confidențialitate](./privacy-policy.md).
@@ -68,7 +66,7 @@ Consumatorii din România se pot adresa Autorității Naționale pentru Protecț
 
 ## 11. Contact
 
-**Guțulov Răzvan Constantin PFA** — razvan.gutulov@outlook.com
+**<!--publisher:LegalName-->Guțulov Răzvan Constantin PFA<!--/publisher-->** — <!--publisher:ContactEmail-->organize-files-app@outlook.com<!--/publisher-->
 
 ## Documente conexe
 

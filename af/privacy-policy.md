@@ -4,11 +4,11 @@
 
 # Privaatheidsbeleid - Organize Files
 
-**Uitgewer:** Guțulov Răzvan Constantin PFA  
-**Geregistreerde adres:** Str. Republicii nr. 33B, bl. N3, sc. A, et. 1, ap. 3, Breaza de Sus, 105400 Breaza, jud. Prahova, România  
-**Handelsregister:** F2026004513003 (EUID ROONRC.F2026004513003)  
-**Belastingidentifikasienommer:** 53610310  
-**Kontak:** razvan.gutulov@outlook.com  
+**Uitgewer:** <!--publisher:LegalName-->Guțulov Răzvan Constantin PFA<!--/publisher-->  
+**Geregistreerde adres:** <!--publisher:RegisteredAddress-->Str. Republicii nr. 33B, bl. N3, sc. A, et. 1, ap. 3, Breaza de Sus, 105400 Breaza, jud. Prahova, România<!--/publisher-->  
+**Handelsregister:** <!--publisher:TradeRegister-->F2026004513003<!--/publisher--> (EUID <!--publisher:Euid-->ROONRC.F2026004513003<!--/publisher-->)  
+**Belastingidentifikasienommer:** <!--publisher:TaxId-->53610310<!--/publisher-->  
+**Kontak:** <!--publisher:ContactEmail-->organize-files-app@outlook.com<!--/publisher-->  
 **Inwerkingtredingsdatum:** 2026-05-28  
 **Publieke URL:** `https://github.com/GutRaz/organize-files-legal/blob/main/af/privacy-policy.md`
 
@@ -20,7 +20,7 @@ Organize Files verwerk lêers **plaaslik op die toestel**. Lêerinhoud word **ni
 
 ## Beheerder en kontak
 
-Vir persoonlike data wat deur die uitgewer verwerk word, is die beheerder **Guțulov Răzvan Constantin PFA**. Kontak: **razvan.gutulov@outlook.com**.
+Vir persoonlike data wat deur die uitgewer verwerk word, is die beheerder **<!--publisher:LegalName-->Guțulov Răzvan Constantin PFA<!--/publisher-->**. Kontak: **<!--publisher:ContactEmail-->organize-files-app@outlook.com<!--/publisher-->**.
 
 ## Data plaaslik verwerk
 
@@ -51,7 +51,7 @@ Vir persoonlike data wat deur die uitgewer verwerk word, is die beheerder **Guț
 | Opsionele lisensiebediener (operateur-gekonfigureerde) | 'n Ewekansige aanhoudende installasie-ID (GUID gestoor in `license_installation_id.txt`) word na 'n uitgewer-bestuurde of operateur-gekonfigureerde lisensiebediener by `ORGANIZE_FILES_LICENSE_SERVER_URL` gestuur. Die installasie-ID is 'n toestelidentifiseerder onder GDPR-oorweging 30. Wettige basis: uitvoering van kontrak. Uitgewer-beheerde behoud: regrekords terwyl aktief plus tot 24 maande na verstryking/herroeping vir misbruikvoorkoming en geskilhantering; rekeningkundige rekords mag tot 7 jaar behou word waar wet dit vereis. Operateur-bedryfde bedieners volg die operateur se gedokumenteerde bewaringskedule. Hierdie kenmerk is onaktief tensy `ORGANIZE_FILES_LICENSE_SERVER_URL` gestel is. | Uitgewer- of operateurlisensiebediener |
 | Opsionele OpenTelemetry-nasporing (operateur-gekonfigureerde) | Wanneer `ORGANIZE_FILES_OTEL_EXPORTER_OTLP_ENDPOINT` gestel is, word outomatiseringswerk-metadata (taak-ID's, korrelasie-ID's, teikentipe-merkers, W3C-spoorkonteks) na die gekonfigureerde OTLP-versamelaar uitgevoer. Geen lêerpaaie of lêerinhoud is ingesluit nie. Hierdie kenmerk is by verstek onaktief en vereis eksplisiete operateurkonfigurasie. | Operator-gekonfigureerde OTLP-versamelaar |
 | Opsionele e-poskennisgewings (wanneer geaktiveer) | Hardloopstatus en log-uittreksels (kan lêerpaaie insluit) gestuur deur die operateur-gekonfigureerde SMTP-bediener | Operateur SMTP / e-posverskaffer |
-| Opsionele outomatiseringswebhake (deur die operateur opgestel) | Wanneer `ORGANIZE_FILES_AUTOMATION_WEBHOOK_URL` gestel is, gebeurtenisse in die taak se lewensiklus met korrelasie-ID's en die lêerpaaie van outomatiseringstoestandlêers | Webhaak-eindpunt deur die operateur opgestel |
+| Opsionele outomatiseringswebhake (deur die operateur opgestel) | Wanneer `ORGANIZE_FILES_AUTOMATION_WEBHOOK_URL` gestel is, 'n boodskap vir elke gebeurtenis van 'n taak (soos 'n lopie wat begin, op goedkeuring wag, goedgekeur word of eindig), met die gebeurtenis se naam, ID en tyd, die rekenaar se naam, die taak-ID en korrelasie-ID, die taak se teiken, fase, uitkoms en uitgangskode, die pad van die uitvoergids, die foutboodskap van 'n mislukte lopie (wat 'n lêer of gids kan noem), die gebruikersnaam en operateur-ID van wie 'n werklike lopie goedgekeur het, die pad van 'n outomatiseringstoestandlêer wat nie gestoor kon word nie, en die poort van 'n metriekdiens wat nie kon begin nie | Webhaak-eindpunt deur die operateur opgestel |
 | Opsionele identiteitskontrole vir uitvoeringsgoedkeuring (deur die operateur opgestel) | Met `ORGANIZE_FILES_APPROVE_OAUTH_JWKS_URL` gestel, haal 'n HTTPS GET die ondertekeningsleutels en kas dit 'n uur lank; geen teken verlaat die toestel nie. Met `ORGANIZE_FILES_APPROVE_OAUTH_INTROSPECTION_URL` gestel, word die operateur se draertoken self na daardie eindpunt gepos vir validering (RFC 7662), met HTTP Basic-kliëntgeloofsbriewe indien opgestel. Onaktief tensy een van daardie URL's gestel is. | Identiteitsverskaffer wat die operateur opstel |
 | Enjin NAS herprobeer helpers | Geen buite gekonfigureerde netwerkpaaie nie | NAS / SMB-gasheer |
 
@@ -73,7 +73,7 @@ Opsionele opdateringskontroles kan bedieners buite die Europese Ekonomiese Gebie
 
 ## Toesighoudende gesag en klagtes
 
-Indien toepaslike wetgewing dataonderwerpregte of 'n klagte aan 'n toesighoudende owerheid verleen, kontak eers die uitgewer by **razvan.gutulov@outlook.com**. EU/EEA-inwoners kan ook 'n klag by hul plaaslike databeskermingsowerheid indien (vir Roemenië: ANSPDCP, https://www.dataprotection.ro).
+Indien toepaslike wetgewing dataonderwerpregte of 'n klagte aan 'n toesighoudende owerheid verleen, kontak eers die uitgewer by **<!--publisher:ContactEmail-->organize-files-app@outlook.com<!--/publisher-->**. EU/EEA-inwoners kan ook 'n klag by hul plaaslike databeskermingsowerheid indien (vir Roemenië: ANSPDCP, https://www.dataprotection.ro).
 
 ## Derdeparty-verwerkers (wanneer hierdie kenmerke gebruik word)
 
@@ -98,7 +98,7 @@ Vir data wat deur die uitgewer gehou word:
 
 ## Jou regte
 
-Kontak **razvan.gutulov@outlook.com** vir data wat die uitgewer hou (bv. steun-e-poskorrespondensie). Vir data wat net op jou toestel gestoor is, kan jy die meeste programdata uitvee via **Vee programdata uit**, deïnstallering of handmatige lêeruitvee. **Vee programdata uit** verwyder sessies, logboeke en outomatiseringskonsepte, maar kan lisensie-proefankers, betaalde-installasiemerkers en 'n installasie-identifiseerder wat vir opsionele lisensiekontroles gebruik word, behou – sien die inprogram-bevestigingsteks voordat jy voortgaan. Waar van toepassing kan jy toegang, regstelling, skrapping, beperking van verwerking, beswaar teen verwerking, dataoordraagbaarheid of die herroeping van toestemming versoek.
+Kontak **<!--publisher:ContactEmail-->organize-files-app@outlook.com<!--/publisher-->** vir data wat die uitgewer hou (bv. steun-e-poskorrespondensie). Vir data wat net op jou toestel gestoor is, kan jy die meeste programdata uitvee via **Vee programdata uit**, deïnstallering of handmatige lêeruitvee. **Vee programdata uit** verwyder sessies, logboeke en outomatiseringskonsepte, maar kan lisensie-proefankers, betaalde-installasiemerkers en 'n installasie-identifiseerder wat vir opsionele lisensiekontroles gebruik word, behou – sien die inprogram-bevestigingsteks voordat jy voortgaan. Waar van toepassing kan jy toegang, regstelling, skrapping, beperking van verwerking, beswaar teen verwerking, dataoordraagbaarheid of die herroeping van toestemming versoek.
 
 Die uitgewer mik daarna om versoeke van datasubjekte binne die periode wat deur die toepaslike wetgewing vereis word, te beantwoord (identiteitsverifikasie kan gevra word wanneer dit redelikerwys nodig is).
 

@@ -4,11 +4,11 @@
 
 # Contrat de licence utilisateur final (CLUF) — Organize Files
 
-**Éditeur :** Guțulov Răzvan Constantin PFA  
-**Adresse enregistrée:** Str. Republicii nr. 33B, bl. N3, sc. A, et. 1, ap. 3, Breaza de Sus, 105400 Breaza, jud. Prahova, România  
-**Registre du commerce:** F2026004513003 (EUID ROONRC.F2026004513003)  
-**Numéro d'identification fiscale:** 53610310  
-**Contact :** razvan.gutulov@outlook.com  
+**Éditeur :** <!--publisher:LegalName-->Guțulov Răzvan Constantin PFA<!--/publisher-->  
+**Adresse enregistrée:** <!--publisher:RegisteredAddress-->Str. Republicii nr. 33B, bl. N3, sc. A, et. 1, ap. 3, Breaza de Sus, 105400 Breaza, jud. Prahova, România<!--/publisher-->  
+**Registre du commerce:** <!--publisher:TradeRegister-->F2026004513003<!--/publisher--> (EUID <!--publisher:Euid-->ROONRC.F2026004513003<!--/publisher-->)  
+**Numéro d'identification fiscale:** <!--publisher:TaxId-->53610310<!--/publisher-->  
+**Contact :** <!--publisher:ContactEmail-->organize-files-app@outlook.com<!--/publisher-->  
 **Date d'effet :** 2026-05-28  
 **URL publique (fiches store) :** `https://github.com/GutRaz/organize-files-legal/blob/main/fr/eula.md`
 
@@ -49,8 +49,6 @@ DANS LA MESURE MAXIMALE PERMISE PAR LA LOI, L'ÉDITEUR NE SERA PAS RESPONSABLE D
 
 La durée d'essai, les SKU store et les conditions de renouvellement sont définis dans la **fiche store** et la carte licence in-app. Les builds release exigent un droit store valide, un essai actif ou une autorisation via serveur de licences opéré par l'éditeur.
 
-**Après un remboursement store, une révocation ou un abonnement annulé :** si cette installation a précédemment enregistré un achat store payant, l'application peut démarrer un **nouvel essai local de 14 jours** (au plus **deux** essais de ce type par installation). Les remboursements en argent sont traités uniquement par la plateforme store — pas dans l'application. Voir le chapitre du guide in-app *Remboursements et essai après achat* pour le flux complet.
-
 ## 7. Confidentialité
 
 Voir [Politique de confidentialité](./privacy-policy.md).
@@ -76,7 +74,7 @@ Les consommateurs roumains peuvent saisir l'Autorité nationale de protection de
 
 ## 11. Contact
 
-**Guțulov Răzvan Constantin PFA** — razvan.gutulov@outlook.com
+**<!--publisher:LegalName-->Guțulov Răzvan Constantin PFA<!--/publisher-->** — <!--publisher:ContactEmail-->organize-files-app@outlook.com<!--/publisher-->
 
 ## Documents connexes
 

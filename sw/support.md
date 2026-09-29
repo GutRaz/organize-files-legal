@@ -8,11 +8,11 @@ Unahitaji msaada na **Organize Files**? Tunafurahi kukusaidia.
 
 ## Mawasiliano
 
-- **Barua pepe:** razvan.gutulov@outlook.com
-- **Mchapishaji:** Guțulov Răzvan Constantin PFA
-- **Anwani iliyosajiliwa:** Str. Republicii nr. 33B, bl. N3, sc. A, et. 1, ap. 3, Breaza de Sus, 105400 Breaza, jud. Prahova, România
-- **Rejista ya biashara:** F2026004513003 (EUID ROONRC.F2026004513003)
-- **Nambari ya utambulisho wa kodi:** 53610310
+- **Barua pepe:** <!--publisher:ContactEmail-->organize-files-app@outlook.com<!--/publisher-->
+- **Mchapishaji:** <!--publisher:LegalName-->Guțulov Răzvan Constantin PFA<!--/publisher-->
+- **Anwani iliyosajiliwa:** <!--publisher:RegisteredAddress-->Str. Republicii nr. 33B, bl. N3, sc. A, et. 1, ap. 3, Breaza de Sus, 105400 Breaza, jud. Prahova, România<!--/publisher-->
+- **Rejista ya biashara:** <!--publisher:TradeRegister-->F2026004513003<!--/publisher--> (EUID <!--publisher:Euid-->ROONRC.F2026004513003<!--/publisher-->)
+- **Nambari ya utambulisho wa kodi:** <!--publisher:TaxId-->53610310<!--/publisher-->
 
 Unapotuandikia, tafadhali jumuisha:
 
@@ -39,4 +39,4 @@ Angalia [Sera ya Faragha](./privacy-policy.md).
 
 ---
 
-© 2026 Guțulov Răzvan Constantin PFA. Haki zote zimehifadhiwa.
+© 2026 <!--publisher:LegalName-->Guțulov Răzvan Constantin PFA<!--/publisher-->. Haki zote zimehifadhiwa.

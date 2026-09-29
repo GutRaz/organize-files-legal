@@ -4,11 +4,11 @@
 
 # Datenschutzerklärung — Organize Files
 
-**Herausgeber:** Guțulov Răzvan Constantin PFA  
-**Eingetragene Anschrift:** Str. Republicii nr. 33B, bl. N3, sc. A, et. 1, ap. 3, Breaza de Sus, 105400 Breaza, jud. Prahova, România  
-**Handelsregister:** F2026004513003 (EUID ROONRC.F2026004513003)  
-**Steuernummer:** 53610310  
-**Kontakt:** razvan.gutulov@outlook.com  
+**Herausgeber:** <!--publisher:LegalName-->Guțulov Răzvan Constantin PFA<!--/publisher-->  
+**Eingetragene Anschrift:** <!--publisher:RegisteredAddress-->Str. Republicii nr. 33B, bl. N3, sc. A, et. 1, ap. 3, Breaza de Sus, 105400 Breaza, jud. Prahova, România<!--/publisher-->  
+**Handelsregister:** <!--publisher:TradeRegister-->F2026004513003<!--/publisher--> (EUID <!--publisher:Euid-->ROONRC.F2026004513003<!--/publisher-->)  
+**Steuernummer:** <!--publisher:TaxId-->53610310<!--/publisher-->  
+**Kontakt:** <!--publisher:ContactEmail-->organize-files-app@outlook.com<!--/publisher-->  
 **Gültig ab:** 2026-05-28  
 **Öffentliche URL:** `https://github.com/GutRaz/organize-files-legal/blob/main/de/privacy-policy.md`
 
@@ -20,7 +20,7 @@ Organize Files verarbeitet Dateien **lokal auf Ihrem Gerät**. Dateiinhalte werd
 
 ## Verantwortlicher und Kontakt
 
-Für personenbezogene Daten, die der Herausgeber verarbeitet, ist der Verantwortliche **Guțulov Răzvan Constantin PFA**. Kontakt: **razvan.gutulov@outlook.com**.
+Für personenbezogene Daten, die der Herausgeber verarbeitet, ist der Verantwortliche **<!--publisher:LegalName-->Guțulov Răzvan Constantin PFA<!--/publisher-->**. Kontakt: **<!--publisher:ContactEmail-->organize-files-app@outlook.com<!--/publisher-->**.
 
 ## Lokal verarbeitete Daten
 
@@ -51,7 +51,7 @@ Für personenbezogene Daten, die der Herausgeber verarbeitet, ist der Verantwort
 | Optionaler Lizenzserver (betreiberkonfiguriert) | Eine zufällige persistente Installations-ID (GUID in `license_installation_id.txt`) wird an einen vom Herausgeber oder Betreiber betriebenen Lizenzserver unter `ORGANIZE_FILES_LICENSE_SERVER_URL` gesendet. Die Installations-ID ist eine Gerätekennung im Sinne von Erwägungsgrund 30 DSGVO. Rechtsgrundlage: Vertragserfüllung. Aufbewahrung beim Herausgeber: Entitlement-Datensätze während der aktiven Laufzeit zuzüglich bis zu 24 Monaten nach Ablauf/Widerruf (Missbrauchsprävention und Streitfälle); Buchhaltungsunterlagen ggf. bis zu 7 Jahre, soweit gesetzlich erforderlich. Betreibergeführte Server folgen dem dokumentierten Aufbewahrungsplan des Betreibers. Inaktiv, solange `ORGANIZE_FILES_LICENSE_SERVER_URL` nicht gesetzt ist. | Lizenzserver des Herausgebers oder Betreibers |
 | Optionales OpenTelemetry-Tracing (betreiberkonfiguriert) | Wenn `ORGANIZE_FILES_OTEL_EXPORTER_OTLP_ENDPOINT` gesetzt ist, werden Automatisierungs-Job-Metadaten (Job-IDs, Korrelations-IDs, Zieltyp-Tags, W3C-Trace-Kontext) an den konfigurierten OTLP-Collector exportiert. Keine Dateipfade oder Dateiinhalte. Standardmäßig inaktiv; erfordert explizite Betreiberkonfiguration. | Betreiberkonfigurierter OTLP-Collector |
 | Optionale E-Mail-Benachrichtigungen (wenn aktiviert) | Laufstatus und Protokollauszüge (können Dateipfade enthalten) über den betreiberkonfigurierten SMTP-Server | Betreiber-SMTP / Mail-Anbieter |
-| Optionale Automatisierungs-Webhooks (vom Betreiber konfiguriert) | Wenn `ORGANIZE_FILES_AUTOMATION_WEBHOOK_URL` gesetzt ist, Ereignisse aus dem Auftragslebenszyklus mit Korrelations-IDs und den Dateipfaden der Automatisierungsstatusdateien | Vom Betreiber konfigurierter Webhook-Endpunkt |
+| Optionale Automatisierungs-Webhooks (vom Betreiber konfiguriert) | Wenn `ORGANIZE_FILES_AUTOMATION_WEBHOOK_URL` gesetzt ist, eine Nachricht pro Auftragsereignis (etwa der Start eines Laufs, das Warten auf Freigabe, die Freigabe oder das Ende), mit Name, ID und Zeit des Ereignisses, dem Computernamen, der Auftrags-ID und der Korrelations-ID, Ziel, Phase, Ergebnis und Exit-Code des Auftrags, dem Pfad des Ausgabeordners, der Fehlermeldung eines fehlgeschlagenen Laufs (die eine Datei oder einen Ordner nennen kann), Benutzername und Betreiber-ID der Person, die einen echten Lauf freigegeben hat, dem Pfad einer Automatisierungsstatusdatei, die nicht gespeichert werden konnte, und dem Port eines Metrik-Dienstes, der nicht starten konnte | Vom Betreiber konfigurierter Webhook-Endpunkt |
 | Optionale Identitätsprüfung bei der Ausführungsgenehmigung (vom Betreiber eingerichtet) | Ist `ORGANIZE_FILES_APPROVE_OAUTH_JWKS_URL` gesetzt, holt ein HTTPS-GET die Signaturschlüssel und hält sie eine Stunde im Cache; kein Token verlässt das Gerät. Ist `ORGANIZE_FILES_APPROVE_OAUTH_INTROSPECTION_URL` gesetzt, wird das Bearer-Token des Betreibers selbst zur Validierung an diesen Endpunkt gesendet (RFC 7662), mit HTTP-Basic-Client-Anmeldedaten, sofern eingerichtet. Inaktiv, solange keine dieser URLs gesetzt ist. | Vom Betreiber eingerichteter Identitätsanbieter |
 | Engine-NAS-Wiederholungshelfer | Nichts außerhalb der konfigurierten Netzwerkpfade | NAS- / SMB-Host |
 
@@ -74,7 +74,7 @@ Optionale Update-Prüfungen können Server außerhalb des Europäischen Wirtscha
 
 ## Aufsichtsbehörde und Beschwerden
 
-Wenn das anwendbare Recht Betroffenenrechte oder eine Beschwerde bei einer Aufsichtsbehörde vorsieht, wenden Sie sich zuerst an den Herausgeber unter **razvan.gutulov@outlook.com**. Personen mit Wohnsitz in der EU oder im EWR können außerdem Beschwerde bei ihrer örtlichen Datenschutzbehörde einlegen (für Rumänien: ANSPDCP, https://www.dataprotection.ro).
+Wenn das anwendbare Recht Betroffenenrechte oder eine Beschwerde bei einer Aufsichtsbehörde vorsieht, wenden Sie sich zuerst an den Herausgeber unter **<!--publisher:ContactEmail-->organize-files-app@outlook.com<!--/publisher-->**. Personen mit Wohnsitz in der EU oder im EWR können außerdem Beschwerde bei ihrer örtlichen Datenschutzbehörde einlegen (für Rumänien: ANSPDCP, https://www.dataprotection.ro).
 
 ## Drittanbieter (bei Nutzung)
 
@@ -99,7 +99,7 @@ Für Daten, die der Herausgeber hält:
 
 ## Ihre Rechte
 
-Für Daten, die der Herausgeber hält (z. B. Support-E-Mail), kontaktieren Sie **razvan.gutulov@outlook.com**. Soweit anwendbar, können Sie Auskunft, Berichtigung, Löschung, Einschränkung, Widerspruch, Datenübertragbarkeit oder Widerruf einer Einwilligung verlangen. Der Herausgeber strebt an, verifizierte Betroffenenanfragen innerhalb des von der anwendbaren Rechtsvorschrift vorgesehenen Zeitraums zu beantworten (eine Identitätsprüfung kann verlangt werden, wenn dies vernünftigerweise erforderlich ist). Für nur lokal gespeicherte Daten: **App-Daten löschen**, Deinstallation oder manuelles Löschen. **App-Daten löschen** entfernt Sitzungen, Logs und Automatisierungsentwürfe, kann aber lokalen Lizenzstatus und eine Installationskennung für optionale Lizenzchecks behalten — siehe den In-App-Bestätigungstext vor dem Fortfahren.
+Für Daten, die der Herausgeber hält (z. B. Support-E-Mail), kontaktieren Sie **<!--publisher:ContactEmail-->organize-files-app@outlook.com<!--/publisher-->**. Soweit anwendbar, können Sie Auskunft, Berichtigung, Löschung, Einschränkung, Widerspruch, Datenübertragbarkeit oder Widerruf einer Einwilligung verlangen. Der Herausgeber strebt an, verifizierte Betroffenenanfragen innerhalb des von der anwendbaren Rechtsvorschrift vorgesehenen Zeitraums zu beantworten (eine Identitätsprüfung kann verlangt werden, wenn dies vernünftigerweise erforderlich ist). Für nur lokal gespeicherte Daten: **App-Daten löschen**, Deinstallation oder manuelles Löschen. **App-Daten löschen** entfernt Sitzungen, Logs und Automatisierungsentwürfe, kann aber lokalen Lizenzstatus und eine Installationskennung für optionale Lizenzchecks behalten — siehe den In-App-Bestätigungstext vor dem Fortfahren.
 
 ## Kinder
 

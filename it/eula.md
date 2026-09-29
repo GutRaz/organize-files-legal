@@ -4,11 +4,11 @@
 
 # Contratto di licenza con l'utente finale (EULA): Organize Files
 
-**Editore:** Guțulov Răzvan Constantin PFA  
-**Indirizzo registrato:** Str. Republicii nr. 33B, bl. N3, sc. A, et. 1, ap. 3, Breaza de Sus, 105400 Breaza, jud. Prahova, România  
-**Registro delle imprese:** F2026004513003 (EUID ROONRC.F2026004513003)  
-**Codice fiscale:** 53610310  
-**Contatto:** razvan.gutulov@outlook.com  
+**Editore:** <!--publisher:LegalName-->Guțulov Răzvan Constantin PFA<!--/publisher-->  
+**Indirizzo registrato:** <!--publisher:RegisteredAddress-->Str. Republicii nr. 33B, bl. N3, sc. A, et. 1, ap. 3, Breaza de Sus, 105400 Breaza, jud. Prahova, România<!--/publisher-->  
+**Registro delle imprese:** <!--publisher:TradeRegister-->F2026004513003<!--/publisher--> (EUID <!--publisher:Euid-->ROONRC.F2026004513003<!--/publisher-->)  
+**Codice fiscale:** <!--publisher:TaxId-->53610310<!--/publisher-->  
+**Contatto:** <!--publisher:ContactEmail-->organize-files-app@outlook.com<!--/publisher-->  
 **Data di entrata in vigore:** 28-05-2026  
 **URL pubblico (elenchi dello Store):** `https://github.com/GutRaz/organize-files-legal/blob/main/it/eula.md`
 
@@ -16,7 +16,7 @@
 
 ## 1. Concessione della licenza
 
-Soggetto al pagamento (ove richiesto) e ai presenti termini, l'editore ti concede una licenza **non esclusiva, non trasferibile** per installare e utilizzare Organize Files sui dispositivi che controlli, attraverso il canale in cui l'hai ottenuta (Microsoft Store, Google Play, Mac App Store, Apple App Store (iOS) o una build firmata trasferita lateralmente).
+Soggetto al pagamento (ove richiesto) e ai presenti termini, l'editore ti concede una licenza **non esclusiva, non trasferibile** per installare e utilizzare Organize Files sui dispositivi che controlli, attraverso il canale in cui l'hai ottenuta (Microsoft Store, Google Play, Mac App Store, Apple App Store (iOS) o una build firmata installata manualmente (sideload)).
 
 Questa licenza è concessa **per installazione**. Un acquisto a vita (pagamento unico) copre **una sola installazione attiva alla volta**: un computer o un profilo di dispositivo. L'uso di Organize Files su un dispositivo aggiuntivo richiede un acquisto aggiuntivo per quel dispositivo. Una licenza a vita può essere spostata su un dispositivo sostitutivo quando l'installazione precedente non è più utilizzata. Copiare file di licenza o di profilo tra dispositivi non concede accesso.
 
@@ -49,8 +49,6 @@ NELLA MISURA MASSIMA CONSENTITA DALLA LEGGE, L'EDITORE NON SARÀ RESPONSABILE PE
 
 La durata della prova, gli SKU del negozio e i termini di rinnovo sono definiti nella **scheda dello Store** e nella scheda di licenza in-app. Le build di rilascio richiedono un diritto valido dello store, una prova attiva o l'autorizzazione del server di licenze gestito dall'editore.
 
-**Dopo un rimborso in negozio, una revoca o un abbonamento annullato:** se questa installazione ha precedentemente registrato un acquisto a pagamento in negozio, l'app potrebbe avviare una **nuova prova locale di 14 giorni** (al massimo **due** prove di questo tipo per installazione). I rimborsi in denaro vengono gestiti solo dalla piattaforma del negozio, non all'interno dell'app. Consulta il capitolo della guida in-app *Rimborsi e prova dopo l'acquisto* per il flusso completo.
-
 ## 7. Privacy
 
 Consulta l'[Informativa sulla privacy](./privacy-policy.md).
@@ -76,4 +74,4 @@ I consumatori rumeni possono contattare l’Autorità nazionale per la tutela de
 
 ## 11. Contatto
 
-**Guțulov Răzvan Constantin PFA** — razvan.gutulov@outlook.com
+**<!--publisher:LegalName-->Guțulov Răzvan Constantin PFA<!--/publisher-->** — <!--publisher:ContactEmail-->organize-files-app@outlook.com<!--/publisher-->
