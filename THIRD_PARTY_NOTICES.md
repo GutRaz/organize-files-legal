@@ -43,7 +43,7 @@ Copyright (c) .NET Foundation and Contributors. All rights reserved.
 
 ### Microsoft.ML.OnnxRuntime (neural backend)
 
-The Guide Assistant ranks documentation chapters by meaning with a local sentence-embedding model, and the look-alike picture scan can describe a picture with a local image model. ONNX Runtime executes both on the device. Managed assemblies and per-platform native binaries are redistributed inside the app package.
+The Guide Assistant ranks documentation chapters by meaning with a local sentence-embedding model, which ONNX Runtime executes on the device. Managed assemblies and per-platform native binaries are redistributed inside the app package.
 
 Three packages from the same project are used, all under the same license:
 
